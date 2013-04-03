@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Amerika</item>
+        <item>Europa</item>
+        <item>Afrika</item>
+        <item>Asien</item>
+        <item>Australien</item>
+        <item>Stillehavet</item>
+        <item>Alle</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 sekunder</item>
+        <item>30 sekunder</item>
+        <item>1 minut</item>
+        <item>2 minutter</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Never</item>
+        <item>15 sekunder</item>
+        <item>30 sekunder</item>
+        <item>1 minut</item>
+        <item>2 minutter</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>30 minutter</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Øjeblikkeligt</item>
+        <item>5 sekunder</item>
+        <item>15 sekunder</item>
+        <item>30 sekunder</item>
+        <item>1 minut</item>
+        <item>2 minutter</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>30 minutter</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Lille</item>
+        <item>Normal</item>
+        <item>Stor</item>
+        <item>Meget stor</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Meget langsom</item>
+        <item>Langsom</item>
+        <item>Normal</item>
+        <item>Hurtig</item>
+        <item>Meget hurtig</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Meget lav</item>
+        <item>Lav</item>
+        <item>Normal</item>
+        <item>Høj</item>
+        <item>Meget høj</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>Dette er et ekspempel på Text-To-Speech på Engelsk.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scanner...</item>
+        <item>Forbinder...</item>
+        <item>Godkender...</item>
+        <item>Henter IP addresse...</item>
+        <item>Forbundet</item>
+        <item>Suspenderet</item>
+        <item>Afbryder forbindelsen…</item>
+        <item>Ikke forbundet</item>
+        <item>Mislykket</item>
+        <item>Blokeret</item>
+        <item>Undgår midlertidigt dårlig forbindelse</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scanner...</item>
+        <item>Forbinder til %1$s...</item>
+        <item>Godkender ved %1$s...</item>
+        <item>Henter IP adresse fra %1$s...</item>
+        <item>Forbundet til %1$s</item>
+        <item>Suspenderet</item>
+        <item>Afbryder forbindelsen fra %1$s...</item>
+        <item>Forbindelse afbrudt</item>
+        <item>Mislykket</item>
+        <item>Blokeret</item>
+        <item>Undgår midlertidigt dårlig forbindelse</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Åben</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Tryk på knappen</item>
+        <item>PIN fra peer enhed</item>
+        <item>PIN fra denne enhed</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Forbundet</item>
+        <item>Inviteret</item>
+        <item>Mislykket</item>
+        <item>Tilgængelig</item>
+        <item>Udenfor rækkevidde</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 Minutter</item>
+        <item>5 Minutter</item>
+        <item>1 Time</item>
+        <item>Aldrig</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Dårlig</item>
+        <item>Rimelig</item>
+        <item>God</item>
+        <item>Fremragende</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Altid</item>
+        <item>Kun når tilsluttet oplader</item>
+        <item>Aldrig (Forhøjer data forbrug)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Altid</item>
+        <item>Kun når tilsluttet oplader</item>
+        <item>Aldrig</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Auto</item>
+        <item>Kun 5 GHz</item>
+        <item>Kun 2.4 GHz</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Forbrugstid</item>
+        <item>Antal start</item>
+        <item>Applikationsnavn</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Ingen</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statisk</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Ingen</item>
+        <item>Manuel</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Fra</item>
+        <item>Ring</item>
+        <item>Vibrer</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Kinesisk (Forenklet)</item>
+        <item>Kinesisk (Traditionelt)</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Ingen</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP eller CHAP</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Uspecificeret</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Intern Hukommelse</item>
+        <item>SD-Kort</item>
+        <item>Lad telefonen bestemme</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Kort</item>
+        <item>Medium</item>
+        <item>Lang</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Check aldrig</item>
+        <item>Check kun for DRM indhold</item>
+        <item>Check altid</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Check aldrig for HDCP</item>
+        <item>Check kun HDCP for DRM indhold</item>
+        <item>Check altid for HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animation fra</item>
+        <item>Animation skala .5x</item>
+        <item>Animation skala 1x</item>
+        <item>Animation skala 1.5x</item>
+        <item>Animation skala 2x</item>
+        <item>Animation skala 5x</item>
+        <item>Animation skala 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animation fra</item>
+        <item>Animation skala .5x</item>
+        <item>Animation skala 1x</item>
+        <item>Animation skala 1.5x</item>
+        <item>Animation skala 2x</item>
+        <item>Animation skala 5x</item>
+        <item>Animation skala 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animation fra</item>
+        <item>Animation skala .5x</item>
+        <item>Animation skala 1x</item>
+        <item>Animation skala 1.5x</item>
+        <item>Animation skala 2x</item>
+        <item>Animation skala 5x</item>
+        <item>Animation skala 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Ingen grænse</item>
+        <item>Ingen baggrundsprocessor</item>
+        <item>1 process</item>
+        <item>2 processer</item>
+        <item>3 processer</item>
+        <item>4 processer</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN med pre-shared nøgle</item>
+        <item>L2TP/IPSec VPN med certifikater</item>
+        <item>IPSec VPN med pre-shared nøgle og Xauth godkendelse</item>
+        <item>IPSec VPN med certifikater og Xauth godkendelse</item>
+        <item>IPSec VPN med certifikater og hybrid godkendelse</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Ikke forbundet</item>
+        <item>Initialiserer...</item>
+        <item>Forbinder...</item>
+        <item>Forbundet</item>
+        <item>Timeout</item>
+        <item>Mislykket</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Ophøjet væsen</item>
+        <item>Menneske</item>
+        <item>Neandertal</item>
+        <item>Chimpanse</item>
+        <item>Abe</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_entries">
+        <item>Svag</item>
+        <item>Mellem</item>
+        <item>Kraftig</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Grafisk</item>
+        <item>Procent</item>
+        <item>Top-Bar</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>Spørg ved tilslutning</item>
+        <item>Oplad kun</item>
+        <item>Monter SD Kort</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 sekunder</item>
+        <item>3 sekunder</item>
+        <item>4 sekunder</item>
+        <item>5 sekunder</item>
+        <item>6 sekunder</item>
+        <item>7 sekunder</item>
+        <item>8 sekunder</item>
+        <item>9 sekunder</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Blå</item>
+        <item>Rød</item>
+        <item>Grøn</item>
+        <item>Pink</item>
+        <item>Violet</item>
+        <item>Lilla</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Blå</item>
+        <item>Rød</item>
+        <item>Gul</item>
+        <item>Grøn</item>
+        <item>Tyrkis</item>
+        <item>Hvid</item>
+        <item>Lilla</item>
+    </string-array>
+    <string-array name="back_long_press_timeout">
+        <item>0.5 sekund</item>
+        <item>1 sekund</item>
+        <item>1.5 sekunder</item>
+        <item>2 sekunder</item>
+    </string-array>
+	    <string-array name="button_light_timeout_entries">
+        <item>1 sekund</item>
+        <item>2 sekunder</item>
+        <item>5 sekunder</item>
+        <item>10 sekunder</item>
+        <item>20 sekunder</item>
+        <item>Altid</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>Enhed forbundet, opretter session...</item>
+        <item>Session oprettet</item>
+        <item>Session lukker ned...</item>
+        <item>Session mislykket</item>
+        <item>Session oprettelse timeout, prøver igen...</item>
+        <item>Enhed forbundet</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Ydelse Tilstand</item>
+        <item>Normal Tilstand</item>
+        <item>Strømsparer Tilstand</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP eller ældre</item>
+        <item>Windows Vista eller nyere</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_start_summary">
+        <item>"For Windows XP eller ældre,
+skal driverne installeres manuelt"</item>
+        <item>"For Windows Vista eller nyere,
+vil MI 2 musik afspilleren åbne på computeren"</item>
+        <item>"For Mac OS,
+skal driverne installeres manuelt"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_1_summary">
+        <item>"(Ignorer opsætningsguiden)
+XIAOMI lagerenhed vil dukke op på computeren
+Åben og vælg Setup.exe for at installere"</item>
+        <item></item>
+        <item>"XIAOMI lagerenhed vil dukke op på computeren
+Åben og vælg AndroidFileTransfer.dmg for at installere"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_2_summary">
+        <item>"2.MI 2 mobil lagerenhed vil dukke op på computeren
+Du kan nu overføre filer"</item>
+        <item></item>
+        <item>"Computeren vil åbne og læse telefondata automatisk
+Du kan nu overføre filer"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>"Hvis du installere denne driver driver
+skulle MI 2 mobil lagerenhed dukke op på computeren"</item>
+        <item>"For Windows Vista eller nyere,
+vil MI 2 musik afspilleren dukke op på computeren"</item>
+        <item>"Hvis du installerer denne driver
+vil computeren åbne og læse telefondata automatisk"</item>
+        <item></item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Varm</item>
+        <item>Naturlig</item>
+        <item>Kold</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Kraftig</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>Tillad</item>
+        <item>Spørg</item>
+        <item>Afvis</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Tillad</item>
+        <item>Afvis</item>
+    </string-array>
+</resources>

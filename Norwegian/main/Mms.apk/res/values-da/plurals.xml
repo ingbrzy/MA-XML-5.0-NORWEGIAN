@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Slet valgte %1$s samtaler?</item>
+        <item quantity="one">Slet denne samtale?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sek</item>
+        <item quantity="one">%s sek</item>
+        <item quantity="few">%s sek</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultater for \"%2$s\"</item>
+        <item quantity="one">%1$s resultater for \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s personer</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s beskeder</item>
+        <item quantity="one">%1$s besked</item>
+    </plurals>
+</resources>

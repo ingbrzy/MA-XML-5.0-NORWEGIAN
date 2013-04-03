@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Navn</item>
+        <item>Kaldenavn</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Organisation</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Fødselsdag</item>
+        <item>Hjemmeside</item>
+        <item>Adresse</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Lille</item>
+        <item>Mellem (Standard)</item>
+        <item>Stor</item>
+        <item>Super</item>
+    </string-array>
+</resources>
