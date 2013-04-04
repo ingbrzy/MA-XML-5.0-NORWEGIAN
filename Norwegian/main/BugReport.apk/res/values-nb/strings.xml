@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_submit">Send</string>
+  <string name="app_label">Tilbakemelding</string>
+  <string name="btn_send">Send</string>
+  <string name="description">Beskrivelse (påkrevd)</string>
+  <string name="discard_draft_dialog_button_cancel">Annuller</string>
+  <string name="discard_draft_dialog_button_discard">OK</string>
+  <string name="discard_draft_dialog_content">Rapport endret, tryk OK for at slette utkastet.</string>
+  <string name="discard_draft_dialog_title">Slett utkast</string>
+  <string name="err_type">Tilbakemeldingstype</string>
+  <string name="err_type_call">Tilkoblingsproblemer</string>
+  <string name="err_type_data_lost">Tap av data</string>
+  <string name="err_type_force_close">Force close</string>
+  <string name="err_type_network">Nettverksproblemer</string>
+  <string name="err_type_others">Annet</string>
+  <string name="err_type_power_consuming">Strømforbruk</string>
+  <string name="err_type_reboot">System restarter</string>
+  <string name="err_type_suggestion">Forslag</string>
+  <string name="menu_attach_screenshot">Legg ved skermbilde</string>
+  <string name="menu_copy">Kopier</string>
+  <string name="menu_discard">Slett</string>
+  <string name="menu_send">Send rapport</string>
+  <string name="network_unavailable_dialog_button_ok">OK</string>
+  <string name="network_unavailable_dialog_content">Tilbakemelding vil bli sendt når nettverket er tilgjengelig</string>
+  <string name="network_unavailable_dialog_title">Nettverk utilgjengelig</string>
+  <string name="packaging_dialog_content">Rapport genereres, venligst vent...</string>
+  <string name="report_miui">Rapporter til MIUI</string>
+  <string name="section_description">Beskrivelse</string>
+  <string name="section_err_type">Tilbakemeldingstype</string>
+  <string name="section_screenshot">Skermbilde</string>
+  <string name="status_msg_collecting_log">Samler inn logg...</string>
+  <string name="status_msg_pending_upload">%d Tilbakemelding lastes opp...</string>
+  <string name="toast_description_required">Beskrivelse er påkrevd før innsendelse</string>
+  <string name="toast_Tilbakemelding_pending_wlan">Tilbakemelding vil bli sendt når Wi-Fi er tilgjengelig</string>
+  <string name="toast_Tilbakemelding_submitted">Tilbakemelding sendt</string>
+  <string name="toast_pending_log_collection">Samler inn logger, venligst vent...</string>
+  <string name="toast_report_copied_to_clipboard">Rapport kopiert til utklippstavle</string>
+  <string name="toast_report_sent_failed">Kunne ikke sende rapport!</string>
+  <string name="toast_report_sent_succeed">Rapport sendt!</string>
+  <string name="user_feedback">Tilbakemelding fra bruker</string>
+  <string name="wlan_unavailable_dialog_button_ok">OK</string>
+  <string name="wlan_unavailable_dialog_button_sent">Send nå</string>
+  <string name="wlan_unavailable_dialog_content">%s er påkrevd for 2G/3G data, tryk OK for å sende kun med Wi-Fi</string>
+  <string name="wlan_unavailable_dialog_title">Wi-Fi er ikke tilgjengelig</string>
+</resources>
