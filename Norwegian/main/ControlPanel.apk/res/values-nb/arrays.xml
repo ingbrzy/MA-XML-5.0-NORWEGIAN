@@ -33,8 +33,8 @@
     <string-array name="entries_overscroll_type">
         <item>Ingen</item>
         <item>Lys</item>
-        <item>Hop</item>
-        <item>Hop &amp; Lys</item>
+        <item>Sprett</item>
+        <item>Sprett &amp; Lys</item>
     </string-array>
     <string-array name="entryvalues_overscroll_type">
         <item>0</item>
@@ -43,11 +43,11 @@
         <item>2</item>
     </string-array>
     <string-array name="entries_overscroll_weight">
-        <item>Meget stærk</item>
-        <item>Stærk</item>
+        <item>Meget sterk</item>
+        <item>Sterk</item>
         <item>Medium</item>
-        <item>Svag</item>
-        <item>Meget svag</item>
+        <item>Svak</item>
+        <item>Meget svak</item>
     </string-array>
     <string-array name="entryvalues_overscroll_weight">
         <item>1</item>
@@ -57,9 +57,9 @@
         <item>9</item>
     </string-array>
     <string-array name="entries_status_styles">
-        <item>Højre</item>
-        <item>Centreret</item>
-        <item>Centreret (Ikoner spejlvendt)</item>
+        <item>Høyre</item>
+        <item>Sentrert</item>
+        <item>Sentrert (Ikoner blir speilvendt)</item>
     </string-array>
     <string-array name="entryvalues_status_styles">
         <item>1</item>

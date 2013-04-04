@@ -15,7 +15,7 @@
     </string-array>
     <string-array name="system_data_label">
         <item>Kontakter</item>
-        <item>Telefonlister</item>
+        <item>Anropslister</item>
         <item>SMS-meldinger</item>
         <item>MMS-meldinger</item>
         <item>Systeminnstillinger</item>
@@ -33,7 +33,7 @@
     </string-array>
     <string-array name="cloud_data_label">
         <item>Kontakter</item>
-        <item>Telefonlister</item>
+        <item>Anropslister</item>
         <item>Meldinger</item>
         <item>WiFi-innstillinger</item>
         <item>Notater</item>
@@ -44,7 +44,7 @@
         <item>Notater</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Telefonlister</item>
+        <item>Anropslister</item>
         <item>Meldinger</item>
     </string-array>
 </resources>
