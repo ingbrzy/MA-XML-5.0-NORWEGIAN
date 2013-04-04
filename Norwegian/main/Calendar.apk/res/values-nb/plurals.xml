@@ -2,7 +2,7 @@
 <resources>
     <plurals name="Nminutes">
         <item quantity="other">%d minutter</item>
-        <item quantity="one">1 minut</item>
+        <item quantity="one">1 minutt</item>
     </plurals>
     <plurals name="Nmins">
         <item quantity="other">%d min.</item>
@@ -13,22 +13,22 @@
         <item quantity="one">1 time</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d dage</item>
+        <item quantity="other">%d dager</item>
         <item quantity="one">1 dag</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">UGE %d</item>
+        <item quantity="other">UKE %d</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
     <plurals name="Nevents">
-        <item quantity="other">%d begivenheder</item>
-        <item quantity="one">1 begivenhed</item>
+        <item quantity="other">%d hendelser</item>
+        <item quantity="one">1 hendelse</item>
     </plurals>
     <plurals name="N_remaining_events">
-        <item quantity="other">+%d begivenheder</item>
-        <item quantity="one">+1 begivenhed</item>
+        <item quantity="other">+%d hendelser</item>
+        <item quantity="one">+1 hendelse</item>
     </plurals>
 </resources>
