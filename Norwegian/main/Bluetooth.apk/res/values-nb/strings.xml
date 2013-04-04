@@ -25,7 +25,7 @@
   <string name="bt_toast_5">Sender %1$s filer til \"%2$s\"</string>
   <string name="bt_toast_6">Sending av fil til \"%1$s\" stoppet</string>
   <string name="btopp_live_folder">Bluetooth mottatt</string>
-  <string name="defaultname">Biloppset</string>
+  <string name="defaultname">Biloppsett</string>
   <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Slett alle poster</string>
   <string name="delete_record">Slett post</string>
@@ -46,7 +46,7 @@
   <string name="download_title">Filoverføring</string>
   <string name="enabling_progress_content">Aktiverer Bluetooth...</string>
   <string name="enabling_progress_title">Vent ...</string>
-  <string name="hello">Hei Verden, TestAktivitet</string>
+  <string name="hello">Hallo verden, TestAktivitet</string>
   <string name="inbound_history_title">overføringer hittil</string>
   <string name="inbound_noti_title">Bluetooth deling: Mottok filer</string>
   <string name="incoming_file_confirm_Notification_caption">Vil du motta denne fila?</string>
