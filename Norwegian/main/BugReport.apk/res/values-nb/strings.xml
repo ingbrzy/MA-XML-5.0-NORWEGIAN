@@ -17,7 +17,7 @@
   <string name="err_type_power_consuming">Strømforbruk</string>
   <string name="err_type_reboot">System restarter</string>
   <string name="err_type_suggestion">Forslag</string>
-  <string name="menu_attach_screenshot">Legg ved skermbilde</string>
+  <string name="menu_attach_screenshot">Legg ved skjermbilde</string>
   <string name="menu_copy">Kopier</string>
   <string name="menu_discard">Slett</string>
   <string name="menu_send">Send rapport</string>
@@ -28,7 +28,7 @@
   <string name="report_miui">Rapporter til MIUI</string>
   <string name="section_description">Beskrivelse</string>
   <string name="section_err_type">Tilbakemeldingstype</string>
-  <string name="section_screenshot">Skermbilde</string>
+  <string name="section_screenshot">Skjermbilde</string>
   <string name="status_msg_collecting_log">Samler inn logg...</string>
   <string name="status_msg_pending_upload">%d Tilbakemelding lastes opp...</string>
   <string name="toast_description_required">Beskrivelse er påkrevd før innsendelse</string>
