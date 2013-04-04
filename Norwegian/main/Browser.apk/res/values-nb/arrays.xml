@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="pref_content_plugins_choices">
-        <item>Altid slået til</item>
-        <item>På forlangende</item>
-        <item>Fra</item>
+        <item>Alltid på</item>
+        <item>Ved behov</item>
+        <item>Av</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Tom side</item>
-        <item>Mest besøgte websteder</item>
+        <item>Mest besøkte nettsider</item>
         <item>Andre</item>
     </string-array>
     <string-array name="pref_text_size_choices">
-        <item>Lillebitte</item>
-        <item>Lille</item>
+        <item>Bittelite</item>
+        <item>Lite</item>
         <item>Normal</item>
         <item>Stor</item>
-        <item>Kæmpestor</item>
+        <item>Kjmpestor</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
         <item>Langt</item>
-        <item>Mellem</item>
-        <item>Tæt</item>
+        <item>Mellom</item>
+        <item>Nærme</item>
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
@@ -33,14 +33,14 @@
         <item>Koreansk (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
-        <item>Aldrig</item>
+        <item>Aldri</item>
         <item>Kun på Wi-Fi</item>
-        <item>Altid</item>
+        <item>Alltid</item>
     </string-array>
     <string-array name="pref_link_prefetch_choices">
-        <item>Aldrig</item>
+        <item>Aldri</item>
         <item>Kun på Wi-Fi</item>
-        <item>Altid</item>
+        <item>Alltid</item>
     </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
@@ -51,11 +51,11 @@
         <item>Honeycomb-Xoom</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Side op/ned</item>
+        <item>Side opp/ned</item>
         <item>Skift fane</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
-        <item>Side frem/tilbage</item>
+        <item>Side frem/tilbake</item>
         <item>Skift fane</item>
     </string-array>
 </resources>
