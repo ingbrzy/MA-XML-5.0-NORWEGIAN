@@ -32,8 +32,8 @@
   <string name="status_msg_collecting_log">Samler inn logg...</string>
   <string name="status_msg_pending_upload">%d Tilbakemelding lastes opp...</string>
   <string name="toast_description_required">Beskrivelse er påkrevd før innsendelse</string>
-  <string name="toast_Tilbakemelding_pending_wlan">Tilbakemelding vil bli sendt når Wi-Fi er tilgjengelig</string>
-  <string name="toast_Tilbakemelding_submitted">Tilbakemelding sendt</string>
+  <string name="toast_feedback_pending_wlan">Tilbakemelding vil bli sendt når Wi-Fi er tilgjengelig</string>
+  <string name="toast_feedback_submitted">Tilbakemelding sendt</string>
   <string name="toast_pending_log_collection">Samler inn logger, venligst vent...</string>
   <string name="toast_report_copied_to_clipboard">Rapport kopiert til utklippstavle</string>
   <string name="toast_report_sent_failed">Kunne ikke sende rapport!</string>
