@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="download_filters">
-        <item>Alle downloads</item>
+        <item>Alle nedlastinger</item>
         <item>Tema</item>
         <item>Marked</item>
         <item>Browser</item>
-        <item>Musik</item>
-        <item>Andet</item>
+        <item>Musikk</item>
+        <item>Annet</item>
     </string-array>
     <string-array name="download_filters_package">
         <item></item>

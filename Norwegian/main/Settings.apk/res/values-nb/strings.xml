@@ -2214,4 +2214,6 @@ Muligvis ugyldig PIN."</string>
   <string name="zone_auto_summaryOn">Brug tidszone leveret af netværk</string>
   <string name="zone_list_menu_sort_alphabetically">Sorter alfabetisk</string>
   <string name="zone_list_menu_sort_by_timezone">Sorter efter tidszone</string>
+  <string name="app_floating_window_dlg">Allow\"%1$s\" to show popup window</string>
+  <string name="floating_window_switch_label">Show popup window</string>
 </resources>

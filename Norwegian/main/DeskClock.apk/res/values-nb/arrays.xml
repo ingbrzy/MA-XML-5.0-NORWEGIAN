@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_set">
-        <item>Alarm er indstillet til mindre end 1 minut fra nu.</item>
-        <item>Alarm indstillet til %1$s fra nu.</item>
-        <item>Alarm indstillet til %2$s fra nu.</item>
-        <item>Alarm indstillet til %1$s og %2$s fra nu.</item>
-        <item>Alarm indstillet til %3$s fra nu.</item>
-        <item>Alarm indstillet til %1$s og %3$s fra nu.</item>
-        <item>Alarm indstillet til %2$s og %3$s fra nu.</item>
-        <item>Alarm indstillet til %1$s, %2$s, og %3$s fra nu.</item>
+        <item>Alarm er stilt inn til mindre enn et minutt fra nå.</item>
+        <item>Alarm stilt inn til %1$s fra nå.</item>
+        <item>Alarm stilt inn til %2$s fra nå.</item>
+        <item>Alarm stilt inn til %1$s og %2$s fra nå.</item>
+        <item>Alarm stilt inn til %3$s fra nå.</item>
+        <item>Alarm stilt inn til %1$s og %3$s fra nå.</item>
+        <item>Alarm stilt inn til %2$s og %3$s fra nå.</item>
+        <item>Alarm stilt inn til %1$s, %2$s, og %3$s fra nå.</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Ingen</item>
         <item>Slumretilstand</item>
-        <item>Annuller</item>
+        <item>Avbryt</item>
     </string-array>
     <string-array name="volume_button_setting_values">
         <item>0</item>
@@ -21,7 +21,7 @@
         <item>2</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>Alarm om mindre end et minut</item>
+        <item>Alarm om mindre enn et minutt</item>
         <item>Alarm om %1$s</item>
         <item>Alarm om %2$s</item>
         <item>Alarm om %1$s %2$s</item>
