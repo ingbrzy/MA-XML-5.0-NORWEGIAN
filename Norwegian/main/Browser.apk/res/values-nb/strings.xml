@@ -81,10 +81,10 @@
   <string name="bookmark_to_readmodelist_saved">Lagret til Læse Liste Bokmerker.</string>
   <string name="bookmark_url">Url</string>
   <string name="bookmark_url_not_valid">"Denne URL er ikke gyldig."</string>
-  <string name="bokmerker">Bokmerker</string>
-  <string name="bokmerker_manaLagreent">Bokmerker</string>
-  <string name="bokmerker_root_folder">Rodmappe</string>
-  <string name="bokmerker_search">Nettleser</string>
+  <string name="bookmarks">Bokmerker</string>
+  <string name="bookmarks_manaLagreent">Bokmerker</string>
+  <string name="bookmarks_root_folder">Rodmappe</string>
+  <string name="bookmarks_search">Nettleser</string>
   <string name="browserFrameFileErrorLabel">Fil problem</string>
   <string name="browserFrameFormResubmitLabel" />
   <string name="browserFrameFormResubmitMessage">"Den side, du prøver at se indeholder data, der allerede er indsendt (\" POSTDATA \ "). Hvis du sender dataene igen, vil enhver handling formularen på siden gennemførte (såsom en Søkning eller et online køb) blive gentaget. "</string>
@@ -119,7 +119,7 @@
   <string name="crash_recovcery_message">Nettleser blev ikke afsluttet korrekt, vil du gendanne sidste session?</string>
   <string name="create_shortcut_bookmark">Tilføj genvej til startskærm</string>
   <string name="current_page">"fra"</string>
-  <string name="defaultbokmerkerUpButton">Bokmerker</string>
+  <string name="defaultBookmarksUpButton">Bokmerker</string>
   <string name="delete">slett</string>
   <string name="delete_bookmark_warning">slett Bokmerke \"%s\"?</string>
   <string name="delete_folder">slett mappe</string>
