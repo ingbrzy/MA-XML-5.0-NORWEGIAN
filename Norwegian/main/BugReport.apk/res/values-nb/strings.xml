@@ -24,7 +24,7 @@
   <string name="network_unavailable_dialog_button_ok">OK</string>
   <string name="network_unavailable_dialog_content">Tilbakemelding vil bli sendt når nettverket er tilgjengelig</string>
   <string name="network_unavailable_dialog_title">Nettverk utilgjengelig</string>
-  <string name="packaging_dialog_content">Rapport genereres, venligst vent...</string>
+  <string name="packaging_dialog_content">Rapport genereres, vennligst vent...</string>
   <string name="report_miui">Rapporter til MIUI</string>
   <string name="section_description">Beskrivelse</string>
   <string name="section_err_type">Tilbakemeldingstype</string>
@@ -34,7 +34,7 @@
   <string name="toast_description_required">Beskrivelse er påkrevd før innsendelse</string>
   <string name="toast_feedback_pending_wlan">Tilbakemelding vil bli sendt når Wi-Fi er tilgjengelig</string>
   <string name="toast_feedback_submitted">Tilbakemelding sendt</string>
-  <string name="toast_pending_log_collection">Samler inn logger, venligst vent...</string>
+  <string name="toast_pending_log_collection">Samler inn logger, vennligst vent...</string>
   <string name="toast_report_copied_to_clipboard">Rapport kopiert til utklippstavle</string>
   <string name="toast_report_sent_failed">Kunne ikke sende rapport!</string>
   <string name="toast_report_sent_succeed">Rapport sendt!</string>
