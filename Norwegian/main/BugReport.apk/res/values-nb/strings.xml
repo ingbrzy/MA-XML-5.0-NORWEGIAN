@@ -6,7 +6,7 @@
   <string name="description">Beskrivelse (påkrevd)</string>
   <string name="discard_draft_dialog_button_cancel">Annuller</string>
   <string name="discard_draft_dialog_button_discard">OK</string>
-  <string name="discard_draft_dialog_content">Rapport endret, tryk OK for at slette utkastet.</string>
+  <string name="discard_draft_dialog_content">Rapport endret, trykk OK for å slette utkastet.</string>
   <string name="discard_draft_dialog_title">Slett utkast</string>
   <string name="err_type">Tilbakemeldingstype</string>
   <string name="err_type_call">Tilkoblingsproblemer</string>
