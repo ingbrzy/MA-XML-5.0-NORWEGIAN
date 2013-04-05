@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activate">Aktiver</string>
-  <string name="activate_fail_notification_title">Venligst genaktiver Xiaomi synk tjeneste</string>
+  <string name="activate_fail_notification_title">Vennligst reaktiver Xiaomi synk-tjeneste</string>
   <string name="activating">Aktiverer...</string>
   <string name="alarm_message_12_hour_formate">aah:mm</string>
-  <string name="alwaysUsePrompt">Sæt som standard (ingen bekræftelse næste gang)</string>
-  <string name="android_lockscreen_glogin_instructions">Log ind med din konto for at låse op</string>
+  <string name="alwaysUsePrompt">Sett som standard (ingen bekreftelse neste gang)</string>
+  <string name="android_lockscreen_glogin_instructions">Logg inn med din konto for å låse opp</string>
   <string name="arbor_day" />
   <string name="autumn_begins" />
   <string name="autumn_equinox" />
   <string name="callNoAnswerTimeFormat">%s Ring</string>
   <string name="call_record_or">eller</string>
-  <string name="call_record_sample_prefix_miui">Optagelse</string>
+  <string name="call_record_sample_prefix_miui">Opptak</string>
   <string name="caller_info_name_delimiter">Eller</string>
   <string name="check_phone_error_title">Synk kunne ikke åbnes</string>
   <string name="check_phone_io_error">Netværksfejl</string>

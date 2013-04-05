@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Konto</string>
-  <string name="account_delete_dlg_instructions_fmt">Kontoen \"%s\" vil blive fjernet fra Email.</string>
+  <string name="account_delete_dlg_instructions_fmt">Kontoen \"%s\" vil bli fjernet fra Epost.</string>
   <string name="account_delete_dlg_title">Fjern konto</string>
   <string name="account_duplicate_dlg_message_fmt">Dette log ind er allerede brugt af kontoen \"%s\".</string>
   <string name="account_duplicate_dlg_title">Duplikat konto</string>

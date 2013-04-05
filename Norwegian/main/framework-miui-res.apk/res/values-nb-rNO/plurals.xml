@@ -16,18 +16,18 @@
         <item quantity="other">Om en halv time</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Øjeblikkeligt</item>
+        <item quantity="other">Øyeblikkelig</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">om %d min</item>
-        <item quantity="one">om 1 min</item>
+        <item quantity="one">om et min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Lige nu</item>
+        <item quantity="other">Akkurat nå</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d min siden</item>
-        <item quantity="one">1 min siden</item>
+        <item quantity="one">et min siden</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">En halv time siden</item>
@@ -39,18 +39,18 @@
         <item quantity="other">Om en halv time</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Øjeblikkeligt</item>
+        <item quantity="other">Øyeblikkelig</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">om %d minutter</item>
-        <item quantity="one">om 1 minut</item>
+        <item quantity="one">om et minutt</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Lige nu</item>
+        <item quantity="other">Akkurat nå</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutter siden</item>
-        <item quantity="one">1 minut siden</item>
+        <item quantity="one">et minutt siden</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d Elementer valgt</item>

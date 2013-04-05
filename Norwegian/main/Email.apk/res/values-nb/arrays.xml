@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Meget lille tekst</item>
-        <item>Lille tekst</item>
+        <item>Meget liten tekst</item>
+        <item>Liten tekst</item>
         <item>Normal tekst</item>
         <item>Stor tekst</item>
         <item>Meget stor tekst</item>
