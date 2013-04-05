@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_of_traffic">
-        <item>Trafik fra igår</item>
-        <item>Trafik fra idag</item>
-        <item>Trafik fra hele måneden</item>
+        <item>Trafikk fra igår</item>
+        <item>Trafikk fra idag</item>
+        <item>Trafikk fra hele måneden</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Igår 2G/3G</item>
         <item>Idag 2G/3G</item>
-        <item>Denne måned 2G/3G</item>
-        <item>Igår Wi-Fi</item>
-        <item>Idag Wi-Fi</item>
-        <item>Denne måned Wi-Fi</item>
+        <item>Denne måneden 2G/3G</item>
+        <item>Igår WiFi</item>
+        <item>Idag WiFi</item>
+        <item>Denne måneden WiFi</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Igår 2G/3G</item>
         <item>Idag 2G/3G</item>
-        <item>Denne måned 2G/3G</item>
+        <item>Denne måneden 2G/3G</item>
     </string-array>
 	    <string-array name="traffic_uints">
         <item>" B"</item>

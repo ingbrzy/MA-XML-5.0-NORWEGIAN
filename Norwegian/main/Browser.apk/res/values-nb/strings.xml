@@ -55,7 +55,7 @@
   <string name="autofill_profile_editor_save_profile">Lagre</string>
   <string name="autofill_profile_editor_state">Region/område:</string>
   <string name="autofill_profile_editor_zip_code">Postnummer:</string>
-  <string name="autofill_profile_successful_delete">Auto-fyld tekst sletttes.</string>
+  <string name="autofill_profile_successful_delete">Auto-fyld tekst slettes.</string>
   <string name="autofill_profile_successful_save">Auto-fyld tekst Lagret.</string>
   <string name="autofill_setup_dialog_message">Nettleseren kan automatisk udfylde webformularer som denne. Vil du oprette din auto-fyld tekst?</string>
   <string name="autofill_setup_dialog_negative_toast">Du kan altid oprette din auto-fyld tekst fra Nettleser&gt;Indstillinger&gt;Generelt skærmen.</string>
@@ -123,7 +123,7 @@
   <string name="delete">slett</string>
   <string name="delete_bookmark_warning">slett Bokmerke \"%s\"?</string>
   <string name="delete_folder">slett mappe</string>
-  <string name="delete_multi_bookmarks_alert_title">Er du sikker på du vil slettte %1$s elementer?</string>
+  <string name="delete_multi_bookmarks_alert_title">Er du sikker på du vil slette %1$s elementer?</string>
   <string name="disable_autofill">Deaktiver auto-fyld</string>
   <string name="do_not_save">Annuller</string>
   <string name="download_no_sdcard_dlg_msg">USB-lagring er nødvendig for at downloade %s.</string>
@@ -378,10 +378,10 @@
   <string name="recover_from_crash">Gjenopprette siste økten</string>
   <string name="reload">Oppdater</string>
   <string name="remove">Fjern</string>
-  <string name="remove_bookmark">slettt bokmerke</string>
+  <string name="remove_bookmark">slett bokmerke</string>
   <string name="remove_from_bookmarks">Fjern fra bokmerker</string>
   <string name="remove_history_item">Fjern fra historikk</string>
-  <string name="remove_snapshot">slettt lagret side</string>
+  <string name="remove_snapshot">slett lagret side</string>
   <string name="removed_from_bookmarks">Fjernet fra Bokmerker.</string>
   <string name="replace">erstatt</string>
   <string name="report_reading_mode_issue">Rapport feil med lesemodusen til MIUI</string>
@@ -447,10 +447,10 @@
   <string name="warning">Advarsel</string>
   <string name="website_settings_clear_all">Rydd alle</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Annuller</string>
-  <string name="website_settings_clear_all_dialog_message">slettt alle hjemmeside og lokaliseringsdata tillatelser?</string>
+  <string name="website_settings_clear_all_dialog_message">slett alle hjemmeside og lokaliseringsdata tillatelser?</string>
   <string name="website_settings_clear_all_dialog_ok_button">OK</string>
   <string name="webstorage_clear_data_dialog_cancel_button">Annuller</string>
-  <string name="webstorage_clear_data_dialog_message">slettt alle data fra denne hjemmeside?</string>
+  <string name="webstorage_clear_data_dialog_message">slett alle data fra denne hjemmeside?</string>
   <string name="webstorage_clear_data_dialog_ok_button">OK</string>
   <string name="webstorage_clear_data_title">Rydd lagret data</string>
   <string name="webstorage_origin_summary_mb_stored">MB lagret på din telefon</string>
