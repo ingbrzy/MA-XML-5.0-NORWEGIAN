@@ -31,6 +31,6 @@
   <string name="permlab_seeAllExternal">Se alle nedlastinger til SD-kort</string>
   <string name="wifi_recommended_body">Påbegynnelse av denne nedlasting kan redusere batteriet kraftig og/eller resultere i høyt forbruk av mobildata, som kan føre til taksering fra din operatør alt etter abonnement. Trykk \"Sett i kø\" for å starte denne nedlasting neste gang du er tilkoblet et trådløst nettverk. Du kan skifte standard-innstillinger i \"Innstillinger\"."</string>
   <string name="wifi_recommended_title">Fil for stor</string>
-  <string formated="false" name="wifi_required_body">"Du må bruke WiFi for å fullføre denne %s nedlastingen. Trykk %s for å starte denne nedlasting neste gang du er tilkoblet et trådløst netverk."</string>
+  <string formatted="false" name="wifi_required_body">"Du må bruke WiFi for å fullføre denne %s nedlastingen. Trykk %s for å starte denne nedlasting neste gang du er tilkoblet et trådløst netverk."</string>
   <string name="wifi_required_title">Nedlastingen er for stor for telefonnettet</string>
 </resources>
