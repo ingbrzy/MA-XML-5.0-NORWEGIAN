@@ -257,7 +257,7 @@
   <string name="emergency_call_string">Nødandrop</string>
   <string name="error_forbidden">Det er problemer med din konto. Synk er deaktivert.</string>
   <string name="error_not_acceptable">Det oppstod en serverfeil. Synk er deaktivert.</string>
-  <string name="error_title">Synk fejl for %s</string>
+  <string name="error_title">Synk feil for %s</string>
   <string name="error_unauthorized">For mange feilforsøk ved kontovalidering. Synk er deaktivert.</string>
   <string name="every_day">Hver dag</string>
   <string name="experimental_validate">Valider</string>
@@ -277,7 +277,7 @@
   <string name="fm_record_smaple_prefix_miui">FM-opptak</string>
   <string name="fools_day" />
   <string name="force_exit_message">Lukket \"%1$s\"</string>
-  <string name="forget_password_string">Glemt password</string>
+  <string name="forget_password_string">Glemt passord</string>
   <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="global_action_privacy_mode_dialog_message">I Privat Tilstand vil anrop, noter og SMS-beskjeder bli gjemt, og launcher vil ikke være i stand til å gå inn i redigeringsmodus.</string>
   <string name="global_action_toggle_privacy_mode">Privat</string>
@@ -432,7 +432,7 @@
   <string name="today">I dag</string>
   <string name="tomorrow">I morgen</string>
   <string name="unknown">Ukjent nummer</string>
-  <string name="unknown_caller">Ukjent nummrer</string>
+  <string name="unknown_caller">Ukjent nummere</string>
   <string name="unlock_string">OK</string>
   <string name="unlocking_sim_card">Låser SIM kort opp</string>
   <string name="unlockscreen_low_battery">Koble til ladet</string>
