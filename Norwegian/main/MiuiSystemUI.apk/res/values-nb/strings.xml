@@ -128,7 +128,7 @@
   <string name="notification_icon_filter_other_list">Program-liste</string>
   <string name="notification_icon_filter_settings">Notifikasjon</string>
   <string name="notification_icon_filter_settings_loading">Laster, vennligst vent</string>
-  <string name="notification_icon_filter_show">Vis varsler i statuslinjen/string>
+  <string name="notification_icon_filter_show">Vis varsler i statuslinjen</string>
   <string name="notification_icon_filter_summary">Hvis deaktivert vil alle notifikasjoner for alle programmer vises.</string>
   <string name="notification_icon_filter_title">Skjul notifikasjoner</string>
   <string name="notification_otg_gamestick_in">Spillkontroller tilkoblet</string>
