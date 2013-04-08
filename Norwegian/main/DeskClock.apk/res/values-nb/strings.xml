@@ -65,8 +65,8 @@
   <string name="hours">%s timer</string>
   <string name="keep_screen_on">Hold skjerm på under tidtakning</string>
   <string name="label">Etikett</string>
-  <string name="lap">Omgang</string>
-  <string name="lap_num">Omgang nr.</string>
+  <string name="lap">Runde</string>
+  <string name="lap_num">Runde nr.</string>
   <string name="loading_ringtone">Laster inn ringetone...</string>
   <string name="menu_add_worldclock">Legg til tidssone</string>
   <string name="menu_alarmclock_edit">Rediger alarm</string>
@@ -97,7 +97,7 @@
   <string name="snooze_confirm_ok">OK</string>
   <string name="start">Start</string>
   <string name="start_up">Start</string>
-  <string name="stopwatch_lap_empty_text">Ingen omganger tatt</string>
+  <string name="stopwatch_lap_empty_text">Ingen rundtider tatt</string>
   <string name="stopwatch_title">Stoppeklokke</string>
   <string name="system_time_setting">Innstillinger</string>
   <string name="time">Tidspunkt</string>
@@ -107,8 +107,8 @@
   <string name="timer_message">%1$d minutter</string>
   <string name="timer_message_with_hour">%1$d timer og %2$d minutter</string>
   <string name="timer_minute">M</string>
-  <string name="timer_start_alarm">Start stoppeklokke</string>
-  <string name="timer_title">Stoppeklokke</string>
+  <string name="timer_start_alarm">Start nedtelling</string>
+  <string name="timer_title">Nedtelling</string>
   <string name="timer_tutorial">Dra med klokka</string>
   <string name="timezone_exist_error_message">Kunne ikke legge til tidssone, da den eksisterer allerede. Vennligst velg en ny.</string>
   <string name="timezone_search_hint">Søk etter by å legge til verdensuret</string>
