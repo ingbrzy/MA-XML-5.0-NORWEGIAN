@@ -47,7 +47,7 @@
   <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
   <string name="accessibility_wimax_three_bars">WiMAX tre stolper.</string>
   <string name="accessibility_wimax_two_bars">WiMAX to stolper.</string>
-  <string name="always_use_accessory">Bruk som standard for dette USB-tilbehøret/string>
+  <string name="always_use_accessory">Bruk som standard for dette USB-tilbehøret</string>
   <string name="always_use_device">Bruk som standard for denne USB-enheten</string>
   <string name="app_label">Statuslinje</string>
   <string name="battery_low_percent_format">%d%% eller mindre igjen</string>
