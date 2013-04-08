@@ -2,20 +2,20 @@
 <resources>
     <string-array name="contact_entries">
         <item>Navn</item>
-        <item>Kaldenavn</item>
+        <item>Kallenavn</item>
         <item>Telefon</item>
-        <item>E-mail</item>
-        <item>Organisation</item>
+        <item>Epost</item>
+        <item>Organisasjon</item>
         <item>IM</item>
         <item>SIP Telefon</item>
         <item>Fødselsdag</item>
         <item>Hjemmeside</item>
         <item>Adresse</item>
-        <item>Note</item>
+        <item>Notat</item>
     </string-array>
     <string-array name="font_size_names">
-        <item>Lille</item>
-        <item>Mellem (Standard)</item>
+        <item>Liten</item>
+        <item>Medium (Standard)</item>
         <item>Stor</item>
         <item>Super</item>
     </string-array>
