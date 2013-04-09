@@ -24,7 +24,7 @@
   <string name="backup_data">Backup data</string>
   <string name="backup_delete">Slett backup</string>
   <string name="backup_empty">Ingen backups funnet!</string>
-  <string name="backup_empty_info">Backup dine data, innstillinger og applikasjoner</string>
+  <string name="backup_empty_info">Backup dine data, innstillinger og programmer</string>
   <string name="backup_error">Backup Feil</string>
   <string name="backup_failed">Backup mislyktes, vennligst prøv igjen</string>
   <string name="backup_file_error">Det var et problem med backup\'en, handlingen var ugyldig.</string>
@@ -122,7 +122,7 @@
   <string name="restore_data">Gjenopprett data</string>
   <string name="restore_failed">gjenoppretting mislyktes!</string>
   <string name="restore_finished">gjenoppretting fullført</string>
-  <string name="restore_launcher_layout_hit">(Obs: Skrivebordslayout kan ikke gjenopprette slettede applikasjoner)</string>
+  <string name="restore_launcher_layout_hit">(Obs: Skrivebordslayout kan ikke gjenopprette slettede programmer)</string>
   <string name="restore_progress">gjenoppretter...</string>
   <string name="restore_report">gjenopprettingsrapport</string>
   <string name="restore_telephony_hit">(Obs: Telefonen vil restarte etter gjenoppretting er fullført)</string>

@@ -182,7 +182,7 @@
   <string name="playlist_recently_added">Sist lagt til</string>
   <string name="playlist_recently_played">Sist spilt av</string>
   <string name="playlist_renamed_message">spilleliste gitt nytt navn.</string>
-  <string name="playlists_title">spillelister</string>
+  <string name="playlists_title">Spillelister</string>
   <string name="queue">Nåværende spilleliste</string>
   <string name="quit_player">Avslutt</string>
   <string name="quit_warining">Avspiller vil stoppe avspilning etter %d minutt(er)</string>
