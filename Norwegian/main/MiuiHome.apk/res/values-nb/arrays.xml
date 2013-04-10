@@ -3,8 +3,8 @@
     <string-array name="transformation_entries">
         <item>Klassisk</item>
         <item>Klassisk (Ingen overskyd)</item>
-        <item>Krydsfade</item>
-        <item>Fald ned</item>
+        <item>Kryssfade</item>
+        <item>Fall ned</item>
         <item>Vend side</item>
         <item>Overlappende</item>
         <item>Roterende</item>
@@ -24,7 +24,7 @@
         <item>Som tema</item>
         <item>Midt</item>
         <item>Venstre</item>
-        <item>Højre</item>
+        <item>Høyre</item>
     </string-array>
     <string-array name="wallpaper_scroll_values">
         <item>byTheme</item>
@@ -48,19 +48,19 @@
         <item>Byger</item>
         <item>Kraftig regn</item>
         <item>Regn</item>
-        <item>Let regn</item>
-        <item>Slud</item>
-        <item>Snestorm</item>
-        <item>Snebyger</item>
-        <item>Kraftige snebyger</item>
+        <item>Lett regn</item>
+        <item>Sludd</item>
+        <item>Snøstorm</item>
+        <item>Snøbyger</item>
+        <item>Kraftige snøbyger</item>
         <item>Sne</item>
-        <item>Lette snebyger</item>
+        <item>Lette snæbyger</item>
         <item>Kraftig sandstorm</item>
         <item>Sandstorm</item>
-        <item>Let sandstorm</item>
+        <item>Lett sandstorm</item>
         <item>Sandstorm</item>
         <item>Hagl</item>
-        <item>Støvet</item>
+        <item>Støvete</item>
         <item>Dis</item>
     </string-array>
 </resources>
