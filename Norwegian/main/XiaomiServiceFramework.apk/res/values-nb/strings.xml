@@ -8,7 +8,7 @@
   <string name="activating">Aktiverer...</string>
   <string name="alert_title_remove_account">Slett konto</string>
   <string name="app_name">Xiaomi Services Framework</string>
-  <string name="bad_authentication">Validering mislyktes, feil brukernavn eller adgangskode</string>
+  <string name="bad_authentication">Validering mislyktes, feil brukernavn eller passord</string>
   <string name="balance">Saldo: %1$s Mi credits</string>
   <string name="btn_activate">Aktiver</string>
   <string name="btn_back">Tilbake</string>
@@ -72,12 +72,12 @@
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">for å lokalisere den, låse den, eller slette data</string>
   <string name="find_device_success_title">Finn enhet aktivert</string>
-  <string name="find_password_on_web_msg">Vennligst besøk account.xiaomi.com for å få din adgangskode</string>
+  <string name="find_password_on_web_msg">Vennligst besøk account.xiaomi.com for å få ditt passord</string>
   <string name="forget_password" />
   <string name="frozen">(Låst)</string>
   <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
   <string name="i_know">OK</string>
-  <string name="input_password_hint">Tast inn adgangskode</string>
+  <string name="input_password_hint">Tast inn passord</string>
   <string name="label_order_name">Produktnavn: </string>
   <string name="label_order_price">Antall: </string>
   <string name="login">Logg inn</string>
@@ -99,12 +99,12 @@
   <string name="micloud_delete_account">Slett konto</string>
   <string name="micloud_email">Epostadresse</string>
   <string name="micloud_error_email">Ugyldig epost</string>
-  <string name="micloud_error_empty_pwd">Adgangskode er blankt</string>
+  <string name="micloud_error_empty_pwd">passord er blankt</string>
   <string name="micloud_error_empty_username">Brukernavn er blankt</string>
-  <string name="micloud_error_illegal_pwd">Ugyldig adgangskode</string>
-  <string name="micloud_input_password_prompt">Tast inn adgangskode</string>
-  <string name="micloud_password_confirm_hint">Bekreft adgangskode</string>
-  <string name="micloud_password_error_inconsistent">Adgangskoder stemmer ikke overens</string>
+  <string name="micloud_error_illegal_pwd">Ugyldig passord</string>
+  <string name="micloud_input_password_prompt">Tast inn passord</string>
+  <string name="micloud_password_confirm_hint">Bekreft passord</string>
+  <string name="micloud_password_error_inconsistent">passordene stemmer ikke overens</string>
   <string name="micloud_password_req_notice">8~16 sifre, inneholder tall, bokstaver, store og små bokstaver</string>
   <string name="micloud_reg_new">Ny</string>
   <string name="micloud_resend_active_email">Send aktiveringsepost på nytt</string>
@@ -116,9 +116,9 @@
   <string name="no_sim">SIM ikke funnet, kan ikke synkronisere</string>
   <string name="order_price">%1$s Mi credits</string>
   <string name="other_settings">Andre innstillinger</string>
-  <string name="password">Adgangskode</string>
-  <string name="password_error">Tast inn adgangskode</string>
-  <string name="password_hint">Tast inn adgangskode til Xiaomi konto:</string>
+  <string name="password">Passord</string>
+  <string name="password_error">Tast inn passord</string>
+  <string name="password_hint">Tast inn passord til Xiaomi konto:</string>
   <string name="pay_record">Betalingshistorikk</string>
   <string name="pay_record_empty">Ingen historikk</string>
   <string name="paytool_alipay">Alipay</string>
@@ -134,13 +134,13 @@
   <string name="prepaid_china_telcom">China Telecom</string>
   <string name="prepaid_china_unicom">China Unicom</string>
   <string name="prepaid_edit_limit">tal</string>
-  <string name="prepaid_error_card_length">Vennligst Tast inn korrekt forhåndsbetalt kortnummer eller adgangskode</string>
+  <string name="prepaid_error_card_length">Vennligst Tast inn korrekt forhåndsbetalt kortnummer eller passord</string>
   <string name="prepaid_error_card_nåmber">Vennligst Tast inn korrekt beløp til oppfylling</string>
   <string name="prepaid_error_carrier">Velg din operatør</string>
   <string name="prepaid_error_denomination">Velg beløp til oppfylling</string>
-  <string name="prepaid_error_password">Tast inn korrekt forhåndsbetalt kort adgangskode</string>
+  <string name="prepaid_error_password">Tast inn korrekt forhåndsbetalt kort passord</string>
   <string name="prepaid_nåmber_edit_hint">Forhåndsbetalt kort nummer</string>
-  <string name="prepaid_password_edit_hint">Forhåndsbetalt kort adgangskode</string>
+  <string name="prepaid_password_edit_hint">Forhåndsbetalt kort passord</string>
   <string name="prepaid_picker_hint_1_1">1.</string>
   <string name="prepaid_picker_hint_1_2">Støtter kun engangsoppfylling;</string>
   <string name="prepaid_picker_hint_2_1">2.</string>
@@ -172,7 +172,7 @@
   <string name="progress_warning_contact_server">"Fortsatt ingen svar. 
 1. Vennligst kontakt kundeservice i Shenzhou：%1$s 
 2. Vennligst opplys serienummer: %2$s"</string>
-  <string name="quick_login_title">Validiering er påkrevd, vennligst Tast inn din adgangskode</string>
+  <string name="quick_login_title">Validiering er påkrevd, vennligst Tast inn ditt passord</string>
   <string name="recharge_alipay_summary">Alipay oppfylling</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_denomination">%1$s RMB</string>
@@ -224,7 +224,7 @@
   <string name="voucher_btn_exchange_error">Ugyldig</string>
   <string name="voucher_btn_has_exchanged">Kupon løst inn</string>
   <string name="voucher_denom">MiCredits</string>
-  <string name="voucher_edit_hint">Adgangskode:</string>
+  <string name="voucher_edit_hint">Passord:</string>
   <string name="voucher_edit_limit">Rediger grense</string>
   <string name="voucher_empty">Ingen lagrede MiCredit data</string>
   <string name="voucher_error_code">Det oppsto en feil med din MiCredit-kuponkode</string>
