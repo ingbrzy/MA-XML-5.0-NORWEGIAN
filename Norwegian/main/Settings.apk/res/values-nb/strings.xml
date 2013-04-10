@@ -771,7 +771,7 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="finish_application">Afslut</string>
   <string name="finish_button_label">Afslut</string>
   <string name="firmware_version">Android Version:</string>
-  <string name="floating_window_switch_label">Vis popup vindue</string>
+  <string name="floating_window_switch_label">Vis popup vindu</string>
   <string name="font_size_huge">Meget stor</string>
   <string name="font_size_large">Stor</string>
   <string name="font_size_medium">Mellem</string>
@@ -2222,6 +2222,4 @@ Muligvis ugyldig PIN."</string>
   <string name="zone_auto_summaryOn">Brug tidszone leveret af netværk</string>
   <string name="zone_list_menu_sort_alphabetically">Sorter alfabetisk</string>
   <string name="zone_list_menu_sort_by_timezone">Sorter efter tidszone</string>
-  <string name="app_floating_window_dlg">Allow\"%1$s\" to show popup window</string>
-  <string name="floating_window_switch_label">Show popup window</string>
 </resources>
