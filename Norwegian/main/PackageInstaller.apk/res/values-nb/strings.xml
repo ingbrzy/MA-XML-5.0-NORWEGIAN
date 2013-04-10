@@ -44,7 +44,7 @@
   <string name="perm_notice">Sikkerhetsnotifikasjon</string>
   <string name="perm_privacy_app_finish">Ferdig</string>
   <string name="perm_privacy_app_installed">Installasjon fullført!</string>
-  <string name="perm_privacy_app_launch">Åpen</string>
+  <string name="perm_privacy_app_launch">Åpne</string>
   <string name="perm_privacy_app_trust">Jeg stoler på denne appen</string>
   <string name="perm_privacy_app_trust_summary">MIUI vil overvåke denne appen</string>
   <string name="perm_sysopt_boost_auto_start">Autostart tillatelser</string>

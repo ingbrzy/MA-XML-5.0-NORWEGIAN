@@ -77,7 +77,7 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="error_info_cant_send_folder">Kan ikke sende en mappe</string>
   <string name="fail_to_create_folder">Kan ikke opprette, mappe eksisterer allerede</string>
   <string name="fail_to_rename">Kan ikke gi nytt navn, navn på fil eller mappe eksisterer allerede</string>
-  <string name="favorite_photo">Foto</string>
+  <string name="favorite_photo">Bilde</string>
   <string name="favorite_ringtone">Ringetoner</string>
   <string name="favorite_screen_cap">MIUI Skjermbilder</string>
   <string name="file_info_canread">Lesbar:</string>
