@@ -62,7 +62,7 @@
   <string name="gadget_weather_download_start">Start</string>
   <string name="gadget_weather_download_title">Last ned</string>
   <string name="gadget_weather_downloading">Laster ned tema... Vemnligst velg igjen etter nedlastning er fullført</string>
-  <string name="gadget_weather_loading">Ingen værdata data</string>
+  <string name="gadget_weather_loading">Ingen værdata</string>
   <string name="gadget_google_search_label">Google Søk</string>
   <string name="gadget_weather_low_temp">lav temperatur</string>
   <string name="gadget_weather_theme_type">Widget type</string>
