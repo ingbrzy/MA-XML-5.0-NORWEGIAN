@@ -4,6 +4,7 @@
   <string name="activity_not_found">Ingen program tilgjengelig for å fullføre operasjonen.</string>
   <string name="add_account">Legg til konto</string>
   <string name="add_to_cloud_album">Legg til</string>
+  <string name="add_to_cloud_fail_too_many_items">Kunne ikke fullføre handlingen. Muligens for mange valgte elementer.</string>
   <string name="add_to_cloud_folder">Legg til Cloud mappe</string>
   <string name="albums">Album</string>
   <string name="albumset_page_title_separator"> | </string>
@@ -51,9 +52,11 @@
   <string name="cloudfolder_already_exists">Cloud mappe eksisterer allerede</string>
   <string name="confirm_delete">Valgte mediefiler vil bli slettet</string>
   <string name="confirm_delete_album" formatted="false">Er du sikker på du vil slette %s albumer (inklusiv %s elementer)?</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s bilder fra %s album, bekreft sletting?</string>
   <string name="confirm_delete_folders_and_pictures">Er du sikker på du vil slette %s?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s mapper (inklusiv %s)</string>
   <string name="confirm_delete_including_null">0 elementer</string>
+  <string name="confirm_delete_items">%s elementer</string>
   <string name="confirm_delete_pictures">%s bilder</string>
   <string name="confirm_delete_system_album">%s er et system album, er du sikker på at du vil slette?</string>
   <string name="confirm_delete_videos">%s videoer</string>
@@ -70,7 +73,9 @@
   <string name="damaged_file">Fil er skadet</string>
   <string name="defalt_local_mobile">mobil</string>
   <string name="delete">Slett</string>
+  <string name="delete_fail_too_many_items">Kunne ikke slette. Muligens for mange valgte elementer.</string>
   <string name="deleting_files">Sletter filer...</string>
+  <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="description">Beskrivelse</string>
   <string name="details">Detaljer</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
@@ -124,7 +129,6 @@
   <string name="how_many_pics">%d Bilder</string>
   <string name="how_many_sub_folders">%d Mapper</string>
   <string name="how_many_videos">%d Videoer</string>
-  <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="import_complete">Importering fullført</string>
   <string name="import_fail">Importering mislykkes</string>
   <string name="initial_cloud_button_text">Begynn å bruk din MiCloud</string>
@@ -157,9 +161,9 @@
   <string name="miliao_painting_folder_display_name">MiTalk Maleri</string>
   <string name="miliao_saved_folder_display_name">MiTalk Lagret</string>
   <string name="mimetype">MIME type</string>
+  <string name="mishop_saved_folder_display_name">MiShop Lagret</string>
   <string name="miui_capture_screen_folder_display_name">Skjermbilder</string>
   <string name="model">Model</string>
-  <string name="modify_cloud_settings">MiCloud Innstillinger</string>
   <string name="more">Mer</string>
   <string name="move_to_cloud_album">Flytt til Cloud</string>
   <string name="multiface_crop_help">Rør et ansikt for å begynne.</string>
@@ -168,7 +172,6 @@
   <string name="no">Nei</string>
   <string name="no_albums_alert">Ingen album tilgjengelige.</string>
   <string name="no_connectivity">"Noen lokasjoner kunne ikke identifiseres på grunn av nettverksproblemer."</string>
-  <string name="no_file">Ingen filer funnet</string>
   <string name="no_location">Ingen lokasjon</string>
   <string name="no_map_app">Ingen Kart-program</string>
   <string name="no_network_connected">Ingen nettverksforbindelse</string>
@@ -200,6 +203,7 @@
   <string name="remove_hidden_album">Avbryt skjulte</string>
   <string name="remove_recent_album">Fjern fra favoritt-album</string>
   <string name="rename_failed">Endring av navn mislykkes</string>
+  <string name="rename_failed_duplicated_name">Kunne ikke gi nytt navn, navn eksisterer allerede.</string>
   <string name="rotate">Roter</string>
   <string name="rotate_tooltip">Trekk foto for å rotere det</string>
   <string name="saturation">Metning</string>
@@ -217,6 +221,7 @@
   <string name="select_video">Velg video</string>
   <string name="send">Send</string>
   <string name="send_multiple_files_hint_format">Send flere filer (%s)</string>
+  <string name="send_to_cloud_failed_message">Elementet kan ikke legges til Cloud Album</string>
   <string name="sepia">Sepia</string>
   <string name="set_hidden_album">Skjult album</string>
   <string name="set_image">Sett bilde som</string>

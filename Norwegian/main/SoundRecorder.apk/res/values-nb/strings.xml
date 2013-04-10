@@ -30,6 +30,7 @@
   <string name="low_battery_warning">Uventet avslutning kan medføre tap av opptak, det anbefales at man kun tar opp med fullt oppladet batteri.</string>
   <string name="mark_now">(Nåværende)</string>
   <string name="max_length_reached">Maks. lengde er nådd</string>
+  <string name="menu_settings">Innstillinger</string>
   <string name="menu_view_record_list">Se liste over opptak</string>
   <string name="minute">%d minutt</string>
   <string name="no_file">Ingen opptak</string>
@@ -39,6 +40,8 @@
   <string name="notification_warning" formatted="false">Lav lagringsplass(mindre enn %d minutter)...</string>
   <string name="open_file_explorer">Åpne Filhåndtering</string>
   <string name="overwrite_dialog_message" formatted="false">%s eksisterer allerede.\nVil du overskrive?</string>
+  <string name="preference_led_indicator">Opptaksindikator på låseskjerm</string>
+  <string name="preference_led_indicator_prompt">Om LED skal aktiveres på låseskjermen under opptak</string>
   <string name="record_list">opptak</string>
   <string name="record_loading">Laster inn opptak, vennligst vent.</string>
   <string name="record_name_hour">.</string>
@@ -53,6 +56,7 @@
   <string name="sd_card_not_available">SD-kort ikke tilgjengelig</string>
   <string name="second" formatted="false">%d sekunder</string>
   <string name="send_to">Send til</string>
+  <string name="sound_recorder_settings">Innstillinger</string>
   <string name="status_bar_anti_disturb">Telefonen er på lydløs, juster lydstyrken for å fortsette.</string>
   <string name="status_bar_back">Trykk for å gå tilbake til opptaker</string>
   <string name="status_bar_recording">Tar opp...</string>

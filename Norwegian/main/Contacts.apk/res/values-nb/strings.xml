@@ -38,7 +38,7 @@
   <string name="batch_delete">Slet flere kontakter</string>
   <string name="batch_delete_msg">"Er du sikker på du vil slette de valgte %d kontakter?
 
-Hbis du bruger synk tjenester til kontakter, vil informationen også slettes fra denne."</string>
+Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra denne."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth forbindelse afbrudt</string>
   <string name="blurbJoinContactDataWith">Vælg kontkat du vil flette med %s:</string>
   <string name="btn_delete_multi_contacts">Slet %d kontakter</string>
@@ -135,6 +135,9 @@ Hbis du bruger synk tjenester til kontakter, vil informationen også slettes fra
   <string name="clearFrequentsProgress_title">Rydder hyppigt kontaktede...</string>
   <string name="clear_default">Ryd standard</string>
   <string name="click_close">Tryk på skærmen for at lukke</string>
+  <string name="cloud_antispam_mark">Spam</string>
+  <string name="cloud_antispam_summary">Filtrer opkald og beskeder over Wi-Fi og data netværk</string>
+  <string name="cloud_antispam_title">Cloud Firewall</string>
   <string name="composer_failed_to_get_database_infomation">"Kunne ikke få database oplysninger"</string>
   <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du rent faktisk har kontakter på din telefon, kan alle de kontakter, forbydes fra at blive eksporteret fra telefonen ved nogle data udbydere.</string>
   <string name="composer_not_initialized">vCard opretteren er ikke korrekt initialiseret</string>
@@ -589,6 +592,8 @@ For at tilføje kontakt til favoritter:
   <string name="option_send_to_others">Send til andre</string>
   <string name="option_view_contact">Vis</string>
   <string name="option_view_group">Vis</string>
+  <string name="organization_company_and_title">%2$s, %1$s</string>
+  <string name="other_contacts">Andre</string>
   <string name="organizationLabelsGroup">Organisation</string>
   <string name="organization_company_and_title">%2$s,%1$s</string>
   <string name="other_phone">andre telefoner</string>
@@ -833,7 +838,8 @@ For at tilføje kontakt til favoritter:
   <string name="social_widget_loading">Indlæser ...</string>
   <string name="splitConfirmation">Denne kontakt vil blive delt i flere kontakter - en for hver oprindelig kontakt flettet sammen.</string>
   <string name="splitConfirmation_title">Del kontakten</string>
-  <string name="starredList">Favoritter</string>
+  <string name="starredList">Stjernemarkeret</string>
+  <string name="starred_contacts">Favoritter</string>
   <string name="status_available">Tilgængelig</string>
   <string name="status_away">Ude</string>
   <string name="status_busy">Optaget</string>

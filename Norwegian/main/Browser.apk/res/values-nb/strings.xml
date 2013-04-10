@@ -193,6 +193,7 @@
   <string name="import_bookmarks_wizard_next">Næste</string>
   <string name="import_bookmarks_wizard_previous">Forrige</string>
   <string name="importing_favorite_files">Import af data ...</string>
+  <string name="in_incognito">Inkognito-modus er aktiv, ingen nettleserhistorikk blir lagret.</string>
   <string name="instant_search_label">Google med Instant (Labs)</string>
   <string name="is_first_history_item">Er allerede første element i historik</string>
   <string name="is_first_tab">Er allerede første fane</string>
@@ -222,6 +223,7 @@
   <string name="new_tab">Ny fane</string>
   <string name="no_subfolders">Ingen undermapper.</string>
   <string name="not_remind_again">Påmind ikke igen</string>
+  <string name="notif_install_successful">Nedlasting vellykket</string>
   <string name="ok">OK</string>
   <string name="open_all_bookmarks">Åben alle</string>
   <string name="open_all_in_new_window">Åbn alle i nye faner</string>
@@ -435,6 +437,7 @@
   <string name="tab_yellowpage">Populære sider</string>
   <string name="title_bar_loading">Laster ...</string>
   <string name="too_many_subwindows_dialog_message">Kun en pop-up kan være åpen om gangen.</string>
+  <string name="tab_opened_background_in_incognito">Nytt inkognitovindu åpnet</string>
   <string name="too_many_subwindows_dialog_title">Pop-up er allerede åpent</string>
   <string name="too_many_windows_dialog_message">"Kan ikke åpne en ny fane før du lukker en."</string>
   <string name="too_many_windows_dialog_title">For mange faner</string>

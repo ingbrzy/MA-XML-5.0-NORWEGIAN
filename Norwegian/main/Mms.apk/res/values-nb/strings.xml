@@ -212,6 +212,7 @@
   <string name="mx_reactivate">Reaktiver cloud-meldinger</string>
   <string name="mx_warning_notice">En SMS vil bli sendt for å aktivere cloud-meldinger. Operatørkostnad vil muligens påløpe</string>
   <string name="need_download">Venter på synk...</string>
+  <string name="mx_recommend_msg">Slå på Cloud-meldinger for å sende gratis meldinger</string>
   <string name="new_message">Ny melding</string>
   <string name="new_message_arrived">Ny melding mottatt</string>
   <string name="new_phrase">Ny setning</string>

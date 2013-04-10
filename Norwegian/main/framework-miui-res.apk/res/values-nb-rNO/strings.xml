@@ -253,6 +253,7 @@
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
   <string name="delete">Slett</string>
+  <string name="device_xiaomi">Xiaomi-telefon</string>
   <string name="double_seventh_day" />
   <string name="emergency_call_string">Nødandrop</string>
   <string name="error_forbidden">Det er problemer med din konto. Synk er deaktivert.</string>
@@ -343,8 +344,9 @@
   <string name="lunar_yue" />
   <string name="lunar_zheng" />
   <string name="memory_clear_nothing_result">Ingen minne å rydde</string>
-  <string name="memory_clear_result">"%1$s Fri | %2$s Tilgjegelig"</string>
+  <string name="memory_clear_result">"%1$s Frigjort | %2$s Tilgjengelig"</string>
   <string name="miui_copyright_title">Opphavsrett</string>
+  <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Mi Credit brukeravtale</string>
   <string name="miui_privacy_policy_title">Personvern</string>
   <string name="miui_unlockscreen_password_wrong">Feil passord! Prøv igjen</string>
@@ -370,7 +372,7 @@
   <string name="open_wifi_settings">Åpen Wi-Fi innstillinger</string>
   <string name="partys_day" />
   <string name="payphone">Telefonkiosk</string>
-  <string name="peace_day">Peace Day</string>
+  <string name="peace_day">Fredsdag</string>
   <string name="perm_auto_backup">Automatisk backup</string>
   <string name="perm_data_update_dspt">Tillat å oppdatere datavannmerke</string>
   <string name="perm_data_update_lab">Data oppdatering</string>
@@ -387,7 +389,9 @@
   <string name="pincode_set_to_default_msg">PIN kode innstilt til 1234, venligst tilbakestill PIN her.</string>
   <string name="private_num">Hemmelig nummer</string>
   <string name="puk_operation_failed">PUK handling mislykkes.</string>
-  <string name="reboot_confirm">Telefon vil restarte</string>
+  <string name="provider_114">114</string>
+  <string name="provider_sougou">sougou</string>
+  <string name="reboot_confirm">Telefonen vil restarte</string>
   <string name="reboot_progress">Renstarter...</string>
   <string name="return_to_me_message">Venligst returner til eier.</string>
   <string name="reverse_all">Fjern alle</string>
@@ -465,4 +469,5 @@
   <string name="winter_begins" />
   <string name="winter_solstice" />
   <string name="yesterday">I går</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

@@ -63,6 +63,7 @@
   <string name="gadget_weather_download_title">Download</string>
   <string name="gadget_weather_downloading">Tema downloader. Venligst vælg igen er download er fuldført</string>
   <string name="gadget_weather_loading">Ingen vejr data</string>
+  <string name="gadget_google_search_label">Google Søk</string>
   <string name="gadget_weather_low_temp">lav temperatur</string>
   <string name="gadget_weather_theme_type">Widget type</string>
   <string name="gadget_weather_time_format">EEE d/M</string>
@@ -83,6 +84,8 @@
   <string name="menu_exit_scene">Afslut Frit Skrivebord</string>
   <string name="menu_item_add_item">Tilføj til Startskærmen</string>
   <string name="menu_launcher_setting">Launcher indstillinger</string>
+  <string name="guide_install_app_msg">App not installed. Search for app in the Market now?</string>
+  <string name="guide_install_app_title">Install App</string>
   <string name="menu_reset_scene">Nulstil til standard scene</string>
   <string name="menu_search">Søg</string>
   <string name="menu_settings">Indstillinger</string>

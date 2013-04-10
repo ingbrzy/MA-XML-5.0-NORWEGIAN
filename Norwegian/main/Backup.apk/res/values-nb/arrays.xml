@@ -9,9 +9,10 @@
         <item>Filer</item>
         <item>Galleri</item>
         <item>ROOT-tillatelser</item>
-        <item>Værdata</item>
         <item>Kamera</item>
         <item>Datakontrol</item>
+        <item>Værdatabaser</item>
+        <item>Værdata</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Kontakter</item>

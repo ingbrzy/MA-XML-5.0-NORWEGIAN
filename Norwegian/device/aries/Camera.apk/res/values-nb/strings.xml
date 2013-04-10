@@ -73,6 +73,7 @@
   <string name="group_by_location">Via placering</string>
   <string name="group_by_tags">Via tags</string>
   <string name="group_by_time">Via tid</string>
+  <string name="hand_night_exit_button_text">Exit night mode</string>
   <string name="hdr_exit_button_text">Afslut HDR tilstand</string>
   <string name="height">Højde</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
@@ -170,6 +171,7 @@
   <string name="pref_camera_focusmode_entry_normal">Normal</string>
   <string name="pref_camera_focusmode_title">Fokustilstand</string>
   <string name="pref_camera_front_picture_size_default">1920x1088</string>
+  <string name="pref_camera_hand_night_title">Night mode</string>
   <string name="pref_camera_hfr_default">fra</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
@@ -390,6 +392,7 @@
   <string name="simple_mode_button_text_audio_capture">Luk lydoptagelse</string>
   <string name="simple_mode_button_text_color_effect">Luk filtre</string>
   <string name="simple_mode_button_text_hdr">Luk HDR tilstand</string>
+  <string name="simple_mode_button_text_hand_night">Exit night mode</string>
   <string name="simple_mode_button_text_panorama">Luk panorama</string>
   <string name="simple_mode_button_text_slow_video">Luk slow-motion kamera</string>
   <string name="skip">Skip</string>

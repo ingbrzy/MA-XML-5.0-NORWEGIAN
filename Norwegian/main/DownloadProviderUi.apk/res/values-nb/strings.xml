@@ -16,6 +16,7 @@
   <string name="dialog_failed_body">Vil du prøve å laste ned igjen senere, eller slette filen fra køen?</string>
   <string name="dialog_file_already_exists">Kan ikke laste ned. Destinationsfilen eksisterer allerede.</string>
   <string name="dialog_file_missing_body">Den nedlastede filen kan ikke finnes.</string>
+  <string name="dialog_file_missing_title">Kunne ikke åpne fil</string>
   <string name="dialog_insufficient_space_on_cache">Kan ikke ferdigstille nedlastingen, det er ikke nok plass på intern lagrin.</string>
   <string name="dialog_insufficient_space_on_external">Kan ikke ferdigstille nedlastingen, det er ikke nok plass på ekstern lagring.</string>
   <string name="dialog_media_not_found">Kan ikke laste ned. Eksternt lagringsmedium ikke tilgjengelig.</string>

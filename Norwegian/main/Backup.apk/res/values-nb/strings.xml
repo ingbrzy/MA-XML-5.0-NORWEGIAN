@@ -170,13 +170,17 @@
   <string name="task_restore_cancel_progress">Fjern gjenoppretting...</string>
   <string name="task_restore_finished_local">gjenoppretting fullført</string>
   <string name="task_restore_none">Ikke påkrevd</string>
+  <string name="task_running_backup_dialog">Backup kjører i bakgrunnen, trykk OK for å vise.</string>
+  <string name="task_running_backup_hint">Tjeneste kjører i bakgrunnen, vennligst prøv igjen for å ta backup!</string>
   <string name="task_running_dialog">Backup kjører i bakgrunnen, klik OK for å se fremskritt</string>
   <string name="task_running_hint">Kjører tjeneste i bakgrunnen for planlagte oppgaver</string>
-  <string name="task_service_not_launched">Backup-tjeneste ikke startet</string>
+  <string name="task_running_restore_dialog">Gjenoppretting kjører i bakgrunnen, trykk OK for å vise.</string>
+  <string name="task_running_restore_hint">Tjeneste kjører i bakgrunnen, vennligst prøv igjen for å gjenopprette!</string>
+  <string name="task_service_not_launched">Backup-tjeneste ikke startet, vennligst vent!</string>
   <string name="task_stopped_exception">Oppgave fjernet</string>
   <string name="total_num">%d elementer i alt</string>
-  <string name="unit_byte">\u0020Bytes</string>
-  <string name="unit_piece">\u0020Elementer</string>
+  <string name="unit_byte"> Bytes</string>
+  <string name="unit_piece"> Element(er)</string>
   <string name="unknown_hint">Ukjent</string>
   <string name="wifi_title">WiFi-innstillinger</string>
 </resources>

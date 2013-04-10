@@ -49,7 +49,9 @@
   <string name="menu_rename_folder">Gi nytt mappenavn</string>
   <string name="menu_send_to_desktop">Send til skrivebord</string>
   <string name="menu_setting">Innstillinger</string>
+  <string name="menu_stick">Prioriter</string>
   <string name="menu_title_select_folder">Velg mappe</string>
+  <string name="menu_unstick">Deprioriter</string>
   <string name="not_now">Ikke nå</string>
   <string name="note_alert_expired">Utløpt</string>
   <string name="note_link_email">Send epost</string>
