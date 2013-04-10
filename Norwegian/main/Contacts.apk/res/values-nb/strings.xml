@@ -595,7 +595,6 @@ For at tilføje kontakt til favoritter:
   <string name="organization_company_and_title">%2$s, %1$s</string>
   <string name="other_contacts">Andre</string>
   <string name="organizationLabelsGroup">Organisation</string>
-  <string name="organization_company_and_title">%2$s,%1$s</string>
   <string name="other_phone">andre telefoner</string>
   <string name="payphone">Mønttelefon</string>
   <string name="people">Personer</string>
