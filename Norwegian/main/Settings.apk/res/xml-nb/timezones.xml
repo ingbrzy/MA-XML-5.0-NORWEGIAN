@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <timezones>
-    <timezone id="Pacific/Majuro">Marshalløerne</timezone>
+    <timezone id="Pacific/Majuro">Marshalløyene</timezone>
     <timezone id="Pacific/Midway">Midway Atollen</timezone>
     <timezone id="Pacific/Honolulu">Hawaii</timezone>
     <timezone id="America/Anchorage">Alaska</timezone>
-    <timezone id="America/Los_Angeles">Pacifisk Tid</timezone>
+    <timezone id="America/Los_Angeles">Pasifisk Tid</timezone>
     <timezone id="America/Tijuana">Tijuana</timezone>
     <timezone id="America/Phoenix">Arizona</timezone>
     <timezone id="America/Chihuahua">Chihuahua</timezone>
     <timezone id="America/Denver">Nordamerika</timezone>
-    <timezone id="America/Costa_Rica">Central Amerika</timezone>
-    <timezone id="America/Chicago">Central Amerika</timezone>
+    <timezone id="America/Costa_Rica">Sentral Amerika</timezone>
+    <timezone id="America/Chicago">Sentral Amerika</timezone>
     <timezone id="America/Mexico_City">Mexico City</timezone>
     <timezone id="America/Regina">Saskatchewan</timezone>
     <timezone id="America/Bogota">Bogotá</timezone>
@@ -21,9 +21,9 @@
     <timezone id="America/Manaus">Manaus</timezone>
     <timezone id="America/Santiago">Santiago</timezone>
     <timezone id="America/St_Johns">Newfoundland</timezone>
-    <timezone id="America/Sao_Paulo">Brasilien</timezone>
+    <timezone id="America/Sao_Paulo">Brasil</timezone>
     <timezone id="America/Argentina/Buenos_Aires">Buenos Aires</timezone>
-    <timezone id="America/Godthab">Grønland</timezone>
+    <timezone id="America/Godthab">Grønnland</timezone>
     <timezone id="America/Montevideo">Montevideo</timezone>
     <timezone id="Atlantic/South_Georgia">Middelatlantisk Tid</timezone>
     <timezone id="Atlantic/Azores">Azorerne</timezone>
