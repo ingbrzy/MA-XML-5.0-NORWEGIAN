@@ -67,7 +67,7 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanner...</item>
+        <item>Skanner...</item>
         <item>Kobler til...</item>
         <item>Godkjenner...</item>
         <item>Henter IP-addresse...</item>
@@ -81,7 +81,7 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanner...</item>
+        <item>Skanner...</item>
         <item>Kobler til %1$s...</item>
         <item>Godkjenner ved %1$s...</item>
         <item>Henter IP-adresse fra %1$s...</item>
@@ -249,7 +249,7 @@
         <item>Mislykket</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
-        <item>Opphøyet vesenn</item>
+        <item>Opphøyet vesen</item>
         <item>Menneske</item>
         <item>Neandertaler</item>
         <item>Sjimpanse</item>
