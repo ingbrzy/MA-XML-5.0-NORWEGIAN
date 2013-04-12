@@ -123,7 +123,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="chat_jabber">Chat med Jabber</string>
   <string name="chat_msn">Chat med Windows Live</string>
   <string name="chat_qq">Chat med QQ</string>
-  <string name="chat_skype">Chat med Skype</string>Bekræft
+  <string name="chat_skype">Chat med Skype</string>
   <string name="chat_yahoo">Chat ved hjelp av Yahoo</string>
   <string name="check_unsynchronized_accounts">Synkroniseringshyppighed</string>
   <string name="checkhint">kontroller den annen telefon</string>
