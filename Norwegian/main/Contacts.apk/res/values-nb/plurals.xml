@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Viser %d kontakter med numre</item>
+        <item quantity="other">Viser %d kontakter med nummere</item>
         <item quantity="one">Viser 1 kontakt med nummer</item>
     </plurals>
     <plurals name="listTotalAllContacts">
