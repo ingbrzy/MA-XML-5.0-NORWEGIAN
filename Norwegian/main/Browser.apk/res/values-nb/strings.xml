@@ -425,7 +425,8 @@
   <string name="ssl_unknown">Ukendt fel i sertifikat.</string>
   <string name="ssl_untrusted">"Dette sertifikat er ikke fra en betroet myndighet."</string>
   <string name="ssl_warnings_header">Der er problemer med sikkerhetssertifikatet for dette nettstedet.</string>
-  <string name="stop">Stop</string>
+  <string name="stop">Stopp</string>
+  <string name="stop_loading">Stopp</string>
   <string name="stopping">Stopper ...</string>
   <string name="tab_bookmarks">Bokmerker</string>
   <string name="tab_closed">Fane lukket.</string>

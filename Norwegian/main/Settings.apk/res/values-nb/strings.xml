@@ -395,9 +395,9 @@
   <string name="bluetooth_visibility_timeout">Synlighet timeout</string>
   <string name="bluetooth_visibility_timeout_summary">Velg hvor lang tid enheten vil kunne registreres</string>
   <string name="breathing_light_color_summary">LED farge ved mottalse av notifikasjoner</string>
-  <string name="breathing_light_color_title">LED farge</string>
+  <string name="breathing_light_color_title">" LED farge"</string>
   <string name="breathing_light_freq_summary">LED pause mellom blink</string>
-  <string name="breathing_light_freq_title">LED blinkefrekvens</string>
+  <string name="breathing_light_freq_title">" LED frekvens </string>
   <string name="brightness">Lysstyrke</string>
   <string name="brightness_auto_adjust_off">Manuell lysstyrke kan justeres etter ønske ved å flytte knappen. Lysstyrken vil forbli den samme i alle omgivelser.</string>
   <string name="brightness_auto_adjust_on">Auto lysstyrke-effekten kan justeres ved å flytte knappen. Lysstyrke effekten vil variere iht justeringen og omgivelserne.</string>
@@ -610,7 +610,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="device_admin_status">Denne administratoren er aktiv og gjør det mulig for programmet %1$s å utføre følgende handlinger:</string>
   <string name="device_admin_title">Enhetsadministration</string>
   <string name="device_admin_warning">Aktivering av denne administratoren vil tillate %1$s å utføre følgende handlinger:</string>
-  <string name="device_cpu">CPU:</string>
+  <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-Core</string>
   <string name="device_cpu4_info">Quad-Core</string>
   <string name="device_default_name">Xiaomi telefon</string>
@@ -619,19 +619,19 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="device_info_label">Enhetsinfo</string>
   <string name="device_info_not_available">Ikke tilgjengelig</string>
   <string name="device_info_settings">Telefonstatus</string>
-  <string name="device_internal_memory">Intern Hukommelse:</string>
-  <string name="device_memory">RAM:</string>
-  <string name="device_miui_version">MIUI version:</string>
+  <string name="device_internal_memory">Intern Hukommelse</string>
+  <string name="device_memory">RAM</string>
+  <string name="device_miui_version">MIUI versjon</string>
   <string name="device_name">Enhetsnavn</string>
   <string name="device_name_input_hint">Skriv inn enhetensnavn</string>
   <string name="device_name_usage_point">Tillat enhet å bli oppdaget av andre Bluetooth-enheter, for å muliggjøre filoverførsler og andre funksjonener.</string>
   <string name="device_picker">Bluetooth-enhetsvelger</string>
-  <string name="device_sd_memory">SD-kort:</string>
+  <string name="device_sd_memory">SD-kort</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">status</string>
   <string name="device_status_summary">Batteristatus, nivå, etc.</string>
   <string name="dialog_title_font_size">Skriftstørrelse</string>
-  <string name="dirac_control">Dirac Kontrol</string>
+  <string name="dirac_control">MI Lyd</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Deaktiver HW-overlegg</string>
   <string name="disable_overlays_summary">Bruk alltid GPU til skjermkomposisjon</string>
@@ -727,7 +727,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="enable_back_long_press">Lukk program</string>
   <string name="enable_compatibility">Skaler program</string>
   <string name="enable_drive_mode">Aktiver Kjøremodus</string>
-  <string name="enable_snapshot_screenlock">Skjermbilde på låseskjerm</string>
+  <string name="enable_snapshot_screenlock">Åpne kamera fra låseskjermen</string>
   <string name="enable_text">Aktiver</string>
   <string name="enable_traces_dialog_title">Velg aktiverede spor</string>
   <string name="enable_traces_summary_all">Alle spor aktive</string>
@@ -770,7 +770,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="filter_dlg_title">Velg filtreringsmuligheter</string>
   <string name="finish_application">Avslutt</string>
   <string name="finish_button_label">Avslutt</string>
-  <string name="firmware_version">Android Versjon:</string>
+  <string name="firmware_version">Android Versjon</string>
   <string name="floating_window_switch_label">Vis popup-vindu</string>
   <string name="font_size_huge">Meget stor</string>
   <string name="font_size_large">Stor</string>
@@ -804,10 +804,10 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="header_account_settings">Kontoinnstillinger</string>
   <string name="header_add_an_account">Legg til en konto</string>
   <string name="header_application_sync_settings">App synkroniseringsinnstillinger</string>
-  <string name="header_category_accounts">KONTOER</string>
-  <string name="header_category_device">ENHET</string>
-  <string name="header_category_personal">PERSONLIG</string>
-  <string name="header_category_system">SYSTEM</string>
+  <string name="header_category_accounts">Kontoer</string>
+  <string name="header_category_device">Enhet</string>
+  <string name="header_category_personal">Personlig</string>
+  <string name="header_category_system">System</string>
   <string name="header_category_wireless_networks">Trådløs og nettverk</string>
   <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
   <string name="heavy_weight_stop_description">Dette program kan ikke stoppes sikkert. Dette kan medføre tap av ditt nåværende arbeide.</string>
@@ -874,7 +874,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="join_two_items">%1$s and %2$s</string>
   <string name="keep_screen_on">Hold våken</string>
   <string name="keep_screen_on_summary">Skjermen vil aldri slås av mens du lader</string>
-  <string name="kernel_version">Kernel:</string>
+  <string name="kernel_version">Kjerne</string>
   <string name="key_settings">Hardware Knapper</string>
   <string name="key_settings_title">Hardware Knapper</string>
   <string name="keyboard_layout_default_label">Standard</string>
@@ -1877,7 +1877,8 @@ Muligens ugyldig PIN."</string>
   <string name="user_dict_settings_context_menu_delete_title">Slett</string>
   <string name="user_dict_settings_context_menu_edit_title">Rediger</string>
   <string name="user_dict_settings_edit_dialog_title">Rediger ord</string>
-  <string name="user_dict_settings_empty_text">"Du har ikke noen ord i brukerordboken. Legg til et ord ved å trykke på Legg til (+) knappen."</string>
+  <string name="user_dict_settings_empty_text">"Du har ikke noen ord i brukerordboken.
+Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="user_dict_settings_more_languages">Flere språk…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_titlebar">Brukerordbok</string>

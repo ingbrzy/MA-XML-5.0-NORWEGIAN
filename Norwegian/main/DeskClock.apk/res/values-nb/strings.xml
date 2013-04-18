@@ -2,7 +2,7 @@
 <resources>
   <string name="account_abnormal_state">Inkonsistent kontoinformation, prøv igjen!</string>
   <string name="add_alarm">Ny alarm</string>
-  <string name="alarm_alert">Velg alarmtone</string>
+  <string name="alarm_alert">Alarmtone</string>
   <string name="alarm_alert_alert_silenced">Alarm er lydløs etter %d minutter</string>
   <string name="alarm_alert_dismiss_text">Slå av</string>
   <string name="alarm_alert_snooze_set">Utsett i %d minutter.</string>
@@ -26,7 +26,7 @@
   <string name="alarm_notify_snooze_text">Alarm snoozet i %s. Velg for å avbryte.</string>
   <string name="alarm_notify_text">Velg om du vil utsette eller slå av alarmen.</string>
   <string name="alarm_repeat">Gjenta</string>
-  <string name="alarm_screen">Velg alarmtone</string> 
+  <string name="alarm_screen">Utseende</string> 
   <string name="alarm_settings">Alarminnstillinger</string>
   <string name="alarm_vibrate">Vibrer</string>
   <string name="alarm_volume_summary">Angi alarmenes lydstyrke</string>
@@ -49,7 +49,7 @@
   <string name="day">1 dag</string>
   <string name="day_concat">", "</string>
   <string name="days">%s dager</string>
-  <string name="default_alarm_alert">Velg standard alarmtone</string>
+  <string name="default_alarm_alert">Alarm Tema</string>
   <string name="default_alarm_screen">Velg standard alarmtone</string>
   <string name="default_alarm_title">Standard alarmtone</string>
   <string name="default_label">Alarm</string>
