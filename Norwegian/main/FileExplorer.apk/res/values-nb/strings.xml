@@ -176,6 +176,7 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="pan_settting">MiDrive innstillinger</string>
   <string name="paused">På pause</string>
   <string name="query_bind_state">Forespør status på tilkobling, vennligst vent...</string>
+  <string name="release_space_indication">Oppdag søppelfiler</string>
   <string name="remote_management">FTP</string>
   <string name="rename_description">Gir nytt navn, vennligst vent…</string>
   <string name="rename_failed">Kunne ikke gi nytt navn %1$s</string>

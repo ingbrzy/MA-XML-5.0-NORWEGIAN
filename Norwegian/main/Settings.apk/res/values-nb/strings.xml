@@ -114,6 +114,8 @@
   <string name="app_factory_reset_dlg_text">Ønsker du å avinstallere alle oppdateringer til dette Android-programmet?</string>
   <string name="app_factory_reset_dlg_title">Avinstaller oppdateringer</string>
   <string name="app_floating_window_dlg">Tillat\"%1$s\" å vise popup-vindu?</string>
+  <string name="app_floating_window_dlg_disable">"Å deaktivere %1$s's popup-vindu innstillinger vil stoppe med tvang. Er du sikker på at du vil deaktivere?"</string>
+  <string name="app_floating_window_dlg_enable">"Å aktivere %1$s's popup-vindu innstillinger krever at programmet restarter. Er du sikker på at du vil aktivere?"</string>
   <string name="app_forward_locked">Programmet er kopibeskyttet</string>
   <string name="app_install_location_summary">Skift den foretrukne installationsplasseringen for nye programmer</string>
   <string name="app_install_location_title">Forettrukket installationssplassering</string>
@@ -772,6 +774,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="finish_button_label">Avslutt</string>
   <string name="firmware_version">Android Versjon</string>
   <string name="floating_window_switch_label">Vis popup-vindu</string>
+  <string name="floating_window_switch_label_disable">Skjul popup-vindu</string>
   <string name="font_size_huge">Meget stor</string>
   <string name="font_size_large">Stor</string>
   <string name="font_size_medium">Medium</string>
@@ -1621,6 +1624,7 @@ Muligens ugyldig PIN."</string>
   <string name="sim_lock_settings">SIM-lås innstillinger</string>
   <string name="sim_lock_settings_category">Konfigurer SIM-lås</string>
   <string name="sim_lock_settings_title">SIM-lås</string>
+  <string name="sim_management_title">SIM-administrering</string>
   <string name="sim_pin_change">Skift SIM PIN-kode</string>
   <string name="sim_pin_toggle">Lås SIM-kort</string>
   <string name="sim_pins_dont_match">"PIN-koder stemmer ikke overens"</string>
