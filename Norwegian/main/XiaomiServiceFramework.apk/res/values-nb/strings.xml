@@ -6,10 +6,17 @@
   <string name="account_hint_text">Epost/Telefonnummer</string>
   <string name="account_name">Konto: %1$s</string>
   <string name="activating">Aktiverer...</string>
+  <string name="add_weibo_account">Legg til konto</string>
   <string name="alert_title_remove_account">Slett konto</string>
   <string name="app_name">Xiaomi Services Framework</string>
   <string name="bad_authentication">Validering mislyktes, feil brukernavn eller passord</string>
   <string name="balance">Saldo: %1$s Mi credits</string>
+  <string name="bind">Authorise</string>
+  <string name="bind_description">Tilat synk med telefonkontakter</string>
+  <string name="bind_sina_weibo">Autoriser Sina Weibo</string>
+  <string name="bind_weibo_description">Finn telefonkontakter,  venner og annen informasjon direkte fra kontoen din</string>
+  <string name="binded">Assosiert</string>
+  <string name="binding_behavior_error">Autoriseringsfeil!</string>
   <string name="btn_activate">Aktiver</string>
   <string name="btn_back">Tilbake</string>
   <string name="btn_call">Ring opp</string>
@@ -19,7 +26,7 @@
   <string name="btn_query">Forespør nå</string>
   <string name="btn_recharge_large">Fyll på nå</string>
   <string name="btn_recharge_other">Andre oppfyllingsmetoder</string>
-  <string name="btn_voucher">Mi Credit kort (%1$s)</string>
+  <string name="btn_voucher">Mi Kreditkort (%1$s)</string>
   <string name="button_cancel">Avbryt</string>
   <string name="button_pay">Betal</string>
   <string name="button_recharge">Fyll på</string>
@@ -151,6 +158,7 @@
   <string name="prepaid_picker_title_default">Velg beløp for oppfylling</string>
   <string name="prepaid_picker_title_selected">Beløp for oppfylling</string>
   <string name="prev">Tilbake</string>
+  <string name="process_result">Resultat:</string>
   <string name="progress_connecting">Kobler til...</string>
   <string name="progress_creating">Mottar ordreinformasjon...</string>
   <string name="progress_downloading">Laster ned...</string>
@@ -214,6 +222,10 @@ Vennligst skriv inn ditt passord"</string>
   <string name="title_reg">Registrer en XiaoMi konto</string>
   <string name="title_voucher">Fyll på med MiCredit-kupong</string>
   <string name="unactivated_user">Ikke aktivert</string>
+  <string name="unbind">De-autoriser</string>
+  <string name="update_contacts">Oppdater kontakter</string>
+  <string name="update_contacts_description">Oppdater dine telefonkontakter og annen informasjon</string>
+  <string name="updated_contacts">Oppdatert %s kontakter</string>
   <string name="user_agreement_p1">"Ved å logge inn, aksepterer du "</string>
   <string name="user_agreement_p2">Xiaomis tjenestevilkår</string>
   <string name="user_agreement_p3"> og </string>

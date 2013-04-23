@@ -415,6 +415,10 @@
   <string name="short_pukcode_error_msg">Vennligst tast inn minst 8 sifre</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_notice">SIM er ikke aktivert. En SMS er påkrevd for å aktivere Xiaomi synk tjenesten. Reaktiver nå?</string>
+  <string name="sim_in_airplane_mode">Skru av flymodus.</string>
+  <string name="sim_locked">SIM-kort låst</string>
+  <string name="sim_not_ready">SIM-kort er i bruk, vennligst prøv igjen.</string>
+  <string name="sim_unavailable">SIM-kort utilgjengelig</string>
   <string name="slight_cold" />
   <string name="slight_heat" />
   <string name="solar_calendar" />
