@@ -297,7 +297,14 @@
         <item>Hvit</item>
         <item>Lilla</item>
     </string-array>
-    <string-array name="back_long_press_timeout">
+    <string-array name="screen_key_long_press_action">
+        <item>Ingen</item>
+        <item>Åpne oppgavehånderingspanel</item>
+        <item>Åpne Voice Assistant (Xiaomi)</item>
+        <item>Åpne Google Nå</item>
+        <item>Lukk gjeldende program</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekund</item>
         <item>1 sekund</item>
         <item>1.5 sekunder</item>

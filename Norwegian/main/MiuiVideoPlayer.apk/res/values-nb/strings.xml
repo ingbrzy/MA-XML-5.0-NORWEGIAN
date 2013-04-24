@@ -28,6 +28,10 @@
   <string name="menu_wh_item_full_screen_label">Fullskjerm</string>
   <string name="menu_wh_item_using_16_9_label">16:9 format</string>
   <string name="menu_wh_item_using_4_3_label">4:3 format</string>
+  <string name="nowifi_alert_dialog_continue">Fortsett</string>
+  <string name="nowifi_alert_dialog_exit">Avslutt</string>
+  <string name="nowifi_alert_dialog_message">Spiller av video på mobilnettverk, fortsett?</string>
+  <string name="nowifi_alert_dialog_title">Notifikasjon</string>
   <string name="temp_play_history_button_label">Vis avspiller-historikk</string>
   <string name="to_be_play_label_v5">Starter avspilning</string>
   <string name="toast_back_key_pressed_notice">Trykk på Tilbake igjen for at avslutte</string>
