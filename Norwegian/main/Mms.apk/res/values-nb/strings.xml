@@ -205,7 +205,9 @@
   <string name="mx_current_status">Aktuell status: Online</string>
   <string name="mx_dspt">Send meldinger via internett mellom MIUI, aktiver for å sende via operatør når mislykket</string>
   <string name="mx_enable">Aktiver Cloud-meldinger</string>
+  <string name="mx_enable_int_popup_msg">Cloud-meldinger gjør det mulig å sende meldinger mellom MIUI-brukere. For å aktivere, vil en internasjonal SMS bli sent. Operatøren sine meldingspriser kan gjelde.</string>
   <string name="mx_enable_popup_msg">Cloud-meldinger tillater deg å sende meldinger via MIUI. En normal SMS kreves for å aktivere tjenesten. Vil du aktivere nå?</string>
+  <string name="mx_int_warning_notice">En internasjonal SMS vil bli sendt for å aktivere Cloud-meldinger, normale telepriser kan gjelde</string>
   <string name="mx_msg">Cloud-melding</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_online">Online</string>
