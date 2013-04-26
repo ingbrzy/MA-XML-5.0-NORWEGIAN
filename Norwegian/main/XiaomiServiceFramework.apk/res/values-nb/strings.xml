@@ -121,7 +121,7 @@
   <string name="micloud_use_existing">Eksisterende</string>
   <string name="micloud_val_sms_alert">En SMS skal sendes for å validere ditt telefonnummer, fortsett?</string>
   <string name="micloud_via_int_sms_alert">En SMS vil bli sendt til enheten din til din operatør sine priser. Er du sikker på at du vil fortsette?</string>
-  <string name="micloud_via_sms_alert">En SMS vil bli sent for å verifisere ditt telefonnumbber. Er du sikker på at du vil fortsette?</string>
+  <string name="micloud_via_sms_alert">En SMS vil bli sent for å verifisere ditt telefonnummer. Er du sikker på at du vil fortsette?</string>
   <string name="micloud_welcome_skip_login">Hopp over registrering</string>
   <string name="mili_center">Mi credit-senter</string>
   <string name="next">Neste</string>
