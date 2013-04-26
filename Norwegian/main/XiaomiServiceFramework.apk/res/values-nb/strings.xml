@@ -207,7 +207,7 @@ Vennligst skriv inn ditt passord"</string>
   <string name="remove_confirm">Slett</string>
   <string name="remove_unactivated_account_notice">Xiaomi-kontoen er ikke aktivert, ønsker du å fjerne den nå?</string>
   <string name="removing_account">Sletter konto...</string>
-  <string name="send_int_sms_for_sync_notice">En aktiverings-sms vil bli sendt til enheten din til din operatør sine priser. Er du sikker på at du vil forsette?</string>
+  <string name="send_int_sms_for_sync_notice">En aktiverings-sms vil bli sendt til enheten din til din operatør sine priser. Er du sikker på at du vil fortsette?</string>
   <string name="send_sms_for_sync_notice">Aktiverings-SMS skal sendes, fortsett?</string>
   <string name="send_sms_for_sync_title">Synk-tjeneste ikke aktivert</string>
   <string name="sim_changed_notification_content">SIM ikke aktivert, vennligst aktiver</string>
