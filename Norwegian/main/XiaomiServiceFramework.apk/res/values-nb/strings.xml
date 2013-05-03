@@ -50,7 +50,7 @@
   <string name="error_common_summary">Systemfeil, prøv igjen senere</string>
   <string name="error_common_title">Systemfeil</string>
   <string name="error_dup_phone">Telefon registrert</string>
-  <string name="error_expired_summary">Bestillingen er utløpt/string>
+  <string name="error_expired_summary">Bestillingen er utløpt</string>
   <string name="error_frozen_summary">Din konto har blitt låst</string>
   <string name="error_frozen_title">Konto låst!</string>
   <string name="error_has_bought_summary">Du har allerede kjøpt dette produktet</string>
