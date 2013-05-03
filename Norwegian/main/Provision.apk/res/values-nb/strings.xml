@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="continues">Fortsett</string>
-  <string name="data_usage_summary">Hvis du ikke har en dataplan fra din operatør, anbefales det å være varsom med netverkstrafikk. Vær oppmerksom på din operatørs priser på datatrafik.</string>
+  <string name="data_usage_summary">Hvis du ikke har en dataplan fra din operatør, anbefales det å være varsom med nettverkstrafikk. Vær oppmerksom på din operatørs priser på datatrafik.</string>
+  <string name="default_gprs_sim_name">Legg inn \"%s\" dataplan begrensinger</string>
   <string name="input_method">Tastatur</string>
   <string name="input_method_category">Velg standard tastatur</string>
   <string name="next">Neste</string>
   <string name="other_service_google_location">Googles Plasseringstjeneste</string>
-  <string name="other_service_google_location_use">Possisjon &amp; Google-søkning</string>
+  <string name="other_service_google_location_use">Posisjon &amp; Google-søkning</string>
   <string name="other_service_google_location_use_help">"Tillat Googles Posisjonstjeneste å samle inn anonyme plasseringsdata. Innsamling vil skje selv når ingen applikasjoner kjører. For å endre denne innstillingen, gå til innstillinger &gt; Posisjonstjenester"</string>
   <string name="other_service_google_location_use_summary">La Google bruke din plassering for å forbedre søkeresultater og andre tjenester</string>
   <string name="other_service_label">Andre tjenester</string>

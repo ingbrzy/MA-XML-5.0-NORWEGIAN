@@ -193,9 +193,12 @@
   <string name="mx_activate_error_server">Server nektet aktivering</string>
   <string name="mx_activate_error_sim_change">SIM-kort endret, reaktivering av cloud-meldinger kreves</string>
   <string name="mx_activate_error_title">Aktivering mislyktes</string>
-  <string name="mx_activate_hint_malformed_info">Din personlige info er avbrutt. En SMS kreves for å reaktivere cloud-meldinger. Aktiver nå?</string>
+  <string name="mx_activate_hint_malformed_info">Operasjon avbrutt. En SMS kreves for å reaktivere cloud-meldinger. Aktiver nå?</string>
   <string name="mx_activate_hint_server">Server nektet aktivering av cloud-meldinger. En SMS kreves for å reaktivere cloud-meldinger. Aktiver nå?</string>
   <string name="mx_activate_hint_sim_change">SIM-kort endret. En SMS kreves for å reaktivere cloud-meldinger. Aktiver nå?</string>
+  <string name="mx_activate_int_hint_malformed_info">Feil ved behandling av forespørselen. En internasjonal SMS kreves for å reaktivere cloud-meldinger. Vil du aktivere det nå?</string>
+  <string name="mx_activate_int_hint_server">Aktivering med serveren mislyktes for cloud-meldinger, en internasjonal SMS kreves for å reaktivere cloud-meldinger. Vil du aktivere det nå?</string>
+  <string name="mx_activate_int_hint_sim_change">SIM-kortets tilstand endret. En internasjonal SMS kreves for å aktivere cloud-meldinger. Vil du aktivere det nå?</string>
   <string name="mx_auto_resend_mms">Auto resend MMS</string>
   <string name="mx_auto_resend_mms_summary">Send som MMS når Cloud-meldinger er utilgjengelig. Kostnad på meldinger fra operatør er gjeldende</string>
   <string name="mx_auto_resend_sms">Send som SMS</string>
@@ -334,7 +337,7 @@
   <string name="send">Send</string>
   <string name="send_signature_confirm_dialog_message">Ikke noe innhold i meldingen, er du sikker på at du vil sende?</string>
   <string name="send_signature_confirm_dialog_title">Bekreft sending</string>
-  <string name="send_to">Send til: %1$s</string>
+  <string name="send_to">Send til: </string>
   <string name="send_to_count">%1$s meldinger sendt</string>
   <string name="send_to_index_contact">Sender %1$s av %2$s...</string>
   <string name="sent_label">"Sendt: "</string>

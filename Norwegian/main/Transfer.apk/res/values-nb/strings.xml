@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_to_receive">I ferd med å motta fil(er)</string>
   <string name="about_to_send">Send fil(er)</string>
   <string name="app_name">Overfør</string>
   <string name="button_last">Start nå</string>

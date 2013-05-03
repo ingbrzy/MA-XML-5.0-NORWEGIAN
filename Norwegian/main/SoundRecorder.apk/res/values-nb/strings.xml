@@ -13,7 +13,7 @@
   <string name="delete">Slett</string>
   <string name="delete_dialog_message">Vil du slette nåværende opptak?</string>
   <string name="deleting_message">Sletter...</string>
-  <string name="dialog_content_storage_full">Pga manglende plass, ble opptaket stoppet. Du kan fjerne unødvendige filer med Filhåndtering. Åpne nå?</string>
+  <string name="dialog_content_storage_full">Pga manglende plass, ble opptaket stoppet. Du kan fjerne unødvendige filer med Filer. Åpne nå?</string>
   <string name="dialog_play">Spill av</string>
   <string name="dialog_send">Send</string>
   <string name="dialog_title_storage_full">Ikke mere plass</string>
@@ -37,11 +37,13 @@
   <string name="notification_playback">Avspiller...</string>
   <string name="notification_recording">opptaker</string>
   <string name="notification_stopped">opptak stoppet</string>
-  <string name="notification_warning" formatted="false">Lav lagringsplass(mindre enn %d minutter)...</string>
+  <string name="notification_warning" formatted="false">Lav lagringsplass (mindre enn %d minutter)...</string>
   <string name="open_file_explorer">Åpne Filhåndtering</string>
-  <string name="overwrite_dialog_message" formatted="false">%s eksisterer allerede.\nVil du overskrive?</string>
+  <string name="overwrite_dialog_message">%s eksisterer allerede.\nVil du overskrive?</string>
   <string name="preference_led_indicator">Opptaksindikator på låseskjerm</string>
-  <string name="preference_led_indicator_prompt">Om LED skal aktiveres på låseskjermen under opptak</string>
+  <string name="preference_led_indicator_prompt">Vis i statuslinje og blink med rød LED på låseskjermen under opptak</string>
+  <string name="preference_silent_mode">Stille-modus opptak</string>
+  <string name="preference_silent_mode_summary">Sett for å aktivere lydløs opptaket</string>
   <string name="record_list">opptak</string>
   <string name="record_loading">Laster inn opptak, vennligst vent.</string>
   <string name="record_name_hour">.</string>
@@ -54,7 +56,7 @@
   <string name="rename_duplicate">Navn eksisterer, vennligst bruk et annet:</string>
   <string name="rename_illegal">Ugyldig navn, vennligst bruk et annet:</string>
   <string name="sd_card_not_available">SD-kort ikke tilgjengelig</string>
-  <string name="second" formatted="false">%d sekunder</string>
+  <string name="second">%d sekunder</string>
   <string name="send_to">Send til</string>
   <string name="sound_recorder_settings">Innstillinger</string>
   <string name="status_bar_anti_disturb">Telefonen er på lydløs, juster lydstyrken for å fortsette.</string>

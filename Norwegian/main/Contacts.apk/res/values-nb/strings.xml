@@ -768,7 +768,7 @@ for å legge til kontakt til favoritter:
   <string name="search_settings_description">Navn på dine kontakter</string>
   <string name="searching_vcard_message">Søker etter vCard data på SD-kort</string>
   <string name="select_all">Velg alle</string>
-  <string name="select_device">Velg enhet at kobile til</string>
+  <string name="select_device">Velg enhet å koble til</string>
   <string name="select_new_photo_from_photo_package">Velg nytt bilde fra bildepakken</string>
   <string name="select_none">Intet valgt, handlingen er ugyldig</string>
   <string name="select_photo_from_photo_package">Velg bilde fra bildepakken</string>
@@ -778,8 +778,9 @@ for å legge til kontakt til favoritter:
   <string name="send_to_voicemail_checkbox">Send anrop direkte til voicemail</string>
   <string name="separatorJoinAggregateAll">Alle kontakter</string>
   <string name="separatorJoinAggregateSuggestions">Foreslåtte</string>
-  <string name="service_provider">Tjenesteudbyder</string>
+  <string name="service_provider">Tjenesteleverandør</string>
   <string name="set_default">Sett standard</string>
+  <string name="set_photo_failed_msg">Klarte ikke å sette bilde</string>
   <string name="share_error">Denne kontakt kan ikke deles</string>
   <string name="share_via">Del kontakt via</string>
   <string name="share_visible_contacts">Del synlige kontakter</string>
