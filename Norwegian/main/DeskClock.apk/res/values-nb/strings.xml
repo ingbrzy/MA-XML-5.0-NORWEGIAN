@@ -44,6 +44,7 @@
   <string name="clock_instructions">Velg en klokke</string>
   <string name="close_alarm">Slå av alarm</string>
   <string name="common_settings">Generelle innstillinger</string>
+  <string name="confirm_abort">Forkast</string>
   <string name="control_set_alarm">Legg til alarm</string>
   <string name="control_set_alarm_with_existing">Alarmen er satt til: %s</string>
   <string name="day">1 dag</string>
@@ -87,7 +88,9 @@
   <string name="holiday_data_updating">Oppdaterer...</string>
   <string name="holiday_update_pref_invalidate_title">Ukedagsdataoppdatering (utløpt)</string>
   <string name="holiday_update_pref_summary">Trykk Kontroller oppdateringer</string>
-  <string name="holiday_update_pref_title">Ukedagsdataoppdatering</string>
+  <string name="holiday_update_pref_title">Ukedagsdataoppdatering</string>  
+  <string name="holiday_update_summary">Sjekk etter oppdateringer</string>
+  <string name="holiday_update_title">Oppdatering av dager krever nettverkstilkobling</string>
   <string name="home_button_description">Utskytningsrampe</string>
   <string name="hour">1 time</string>
   <string name="hour_unit">t</string>

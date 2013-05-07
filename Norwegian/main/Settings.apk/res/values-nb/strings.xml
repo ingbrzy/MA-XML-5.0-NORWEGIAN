@@ -1636,12 +1636,14 @@ Muligens ugyldig PIN."</string>
   <string name="sim_pin_change">Skift SIM PIN-kode</string>
   <string name="sim_pin_toggle">Lås SIM-kort</string>
   <string name="sim_pins_dont_match">"PIN-koder stemmer ikke overens"</string>
-  <string name="sim_reenter_new">Genta PIN</string>
+  <string name="sim_reenter_new">Gjenta PIN</string>
+  <string name="sim_status_title">SIM-status</string>
   <string name="skip_button_label">Avbryt</string>
   <string name="skip_label">Hopp over</string>
   <string name="skip_step">Hopp over dette trinnet</string>
+  <string name="slot_status_title">IMEI-informasjon</string>
   <string name="small_font">Liten</string>
-  <string name="sms_delivered_sound_dialog_title">Velg SMS leveret tone</string>
+  <string name="sms_delivered_sound_dialog_title">Velg SMS levert tone</string>
   <string name="sms_delivered_sound_title">SMS leveret lyd</string>
   <string name="sms_over_ims_off">Deaktiver SMS over IMS</string>
   <string name="sms_over_ims_on">Aktiver SMS over IMS</string>
