@@ -249,7 +249,7 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_use_physical_keyboard">Bruk fysisk tastatur</string>
   <string name="tab_notifications_lable">Notifikasjoner</string>
-  <string name="tab_toggles_lable">Av/På</string>
+  <string name="tab_toggles_lable">Brytere</string>
   <string name="title_usb_accessory">USB tilbehør</string>
   <string name="torch_activity_hint">Tenn lykt ved å holde [icon] nede på låseskjermen</string>
   <string name="torch_activity_name">Lykt</string>
