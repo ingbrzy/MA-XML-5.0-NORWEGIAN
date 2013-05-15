@@ -91,7 +91,7 @@
   <string name="menu_settings">innstillinger</string>
   <string name="menu_sort">Sorter menu</string>
   <string name="menu_wallpaper">Bakgrunn</string>
-  <string name="menu_workspace_preview">Eksempel</string>
+  <string name="menu_workspace_preview">Forhåndsvisning</string>
   <string name="out_of_space">Ikke mer plass på dette skrivebordet.</string>
   <string name="permdesc_install_shortcut">Tillater et program å legge til snarveier uten brukerens innvending.</string>
   <string name="permdesc_install_widget">Tillater et program å legge til widgets uten brukerens innvending.</string>
