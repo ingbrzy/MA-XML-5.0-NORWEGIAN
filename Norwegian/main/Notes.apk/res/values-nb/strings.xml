@@ -83,6 +83,7 @@
   <string name="success_sdcard_export">Eksport lyktes</string>
   <string name="time_picker_dialog_title">Still inn påmindelsestid</string>
   <string name="toast_message_add_image_fail">Kunne ikke sette inn bilde!</string>
+  <string name="toast_privacy_mode">Kan ikke endre notat når du er i bevoktet modus</string>
   <string name="widget_havenot_content">Ingen assosiert notat funnet, klikk for å opprette.</string>
   <string name="widget_under_visit_mode">Privat tilstand, kan ikke se innhold i notat</string>
 </resources>
