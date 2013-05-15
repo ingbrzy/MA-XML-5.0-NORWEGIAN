@@ -102,7 +102,7 @@
   <string name="permlab_install_widget">Installer widgets</string>
   <string name="permlab_read_settings">les startskjermers innstillinger og snarveier</string>
   <string name="permlab_uninstall_shortcut">Avinstaller snarvei</string>
-  <string name="permlab_write_settings">skriv Startskjermen og snariveier</string>
+  <string name="permlab_write_settings">skriv Startskjermen og snarveier</string>
   <string name="photo_adjust">Rediger bilde</string>
   <string name="photo_confirm">Bekreft</string>
   <string name="photo_load_failed">Feil ved lasting av bilde!</string>
@@ -119,11 +119,11 @@
   <string name="pref_render_in_truecolor_title">Ekte fargegjengivelse</string>
   <string name="pref_screen_transformation_type_title">Velg skjermens overgangseffekt</string>
   <string name="pref_wallpaper_scroll_type_title">Typer av bakgrunnsrulling</string>
-  <string name="preferences_general_title">Ydeevne &amp; udseende</string>
+  <string name="preferences_general_title">Yteevne &amp; utseende</string>
   <string name="preferences_title">Launcher innstillinger</string>
   <string name="process"/>
   <string name="reset_scene_prompt">Layout vil bli nullstilt</string>
-  <string name="screen_button_disabled_message">Knapper nederst på skjermen er deaktivert. De kan aktiveres ved å trykek på \"Hjem\" og \"Slukk\"</string>
+  <string name="screen_button_disabled_message">Knapper nederst på skjermen er deaktivert. De kan aktiveres ved å trykke på \"Hjem\" og \"Slukk\"</string>
   <string name="screen_button_enabled_message">Knapper nederst på skjermen er aktivert</string>
   <string name="screen_rotation_freeze_message">Skjermrotering låst til liggende modus</string>
   <string name="select_frame">Ramme</string>
