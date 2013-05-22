@@ -79,6 +79,7 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="empty_dir_title">Tomme mapper</string>
   <string name="enable_sd_card">Ingen SD-kort tilgjengelig. Vennligst sett inn, eller avmonter fra USB-lagring</string>
   <string name="error_info_cant_send_folder">Kan ikke sende en mappe</string>
+  <string name="error_open_file_failed_no_app_found">Ingen program funnet for å åpne filen</string>
   <string name="fail_to_create_folder">Kan ikke opprette, mappe eksisterer allerede</string>
   <string name="fail_to_rename">Kan ikke gi nytt navn, navn på fil eller mappe eksisterer allerede</string>
   <string name="favorite_photo">Bilde</string>

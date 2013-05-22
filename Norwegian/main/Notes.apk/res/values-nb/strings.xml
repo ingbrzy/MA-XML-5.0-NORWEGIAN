@@ -8,8 +8,10 @@
   <string name="alert_message_delete_note">Er du sikker på du vil slette dette notatet?</string>
   <string name="alert_message_delete_notes">Er du sikker på du vil slette valgte %1$s notater?</string>
   <string name="alert_message_discard_changes">Avbryt alle endringer?</string>
+  <string name="alert_message_edit_anyway">Dette notatet har innhold som ikke er støttet, endring av notatet kan føre til datatap.</string>
   <string name="alert_title_delete">Slett valgte notater</string>
   <string name="alert_title_discard">Avbryt endringer?</string>
+  <string name="alert_title_edit_anyway">Bekreft endring av notatet, dette kan føre til datatap, er du sikker?</string>
   <string name="app_name">Notater</string>
   <string name="app_widget">Notater</string>
   <string name="attachment_camera">Kamera</string>
@@ -26,6 +28,7 @@
   <string name="error_note_not_exist">Notatet eksisterer ikke</string>
   <string name="error_sdcard_export">Eksport mislyktes, vennligst sjekk SD-kort</string>
   <string name="error_sdcard_unmounted">SD-kort opptatt eller ikke lesbart, prøv igjen</string>
+  <string name="error_unsupport_content">Dette notatet har innehold som ikke støttes, klikk for å oppgradere system</string>
   <string name="error_widget_exist_for_send_to_desktop">Notatet eksisterer allerede på skrivebordet</string>
   <string name="failed_sdcard_export">Eksport mislyktes</string>
   <string name="file_name_txt_format">notater_%s.txt</string>

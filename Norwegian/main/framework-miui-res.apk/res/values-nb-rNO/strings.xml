@@ -252,6 +252,7 @@
   <string name="country_name_zm">ZM</string>
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
+  <string name="days">dager</string>
   <string name="delete">Slett</string>
   <string name="device_xiaomi">Xiaomi-telefon</string>
   <string name="double_seventh_day" />
@@ -293,6 +294,7 @@
   <string name="group_name_friends">Venner</string>
   <string name="heavy_snow" />
   <string name="hoar_frost_falls" />
+  <string name="hours">%d timer</string>
   <string name="incorrect_pincode">Ugyldig PIN kode</string>
   <string name="incorrect_pincode_remaining_attempts">Ugyldig PIN kode, %d forsøk igjen</string>
   <string name="incorrect_pukcode">Ugyldig PUK kode</string>
@@ -345,6 +347,7 @@
   <string name="lunar_zheng" />
   <string name="memory_clear_nothing_result">Ingen minne å rydde</string>
   <string name="memory_clear_result">"%1$s Frigjort | %2$s Tilgjengelig"</string>
+  <string name="minutes">%d minutter</string>
   <string name="miui_copyright_title">Opphavsrett</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Mi Credit brukeravtale</string>
@@ -392,6 +395,7 @@
   <string name="provider_114">Utgitt av 114</string>
   <string name="provider_sougou">Utgitt av Sougou</string>
   <string name="reboot_confirm">Telefonen vil restarte</string>
+  <string name="reboot_confirm_title">Er du sikker på at du vil restarte telefonen din?</string>
   <string name="reboot_progress">Renstarter...</string>
   <string name="return_to_me_message">Venligst returner til eier.</string>
   <string name="reverse_all">Fjern alle</string>
@@ -413,6 +417,7 @@
   <string name="share">Del</string>
   <string name="short_pincode_error_msg">Venligst tast inn 4–8 sifre</string>
   <string name="short_pukcode_error_msg">Vennligst tast inn minst 8 sifre</string>
+  <string name="shutdown_confirm_title">Er du sikker på at du vil skru av telefonen din?</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">Nåværende SIM er ikke aktivert. En internasjonal sms er påkrevd for å aktivere tjenesten, aktiver nå?</string>
   <string name="sim_changed_reactivate_notice">Nåværende SIM er ikke aktivert. En vanlig sms er påkrevd for å aktivere tjenesten, aktiver nå?</string>

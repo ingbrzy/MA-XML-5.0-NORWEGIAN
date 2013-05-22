@@ -183,6 +183,7 @@
   <string name="stopwatch_title">Stoppeklokke</string>
   <string name="system_time_setting">Innstillinger</string>
   <string name="time">Tidspunkt</string>
+  <string name="timer_alert_alert_silenced">Tidtaker stoppet etter %d minutter.</string>
   <string name="timer_continue">Fortsett</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_hour">T</string>
