@@ -91,10 +91,13 @@
   <string name="ext_media_badremoval_notification_title">USB-lagring fjernet uventet</string>
   <string name="ext_media_checking_notification_message">Kontrollerer for feil.</string>
   <string name="ext_media_checking_notification_title">Forbereder USB-lagring</string>
+  <string name="ext_media_mountable_notification_message">Åpne ekstern media med Filer</string>
+  <string name="ext_media_mountable_notification_title">USB-lagring tilkoblet</string>
   <string name="ext_media_nofs_notification_message">USB-lagring tomt eller har et filsystem som ikke støttes.</string>
   <string name="ext_media_nofs_notification_title">Tom USB-lagring</string>
   <string name="ext_media_nomedia_notification_message">USB-lagring fjernet. Sett inn nytt medie.</string>
   <string name="ext_media_nomedia_notification_title">USB-lagring fjernet</string>
+  <string name="ext_media_safe_remove">Sikker fjerning</string>
   <string name="ext_media_safe_unmount_notification_message">Du kan trygt fjerne USB-lagring.</string>
   <string name="ext_media_safe_unmount_notification_title">USB-lagring er trygt å fjerne</string>
   <string name="ext_media_unmountable_notification_message">USB-lagring er skadet. Den bør formatteres.</string>
@@ -251,6 +254,7 @@
   <string name="tab_notifications_lable">Notifikasjoner</string>
   <string name="tab_toggles_lable">Brytere</string>
   <string name="title_usb_accessory">USB tilbehør</string>
+  <string name="toast_rotation_locked">Skjerm låst til landskapsmodus</string>
   <string name="torch_activity_hint">Tenn lykt ved å holde [icon] nede på låseskjermen</string>
   <string name="torch_activity_name">Lykt</string>
   <string name="usb_accessory_confirm_prompt">Åpne %1$s når dette USB-tilbehøret kobles til?</string>
