@@ -41,6 +41,7 @@
   <string name="confirm">Bekreft</string>
   <string name="correct_id3_by_internet">Auto-rett ID3 via mobildata</string>
   <string name="correct_id3_failed">ID3-datarettelse mislykkets!</string>
+  <string name="correct_id3_in_processing">Retter opp ID3-sang tag data</string>
   <string name="correct_id3_not_support">ID3-rettelse er ikke støttet av denne filtypen.</string>
   <string name="correct_id3_open_other_connect">Vennligst aktiver ID3-datarettelse via mobildatainnstillingen</string>
   <string name="correct_id3_settings">ID3-rettelse innstillinger</string>
@@ -164,6 +165,7 @@
 %1$s"</string>
   <string name="online_music">Online Musikk</string>
   <string name="online_search_hint">Søk etter online musikk</string>
+  <string name="online_title">Online</string>
   <string name="other_settings">Annet</string>
   <string name="overwrite_confirm">Overskriv</string>
   <string name="play_all">Spill av alle</string>
