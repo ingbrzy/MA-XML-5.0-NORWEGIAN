@@ -11,7 +11,6 @@
   <string name="adding_recipients">Legger til mottakere...</string>
   <string name="album_name">Album-navn</string>
   <string name="album_share_stat_content">Ny albumdelingsinvitasjon</string>
-  <string name="album_name">Album-navn</string>
   <string name="albums">Album</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Kunngjøring</string>
@@ -253,7 +252,6 @@
   <string name="save_photo">Lagre redigert bilde?</string>
   <string name="saving_failure">Bilde kan ikke lagres</string>
   <string name="saving_image">Lagrer bilde…</string>
-  <string name="scan_qr_code">Lar andre skanne QR-koden for å vise dette delte albumet</string>
   <string name="scan_qr_code">Del QR-kode med venner for å tillate deling av filer</string>
   <string name="sd_not_available">SD Kort demonteret eller utilgjengelig</string>
   <string name="seconds">sekunder</string>
