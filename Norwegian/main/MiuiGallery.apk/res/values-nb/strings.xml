@@ -186,7 +186,7 @@
   <string name="menu_item_sort_visit_desc">Frekvens fallende</string>
   <string name="menu_view_contact">Vis kontakt</string>
   <string name="message_no_delete_access">Adgang nektet. Kan ikke slette fil eller mappe: %s</string>
-  <string name="messagelist_sender_self">Me</string>
+  <string name="messagelist_sender_self">Meg</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk Maleri</string>
   <string name="miliao_saved_folder_display_name">MiTalk Lagret</string>
