@@ -37,7 +37,8 @@
   <string name="add_to_other_folder_menu_option">Annen mappe</string>
   <string name="add_xiaomi_account_warning">Logg inn på din Xiaomi konto først</string>
   <string name="added_to_bookmarks">Lagt til i bokmerkene.</string>
-  <string name="allow">Tillad</string>
+  <string name="alert_tips">Siden du prøver å besøke kan være en sikkerhetsrisiko, vil du fortsette?</string>
+  <string name="allow">Tillat</string>
   <string name="application_name">Nettleser</string>
   <string name="autofill_profile_editor_address_line_1">Adresse Line 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Gatenavn og husnummer, PO boks, c/o</string>
@@ -97,6 +98,8 @@
   <string name="choosertitle_sharevia">Del via</string>
   <string name="clear">Tøm</string>
   <string name="clear_history">Tøm historikk</string>
+  <string name="close_all_tab_alert_message">Er du sikker på at du vil lukke alle fanene?</string>
+  <string name="close_all_tab_alert_title">Lukk alle faner</string>
   <string name="containing_folder">Legg til</string>
   <string name="contextheader_folder_bookmarkcount">%d bokmerker</string>
   <string name="contextheader_folder_empty">Tøm mappen</string>
@@ -109,10 +112,10 @@
   <string name="contextmenu_map">Kort</string>
   <string name="contextmenu_openlink">Åpne</string>
   <string name="contextmenu_openlink_newwindow">Åpne i ny fane</string>
-  <string name="contextmenu_openlink_newwindow_background">​​Åpne i nyt bakgrunnen fane</string>
+  <string name="contextmenu_openlink_newwindow_background">​​Åpne i ny bakgrunnsfane</string>
   <string name="contextmenu_savelink">Lagre link</string>
   <string name="contextmenu_send_mail">Send e-mail</string>
-  <string name="contextmenu_set_wallpaper">som baggrund</string>
+  <string name="contextmenu_set_wallpaper">som bakgrunn</string>
   <string name="contextmenu_sharelink">Del link</string>
   <string name="contextmenu_view_image">Vis bilde</string>
   <string name="copy_page_url">Kopier webadresse</string>
@@ -218,6 +221,10 @@
   <string name="move_to_up_folder">Gå et nivå opp</string>
   <string name="multi_select_title"> %1$s valgte elementer</string>
   <string name="name">Navn</string>
+  <string name="navigation_button_close">Lukk</string>
+  <string name="navigation_button_newtab">Ny</string>
+  <string name="navigation_button_tab">Fane</string>
+  <string name="navigation_button_view">Vis</string>
   <string name="new_folder">Ny mappe</string>
   <string name="new_incognito_tab">Ny incognito fane</string>
   <string name="new_tab">Ny fane</string>
@@ -298,6 +305,7 @@
   <string name="pref_extras_website_settings">Nettside-innstillinger</string>
   <string name="pref_extras_website_settings_summary">Avanserte Innstillinger for individuelle nettsteder</string>
   <string name="pref_fling_on_border_enabled">Trekk på kanten</string>
+  <string name="pref_fling_on_border_enabled_title_summary">Trekk fra kanten av skjermen</string>
   <string name="pref_fling_on_border_operation">Handling for trekk på kanten</string>
   <string name="pref_font_size_category">Tekststørrelse</string>
   <string name="pref_force_userscalable">Tving aktivering av zoom</string>
