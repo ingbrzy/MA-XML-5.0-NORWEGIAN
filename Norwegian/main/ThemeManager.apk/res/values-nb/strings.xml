@@ -37,6 +37,7 @@
   <string name="fail_to_add_account">Kunne ikke legge til konto</string>
   <string name="live_wallpaper">Livebakgrunn</string>
   <string name="loading">Laster...</string>
+  <string name="loading_resource_detail_fail">Kunne ikke laste ressurs!</string>
   <string name="loading_resource_detail_info">Laster...</string>
   <string name="lockscreen_wallpaper">Låseskjerm</string>
   <string name="lockstyle_personal_settings">Tilpasning</string>
@@ -108,11 +109,17 @@
   <string name="resource_title">Element detaljer</string>
   <string name="resource_title_select_ringtone">Velg ringetone</string>
   <string name="resource_update">Oppdater</string>
-  <string name="restore_default_theme_alert">Temaet er muligens ulovlig kopieret. Vennligst gå på tema markedet for at kjøpe eller laste ned på nytt.</string>
+  <string name="resource_waiting_download">Venter på nedlastning...</string>
+  <string name="restore_default_theme_alert">Temaet er muligens ulovlig kopiert. Vennligst gå på tema markedet for at kjøpe eller laste ned på nytt.</string>
   <string name="sdcard_status_changed_dialog_message">Avslutter. Åpne program igjen for å oppdatere elementene.</string>
   <string name="sdcard_status_changed_dialog_title">SD kort status endret</string>
   <string name="short_ringtone_resource">Kort</string>
   <string name="theme_another_import_running">Der er en annen importprosess igang, prøv igjen senere.</string>
+  <string name="theme_batch_has_update_text">%1$d temaer har en nye versjon tilgjengelig</string>
+  <string name="theme_batch_update_all">Oppdater alle</string>
+  <string name="theme_batch_update_dlg_content">Vil du oppdatere nå?</string>
+  <string name="theme_batch_update_dlg_title">Oppdater</string>
+  <string name="theme_batch_updating_text">%1$d temaer blir oppdatert</string>
   <string name="theme_changed_failed_message">Setting mislykkets.</string>
   <string name="theme_changed_message">Tema satt!</string>
   <string name="theme_changing_dialog_title">Setter tema...</string>
@@ -149,6 +156,7 @@
   <string name="theme_import_item_delete_request_content">Temaet er ikke oppgradert, kan brukes etter opgradering eller det kan slettes.</string>
   <string name="theme_import_item_delete_request_title">Tema ikke oppgradert</string>
   <string name="theme_import_item_importing">Oppgraderer</string>
+  <string name="theme_import_item_not_exist">Element eksisterer ikke</string>
   <string name="theme_import_item_not_upgraded">Ikke oppgradert</string>
   <string name="theme_import_item_reject_use">Temaet er igang med oppgradering, venligst vent.</string>
   <string name="theme_import_item_waiting">Venter</string>
@@ -157,7 +165,7 @@
   <string name="theme_import_oper_complete">Ferdig</string>
   <string name="theme_import_oper_start">Oppgrader alle</string>
   <string name="theme_import_oper_stop">Stopp</string>
-  <string name="theme_import_oper_stop_request_content">Disse temaer kan kun brukes hvis de blir opgradert, bekreft stansning av opgradering av alle?</string>
+  <string name="theme_import_oper_stop_request_content">Disse temaer kan kun brukes hvis de blir opgradert, bekreft stansning av oppgradering av alle?</string>
   <string name="theme_import_preparing">Skanner lokale temaer</string>
   <string name="theme_import_stoping">Stopper...</string>
   <string name="theme_importing">Importerer tema…</string>

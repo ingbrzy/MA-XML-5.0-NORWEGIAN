@@ -303,6 +303,19 @@
         <item>Åpne Voice Assistant (Xiaomi)</item>
         <item>Åpne Google Nå</item>
         <item>Lukk gjeldende program</item>
+    </string-array>   
+    <string-array name="overlay_display_devices_entries">
+        <item>None</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi og 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Ingen</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafikk)</item>
+        <item>Call stack på glGetError</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekund</item>

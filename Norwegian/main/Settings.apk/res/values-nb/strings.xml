@@ -37,8 +37,8 @@ Hvis enheten har flere brukere, vil denne snarveien på startskjermen midlertidi
    <string name="accessibility_screen_magnification_summary">"Når denne funksjonen er slått på, kan du zoome inn og ut ved å trippel-trykke på skjermen.
 
 Når du har zoomet inn, kan du:
-"<ul><li>"Pan: Dra to eller flere fingre over skjermen.
-"<li>Juster zoomnivå: Klyp to eller flere fingre sammen eller spre dem.</li></li></ul>"
+"&lt;ul&gt;&lt;li&gt;"Pan: Dra to eller flere fingre over skjermen.
+"&lt;li&gt;Juster zoomnivå: Klyp to eller flere fingre sammen eller spre dem.&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;"
 
 Du kan også midlertidig forstørre hva som er under fingeren din ved trippel-tappe og holde. I denne forstørrede tilstand, kan du dra fingeren for å utforske ulike deler av skjermen. Løft fingeren for å gå tilbake til tidligere tilstand.
 Merk: Triple-trykk for forstørrelse fungerer overalt bortsett fra tastaturet og navigasjon bar."</string>
@@ -1575,11 +1575,12 @@ Denne innstillingen gjelder alle brukere på denne telfonen."</string>
   <string name="screen_timeout">Slå av skjerm</string>
   <string name="screen_timeout_summary">Etter %1$s uten aktivitet</string>
   <string name="screen_timeout_title">Skjerm timeout</string>
+
+  <string name="screensaver_activate_on_dock_title">Start også når dokket</string>
+  <string name="screensaver_component_title">Valgt Candy</string>
   <string name="screensaver_settings_button">Innstillinger</string>
   <string name="screensaver_settings_disabled_prompt">For å kontrollere hva som skjer når telefonen er dokket og/eller sover, skru Dagdrøm på.</string>
   <string name="screensaver_settings_dream_start">Start nå</string>
-  <string name="screensaver_activate_on_dock_title">Start også når dokket</string>
-  <string name="screensaver_component_title">Valgt Candy</string>
   <string name="screensaver_settings_summary_dock">Når dokket</string>
   <string name="screensaver_settings_summary_either_long">Når dokket eller sover og lader</string>
   <string name="screensaver_settings_summary_either_short">Hvilken som helst</string>
@@ -2172,7 +2173,7 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="wifi_disabled_password_failure">Godkjennelsesproblem</string>
   <string name="wifi_display_available_devices">Tilgjengelige enheter</string>
   <string name="wifi_display_details">Skjerminnstillinger</string>
-  <string name="wifi_display_disconnect_text">Dette vil avslutte tilkoblingen din med:&lt;br>&lt;b>%1$s&lt;/b></string>
+  <string name="wifi_display_disconnect_text">Dette vil avslutte tilkoblingen din med:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;RR</string>
   <string name="wifi_display_disconnect_title">Koble fra?</string>
   <string name="wifi_display_no_devices_found">Ingen trådløse skjermer ble funnet i nærheten.</string>
   <string name="wifi_display_options_done">Ferdig</string>

@@ -452,6 +452,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="loading_group_members">Laster inn gruppe medlemmer...</string>
   <string name="loading_groups">Laster inn grupper...</string>
   <string name="loading_recent">Laster inn nylige kontakter...</string>
+  <string name="loading_resource_detail_fail">Kunne ikke laste ressurs!</string>
   <string name="loading_resource_detail_info">Laster inn element info...</string>
   <string name="local_invisible_directory">Andre</string>
   <string name="local_profile_title">Min lokale profil</string>
@@ -752,7 +753,8 @@ for å legge til kontakt til favoritter:
   <string name="resource_tip_select_ringtone">Ingen ringetone valgt</string>
   <string name="resource_title">Element detaljer</string>
   <string name="resource_title_select_ringtone">Velg ringetone</string>
-  <string name="resource_update">Opdater</string>
+  <string name="resource_update">Oppdater</string>
+  <string name="resource_waiting_download">Venter på nedlastning...</string>
   <string name="restore_nickname">Gjenopprett</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Ring tilbake</string>

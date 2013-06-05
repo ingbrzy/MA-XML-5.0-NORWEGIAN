@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_account_desc">Notater kan synkroniseres til din Xiaomi-konto. Log inn og synk nå?</string>
+  <string name="alert_action_edit_anyway">Fortsett endring</string>
   <string name="alert_edit_action_delete">Fjern</string>
   <string name="alert_edit_action_update">Rediger</string>
   <string name="alert_message_delete_folders">Bekreft sletting av de valgte %1$s mappene?</string>
