@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Passordet må inneholde minst %d tegn.</item>
+        <item quantity="one">Passordet må inneholde minst 1 tegn.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Passordet må inneholde minst %d små tegn.</item>
+        <item quantity="one">Passordet må inneholde minst 1 små tegn.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Passordet må inneholde minst %d store tegn.</item>
+        <item quantity="one">Passordet må inneholde minst 1 store tegn.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Passordet må inneholde minst %d nummer.</item>
+        <item quantity="one">Passordet må inneholde minst 1 nummer.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Passordet må inneholde minst %d spesial symboler.</item>
+        <item quantity="one">Passordet må inneholde minst 1 spesial symbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Passordet må inneholde minst %d ikke-bokstaver.</item>
+        <item quantity="one">Password must contain at least 1 ikke-bokstav.</item>
+    </plurals>
+</resources>
