@@ -11,7 +11,7 @@
   <string name="caller_app">Anrop: %1$s</string>
   <string name="cancel">Avbryt</string>
   <string name="dlg_app_replacement_statement">"Den applikasjonen du installerer, erstatter en annen applikasjon. Alle tidligere brukerdata lagres."</string>
-  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) vil erstatte den gjeldende versjonen (%3$s). Brukerens innholdet vil bli beholdt. Er du sikker på at du ønsker å installere?"</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) vil erstatte den gjeldende versjonen (%3$s). Brukerens innhold vil bli beholdt. Er du sikker på at du ønsker å installere?"</string>
   <string name="dlg_app_replacement_title">Erstatt applikasjonen</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Dette er et systemprogram. Ønsker du fortsatt å erstatte det? Alle tidligere brukerdata lagres."</string>
