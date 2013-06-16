@@ -39,13 +39,14 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="clean_title">Slett filer fra papirkurven som er eldre enn 30 dager</string>
   <string name="clean_trash_box">Tøm papirkurv</string>
   <string name="cleanup_complete">Rydding fullført</string>
-  <string name="clear_cache">Tøm cache</string>
   <string name="close">Lukk</string>
+  <string name="compress_fail">Komprimering feilet, destinasjonen finnes allerede</string>
   <string name="compress_message">Komprimer til:</string>
   <string name="compress_title">Komprimer</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
-  <string name="copy_failed">Kopiering mislyktes</string>
+  <string name="copy_failed">Kopiering mislykkes</string>
+  <string name="create_kuaipan_shortcut_pref">Legg en snarvei på skrivebordet</string>
   <string name="create_new_folder_desctiption">Oppretter ny mappe...</string>
   <string name="create_new_folder_failed">Kunne ikke opprette mappe %1$s</string>
   <string name="create_share_link_description">Oppretter delingslink…</string>
@@ -71,6 +72,7 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="dialog_type_text">Tekst</string>
   <string name="dialog_type_video">Video</string>
   <string name="directory_no_item">Tom mappe</string>
+  <string name="dlg_error_unmount_text">"Kunne ikke koble fra USB-lagring. Prøv igjen senere."</string>
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Nedlasting mislyktes</string>
   <string name="download_link_completed">Jeg har delt %1$s via MiDrive. Klikk på linken under for å se: </string>
@@ -82,6 +84,7 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="error_info_cant_send_folder">Kan ikke sende en mappe</string>
   <string name="error_open_file_failed_no_app_found">Ingen program funnet for å åpne filen</string>
   <string name="fail_to_create_folder">Kan ikke opprette, mappe eksisterer allerede</string>
+  <string name="fail_to_create_folder_unknown">Kan ikke opprette: ukjent feil.</string>
   <string name="fail_to_rename">Kan ikke gi nytt navn, navn på fil eller mappe eksisterer allerede</string>
   <string name="favorite_photo">Bilde</string>
   <string name="favorite_ringtone">Ringetoner</string>
@@ -124,7 +127,6 @@ Søppelelementer"</string>
   <string name="kuaipan_tech_support">Teknisk support tilbudt av Kingsoft Kuaipan</string>
   <string name="load_err">Innlasting mislyktes</string>
   <string name="loading">Laster inn</string>
-  <string name="local_cache">Lokal cache</string>
   <string name="local_cache_size">Lokal cache-størrelse: %s</string>
   <string name="login_reg_content">MiDrive hjelper med å oppbevare filer og synkronisere dem mellom flere enheter.</string>
   <string name="login_reg_content0">MiDrive er din lagring i skyen</string>
@@ -148,6 +150,9 @@ Søppelelementer"</string>
   <string name="no_app_cache_indication">Ingen programcache</string>
   <string name="no_app_garbage_indication">Ingen programsøppel</string>
   <string name="no_empty_dir_indication">Ingen tomme mapper</string>
+  <string name="no_enough_space">Ikke nok lagringsplass</string>
+  <string name="no_enough_storage_indication">Ikke nok lagringsplass tilgjengelig, kopering mislykkes. Vennligst slett unødvendige filer og prøv igjen, eller bruke Filopprydding for å frigjøre plass.</string>
+  <string name="no_enough_storage_title">Ikke nok lagringsplass tilgjengelig</string>
   <string name="no_file">Ingen filer</string>
   <string name="no_more_space">Ikke mer plass</string>
   <string name="no_tasks">Ingen oppgaver</string>
@@ -202,7 +207,7 @@ Søppelelementer"</string>
   <string name="rename_description">Gir nytt navn, vennligst vent…</string>
   <string name="rename_failed">Kunne ikke gi nytt navn %1$s</string>
   <string name="restart_cleaning">Restart</string>
-  <string name="scanning">Skanner</string>
+  <string name="scanning" formatted="false">Skanner %d programmer... (totalt %d programmer)</string>
   <string name="scanning_on_going">Skanner...</string>
   <string name="sd_card_available">Tilgjengelig: %1$s</string>
   <string name="sd_card_size">SD-kort: %1$s</string>
