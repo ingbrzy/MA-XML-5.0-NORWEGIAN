@@ -710,7 +710,9 @@ for å legge til kontakt til favoritter:
   <string name="recentCalls_trashVoicemail">Slett voicemail</string>
   <string name="recent_contacts_label">Seneste</string>
   <string name="recent_number">Nylige</string>
-  <string name="recent_updates">Seneste</string>
+  <string name="recent_updates">Seneste oppdateringer</string>
+  <string name="redirect_calls_to_vm_confirm_message">Hvis du ikke har søkt til eieren av denne bedriften, vennligst ikke skru på. Ellers, kan du ikke motta samtaler fra denne kontakten.</string>
+ <string name="redirect_calls_to_vm_confirm_text">Skru på</string>
   <string name="relationLabelsGroup">Forhold</string>
   <string name="remind_btn_ignore">Ignorer</string>
   <string name="remind_btn_sync_now">Nu</string>
