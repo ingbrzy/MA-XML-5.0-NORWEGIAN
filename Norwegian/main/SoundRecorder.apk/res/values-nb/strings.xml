@@ -42,6 +42,8 @@
   <string name="overwrite_dialog_message">%s eksisterer allerede.\nVil du overskrive?</string>
   <string name="preference_led_indicator">Opptaksindikator på låseskjerm</string>
   <string name="preference_led_indicator_prompt">Vis i statuslinje og blink med rød LED på låseskjermen under opptak</string>
+  <string name="preference_record_type_dialog_title">Velg en opptakstype</string>
+  <string name="preference_record_type_title">Opptakstype</string>
   <string name="preference_silent_mode">Stille-modus opptak</string>
   <string name="preference_silent_mode_summary">Sett for å aktivere lydløs opptaket</string>
   <string name="record_list">opptak</string>

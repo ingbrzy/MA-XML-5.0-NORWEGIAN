@@ -12,6 +12,8 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="app_garbage_title">Program-søppel</string>
   <string name="app_name">Filer</string>
   <string name="background">Kjør i bakgrunnen</string>
+  <string name="big5_summary">Standard koding av den tradisjonelle kinesiske versjonen av Windows-system</string>
+  <string name="big5_title">BIG5</string>
   <string name="bind_account">Knytt til kuaipan-konto</string>
   <string name="bind_account_summary">Hvis du allerede har en kuaipan-konto, kan du knytte den til din telefon for å lese dataene</string>
   <string name="binded_accout_description">De to kontene er flettet sammen, du kan logge på med begge kontoer og begge kontoer kan lese dine data</string>
@@ -121,6 +123,7 @@ Søppelelementer"</string>
   <string name="instruction">Tast inn følgende adresse i din FTP-klient:</string>
   <string name="instruction_pre">Start tjeneste for å aktivere FTP-server</string>
   <string name="item_name">Ingen navn</string>
+  <string name="kuaipan_label">Kuaipan</string>
   <string name="kuaipan_over_space">Ikke mer plass på din MiDrive.</string>
   <string name="kuaipan_prompt">MiDrive Hjelp</string>
   <string name="kuaipan_prompt_message">"Serveren er utilgjengelig, prøv igjen senere."</string>
@@ -259,6 +262,8 @@ Søppelelementer"</string>
   <string name="ui_main_progress_txt_open_file">Laster ned...</string>
   <string name="ui_main_toast_favorite_removed">Favoritter fjernet</string>
   <string name="ui_main_toast_operation_failed">Fjerning av %1$s mislyktes.</string>
+  <string name="uninstall_app_data">Fjern program og data</string>
+  <string name="unmount_inform_text">USB-lagring vil bli avmontert.</string>
   <string name="upload_failed">Opplasting mislyktes</string>
   <string name="upload_file_toolarge_message">"%1$d filer større enn 300MB kan ikke lastes opp."</string>
   <string name="uploading">Laster opp...</string>

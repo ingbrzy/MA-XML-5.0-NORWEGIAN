@@ -261,8 +261,10 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Hent automatisk MMS-meldinger under roaming</string>
   <string name="pref_summary_new_message_popup">Vis Pop-up på skjermen når meldinger mottas</string>
   <string name="pref_summary_new_message_popup_when_secure">Pop-up vinduet er deaktivert når telefonen er beskyttet med passord</string>
-  <string name="pref_summary_off_system_mms_priority">Andre apps vil muligens motta MMS-meldingen før system MMS app</string>
-  <string name="pref_summary_on_system_mms_priority">System MMS app vil prioriteres til mottagelse av MMS-meldinger</string>
+  <string name="pref_summary_off_system_mms_priority">Andre programmer vil muligens motta MMS-meldingen før system MMS app</string>
+  <string name="pref_summary_notification_body_enabled">Forhåndsvis meldinger på låseskjermen, og statuslinjen</string>
+ <string name="pref_summary_notification_body_enabled_when_secure">Forhåndsvisning av meldinger deaktivert når adgangskontroll er aktivert</string>
+  <string name="pref_summary_on_system_mms_priority">System MMS-program vil prioriteres til mottagelse av MMS-meldinger</string>
   <string name="pref_summary_show_recent_contacts">Vis liste med nylig brukte kontakter når det skrives nye meldinger</string>
   <string name="pref_summary_wake_up_screen">Vekk skjerm når meldinger mottas</string>
   <string name="pref_system_title">System</string>
@@ -277,6 +279,7 @@
   <string name="pref_title_mms_read_reports">Leserapporter</string>
   <string name="pref_title_mms_retrieval_during_roaming">Roaming auto-hent</string>
   <string name="pref_title_new_message_popup">Meldinger i Pop-up</string>
+  <string name="pref_title_notification_body_enabled">Vis forhåndsvisning</string>
   <string name="pref_title_ringtone_repeat">Påmindelsesfrekvens</string>
   <string name="pref_title_show_recent_contacts">Vis siste kontakter</string>
   <string name="pref_title_sms_delete">MAX meldingsstørrelse</string>
@@ -393,9 +396,10 @@
   <string name="too_many_recipients">Denne melding har for mange mottakere (%1$s). - MAX %2$s mottakere!</string>
   <string name="too_many_unsent_mms">Kan ikke sende melding nå, det er for mange usendte MMS\'er.</string>
   <string name="try_to_send">Prøv å sende</string>
+  <string name="type_attachment">vedlegg</string>
   <string name="type_audio">lyd</string>
   <string name="type_picture">bilde</string>
-  <string name="type_to_compose_text_enter_to_send">Oppret ny melding</string>
+  <string name="type_to_compose_text_enter_to_send">Opprett ny melding</string>
   <string name="type_to_compose_text_or_leave_blank">Skriv melding eller la stå blank</string>
   <string name="type_video">video</string>
   <string name="undelivered_msg_dialog_body">Kan ikke sende denne meldingen.\nForsøk: %s.</string>

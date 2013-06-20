@@ -23,6 +23,7 @@
   <string name="app_detail_internet_control_category">Nettverkstilgang</string>
   <string name="app_detail_title">Programdetaljer</string>
   <string name="app_detail_version">Versjon: %s</string>
+  <string name="app_has_deleted">%s har blitt slettet.</string>
   <string name="app_name">Datakontroll</string>
   <string name="app_traffic_detail">" trafikk (%s)"</string>
   <string name="apply_rules_failed">"Bruk av brannmur mislykkes, prøv igjen. (%s)"</string>

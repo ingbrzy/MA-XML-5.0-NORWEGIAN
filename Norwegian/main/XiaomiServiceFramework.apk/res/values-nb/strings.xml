@@ -107,8 +107,9 @@ og kan ikke bli brukt hvis utløpt"</string>
   <string name="label_order_name">Produktnavn: </string>
   <string name="label_order_price">Antall: </string>
   <string name="login">Logg inn</string>
-  <string name="login_failed">Logg inn mislyktes</string>
-  <string name="login_notice">Logg inn...</string>
+  <string name="login_failed">Innlogging mislyktes</string>
+  <string name="login_notice">Logger inn...</string>
+  <string name="memu_refresh">Oppdater</string>
   <string name="mibi_license_message">Du vil bruke Xiaomi Mi Credit Tjeneste. Trykk på OK betyr samtykke med %1$s.</string>
   <string name="mibi_license_message_span">Mi Credit brukeravtale</string>
   <string name="mibi_license_title">brukeravtale</string>
