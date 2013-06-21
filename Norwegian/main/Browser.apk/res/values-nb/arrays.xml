@@ -31,6 +31,11 @@
         <item>Japansk (SHIFT_JIS)</item>
         <item>Japansk (EUC-JP)</item>
         <item>Koreansk (EUC-KR)</item>
+    </string-array>    
+    <string-array name="pref_images_preload_choices">
+        <item>Aldri</item>
+        <item>Smart</item>
+        <item>Alltid</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Aldri</item>
