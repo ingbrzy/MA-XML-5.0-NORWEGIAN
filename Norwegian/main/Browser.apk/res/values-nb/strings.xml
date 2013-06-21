@@ -40,7 +40,7 @@
   <string name="alert_tips">Siden du prøver å besøke kan være en sikkerhetsrisiko, vil du fortsette?</string>
   <string name="allow">Tillat</string>
   <string name="app_new_version">Du har allerede den nyeste versjonen nedlastet</string>
-  <string name="app_update_install">Ny versjon nedlastet og klar for innstallering</string>
+  <string name="app_update_install">Ny versjon nedlastet og klar for installering</string>
   <string name="application_name">Nettleser</string>
   <string name="autofill_profile_editor_address_line_1">Adresse Line 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Gatenavn og husnummer, PO boks, c/o</string>
