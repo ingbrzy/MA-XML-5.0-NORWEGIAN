@@ -187,6 +187,8 @@
   <string name="playlist_renamed_message">spilleliste gitt nytt navn.</string>
   <string name="playlists_title">Spillelister</string>
   <string name="powered_by">Drevet av</string>
+  <string name="project_device">Xiaomi MiBox</string>
+  <string name="project_device_mobile">Mobil enhet</string
   <string name="queue">Nåværende spilleliste</string>
   <string name="quit_player">Avslutt</string>
   <string name="quit_warining">Avspiller vil stoppe avspillning etter %d minutt(er)</string>
