@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="absent_num">MANGLENDE NUMMER</string>
-  <string name="accessibility_call_muted">Lyd slået fra opkald.</string>
-  <string name="accessibility_speakerphone_enabled">Højttalertelefon aktiveret.</string>
-  <string name="add_button_miui">Tilføj</string>
-  <string name="add_fdn_contact">Tilføj fast opkaldsnummer</string>
-  <string name="add_sip_account">Tilføj konto</string>
-  <string name="add_vm_number_str">Tilføj nummer</string>
+  <string name="accessibility_call_muted">Dempede samtaler.</string>
+  <string name="accessibility_speakerphone_enabled">Høyttalertelefon aktivert.</string>
+  <string name="add_button_miui">Legg til</string>
+  <string name="add_fdn_contact">Legg til faste anrop</string>
+  <string name="add_sip_account">Legg til konto</string>
+  <string name="add_vm_number_str">Legg til nummer</string>
   <string name="add_zero_prefix">Tilføj 0 præfiks vede opkald til mobil numre</string>
   <string name="adding_fdn_contact">Tilføjer fast opkaldsnummer...</string>
   <string name="additional_cdma_call_settings">Yderligere CDMA-opkaldsindstillinger</string>
