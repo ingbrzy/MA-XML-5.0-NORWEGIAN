@@ -31,6 +31,8 @@
   <string name="aggregation_suggestion_join_dialog_message">Flet nåværende kontakt med den valgte kontakt?</string>
   <string name="all_list_empty">Ingen kontakter</string>
   <string name="all_resources">Alle</string>
+  <string name="antispam_mark_my_contribution">Mine bidrag til databasen</string>
+  <string name="antispam_provider_format">Dette markerte nummeret er lagt til av %s</string>
   <string name="attach_photo_dialog_title">Kontaktbilde</string>
   <string name="audio_chat">Lyd chat</string>
   <string name="auto_nickname">Auto</string>
@@ -172,7 +174,8 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="contact_edit_title_readonly">Skrivebeskyttet kontakt</string>
   <string name="contact_editor_prompt_multiple_accounts">Du kan synkronisere din nye kontakt med en av ​​følgende kontoer. Hvilken vil du bruke?</string>
   <string name="contact_editor_prompt_one_account">Din nye kontakt vil bliv synkronisert med %1$s</string>
-  <string name="contact_editor_prompt_zero_accounts">"Din nye kontaktperson vil ikke bli sikkerhedskopiert. Vil du legge til en konto, så kontaktene blir sikkertskopiert online?"</string>
+  <string name="contact_editor_prompt_zero_accounts">"Din nye kontaktperson vil ikke bli sikkerhetskopiert. Vil du legge til en konto, så kontaktene blir sikkertskopiert online?"</string>
+  <string name="contact_is_readOnly">Kan ikke endre skrivebeskyttede kontakter</string>
   <string name="contact_list_loading">Laster inn...</string>
   <string name="contact_pick_photo">Bilde</string>
   <string name="contact_read_only">kan ikke redigeres fra dette programmet</string>
@@ -414,6 +417,11 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="import_to_xiaomi_account_title">Vil du importere følgende kontakter til din Xiaomi konto?</string>
   <string name="import_vcard_description">Importer kontakter fra SIM kort</string>
   <string name="import_weibo_dialog_title">Importer Sina weibo kontakter</string>
+  <string name="import_weibo_error_no_matched_contacts">Ferdig med å oppdatere kontakter: ingen matchede kontakter</string>
+  <string name="import_weibo_error_no_network">Ferdig med å oppdatere kontakter: nettverksproblemer</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Ferdig med å oppdatere kontakter: ingen telefonnummer funnet i Xiaomi-kontoen</string>
+  <string name="import_weibo_error_unknown">Ferdig med å oppdatere kontakter: ukjent feil</string>
+  <string name="import_weibo_error_user_cancel">Ferdig med å oppdatere kontakter: brukeren avbrutte</string>
   <string name="import_weibo_fetch_followers">Henter Sina Weibo følgere…</string>
   <string name="import_weibo_notification_title">Importerer Sina weibo kontakter…</string>
   <string name="import_weibo_notification_title_done">Importering fullført</string>
@@ -470,7 +478,8 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="menu_bar_group_add">Legg til</string>
   <string name="menu_bar_group_delete">Slett</string>
   <string name="menu_bar_group_rename">Bytt navn</string>
-  <string name="menu_bar_group_ringtone">Gruppe ringetone</string>
+  <string name="menu_bar_group_ringtone">Grupperingetone</string>
+  <string name="menu_bar_group_ringtone_largeui">Ringetone</string>
   <string name="menu_bar_group_sms">Gruppe SMS</string>
   <string name="menu_call">Ring opp</string>
   <string name="menu_callNumber">Ring til %s</string>
@@ -689,6 +698,7 @@ for å legge til kontakt til favoritter:
   <string name="private_num">Hemmelig nummer</string>
   <string name="processing">Behandler...</string>
   <string name="profile_display_name">Sett opp min profil</string>
+  <string name="profile_name">Min profil</string>
   <string name="progress_notifier_message" formatted="false">Importerer %s/%s: %s</string>
   <string name="quickcontact_missing_app">Ingen program funnet til å håndtere denne handling</string>
   <string name="quit_dialog_confirm_title">Er du sikker på du vil avslutte fletning av kontakter?</string>
@@ -807,6 +817,7 @@ for å legge til kontakt til favoritter:
   <string name="sim_export_loading">SIM Kort information leses. Denne handlingen kan ta et par minutter, vennligst vær tålmodig.</string>
   <string name="sim_indexed_contact_not_exist">Posisjon %1$d på SIM-kort er ugyldig, skal være mellom %2$d og %3$d</string>
   <string name="sim_no_contact">Ingen kontakter på SIM kort</string>
+  <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Ingen gruppemedlemmer</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
   <string name="smart_group_company_label">Via firma</string>

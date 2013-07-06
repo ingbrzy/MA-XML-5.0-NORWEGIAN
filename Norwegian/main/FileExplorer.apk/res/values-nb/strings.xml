@@ -21,6 +21,7 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="cache_size_label">Cache</string>
   <string name="cancel">Avbryt</string>
   <string name="cancel_app_garbage_cleanup">Avbryt programopprydding</string>
+  <string name="cancel_with_count_down">Avbryt (%d)</string>
   <string name="category_all">Alle</string>
   <string name="category_apk">APKer</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -40,7 +41,10 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="clean_message">%1$s plass frigjort</string>
   <string name="clean_title">Slett filer fra papirkurven som er eldre enn 30 dager</string>
   <string name="clean_trash_box">Tøm papirkurv</string>
+  <string name="cleaned">Rydding fullført</string>
+  <string name="cleaning">Rydder...</string>
   <string name="cleanup_complete">Rydding fullført</string>
+  <string name="cleanup_stopped">Rydding stoppet</string>
   <string name="close">Lukk</string>
   <string name="compress_fail">Komprimering feilet, destinasjonen finnes allerede</string>
   <string name="compress_message">Komprimer til:</string>
@@ -48,6 +52,7 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
   <string name="copy_failed">Kopiering mislykkes</string>
+  <string name="count_down_time">Start etter %d sekunder</string>
   <string name="create_kuaipan_shortcut_pref">Legg en snarvei på skrivebordet</string>
   <string name="create_new_folder_desctiption">Oppretter ny mappe...</string>
   <string name="create_new_folder_failed">Kunne ikke opprette mappe %1$s</string>
@@ -91,6 +96,7 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="favorite_photo">Bilde</string>
   <string name="favorite_ringtone">Ringetoner</string>
   <string name="favorite_screen_cap">MIUI Skjermbilder</string>
+  <string name="file_cleanup">Fil-rydding</string>
   <string name="file_info_canread">Lesbar:</string>
   <string name="file_info_canwrite">Skrivbar:</string>
   <string name="file_info_ishidden">Skjult:</string>
@@ -210,6 +216,7 @@ Søppelelementer"</string>
   <string name="rename_description">Gir nytt navn, vennligst vent…</string>
   <string name="rename_failed">Kunne ikke gi nytt navn %1$s</string>
   <string name="restart_cleaning">Restart</string>
+  <string name="scanned">Skanning fullført</string>
   <string name="scanning" formatted="false">Skanner %d programmer... (totalt %d programmer)</string>
   <string name="scanning_on_going">Skanner...</string>
   <string name="sd_card_available">Tilgjengelig: %1$s</string>

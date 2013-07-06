@@ -3,6 +3,13 @@
   <string name="app_label">Opprett kontakt</string>
   <string name="call_log_provider_label">Anropslister</string>
   <string name="create_contact">Ny kontakt</string>
+  <string name="debug_dump_database_message">Du er i ferd med 1) lage en kopi av databasen som inneholder all kontakt-relatert informarsjon og anropslogg-relatert informasjon til den interne lagringen, og 2) sende den på epost. Husk å slette kopien så snart du har kopiert det av enheten eller e-posten er mottatt.</string>
+  <string name="debug_dump_delete_button">Slett nå</string>
+  <string name="debug_dump_email_body">Vedlagt er min kontakt-database med all min kontaktinformasjon. Håndter den med varsomhet.</string>
+  <string name="debug_dump_email_sender_picker">Velg ett program for å sende filen</string>
+  <string name="debug_dump_email_subject">Kontakt-DB vedlagt</string>
+  <string name="debug_dump_start_button">Start</string>
+  <string name="debug_dump_title">Kopier kontakt-database</string>
   <string name="default_directory">Kontakter</string>
   <string name="edit_contact">Rediger kontakt</string>
   <string name="local_invisible_directory">Andre</string>

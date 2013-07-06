@@ -7,6 +7,7 @@
   <string name="add_sharer">Legg til i delte</string>
   <string name="add_to_cloud_album">Legg til</string>
   <string name="add_to_cloud_fail_too_many_items">Kunne ikke fullføre handlingen. Muligens for mange valgte elementer.</string>
+  <string name="add_to_cloud_failed_message_with_count">%s element(er) can ikke bli lagt til i skyalbum</string>
   <string name="add_to_cloud_folder">Legg til Cloud mappe</string>
   <string name="adding_recipients">Legger til mottakere...</string>
   <string name="album_name">Album-navn</string>
@@ -186,6 +187,7 @@
   <string name="menu_item_sort_visit_desc">Frekvens fallende</string>
   <string name="menu_view_contact">Vis kontakt</string>
   <string name="message_no_delete_access">Adgang nektet. Kan ikke slette fil eller mappe: %s</string>
+  <string name="message_no_delete_access_with_count">Kan ikke slette %d fil(er) eller mappe(r). Hver sikker på at de eksisterer og at du har tilgang til dem.</string>
   <string name="messagelist_sender_self">Meg</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk Maleri</string>

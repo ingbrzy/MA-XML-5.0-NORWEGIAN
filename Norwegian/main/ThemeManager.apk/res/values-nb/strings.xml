@@ -145,8 +145,10 @@
   <string name="theme_component_title_ringtone">Ringetone</string>
   <string name="theme_component_title_statusbar">Statusmenu</string>
   <string name="theme_component_title_wallpaper">Skrivebord</string>
+  <string name="theme_current_using_has_update">Gjeldende tema har blitt oppdatert, klikk her for å bruke</string>
   <string name="theme_description_title_customized">Tilpasset</string>
   <string name="theme_description_title_default">Standard</string>
+  <string name="theme_immediately_apply_tip">Dette temaet er oppdatert, bruk nå</string>
   <string name="theme_import_activity_label">Oppgrader Tema</string>
   <string name="theme_import_data">Importerer temaer</string>
   <string name="theme_import_fail">Importering av tema %1$s mislykkes.</string>

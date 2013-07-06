@@ -317,6 +317,12 @@
         <item>Systrace (Grafikk)</item>
         <item>Call stack på glGetError</item>
     </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Ansiktsopplåsning</item>
+        <item>Mønster</item>
+        <item>Numerisk passord</item>
+        <item>Blandet passord</item>
+    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekund</item>
         <item>1 sekund</item>
