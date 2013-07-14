@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">Adgang nektet</string>
+  <string name="access_token_expired_warning">Weibo-kontoen er utløpt, vennligst koble til på nytt</string>
+  <string name="access_token_invalid_warning">Weibo-kontoen er ugyldig, vennligst koble til på nytt</string>
   <string name="account">Konto</string>
   <string name="account_detail">Xiaomi-konto: %1$s</string>
-  <string name="account_dspt">"Xiaomi-konto kan synkronisere og ta backup av dine beskjeder, kontakter, bilder, etc."</string>
+  <string name="account_dspt">"Xiaomi-konto kan synkronisere og ta backup av dine beskjeder, kontakter, bilder, osv."</string>
   <string name="account_hint_text">Epost/Telefonnummer</string>
   <string name="account_name">Konto: %1$s</string>
   <string name="activating">Aktiverer...</string>
@@ -38,11 +40,11 @@
   <string name="check_phone_error_title">Aktivering av synktjeneste mislyktes</string>
   <string name="check_phone_io_error">Nettverksfeil</string>
   <string name="checking_account">Verifiserer konto...</string>
-  <string name="completed">avslutt</string>
+  <string name="completed">Fullført</string>
   <string name="confirm">Bekreft</string>
-  <string name="data_keep_in_phone">Behold på telefonen</string>
-  <string name="data_sync_notice">Bruk din Xiaomi konto til å synkronisere meldinger, kontakter og andre data.</string>
-  <string name="data_wipe_from_phone">Slett fra telefonen</string>
+  <string name="data_keep_in_phone">Behold data på enheten</string>
+  <string name="data_sync_notice">Bruk din Xiaomi-konto til å synkronisere meldinger, kontakter og andre data.</string>
+  <string name="data_wipe_from_phone">Slett fra enheten</string>
   <string name="disable_find_device_error">%1$s, kunne ikke deaktivere plasseringstjeneste</string>
   <string name="email_already_be_used">Epostadresse allerede i bruk</string>
   <string name="enable_find_device_error">%1$s, kunne ikke aktivere plasseringstjeneste</string>
@@ -90,6 +92,7 @@
   <string name="find_password_on_web_msg">Vennligst besøk account.xiaomi.com for å få ditt passord</string>
   <string name="forget_password" />
   <string name="frozen">(Låst)</string>  
+  <string name="get_back_pwd">Gjenopprett kontopassord</string>
   <string name="giftcard_acitivity_and_denomination">%2$s Mi Credit gavekort fra %1$s</string>
   <string name="giftcard_denom">Mi Credit(s)</string>
   <string name="giftcard_denom_available">Mi Credit(s) tilgjengelige</string>
@@ -113,14 +116,16 @@ og kan ikke bli brukt hvis utløpt"</string>
   <string name="mibi_license_message">Du vil bruke Xiaomi Mi Credit Tjeneste. Trykk på OK betyr samtykke med %1$s.</string>
   <string name="mibi_license_message_span">Mi Credit brukeravtale</string>
   <string name="mibi_license_title">brukeravtale</string>
-  <string name="micloud_account">XiaoMi konto</string>
+  <string name="micloud_account">Xiaomi konto</string>
   <string name="micloud_account_label">Konto: %1$s</string>
-  <string name="micloud_account_name">XiaoMi Konto</string>
+  <string name="micloud_account_name">Xiaomi Konto</string>
   <string name="micloud_account_not_actived">Konto ikke aktivert</string>
   <string name="micloud_active_email_sent_1">Vi har sendt en aktiveringslink til din epost:</string>
   <string name="micloud_active_email_sent_2" />
-  <string name="micloud_active_email_visit">Besøg %s</string>
-  <string name="micloud_activing_account">Aktiverer din konto</string>
+  <string name="micloud_active_email_visit">Besøk %s</string>
+  <string name="micloud_activing_account">Aktiverer din konto...</string>
+  <string name="micloud_activing_account_delayed">"Det kan ta opptil 30 sekunder å fullføre aktivering. Ta deg en kopp kaffe mens du venter..."</string>
+  <string name="micloud_activing_account_failed">Failed to activate your account</string>
   <string name="micloud_click_email">Klink på linken i eposten for å aktivere din Xiaomi-konto</string>
   <string name="micloud_click_email_to_valid">Klikk på aktiveringslinken i din inboks</string>
   <string name="micloud_delete_account">Slett konto</string>
@@ -131,9 +136,9 @@ og kan ikke bli brukt hvis utløpt"</string>
   <string name="micloud_error_illegal_pwd">Ugyldig passord</string>
   <string name="micloud_input_password_prompt">Tast inn passord</string>
   <string name="micloud_password_confirm_hint">Bekreft passord</string>
-  <string name="micloud_password_error_inconsistent">passordene stemmer ikke overens</string>
+  <string name="micloud_password_error_inconsistent">Passordene stemmer ikke overens</string>
   <string name="micloud_password_req_notice">8~16 sifre, inneholder tall, bokstaver, store og små bokstaver</string>
-  <string name="micloud_reg_new">Ny</string>
+  <string name="micloud_reg_new">Lag ny</string>
   <string name="micloud_resend_active_email">Send aktiveringsepost på nytt</string>
   <string name="micloud_use_existing">Eksisterende</string>
   <string name="micloud_val_sms_alert">En SMS skal sendes for å validere ditt telefonnummer, fortsett?</string>
@@ -202,8 +207,7 @@ og kan ikke bli brukt hvis utløpt"</string>
 1. Vennligst kontakt kundeservice i Shenzhou：%1$s 
 2. Vennligst opplys serienummer: %2$s"</string>
   <string name="progress_warning_waiting">Fortsatt ingen svar. Prøv igjen senere.</string>
-  <string name="quick_login_title">"Godkjendelse påkrevd.
-Vennligst skriv inn ditt passord"</string>
+  <string name="quick_login_title">"Godkjendelse påkrevd. Vennligst skriv inn ditt passord"</string>
   <string name="recharge_alipay_summary">Alipay oppfylling</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_denomination">%1$s RMB</string>
@@ -214,14 +218,15 @@ Vennligst skriv inn ditt passord"</string>
   <string name="recharge_pcpay_title">Oppfylling med datamaskin</string>
   <string name="recharge_prepaid_summary"> China Mobile, China Unicom og China Telecom oppfyllingskort støttet</string>
   <string name="recharge_prepaid_title">Forhåndsbetalte oppfyllingskort</string>
-  <string name="recharge_record">oppfyllingshistorik</string>
-  <string name="recharge_record_empty">Ingen historik</string>
+  <string name="recharge_record">oppfyllingshistorik<k/string>
+  <string name="recharge_record_empty">Ingen historikk</string>
   <string name="recharge_tenpay_summary">Støtter Tenpay oppfylling</string>
   <string name="recharge_tenpay_title">Tenpay</string>
-  <string name="recharge_voucher_summary">Støtter MiCredit Fyll oppfylling</string>
-  <string name="recharge_voucher_title">MiCredit Kuponger</string>
+  <string name="recharge_voucher_summary">Støtter Mi Credit oppfylling</string>
+  <string name="recharge_voucher_title">Mi Credit kuponger</string>
   <string name="reg_by_email_failure">Registrering mislyktes: %1$s</string>
   <string name="reg_failed">Registrering mislyktes</string>
+  <string name="reg_success">Registrering fullført</string>
   <string name="reg_type_email">Registrer via epost</string>
   <string name="reg_type_phone">Registrer via telefon (anbefalt)</string>
   <string name="reging">Registerer, vennligst vent…</string>
@@ -231,9 +236,9 @@ Vennligst skriv inn ditt passord"</string>
   <string name="remove_unactivated_account_notice">Xiaomi-kontoen er ikke aktivert, ønsker du å fjerne den nå?</string>
   <string name="removing_account">Sletter konto...</string>
   <string name="send_int_sms_for_sync_notice">En aktiverings-sms vil bli sendt til enheten din til din operatør sine priser. Er du sikker på at du vil fortsette?</string>
-  <string name="send_sms_for_sync_notice">Aktiverings-SMS skal sendes, fortsett?</string>
+  <string name="send_sms_for_sync_notice">En aktiverings-SMS vil bli sendt, fortsett?</string>
   <string name="send_sms_for_sync_title">Synk-tjeneste ikke aktivert</string>
-  <string name="sim_changed_notification_content">SIM ikke aktivert, vennligst aktiver</string>
+  <string name="sim_changed_notification_content">SIM -kort ikke aktivert, vennligst aktiver</string>
   <string name="skip_login">Hopp over Logg inn</string>
   <string name="skip_setup_account_msg">Med din Xiaomi-konto, kan du synkronisere og sikkerhetskopiere SMS, kontakter, bilder, notater, etc. Fortsett og still inn senere?</string>
   <string name="skip_setup_account_title">Hopp over konto innstillinger</string>
@@ -249,8 +254,8 @@ Vennligst skriv inn ditt passord"</string>
   <string name="title_prepaid">Fyll opp med oppfyllingskort</string>
   <string name="title_recharge">Fyll på Mi credits</string>
   <string name="title_recharge_record">Oppfyllings-historikk</string>
-  <string name="title_reg">Registrer en XiaoMi konto</string>
-  <string name="title_voucher">Fyll på med MiCredit-kupong</string>
+  <string name="title_reg">Registrer en Xiaomi konto</string>
+  <string name="title_voucher">Fyll på med Mi Credit-kupong</string>
   <string name="unactivated_user">Ikke aktivert</string>
   <string name="unbind">De-autoriser</string>
   <string name="update_contacts">Oppdater kontakter</string>
@@ -264,11 +269,11 @@ Vennligst skriv inn ditt passord"</string>
   <string name="voucher_btn_exchange">Bruk kupong</string>
   <string name="voucher_btn_exchange_error">Ugyldig</string>
   <string name="voucher_btn_has_exchanged">Kupong løst inn</string>
-  <string name="voucher_denom">MiCredits</string>
+  <string name="voucher_denom">Mi Credits</string>
   <string name="voucher_edit_hint">Passord:</string>
   <string name="voucher_edit_limit">Rediger grense</string>
   <string name="voucher_empty">Ingen lagrede MiCredit data</string>
-  <string name="voucher_error_code">Det oppsto en feil med din MiCredit-kupongkode</string>
+  <string name="voucher_error_code">Det oppsto en feil med din Mi Credit-kupongkode</string>
   <string name="voucher_exchange">Løs inn</string>
   <string name="voucher_exchange_count">Kuponger brukt (%1$s)</string>
   <string name="voucher_exchange_success">%1$s MiCredit(s) innløsning fullført </string>
