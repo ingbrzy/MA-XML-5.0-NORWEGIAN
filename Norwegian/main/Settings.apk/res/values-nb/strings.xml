@@ -473,6 +473,8 @@ Merk: Triple-trykk for forstørrelse fungerer overalt bortsett fra tastaturet og
   <string name="cdma_security_settings_summary">Velg Min plassering, opplåsning av skjermen, lås lagring for legitimasjonsopplysninger</string>
   <string name="cell_broadcast_settings">Celle-utsendinger</string>
   <string name="cell_broadcast_settings_summary">Velg typen av viktige beskjeder som skal vises.</string>
+  <string name="change_password">Bytt passord</string>
+  <string name="change_security_lock">Prøv andre måter å låse opp på</string>
   <string name="checkbox_notification_same_as_incoming_call">Bruk lydstyrke for inngående anrop til beskeder</string>
   <string name="choose_timezone">Velg tidssone</string>
   <string name="clear_activities">Tøm standarder</string>
@@ -996,6 +998,7 @@ Denne innstillingen gjelder for alle bruker på telefonen."</string>
   <string name="lock_intro_message">"Beskytt din telefon mot uautoriseret bruk ved å opprette et personlig skjermopplåsningsmønster. Dra fingeren for å binde sammen minst fire prikker i vilkårlig rekkefølge på det neste skjermbilde. Klar for å starte? Trykk på Neste."</string>
   <string name="lock_screen_unlock_show">Vis passord interface direkte</string>
   <string name="lock_screen_unlock_show_summary">"Ikke bruk andre låseskjermer etter aktivering, gå kun til låseskjermens interface"</string>
+  <string name="lock_settings_common_title">Skjermlås-innstillinger</string
   <string name="lock_settings_picker_settings">Velg skjermlås</string>
   <string name="lock_settings_picker_title">Velg skjermlås</string>
   <string name="lock_settings_title">Mønsterinnstillinger</string>
@@ -1121,9 +1124,10 @@ Obs: denne handling kan ikke angres!"</string>
   <string name="memory_media_usage">Medier</string>
   <string name="memory_music_usage">Lyd (musikk, ringetoner, podkaster, osv.)</string>
   <string name="memory_size">Total</string>
+  <string name="memory_title">Tilgjengelig %1$s\u0009\u0009Totalt %2$s</string>
   <string name="menu_cancel">Avbryt</string>
   <string name="menu_delete">Slett APN</string>
-  <string name="menu_key">Langt Trykk på Menyknapp</string>
+  <string name="menu_key">Langt trykk på Meny-knapp</string>
   <string name="menu_new">Ny APN</string>
   <string name="menu_restore">Nullstil til standard</string>
   <string name="menu_save">Lagre</string>
@@ -1902,6 +1906,7 @@ Muligens ugyldig PIN."</string>
   <string name="tts_settings_changed_demo">Dine innstillinger er endret. Dette er et eksempel på hvordan det lyder.</string>
   <string name="tts_settings_title">Tekst-til-tale-innstillinger</string>
   <string name="turn_off_radio">Slå av radioen</string>
+  <string name="turn_off_security_lock">Skru av skjermlås</string>
   <string name="turn_on_radio">Slå på radioen</string>
   <string name="under_keyguard">På låsskjerm</string>
   <string name="uninstall_all_users_text">Avinstaller for alle brukere</string>
@@ -2411,8 +2416,10 @@ Telefonoppsettet kan kreve betydelig nettverksaktivitet."</string>
   <string name="wireless_networks_settings_title">Trådløst og nettverk</string>
   <string name="wps_category">WPS Sikkerhet</string>
   <string name="wps_connect_summary">Din router må støtte WPS</string>
-  <string name="wps_connect_title">Koble til vha. WPS</string>
+  <string name="wps_connect_title">Koble til via WPS</string>
   <string name="xiaomi_account">Xiaomi-konto</string>
+  <string name="xiaomi_cloud_service">MiCloud</string>
+  <string name="xiaomi_money_service">Mi Credit-senter</string>
   <string name="yes">Ja</string>
   <string name="zone_auto">Automatisk tidssone</string>
   <string name="zone_auto_summaryOff">Bruk tidssone leveret av nettverk</string>

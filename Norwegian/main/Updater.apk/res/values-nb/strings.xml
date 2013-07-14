@@ -128,6 +128,7 @@ Over %2$s brukere har oppdatert til MIUI %3$s"</string>
   <string name="system_backup_helper">Systemoppdatering sletter ikke brukerdata. Det anbefales dog å ta en backup før oppdatering</string>
   <string name="system_backup_ok_text">Backup</string>
   <string name="top_secret_build">Hemmelig build</string>
+  <string name="unstable_build">Ustabil build</string>
   <string name="update_comment_hint">(valgfritt)</string>
   <string name="update_comment_title">Dine kommentarer</string>
   <string name="update_feedback">Fire ledet oppdateringsfeedback</string>
