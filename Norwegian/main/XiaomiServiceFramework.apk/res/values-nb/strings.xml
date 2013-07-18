@@ -95,6 +95,7 @@ har flere krypteringer for å sikre den finansielle sikkerheten"</string>
   <string name="error_has_bought_summary">Du har allerede kjøpt dette produktet</string>
   <string name="error_has_bought_title">Genta kjøp</string>
   <string name="error_illegal_order_summary">Det oppsto en feil ved behandlingen av ordren, prøv igjen senere</string>  <string name="error_illegal_order_title">Ordrefeil!</string>
+  <string name="error_invalid_dev_id">Enhets-ID er ugyldig</string>
   <string name="error_mili_title">Ikke nok Mi credits</string>
   <string name="error_network">Nettverksfeil</string>
   <string name="error_network_summary">Det oppsto en nettverksfeil, kontroller forbindelse og prøv igjen</string>

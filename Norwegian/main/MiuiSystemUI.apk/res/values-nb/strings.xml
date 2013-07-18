@@ -105,6 +105,9 @@
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Plasseringlåst til GPS</string>
   <string name="gps_notification_searching_text">Søker etter GPS</string>
+  <string name="headset_custom">Personliggjør</string>
+  <string name="headset_info">Personliggjør knappefunksjoner</string>
+  <string name="headset_settings">Headset tilkoblet</string>
   <string name="invalid_charger">"USB-lading støttes ikke. Bruk bare den medfølgende laderen."</string>
   <string name="key_position_custom">Egendefinert knapp-posisjon</string>
   <string name="label_view">Vis</string>
