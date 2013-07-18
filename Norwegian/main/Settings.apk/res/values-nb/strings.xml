@@ -1021,7 +1021,7 @@ Denne innstillingen gjelder for alle bruker på telefonen."</string>
   <string name="lock_intro_message">"Beskytt din telefon mot uautoriseret bruk ved å opprette et personlig skjermopplåsningsmønster. Dra fingeren for å binde sammen minst fire prikker i vilkårlig rekkefølge på det neste skjermbilde. Klar for å starte? Trykk på Neste."</string>
   <string name="lock_screen_unlock_show">Vis passord interface direkte</string>
   <string name="lock_screen_unlock_show_summary">"Ikke bruk andre låseskjermer etter aktivering, gå kun til låseskjermens interface"</string>
-  <string name="lock_settings_common_title">Skjermlås-innstillinger</string
+  <string name="lock_settings_common_title">Skjermlås-innstillinger</string>
   <string name="lock_settings_picker_settings">Velg skjermlås</string>
   <string name="lock_settings_picker_title">Velg skjermlås</string>
   <string name="lock_settings_title">Mønsterinnstillinger</string>
