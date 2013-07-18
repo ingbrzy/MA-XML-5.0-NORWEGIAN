@@ -7,7 +7,8 @@
   <string name="account_sim">Kun SIM, usynkroniserede</string>
   <string name="account_type_format">%1$s kontakt</string>
   <string name="actionIncomingCall">Innkommende anrop</string>
-  <string name="action_menu_overflow_description">Flere muligheder</string>
+  <string name="action_menu_overflow_description">Flere muligheter</string>
+  <string name="activity_not_found_uri">Ingen støttet applikasjon funnet!</string>
   <string name="activity_title_confirm_add_detail">Legg til til kontakt</string>
   <string name="activity_title_contacts_filter">Kontakter som skal vises</string>
   <string name="activity_title_settings">Innstillinger</string>
@@ -155,6 +156,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="config_prohibited_phone_number_regexp" />
   <string name="confirm_delete_contact_all_call_logs">"Er du sikker på du vil slette anropslister for %s?"</string>
   <string name="confirm_delete_selected_all_call_logs">Er du sikker på du vil slette valgte kontakts anropslister</string>
+  <string name="confirm_delete_sim_entry_miui">Bekreft sletting av %d valgte kontakter på SIM-kortet?</string>
   <string name="confirm_export_message">Din kontakt liste vil bli eksportert til filen: %s.</string>
   <string name="confirm_export_title">Bekreft eksport</string>
   <string name="connections">Tilkoblinger</string>
@@ -210,7 +212,11 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="delete_duplicate_message">"Fletter ... "</string>
   <string name="delete_group_dialog_message">"Er du sikker på du vil slette gruppen '%1$s'? (Selve kontaktene vil ikke bli slettet .)"</string>
   <string name="delete_group_dialog_title">Slett gruppe</string>
+  <string name="delete_selected_sim_entry_miui">Slett valgte kontakter?</string>
+  <string name="delete_sim_entries_finish">Vellykket sletting av utvalgte SIM-kontakter</string>
+  <string name="delete_sim_entry_miui">Slett SIM-kontakter</string>
   <string name="delete_unknown_contact_calllog_title">"Bekreft sletting av ukjent kontakts anropslister?"</string>
+  <string name="deleting_sim_entry_miui">Sletting av kontakter på SIM-kort</string>
   <string name="description_add_contact">Legg til kontakt</string>
   <string name="description_author">Forfatter:</string>
   <string name="description_call">Ring til %1$s</string>
@@ -400,6 +406,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="ic_menu_done">Færdig</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
+  <string name="import_all_sim_entries_miui">Import alle kontakter</string>
   <string name="import_all_vcard_string">Importer alle vCard filer</string>
   <string name="import_contact_card_button">Importer kontakt</string>
   <string name="import_failure_no_vcard_file">Ingen vCard fil funnet.</string>
@@ -410,6 +417,9 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="import_name">navn</string>
   <string name="import_one_vcard_string">Importer en vCard fil</string>
   <string name="import_percent">0%</string>
+  <string name="import_selected_sim_entries_miui">Importer valgte kontakter</string>
+  <string name="import_sim_entries_finish">Import av SIM-kontakter fullført</string>
+  <string name="import_sim_entry_miui">Importer fra SIM</string>
   <string name="import_to_xiaomi_account_confirm">Importer</string>
   <string name="import_to_xiaomi_account_progress_finish">Import fullført</string>
   <string name="import_to_xiaomi_account_progress_message">Importerer...</string>
@@ -427,6 +437,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="import_weibo_notification_title_done">Importering fullført</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
+  <string name="importing_sim_contacts_miui">Importerer SIM-kontakter...</string>
   <string name="importing_vcard_canceled_title">Importering av %s ble avbrutt</string>
   <string name="importing_vcard_description">Importerer %s</string>
   <string name="importing_vcard_finished_title">Færdig med at importere vCard %s</string>
@@ -699,20 +710,22 @@ for å legge til kontakt til favoritter:
   <string name="processing">Behandler...</string>
   <string name="profile_display_name">Sett opp min profil</string>
   <string name="profile_name">Min profil</string>
+  <string name="profile_name_photo">Meg</string>
   <string name="progress_notifier_message" formatted="false">Importerer %s/%s: %s</string>
   <string name="quickcontact_missing_app">Ingen program funnet til å håndtere denne handling</string>
   <string name="quit_dialog_confirm_title">Er du sikker på du vil avslutte fletning av kontakter?</string>
   <string name="readOnlyContactDeleteConfirmation">Denne kontakt inneholder informasjon fra flere kontioer. Info fra skrivebeskyttede kontoer vil bli skjult i dine kontakters lister, ikke slettet.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" Denne kontakt inneholder information fra flere kontoer. Info fra skrivebeskyttede kontoer vil bli skjult i dine kontakters lister, ikke slettet.</string>
   <string name="readOnlyContactWarning">Du kan ikke slette skrivebeskyttede kontakter (men du kan skjule dem).</string>
+  <string name="readingSimContacts">Leser SIM-kort informasjon, vennligst vent...</string>
   <string name="reading_vcard_canceled_title">Lesning av vCard avbrutt</string>
-  <string name="reading_vcard_failed_title">"Kunne ikke læse vCard data"</string>
-  <string name="rebuild_t9_index_dialog_message">Gjenoppbyger T9 indeks data…</string>
+  <string name="reading_vcard_failed_title">"Kunne ikke lese vCard data"</string>
+  <string name="rebuild_t9_index_dialog_message">Gjenoppbygger T9 indeks data…</string>
   <string name="recent">Nylige</string>
   <string name="recentCallsIconLabel">anropsliste</string>
   <string name="recentCalls_addToContact">Legg til i kontakter</string>
   <string name="recentCalls_callNumber">Ring til %s</string>
-  <string name="recentCalls_deleteAll">Ryd anropslister</string>
+  <string name="recentCalls_deleteAll">Rydd anropslister</string>
   <string name="recentCalls_editNumberBeforeCall">Rediger nummer, før anrop</string>
   <string name="recentCalls_empty">anropslisten inneholder noen poster</string>
   <string name="recentCalls_removeFromRecentList">Slett posten</string>
@@ -808,10 +821,14 @@ for å legge til kontakt til favoritter:
   <string name="shortcutDialContact">Direkte anrop</string>
   <string name="shortcutMessageContact">Direkte besjked</string>
   <string name="showAllContactsJoinItem">Vis alle</string>
+  <string name="simContacts_airplaneMode"For å importere kontakter fra SIM-kortet, må du slå av flymodus.</string>
+  <string name="simContacts_empty">Ingen kontakter funnet på SIM-kort.</string>
   <string name="simContacts_emptyLoading">Lesning fra SIM</string>
   <string name="simContacts_title">SIM-kontakter</string>
   <string name="sim_card_no_free_space_message">SIM Kort fullt, kan ikke importere nye kontakter. Vennligst frigjør nok plass og prøv igjen</string>
   <string name="sim_card_no_free_space_title">SIM-kort fullt</string>
+  <string name="sim_contact_dropdown_menu_deselect_all_miui">Avvelg all</string>
+  <string name="sim_contact_dropdown_menu_select_all_miui">Velg all</string>
   <string name="sim_contact_search_error">Det oppstod en feil under søkning av SIM kort kontakter</string>
   <string name="sim_contacts">SIM Kontakter</string>
   <string name="sim_export_loading">SIM Kort information leses. Denne handlingen kan ta et par minutter, vennligst vær tålmodig.</string>
@@ -873,6 +890,8 @@ for å legge til kontakt til favoritter:
   <string name="title_other_devices">Andre tilgjengelige enheter</string>
   <string name="title_paired_devices">Parrede enheter</string>
   <string name="toast_call_detail_error">"Kunne ikke lese detaljene for det ønskede anropet."</string>
+  <string name="toast_copy_done">Kopiering fullført</string>
+  <string name="toast_copying">Kopierer, vennligst vent...</string>
   <string name="toast_displaying_all_contacts">Viser alle kontakter</string>
   <string name="toast_finish_delete_call_log">anropsliste(r) er blitt slettet</string>
   <string name="toast_for_failed_saving_nickname">Kunne ikke lagre kallenavn!</string>

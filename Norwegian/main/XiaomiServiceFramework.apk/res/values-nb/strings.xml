@@ -14,7 +14,33 @@
   <string name="app_name">Xiaomi Services Framework</string>
   <string name="bad_authentication">Validering mislyktes, feil brukernavn eller passord</string>
   <string name="balance">Saldo: %1$s Mi credits</string>
-  <string name="bind">Authorise</string>
+    <string name="bankcall_bank_account">Bankkort:</string>
+  <string name="bankcall_call_hint">"Du vil motta Union-betalings anrop på (020-96585). Følg instruksjonene for å fullføre transaksjonen."</string>
+  <string name="bankcall_card">Bankkort</string>
+  <string name="bankcall_card_hint">Vennligst oppgi bankkontonummer</string>
+  <string name="bankcall_card_type">%1$s-%2$s</string>
+  <string name="bankcall_city">By</string>
+  <string name="bankcall_credit_card">Kreditkort</string>
+  <string name="bankcall_debit_card">Debetkort</string>
+  <string name="bankcall_denom">Betalinger:</string>
+  <string name="bankcall_denom_number">%1$s RMB</string>
+  <string name="bankcall_error_card">Vennligst skriv inn et gyldig kontonummer</string>
+  <string name="bankcall_error_card_info">Fyll inn gyldig bankkontoinformasjon</string>
+  <string name="bankcall_hint">"Denne tjenesten er autorisert av UnionPay og
+har flere krypteringer for å sikre den finansielle sikkerheten"</string>
+  <string name="bankcall_id_card">ID-kort</string>
+  <string name="bankcall_id_card_hint">"Bank-kontoens tilhørende ID-kort"</string>
+  <string name="bankcall_merchant">Motakker:</string>
+  <string name="bankcall_name">Navn</string>
+  <string name="bankcall_name_hint">"Bank-kontoens tilhørende navn"</string>
+  <string name="bankcall_phone">Telefon</string>
+  <string name="bankcall_phone_credit_hint">"Bank-kontoens tilhørende personlige telefonnummer"</string>
+  <string name="bankcall_phone_debit_hint">Sørg for stabilt nettverk</string>
+  <string name="bankcall_province">Provins</string>
+  <string name="bankcall_saved_card_info">%1$s - Ender med %2$s</string>
+  <string name="bankcall_saved_phone">Telefonnummer: %1$s</string>
+  <string name="bankcall_xiaomi_company">Xiaomi-selskapet</string>
+  <string name="bind">Authoriser</string>
   <string name="bind_description">Tilat synk med telefonkontakter</string>
   <string name="bind_sina_weibo">Autoriser Sina Weibo</string>
   <string name="bind_weibo_description">Finn telefonkontakter,  venner og annen informasjon direkte fra kontoen din</string>
@@ -25,12 +51,18 @@
   <string name="btn_call">Ring opp</string>
   <string name="btn_count_down_auto">Forespør etter %1$s sekunder</string>
   <string name="btn_count_down_wait">Vent %1$s sekunder</string>
+  <string name="btn_delete_record">Slett valgte element</string>
   <string name="btn_mili_center_recharge">Fyll på Mi credits</string>
+  <string name="btn_net_connection_retry">Prøv igjen</string>
+  <string name="btn_next">Neste</string>
+  <string name="btn_other_bankcard">Bruk annet bankkort</string>
   <string name="btn_pay_large">Betal nå</string>
   <string name="btn_query">Forespør nå</string>
   <string name="btn_recharge_large">Fyll på nå</string>
   <string name="btn_recharge_other">Andre oppfyllingsmetoder</string>
   <string name="btn_voucher">Mi Kreditkort (%1$s)</string>
+  <string name="btn_wait_call">Venter</string>
+  <string name="btn_wait_call_count">Venter (%1$s)</string>
   <string name="btn_recharge_success">Oppfylling fullført</string>
   <string name="btn_recharge_success_quick">Rask oppfylling fullført</string>
   <string name="button_cancel">Avbryt</string>
@@ -52,6 +84,7 @@
   <string name="error_account_changed_title">Konto endret</string>
   <string name="error_auth_summary">Godkjenningsfeil for konto oppsto, prøv igjen</string>
   <string name="error_auth_title">Kontofeil</string>
+  <string name="error_bankcard_verify_summary">Bank-konto verifiseringsfeil</string>
   <string name="error_common_summary">Systemfeil, prøv igjen senere</string>
   <string name="error_common_title">Systemfeil</string>
   <string name="error_dup_phone">Telefon registrert</string>
@@ -71,10 +104,14 @@
   <string name="error_server_summary">Serverfeil, prøv igjen senere </string>
   <string name="error_server_title">serverfeil</string>
   <string name="error_sim_not_ready">SIM ikke klar</string>
+  <string name="error_too_frequent_visits_summary">"Du prøver å besøke for ofte.
+Vennligst prøv igjen om fem minutter"</string>
+  <string name="error_too_frequent_visits_title">Warning!</string>
   <string name="error_unknown">Ukjent feil: %1$s</string>
   <string name="error_user_id_mismatch_summary">Kontroller kontodetaljer og prøv igjen</string>
   <string name="error_user_id_mismatch_title">Godkjenningsfeil!</string>
   <string name="error_verify_summary">Applikasjonen har ikke tillatelse til å forespørre tjenesten</string>
+  <string name="error_verify_title">Ingen tilgang</string>
   <string name="failed_to_send_activate_email">Kunne ikke sende aktiveringsepost</string>
   <string name="fee">%1$s Mi credits</string>
   <string name="find_device">Lokaliser enhet</string>
@@ -106,7 +143,7 @@ og kan ikke bli brukt hvis utløpt"</string>
   <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Tast inn passord</string>
-  <string name="int_phone_user_notice">Når du registrerer deg med et nummer utenfor Kina, skriv inn landskode, f.eks +47xxxxxxxxx</string>
+  <string name="int_phone_user_notice">Når du registrerer deg med et nummer utenfor Kina, skriv inn landskode, f.eks 47xxxxxxxxx</string>
   <string name="label_order_name">Produktnavn: </string>
   <string name="label_order_price">Antall: </string>
   <string name="login">Logg inn</string>
@@ -146,6 +183,14 @@ og kan ikke bli brukt hvis utløpt"</string>
   <string name="micloud_via_sms_alert">En SMS vil bli sent for å verifisere ditt telefonnummer. Er du sikker på at du vil fortsette?</string>
   <string name="micloud_welcome_skip_login">Hopp over registrering</string>
   <string name="mili_center">Mi credit-senter</string>
+  <string name="msg_denomination_type">Mi Credit</string>
+  <string name="msg_error">SMS oppfylling feilet</string>
+  <string name="msg_picker_hint_1_1">1.</string>
+  <string name="msg_picker_hint_1_2">SMS påfyllingsmetoden koster mer, så &lt;font color=red&gt;2 RMB = 1 Mi Credit&lt;/font&gt;</string>
+  <string name="msg_picker_hint_2_1">2.</string>
+  <string name="msg_picker_hint_2_2">Med hver SMS oppfylling, belaster operatøren 0,1 RMB i serviceavgift</string>
+  <string name="msg_picker_hint_3_1">3.</string>
+  <string name="msg_picker_hint_3_2">Maksimal månedlig lading er kun 300 RMB</string>
   <string name="my_mili_record">Min Mi Credit</string>
   <string name="next">Neste</string>
   <string name="no_sim">SIM ikke funnet, kan ikke synkronisere</string>
@@ -185,12 +230,15 @@ og kan ikke bli brukt hvis utløpt"</string>
   <string name="prepaid_picker_title_selected">Beløp for oppfylling</string>
   <string name="prev">Tilbake</string>
   <string name="process_result">Resultat:</string>
+  <string name="progress_bankcall_card_creating">Generer ordre...</string>
+  <string name="progress_bankcall_card_querying">Henter bankkonto-type, vennligst vent...</string>
   <string name="progress_connecting">Kobler til...</string>
   <string name="progress_creating">Mottar ordreinformasjon...</string>
   <string name="progress_downloading">Laster ned...</string>
   <string name="progress_error_pay_title">Betaling mislyktes</string>
   <string name="progress_error_recharge_title">Pppfylling mislyktes</string>
   <string name="progress_loading">Behandler, vennligst vent...</string>
+  <string name="progress_msg_creating">Genererer SMS-oppfyllingsordre..</string>
   <string name="progress_paytool_creating">Genererer %1$s ordre...</string>
   <string name="progress_paytool_installing">Installerer %1$s mobil sikkerhets plugin...</string>
   <string name="progress_prepaid_creating">Genererer oppfyllingsordre...</string>
@@ -199,10 +247,13 @@ og kan ikke bli brukt hvis utløpt"</string>
   <string name="progress_submit_pay_summary">Betaling: %1$s RMB</string>
   <string name="progress_submit_recharge_summary">Oppfyller: %1$s RMB</string>
   <string name="progress_submit_title">Anmodning sendt, verifiserer</string>
+  <string name="progress_success_pay_summary">Din ordre er fullført!</string>
   <string name="progress_success_pay_title">%1$s Mi Credit betaling fullført</string>
   <string name="progress_success_recharge_summary">Saldo: %1$sMi Credits</string>
   <string name="progress_success_recharge_title">%1$s Mi Credit oppfylling fullført</string>
   <string name="progress_voucher_creating">Oppdaterer MiCredit...</string>
+  <string name="progress_warning_check">"Fortsatt ikke oppdatert! 
+Vi vil sjekke for deg etter to arbeidsdager"</string>
   <string name="progress_warning_contact_server">"Fortsatt ingen svar. 
 1. Vennligst kontakt kundeservice i Shenzhou：%1$s 
 2. Vennligst opplys serienummer: %2$s"</string>
@@ -210,8 +261,16 @@ og kan ikke bli brukt hvis utløpt"</string>
   <string name="quick_login_title">"Godkjendelse påkrevd. Vennligst skriv inn ditt passord"</string>
   <string name="recharge_alipay_summary">Alipay oppfylling</string>
   <string name="recharge_alipay_title">Alipay</string>
+  <string name="recharge_bankcall_title">Bank-kort</string>
   <string name="recharge_denomination">%1$s RMB</string>
-  <string name="recharge_hint">1 RMB svarer til 1 Mi credit</string>
+  <string name="recharge_grid_edit_hint">Beløp (RMB)</string>
+  <string name="recharge_grid_edit_limit">%1$s~%2$s RMB</string>
+  <string name="recharge_grid_error_denomination">Vennligst angi riktig beløp mellom %1$d~%2$d RMB</string>
+  <string name="recharge_grid_picker_hint">Vennligst velg Mi Credit beløp</string>
+  <string name="recharge_group_favorite">Brukte oppfyllingsmetoder</string>
+  <string name="recharge_group_others">Andre oppfyllingsmetoder</string>
+  <string name="recharge_hint">1 RMB tilsvarer 1 Mi credit</string>
+  <string name="recharge_message_title">SMS-oppfylling</string>
   <string name="recharge_notification">Fyller på %1$s Mi credits</string>
   <string name="recharge_other">Velg alternativ betalingsmetode</string>
   <string name="recharge_pcpay_summary">Betaling ved bruk av datamaskin støtter andre metoder og begrensinger</string>

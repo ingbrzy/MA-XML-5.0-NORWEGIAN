@@ -254,9 +254,11 @@
   <string name="day_of_month">" %d"</string>
   <string name="days">dager</string>
   <string name="delete">Slett</string>
+  <string name="device_hongmi">Hongmi-telefon</string>
   <string name="device_xiaomi">Xiaomi-telefon</string>
   <string name="double_seventh_day" />
   <string name="emergency_call_string">Nødandrop</string>
+  <string name="err_resource_leak">Beklager, men %1$s har stoppet på grunn av en ressurs lekkasje.</string>
   <string name="error_forbidden">Det er problemer med din konto. Synk er deaktivert.</string>
   <string name="error_not_acceptable">Det oppstod en serverfeil. Synk er deaktivert.</string>
   <string name="error_title">Synk feil for %s</string>

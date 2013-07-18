@@ -18,7 +18,7 @@
   <string name="dialog_send">Send</string>
   <string name="dialog_title_storage_full">Ikke mere plass</string>
   <string name="dialog_warning">Advarsel</string>
-  <string name="error_app_internal">Muligens en SD-kortfeil, eller en annen app bruker opptakssoftwaren. Vennligst kontroller og prøv igjen.</string>
+  <string name="error_app_internal">Muligens en SD-kortfeil, eller et annet program bruker opptaksprogramvaren. Vennligst kontroller og prøv igjen.</string>
   <string name="error_app_internal_title">Lydopptakerfeil</string>
   <string name="error_filename_too_long">Filnavn for langt</string>
   <string name="error_mediadb_new_record">Kan ikke lagre opptaket</string>
@@ -33,6 +33,7 @@
   <string name="max_length_reached">Maks. lengde er nådd</string>
   <string name="menu_settings">Innstillinger</string>
   <string name="menu_view_record_list">Se liste over opptak</string>
+  <string name="message_file_size_error">Opptaket har nådd maksimal lengde som støttes for %s</string>
   <string name="minute">%d minutt</string>
   <string name="no_file">Ingen opptak</string>
   <string name="notification_playback">Avspiller...</string>
@@ -68,5 +69,6 @@
   <string name="status_bar_recording_pause">opptak er satt på pause</string>
   <string name="storage_is_full">Minne er fullt</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
+  <string name="toast_max_record_time">Program: %1$ sin maksimalt støttet opptakstid %2$s</string>
   <string name="unknown_caller">Ukjent</string>
 </resources>
