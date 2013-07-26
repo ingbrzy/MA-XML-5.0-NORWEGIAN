@@ -822,7 +822,7 @@ for å legge til kontakt til favoritter:
   <string name="shortcutDialContact">Direkte anrop</string>
   <string name="shortcutMessageContact">Direkte besjked</string>
   <string name="showAllContactsJoinItem">Vis alle</string>
-  <string name="simContacts_airplaneMode"For å importere kontakter fra SIM-kortet, må du slå av flymodus.</string>
+  <string name="simContacts_airplaneMode">For å importere kontakter fra SIM-kortet, må du slå av flymodus.</string>
   <string name="simContacts_empty">Ingen kontakter funnet på SIM-kort.</string>
   <string name="simContacts_emptyLoading">Lesning fra SIM</string>
   <string name="simContacts_title">SIM-kontakter</string>
