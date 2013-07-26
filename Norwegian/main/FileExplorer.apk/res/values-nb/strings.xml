@@ -5,6 +5,7 @@ innlastingen kan ta noen minutter,
 din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="add_task">Legg til oppgaver</string>
   <string name="adding_upload_tasks">Legger til opplastingsoppgave.</string>
+  <string name="already_signin_description">Du er allerede logget inn</string>
   <string name="app_cache_cleanup_indication">%s cache</string>
   <string name="app_cache_title">Program-cache</string>
   <string name="app_garbage_cleanup_indication">%s program-søppel</string>
@@ -211,7 +212,9 @@ Søppelelementer"</string>
   <string name="operation_unfavorite">Fjern fra Favoritter</string>
   <string name="pan_settting">MiDrive innstillinger</string>
   <string name="paused">På pause</string>
-  <string name="query_bind_state">Forespør status på tilkobling, vennligst vent...</string>
+  <string name="pull_to_signin">Dra ned for å logge inn og få gratis diskplass</string>
+  <string name="query_bind_state">Forespørrer status på tilkobling, vennligst vent...</string>
+  <string name="release_to_signin">Slipp for å logge inn</string>
   <string name="release_space_indication">Oppdag søppelfiler</string>
   <string name="rename_description">Gir nytt navn, vennligst vent…</string>
   <string name="rename_failed">Kunne ikke gi nytt navn %1$s</string>
@@ -232,6 +235,10 @@ Søppelelementer"</string>
   <string name="server_control_settings">Innstillinger</string>
   <string name="share_link_failed">Opprettelse av link mislyktes, prøv igjen!</string>
   <string name="show_message">Fil kan ikke åpnes uten å bli lastet ned</string>
+  <string name="sign_description">Signing in...</string>
+  <string name="signin_error">Nettverk utilgjengelig, vennligst prøv igjen</string>
+  <string name="signin_success">"Innlogging fullført!
++Få gratis diskplass %1$s"</string>
   <string name="space_info">Lagringsplass: %1$s tilgjengelig， totalt: %2$s</string>
   <string name="space_usage">Forbruk</string>
   <string name="start_cleanup">Start opprydding</string>
@@ -265,6 +272,7 @@ Søppelelementer"</string>
   <string name="ui_bar_txt_upload_progress">%1$d resterende fil(er) å laste opp</string>
   <string name="ui_filechange_btn_download">Last ned filer</string>
   <string name="ui_filechange_btn_upload">Last opp filer</string>
+  <string name="ui_main_menu_option_sign_in">Logg inn</string>
   <string name="ui_main_menu_option_task_manage">Håndtering av overføringer</string>
   <string name="ui_main_progress_txt_open_file">Laster ned...</string>
   <string name="ui_main_toast_favorite_removed">Favoritter fjernet</string>

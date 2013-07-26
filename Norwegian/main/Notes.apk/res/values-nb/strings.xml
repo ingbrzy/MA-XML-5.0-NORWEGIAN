@@ -26,6 +26,7 @@
   <string name="dlg_title_confirm_alarm_silent">Ønsker du å slå alarmer i lydløs modus?</string>
   <string name="enable_sync">Synk</string>
   <string name="enable_sync_desc">Notater kan synkroniseres med din Xiaomi-konto %1$s, synk nå?</string>
+  <string name="error_contact_not_exist">Kontakten eksisterer allerede</string>
   <string name="error_note_empty_for_clock">Beklager, tiden kan ikke innstilles på et tomt notat</string>
   <string name="error_note_empty_for_send_to_desktop">Beklager, kan ikke sende et tomt notat til skrivebordet</string>
   <string name="error_note_not_exist">Notatet eksisterer ikke</string>

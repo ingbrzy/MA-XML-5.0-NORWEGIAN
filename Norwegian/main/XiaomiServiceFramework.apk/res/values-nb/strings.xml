@@ -19,6 +19,7 @@
   <string name="bankcall_card">Bankkort</string>
   <string name="bankcall_card_hint">Vennligst oppgi bankkontonummer</string>
   <string name="bankcall_card_type">%1$s-%2$s</string>
+  <string name="bankcall_card_type_tailnum">%1$s-%2$s (Kort # %3$s)</string
   <string name="bankcall_city">By</string>
   <string name="bankcall_credit_card">Kreditkort</string>
   <string name="bankcall_debit_card">Debetkort</string>

@@ -318,6 +318,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="display_warn_remove_ungrouped">"Fjerning av '%s' fra synkronisering vil også fjerne eventuelle ikke grupperede kontakter fra synk."</string>
   <string name="download_failed">Nedlastning mislykkes!</string>
   <string name="download_preview_failed">Kunne ikke laste eksempel</string>
+  <string name="duplicate_group_name">Gruppenavn eksisterer allerede</string>
   <string name="editContactDescription">Rediger kontakt</string>
   <string name="editGroupDescription">Rediger gruppe</string>
   <string name="edit_contact">Rediger kontakt</string>
