@@ -39,8 +39,8 @@
   <string name="menu_add_into_contact">Legg til eksisterende kontakt</string>
   <string name="menu_add_new_contact">Ny kontakt</string>
   <string name="menu_add_vip_custom">Legg til hvitelistede medlemmer</string>
-  <string name="menu_bl_add_contact">Nylige kontakter</string>
-  <string name="menu_bl_add_manual">Legg til manuelt</string>
+  <string name="menu_bl_add_contact">Kontakter</string>
+  <string name="menu_bl_add_manual">Legg til</string>
   <string name="menu_bl_call_log">Sjekk blokkerte anrop</string>
   <string name="menu_bl_clear">Tøm svarteliste</string>
   <string name="menu_bl_remove">Fjern fra svarteliste</string>
@@ -94,8 +94,8 @@
   <string name="st_block_title">Blokker og logg</string>
   <string name="st_call_group">Ring</string>
   <string name="st_common_setting_group">Rask visning</string>
-  <string name="st_filter_keywords_setting_summary1">Meldinger fra ukjente kontakter som inneholder følgende ord vil bli blokkert.</string>
-  <string name="st_filter_keywords_setting_summary2">Du kan legge til flere søkeord på en gang, avgrenset med komma.</string>
+  <string name="st_filter_keywords_setting_summary1">Meldinger fra ukjente kontakter vil bli blokkert.</string>
+  <string name="st_filter_keywords_setting_summary2">Legg til flere søkeord avgrenset med komma.</string>
   <string name="st_filter_keywords_setting_title">Sett filter-nøkkelord</string>
   <string name="st_filter_keywords_title">Filtrer nøkkelord for meldinger</string>
   <string name="st_filter_sms_button">Filtrer spam-meldinger</string>
@@ -110,5 +110,5 @@
   <string name="tab_sms">Meldingslogg</string>
   <string name="tab_title">Vakt</string>
   <string name="toast_keyword_blank">Nøkkelord er blankt</string>
-  <string name="toast_keyword_exist">Nøkkelordet: %s eksisterer allerde</string>
+  <string name="toast_keyword_exist">Nøkkelordet %s eksisterer allerde</string>
 </resources>
