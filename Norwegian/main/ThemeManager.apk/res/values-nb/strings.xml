@@ -23,6 +23,7 @@
   <string name="component_lockstyle_personal_title">Innstillinger</string>
   <string name="component_select_title">%1$s valgte elementer</string>
   <string name="component_settings_title">Tilpass tema</string>
+  <string name="deleting">Sletter...</string>
   <string name="description_author">Forfatter:</string>
   <string name="description_designer">Designer:</string>
   <string name="description_download">Downloads:</string>
@@ -78,7 +79,9 @@
   <string name="resource_default">Standard ringetone</string>
   <string name="resource_default_name">Element</string>
   <string name="resource_delete_all">Er du sikker på du vil slette %1$d valgte elementer?</string>
-  <string name="resource_delete_confirm">Er du sikker på du vil slette disse elementer?</string>
+  <string name="resource_delete_confirm">Er du sikker på du vil slette disse elementene?</string>
+  <string name="resource_delta_update_failed">Patch-oppdatering mislyktes! Hele ressursen vil nå bli lastet ned</string>
+  <string name="resource_delta_update_successful">Patch-oppdatering velykket，lagrer %1$s.</string>
   <string name="resource_detail">Detaljer</string>
   <string name="resource_download">Last ned</string>
   <string name="resource_downloaded_title">Nedlastede elementer</string>
@@ -87,7 +90,8 @@
   <string name="resource_get_auth_exceed_max_limit_tips">Tema kan ikke kjøre på denne telefonen. Du har nådd de maks. 10 Xiaomi-konto. Venligst prøv en annen konto.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Godkjendelsesgrense nådd!</string>
   <string name="resource_get_auth_missing">Tema ikke hentet fra det offiselle markedet.</string>
-  <string name="resource_get_auth_retrieving">Mottar godkjendelse...</string>
+  <string name="resource_get_auth_retrieving">Mottar godkjennelse...</string>
+  <string name="resource_import_successful">Nedlastning velykket.</string>
   <string name="resource_importing">Importerer</string>
   <string name="resource_list_title">Senest valgte</string>
   <string name="resource_local">Lokal %1$s</string>

@@ -59,8 +59,12 @@
   <string name="confirm_dialog_locked_title">Slett låst melding?</string>
   <string name="confirm_dialog_title">Slett</string>
   <string name="confirm_export_dialog_description">Fjern valgte private kontakt, tråden vil bli flyttet til de normale meldingene. Vil du fortsette?</string>
+  <string name="confirm_no_block_positive">"Ikke blokker og gjenopprett"</string>
+  <string name="confirm_no_block_title">"Ikke blokker nummer og gjenopprette alle meldingene?"</string>
   <string name="confirm_export_dialog_title">Fjern privat kontakt</string>
   <string name="confirm_rate_limit">"Et stort antall MMS'er sendes, bekreft at dette er ok?"</string>
+  <string name="confirm_restore_positive">Gjenopprett</string>
+  <string name="confirm_restore_title">Gjenopprett alle valgte meldinger?</string>
   <string name="context_menu_add_contact">Legg til kontakter</string>
   <string name="context_menu_browse_web">Web</string>
   <string name="context_menu_call">Ring til</string>
@@ -224,6 +228,7 @@
   <string name="new_phrase_hint">Skriv inn ny setning</string>
   <string name="nickname_placeholder">Kallenavn</string>
   <string name="no">Avbryt</string>
+  <string name="no_block_button_msg">"Ikke blokker meldinger fra dette nummeret"</string>
   <string name="no_conversations">Ingen samtaler</string>
   <string name="no_subject">(Intet emne)</string>
   <string name="no_subject_view">(Intet emne)</string>
@@ -317,6 +322,7 @@
   <string name="replace_image">Erstatt bilde</string>
   <string name="resent_message">Send igjen</string>
   <string name="resize_image_error_information">Beklager, selv med skalering er bildet for stort til å sendes.</string>
+  <string name="restore_blocked_message">Gjenopprett blokkert melding</string>
   <string name="save">Lagre</string>
   <string name="save_ringtone">Lagre som ringetone</string>
   <string name="save_to_sim">Lagre på SIM-kort</string>

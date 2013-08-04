@@ -316,6 +316,8 @@
   <string name="lockscreen_access_pattern_detected">Mønster fullført</string>
   <string name="lockscreen_access_pattern_start">Mønster påbegynt</string>
   <string name="lockscreen_emergency_call">Nødanrop</string>
+   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har oppgitt feil passord %d ganger. etter %d fler mislykkede forsøk, vil du bli bedt om å låse opp telefonen ved hjelp av din kontoinformasjon.
+       Prøv igjen om %d sekunder."</string>
   <string name="lockscreen_forgot_pattern_button_text">Glemt mønster?</string>
   <string name="lockscreen_pattern_instructions">Tegn mønster for å låse opp</string>
   <string name="lockscreen_pattern_wrong">Feil mønster! Prøv igjen</string>

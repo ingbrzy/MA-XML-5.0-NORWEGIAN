@@ -216,6 +216,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="delete_sim_entries_finish">Vellykket sletting av utvalgte SIM-kontakter</string>
   <string name="delete_sim_entry_miui">Slett SIM-kontakter</string>
   <string name="delete_unknown_contact_calllog_title">"Bekreft sletting av ukjent kontakts anropslister?"</string>
+  <string name="deleting">Sletter...</string>
   <string name="deleting_sim_entry_miui">Sletting av kontakter på SIM-kort</string>
   <string name="description_add_contact">Legg til kontakt</string>
   <string name="description_author">Forfatter:</string>
@@ -316,6 +317,8 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="display_sim_contacts">Vis SIM kontakter</string>
   <string name="display_ungrouped">Alle andre kontaktpersoner</string>
   <string name="display_warn_remove_ungrouped">"Fjerning av '%s' fra synkronisering vil også fjerne eventuelle ikke grupperede kontakter fra synk."</string>
+  <string name="dlg_add_blacklist">Legg til valgte nummer til svartelisten?</string>
+  <string name="dlg_remove_blacklist">Fjern valgte nummer til svartelisten?</string>
   <string name="download_failed">Nedlastning mislykkes!</string>
   <string name="download_preview_failed">Kunne ikke laste eksempel</string>
   <string name="duplicate_group_name">Gruppenavn eksisterer allerede</string>
@@ -739,8 +742,9 @@ for å legge til kontakt til favoritter:
  <string name="redirect_calls_to_vm_confirm_text">Skru på</string>
   <string name="relationLabelsGroup">Forhold</string>
   <string name="remind_btn_ignore">Ignorer</string>
-  <string name="remind_btn_sync_now">Nu</string>
+  <string name="remind_btn_sync_now">Nå</string>
   <string name="removePhoto">Fjern bilde</string>
+  <string name="remove_blacklist">Fjern fra svareliste</string>
   <string name="remove_duplicate">MIUI hjelper deg med å finne og flette dupliserte kontakter, men de flettes ikke automatisk. Dette må gjøres manuelt</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Element Browser</string>
@@ -751,6 +755,8 @@ for å legge til kontakt til favoritter:
   <string name="resource_default_name">Element</string>
   <string name="resource_delete_all">Er du sikker på at du vil slette %1$d valgte elementer?</string>
   <string name="resource_delete_confirm">Er du sikker på at du vil slette disse elementer?</string>
+  <string name="resource_delta_update_failed">Patch-oppdatering mislyktes! Hele ressursen vil nå bli lastet ned</string>
+  <string name="resource_delta_update_successful">Patch-oppdatering vellykket, lagrer %1$s.</string>
   <string name="resource_detail">Detaljer</string>
   <string name="resource_download">Last ned</string>
   <string name="resource_downloaded_title">Nedlastede elementer</string>
@@ -760,6 +766,7 @@ for å legge til kontakt til favoritter:
   <string name="resource_get_auth_exceed_max_limit_title">Godkjennelsesgrense overskredet</string>
   <string name="resource_get_auth_missing">Tema ikke hentet fra offisielt marked, kan ikke brukes.</string>
   <string name="resource_get_auth_retrieving">Mottar godkjennelse...</string>
+  <string name="resource_import_successful">Nedlastning fullført.</string>
   <string name="resource_importing">Importerer...</string>
   <string name="resource_list_title">Seneste</string>
   <string name="resource_local">Lokal %1$s</string>

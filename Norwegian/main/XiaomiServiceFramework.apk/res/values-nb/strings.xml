@@ -308,6 +308,7 @@ Vi vil sjekke for deg etter to arbeidsdager"</string>
   <string name="sync_on">Til</string>
   <string name="sync_sub_dspt">En SMS må sendes for å aktivere tjenesten</string>
   <string name="sync_sub_int_dspt">En internasjonal sms vil sendes for å aktivere tjenesten</string>
+  <string name="title">tittel</string>
   <string name="title_mili_center">Mi credits senter</string>
   <string name="title_pay">Betal Mi Credits</string>
   <string name="title_pay_record">%1$s betalingshistorikk</string>
@@ -327,6 +328,7 @@ Vi vil sjekke for deg etter to arbeidsdager"</string>
   <string name="user_agreement_p3"> og </string>
   <string name="user_agreement_p4">Sikkerhetspolitikk</string>
   <string name="user_agreement_p5">"Ved registrering, aksepterer du "</string>
+  <string name="value">Verdi</string>
   <string name="voucher_btn_exchange">Bruk kupong</string>
   <string name="voucher_btn_exchange_error">Ugyldig</string>
   <string name="voucher_btn_has_exchanged">Kupong løst inn</string>

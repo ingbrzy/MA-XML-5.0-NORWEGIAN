@@ -102,6 +102,9 @@
   <string name="defalt_local_mobile">mobil</string>
   <string name="delete">Slett</string>
   <string name="delete_fail_too_many_items">Kunne ikke slette. Muligens for mange valgte elementer.</string>
+  <string name="delete_file">Er du sikker på at vil slette %1$d valgte fil(er)?</string>
+  <string name="delete_files_and_folders">Er du sikker på at vil slette %1$d valgte fil(er) og %2$d valgte mappe(r)?</string>
+  <string name="delete_folder">Er du sikker at vil slette %1$d valgte mappe(r)?</string>
   <string name="deleting_files">Sletter filer...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="description">Beskrivelse</string>
@@ -174,6 +177,7 @@
   <string name="import_fail">Importering mislykkes</string>
   <string name="initial_cloud_button_text">Begynn å bruk din MiCloud</string>
   <string name="initial_cloud_text">Til hver en tid og sted, organiser og se dine bilder</string>
+  <string name="initializing_cloud">Initialiserer Cloud-album...</string>
   <string name="input_cloudfolder_name">Cloud mappe navn</string>
   <string name="internal_camera_folder_display_name">Kamera Bilder (Internt)</string>
   <string name="internal_miui_capture_screen_folder_display_name">Skjermbilder (Internt)</string>
@@ -235,6 +239,8 @@
   <string name="open">Åpne synk</string>
   <string name="open_single_image_failure">-kunne ikke åpne bilde-fil!</string>
   <string name="open_sync_title">Synk påkrevd</string>
+  <string name="operation_delete_confirm_message_folder">"Mapper og filer vil bli slette på samme tid.
+"</string>
   <string name="operation_refresh">Oppdater</string>
   <string name="operation_rename">Gi nytt navn</string>
   <string name="orientation">Orientering</string>
