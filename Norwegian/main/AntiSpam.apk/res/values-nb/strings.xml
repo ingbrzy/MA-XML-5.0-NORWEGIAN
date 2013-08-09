@@ -65,8 +65,8 @@
   <string name="qm_auto_time_turn_off_title">Velg tid å slå av stillemodus</string>
   <string name="qm_auto_time_turn_on">Fra</string>
   <string name="qm_auto_time_turn_on_title">Velg tid å slå på stillemodus</string>
-  <string name="qm_notification">Stillemodus er aktivert, du vil ikke bli forstyrret</string>
-  <string name="qm_open">Åpne stillemodus</string>
+  <string name="qm_notification">Stillemodus er aktivert</string>
+  <string name="qm_open">Aktiver stillemodus</string>
   <string name="qm_other_settings">Advansert</string>
   <string name="qm_other_settings_group">Andre innstillinger</string>
   <string name="qm_other_settings_info">Juster handling for samtaler og meldinger når stillemodus er aktivert</string>
@@ -74,7 +74,7 @@
   <string name="qm_repeated_call_summary_3min">En annen samtale fra samme person i løpet av tre minutter vil ikke bli dempet</string>
   <string name="qm_repeated_call_summary_none">Ikke gjør et unntak for gjentatte samtaler</string>
   <string name="qm_special_call_setting_group">Unntak</string>
-  <string name="qm_summary">Etter å ha åpnet stillemodus, vil innkommende anrop og tekstmeldinger vil bli dempet, og telefonen vil ikke våkne opp</string>
+  <string name="qm_summary">Etter å ha aktivert stillemodus, vil innkommende anrop og tekstmeldinger vil bli dempet, og telefonen vil ikke våkne opp</string>
   <string name="qm_vip_call_button_title">Tillate anrop fra hviteliste</string>
   <string name="qm_vip_call_setting_title">Innstillinger for hvitelistede anrop</string>
   <string name="qm_vip_call_summary_contact">Alle kontakter</string>

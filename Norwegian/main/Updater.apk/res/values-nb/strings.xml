@@ -113,6 +113,11 @@
 Over %2$s brukere har oppdatert til MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Din oppdateringsrang er %1$s
 +Over %2$s brukere har oppdatert til MIUI %3$s"</string>
+  <string name="sina_share_fail">Sending feilet!</string>
+  <string name="sina_share_pendding">Sender...</string>
+  <string name="sina_share_success">Sending velykket!</string>
+  <string name="sina_token_expired_warning">Weibo kontoen er utløpt, vennligst koble til på nytt</string>
+  <string name="sina_token_invalid_warning">Weibo kontoen er ugyldig, vennligst koble til på nytt</string>
   <string name="stable_build">Stabil Build</string>
   <string name="start_update">Oppdater</string>
   <string name="submit">Send</string>

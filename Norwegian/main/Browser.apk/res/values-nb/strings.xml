@@ -166,6 +166,15 @@
   <string name="download_sdcard_busy_dlg_title">USB utilgjengelig</string>
   <string name="download_video_alert_message">If your current network plan has data charges, downloading videos may consume your allowance, do you wish to continue?</string>
   <string name="download_video_alert_title">Nedlastningsvarsel!</string>
+  <string name="download_video_menu_dialog_positive_txt">Installer</string>
+  <string name="download_video_menu_dialog_summary">Du må installere MiuiVideo for å bruke denne funksjonen</string>
+  <string name="download_video_menu_dialog_title">Installerer…</string>
+  <string name="download_video_menu_video_version_low">Du må oppdatere MiuiVideo.</string>
+  <string name="download_video_no_title_default_name">Unavngitt video</string>
+  <string name="download_video_please_download_market">Du må installere MiApps.</string>
+  <string name="download_video_please_select_video">Velg en video</string>
+  <string name="download_video_start_down_toast">Last ned %1$s video(er)</string>
+  <string name="download_video_unseleted_all">Uncheck All</string>
   <string name="downloaded">Nedlastet</string>
   <string name="downloading">Laster ned</string>
   <string name="dump_counters">Dump V8 tellere</string>
@@ -248,6 +257,7 @@
   <string name="max_tabs_warning">Ikke flere faner tilgjengelige</string>
   <string name="menu_addtodesk">Legg på skrivebord</string>
   <string name="menu_disable_night_mode">Deaktiver nattmodus</string>
+  <string name="menu_download_video">Nedlastede videoer</string>
   <string name="menu_enable_night_mode">Aktiver nattmodus</string>
   <string name="menu_exit">Avslutt</string>
   <string name="menu_hv_swap">Bytt til horisontal skjerm</string>

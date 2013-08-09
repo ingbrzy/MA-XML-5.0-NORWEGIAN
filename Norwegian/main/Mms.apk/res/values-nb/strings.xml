@@ -238,7 +238,8 @@
   <string name="notification_failed_multiple_title">meldingen kunne ikke sendes!</string>
   <string name="notification_multiple">%s uleste meldinger.</string>
   <string name="notification_multiple_title">Nye meldinger</string>
-  <string name="number_add_hint">Skriv inn nummer som skal legges til til Private Kontakter</string>
+  <string name="number_add_hint">Skriv nummer som skal legges til i private kontakter</string>
+  <string name="overwrite_edited_content">Dette vil overskrive det endrede innholdet, vil du fortsette?</string>
   <string name="phrase_confirm_delete_message">Valgte setning vil bli slettet</string>
   <string name="phrase_empty">Ingen setninger</string>
   <string name="phrase_from">Fra %1s</string>

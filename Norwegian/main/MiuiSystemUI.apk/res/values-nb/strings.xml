@@ -238,6 +238,7 @@
   <string name="status_bar_toggle_power_low">Strømsparer</string>
   <string name="status_bar_toggle_power_mid">Normal</string>
   <string name="status_bar_toggle_power_mode">Strømtilstand</string>
+  <string name="status_bar_toggle_quiet_mode">Stillemodus</string>
   <string name="status_bar_toggle_privacy_mode">Privat</string>
   <string name="status_bar_toggle_reboot">Restart</string>
   <string name="status_bar_toggle_ring">Lyd</string>

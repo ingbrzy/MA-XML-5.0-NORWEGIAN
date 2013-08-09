@@ -20,6 +20,7 @@
   <string name="editmode_menu_delete">Slett</string>
   <string name="editmode_menu_share">Del</string>
   <string name="error_bad_file">Korrupt fil</string>
+  <string name="error_connect_service">Kunne ikke koble til å overføringstjeneste.</string>
   <string name="error_download">Nedlastning feilet</string>
   <string name="error_general">Generell feil skjedde</string>
   <string name="error_network">Nettverksfeil skjedde</string>
