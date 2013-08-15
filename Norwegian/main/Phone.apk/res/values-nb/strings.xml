@@ -327,14 +327,14 @@
   <string name="emergencyDialerIconLabel">Nødanrop</string>
   <string name="emergency_broadcast_disable">Nødtransmission er deaktivert</string>
   <string name="emergency_broadcast_enable">Nødtransmission er aktiveret</string>
-  <string name="emergency_call_area_code_edit_dialog_button_miui">Ring op</string>
+  <string name="emergency_call_area_code_edit_dialog_button_miui">Ring opp</string>
   <string name="emergency_call_area_code_edit_dialog_hint_miui">e.g: 112</string>
   <string name="emergency_enable_radio_dialog_message">Tænder for radio ...</string>
   <string name="emergency_enable_radio_dialog_retry">Området er ude af drift. Prøver igen ...</string>
   <string name="emergency_enable_radio_dialog_title">Nødanrop</string>
   <string name="empty_alert">%s skal udfyldes. Feltet må ikke være tomt.</string>
   <string name="empty_networks_list">Der ble ikke funnet noe nettverk.</string>
-  <string name="enable_antispam_strange_summary">&gt;Demp første anrop fra et ukjent nummer</string>
+  <string name="enable_antispam_strange_summary">Demp første anrop fra et ukjent nummer</string>
   <string name="enable_antispam_strange_title">Anti-fremmed samtale</string>
   <string name="enable">Aktiver</string>
   <string name="enable_disable_administrative">Administrasjon</string>
