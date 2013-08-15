@@ -304,8 +304,8 @@ Vi vil sjekke for deg etter to arbeidsdager"</string>
   <string name="skip_setup_account_msg">Med din Xiaomi-konto, kan du synkronisere og sikkerhetskopiere SMS, kontakter, bilder, notater, etc. Fortsett og still inn senere?</string>
   <string name="skip_setup_account_title">Hopp over konto innstillinger</string>
   <string name="sync_dspt">Bruk Xiaomi-konto til å synkronisere data</string>
-  <string name="sync_off">Fra</string>
-  <string name="sync_on">Til</string>
+  <string name="sync_off">Av</string>
+  <string name="sync_on">På</string>
   <string name="sync_sub_dspt">En SMS må sendes for å aktivere tjenesten</string>
   <string name="sync_sub_int_dspt">En internasjonal sms vil sendes for å aktivere tjenesten</string>
   <string name="title">tittel</string>

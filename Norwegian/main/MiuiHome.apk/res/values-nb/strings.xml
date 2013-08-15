@@ -88,8 +88,8 @@
   <string name="guide_install_app_title">Installer program</string>
   <string name="menu_reset_scene">Nullstil til standard scene</string>
   <string name="menu_search">Søk</string>
-  <string name="menu_settings">innstillinger</string>
-  <string name="menu_sort">Sorter menu</string>
+  <string name="menu_settings">Innstillinger</string>
+  <string name="menu_sort">Sorter meny</string>
   <string name="menu_wallpaper">Bakgrunn</string>
   <string name="menu_workspace_preview">Forhåndsvisning</string>
   <string name="out_of_space">Ikke mer plass på dette skrivebordet.</string>
