@@ -277,7 +277,13 @@
   <string name="save_photo">Lagre redigert bilde?</string>
   <string name="saving_failure">Bilde kan ikke lagres</string>
   <string name="saving_image">Lagrer bilde…</string>
-  <string name="scan_qr_code">Del QR-kode med venner for å tillate deling av filer</string>
+  <string name="scan_qr_code">La andre skanne QR-koden for å vise dette delte albumet</string>
+  <string name="screensaver_activate_mode">Skjermsparer-lysbildeshow</string>
+  <string name="screensaver_activate_only_charging">Aktiver skjermsparer bare under lading</string>
+  <string name="screensaver_category">Skjermsparer</string>
+  <string name="screensaver_no_data">Ingen bilder i dette albumet.</string>
+  <string name="screensaver_path">Skjermsparer-album:</string>
+  <string name="screensaver_path_not_set">Ikke satt</string>
   <string name="sd_not_available">SD Kort demonteret eller utilgjengelig</string>
   <string name="seconds">sekunder</string>
   <string name="select_album">Rediger</string>
@@ -298,6 +304,8 @@
   <string name="set_lock_or_wallpaper">Sett som bakgrunn</string>
   <string name="set_lockscreen">Sett som bakgrunnpå låseskjerm</string>
   <string name="set_recent_album">Sett som favoritt-album</string>
+  <string name="set_screensaver_path_message">Dette albumet vil bli vist 5 sekunder etter skjermen skrus av.</string>
+  <string name="set_screensaver_path_title">Skjermsparer-lysbildeshow</string>
   <string name="set_wallpaper">Sett som bakgrunn på skrivebordet</string>
   <string name="settings">Innstillinger</string>
   <string name="settings_i_xiaomi_com">Logg inn på i.xiaomi.com for å håndtere dit Cloud lager</string>
@@ -331,6 +339,8 @@
   <string name="slideshow_interval_dialog_title">Lysbilde tidsinterval skal være større enn 0 sekunder</string>
   <string name="slideshow_interval_invalid">Ugyldig tidsinterval satt, skal være mellom 1~3600. Fortsetter med standard interval</string>
   <string name="slideshow_repeat_mode">Gjenta</string>
+  <string name="slideshow_time_select_title">Velg lysbildeshow-tid</string>
+  <string name="slideshow_time_title">Lysbildeshow-tid</string>
   <string name="storage_all_volumes">Alle lagerenheter</string>
   <string name="storage_no_space">"Ingen lagerenheter tilgjengelige."</string>
   <string name="straighten">Glatt ut</string>
