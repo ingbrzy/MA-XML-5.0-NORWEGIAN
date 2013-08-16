@@ -268,7 +268,7 @@
     <string name="low_memory">Telefonlageret er fullt. Slett noen filer for å frigjøre lagringsplass.</string>
     <string name="me">Meg</string>
     <string name="power_dialog">Telefoninnstillinger</string>
-    <string name="silent_mode">Stillemodus</string>
+    <string name="silent_mode">Lydløs</string>
     <string name="turn_on_radio">Slå på trådløst nett</string>
     <string name="turn_off_radio">Slå av trådløst nett</string>
     <string name="screen_lock">Lås skjermen</string>
@@ -286,7 +286,7 @@
     <string name="global_actions">Telefoninnstillinger</string>
     <string name="global_action_lock">Lås skjermen</string>
     <string name="global_action_power_off">Slå av</string>
-    <string name="global_action_toggle_silent_mode">Stillemodus</string>
+    <string name="global_action_toggle_silent_mode">Lydløs</string>
     <string name="global_action_silent_mode_on_status">Lyden er av</string>
     <string name="global_action_silent_mode_off_status">Lyden er på</string>
     <string name="global_actions_toggle_airplane_mode">Flymodus</string>
