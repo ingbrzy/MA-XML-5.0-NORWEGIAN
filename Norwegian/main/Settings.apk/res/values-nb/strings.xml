@@ -1220,6 +1220,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="no_nearby_wifi">Ingen WiFi nettverk oppdaget</string>
   <string name="no_running_services">Ingen kjørerende tjenester</string>
   <string name="no_services">Ikke aktiv</string>
+  <string name="noise_suppression">Støydemping</string>
   <string name="normal_date_format">Normal (%s)</string>
   <string name="not_installed">Ikke installert</string>
   <string name="notification_pulse_title">LED Notifikasjoner</string>
@@ -1399,6 +1400,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="permission_manage_title">%s detaljer om tillatelser</string>
   <string name="permissions_label">Tillatelser</string>
   <string name="personal_data_section_title">Personlige data</string>
+  <string name="phone_call_noise_suppression">Telefonstøydemping</string>
   <string name="phone_info_label">Telefoninfo</string>
   <string name="phone_language">Språk</string>
   <string name="phone_language_summary"/>
@@ -2367,7 +2369,7 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="wifi_setup_title_editing_network">Koble til WiFi-nettverk %s</string>
   <string name="wifi_setup_wizard_title">Velg WiFi</string>
   <string name="wifi_setup_wps">Automatisk oppsett (WPS)</string>
-  <string name="wifi_share">Del offentlig Wi-Fi nettverk</string>
+  <string name="wifi_share">Del Wi-Fi </string>
   <string name="wifi_share_action_turn_off">Skru av Wi-Fi-deling</string>
   <string name="wifi_share_action_turn_on">Skri på Wi-Fi-deling</string>
   <string name="wifi_share_action_turn_on_summary">Vennligst logg inn med ditt Xiaomi brukernavn og passord</string>
@@ -2391,8 +2393,8 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="wifi_share_summary1">MIUI brukere kan dele passordbeskyttede offentlige Wi-Fi-nettverk med hverandre.</string>
   <string name="wifi_share_summary2">Hvis en annen MIUI bruker deler et nettverk, kan du koble deg direkte til det nettverket uten å bruke et passord.</string>
   <string name="wifi_share_summary3">Del offentlige Wi-Fi-nettverk med venner og kolleger</string>
-  <string name="wifi_share_turn_off">Offentlig WI-Fi-deling av</string>
-  <string name="wifi_share_turn_on">Offentlig WI-Fi-deling på</string>
+  <string name="wifi_share_turn_off">WI-Fi-deling av</string>
+  <string name="wifi_share_turn_on">WI-Fi-deling på</string>
   <string name="wifi_share_upload">Del</string>
   <string name="wifi_share_upload_finish">Deling lykkes!</string>
   <string name="wifi_share_uploading">Deler offentlig Wi-Fi nettverk</string>

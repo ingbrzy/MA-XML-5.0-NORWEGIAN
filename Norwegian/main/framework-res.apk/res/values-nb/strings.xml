@@ -282,7 +282,7 @@
     <string name="reboot_safemode_title">Start på nytt i sikker modus</string>
     <string name="reboot_safemode_confirm">Ønsker du å starte på nytt i sikker modus? Dette deaktiverer alle tredjepartsprogrammene du har installert. De gjenopprettes når du starter på nytt.</string>
     <string name="recent_tasks_title">Nylig</string>
-    <string name="no_recent_tasks">Ingen nylige apper.</string>
+    <string name="no_recent_tasks">Ingen nylige programmer.</string>
     <string name="global_actions">Telefoninnstillinger</string>
     <string name="global_action_lock">Lås skjermen</string>
     <string name="global_action_power_off">Slå av</string>

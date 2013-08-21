@@ -80,12 +80,14 @@
   <string name="loading_desktop">Laster inn Launcher...</string>
   <string name="menu_add">Legg til</string>
   <string name="menu_back_desktop">Returner til skrivebord</string>
+  <string name="menu_customize">Personliggjør innstillinger</string>
   <string name="menu_edit">Redigeringsmodus</string>
   <string name="menu_exit_scene">Avslutt Fritt Skrivebord</string>
   <string name="menu_item_add_item">Legg til Startskjermen</string>
   <string name="menu_launcher_setting">Launcher innstillinger</string>
   <string name="guide_install_app_msg">Program ikke installert. Søk etter programmet i markedet nå?</string>
   <string name="guide_install_app_title">Installer program</string>
+  <string name="menu_picktheme">Velg tema</string>
   <string name="menu_reset_scene">Nullstil til standard scene</string>
   <string name="menu_search">Søk</string>
   <string name="menu_settings">Innstillinger</string>
@@ -126,6 +128,7 @@
   <string name="screen_button_disabled_message">Knapper nederst på skjermen er deaktivert. De kan aktiveres ved å trykke på \"Hjem\" og \"Slukk\"</string>
   <string name="screen_button_enabled_message">Knapper nederst på skjermen er aktivert</string>
   <string name="screen_rotation_freeze_message">Skjermrotering låst til liggende modus</string>
+  <string name="scroll_tip_format_when_announce_accessibility">Side %1$d, %2$d programmer</string>
   <string name="select_frame">Ramme</string>
   <string name="select_photo">Bilde</string>
   <string name="sharedUserId" />

@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="all_downloads">Alle nedlastninger</string>
+  <string name="app_downloads">%s nedlastninger</string>
   <string name="app_label">Nedlastinger</string>
   <string name="button_sort_by_date">Sortér via dato</string>
   <string name="button_sort_by_size">Sortér via størrelse</string>
@@ -61,6 +63,7 @@
   <string name="prefDefault_max_bytes_limit">1048576</string>
   <string name="pref_dialog_title_max_bytes_limit">Grense på filstørrelse</string>
   <string name="pref_download_settings_title">Beskjed om dataforburk</string>
+  <string name="pref_summary_any_bytes_popup">Alltid sett i kø når du bruker Wi-Fi-nettverk</string>
   <string name="pref_summary_enable_max_bytes_popup">"Vis pop-up hvis filstørrelse overskrider fastsatt grense"</string>
   <string name="pref_summary_max_bytes_limit_format">Vis pop-up hvis filstørrelse overskrider %s</string>
   <string name="pref_title_enable_max_bytes_popup">Beskjed om filstørrelse</string>

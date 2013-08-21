@@ -86,12 +86,17 @@
   <string name="qm_vip_list_group">Hviteliste</string>
   <string name="qm_vip_sms_setting_button">Demp hvitelistede meldinger</string>
   <string name="quiet_mode">Stillemodus</string>
+  <string name="st_advanced_setting_group">Avanserte innstillinger</string>
   <string name="st_bl_block_setting_title">Spørr meg senere</string>
   <string name="st_bl_setting_group">Svartelisteinnstillinger</string>
   <string name="st_block_all">Blokker anrop og meldinger</string>
   <string name="st_block_mute">Blokker samtaler og demp meldinger</string>
   <string name="st_block_private_call_button">Blokkere innkommende privatnummer</string>
+  <string name="st_block_setting_group">Sperreliste-innstillinger</string>
+  <string name="st_block_setting_title">Anrop og meldinger</string>
   <string name="st_block_title">Blokker og logg</string>
+  <string name="st_block_unknown_call">Blokker alle ukjente anrop</string>
+  <string name="st_block_unknown_sms">Blokker alle ukjente meldinger</string>
   <string name="st_call_group">Ring</string>
   <string name="st_common_setting_group">Rask visning</string>
   <string name="st_filter_keywords_setting_summary1">Meldinger fra ukjente kontakter vil bli blokkert.</string>
@@ -101,8 +106,10 @@
   <string name="st_filter_sms_button">Filtrer spam-meldinger</string>
   <string name="st_mute_all">Demp anrop og meldinger</string>
   <string name="st_mute_block">Demp anrop og blokker meldinger</string>
-  <string name="st_mute_title">Stillemodus</string>
+  <string name="st_mute_title">Lydløs</string>
+  <string name="st_other_setting_group">Andre innstillinger</string>
   <string name="st_settings_name">Innstillinger</string>
+  <string name="st_show_block_notification">Vis blokkerte notifikasjoner</string>
   <string name="st_sms_group">Meldinger</string>
   <string name="tab_blacklist">Svarteliste</string>
   <string name="tab_block_log">Brannmur</string>
@@ -110,5 +117,6 @@
   <string name="tab_sms">Meldingslogg</string>
   <string name="tab_title">Vakt</string>
   <string name="toast_keyword_blank">Nøkkelord er blankt</string>
-  <string name="toast_keyword_exist">Nøkkelordet %s eksisterer allerde</string>
+  <string name="toast_keyword_exist">Nøkkelordet %s eksisterer allerede</string>
+  <string name="toast_keyword_invalid">Ugyldig nøkkelord</string>
 </resources>

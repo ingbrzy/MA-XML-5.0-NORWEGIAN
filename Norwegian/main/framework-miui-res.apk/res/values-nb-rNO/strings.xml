@@ -6,6 +6,9 @@
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Sett som standard</string>
   <string name="android_lockscreen_glogin_instructions">Logg inn med din konto for å låse opp</string>
+  <string name="app_no_notification">ingen notifikasjon</string>
+  <string name="app_notificaiton_on_notificationBar">Notifikasjonslinje</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Status og notifikasjonsbar</string>
   <string name="arbor_day" />
   <string name="autumn_begins" />
   <string name="autumn_equinox" />

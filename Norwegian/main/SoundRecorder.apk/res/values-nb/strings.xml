@@ -6,6 +6,7 @@
   <string name="audio_db_artist_name">Mine opptak</string>
   <string name="audio_db_playlist_name">Mine opptak</string>
   <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+  <string name="back">Tilbake</string>
   <string name="button_ok">OK</string>
   <string name="call_record">Anropsopptak</string>
   <string name="call_record_or">eller</string>
@@ -42,6 +43,8 @@
   <string name="notification_warning" formatted="false">Lav lagringsplass (mindre enn %d minutter)...</string>
   <string name="open_file_explorer">Åpne Filhåndtering</string>
   <string name="overwrite_dialog_message">%s eksisterer allerede.\nVil du overskrive?</string>
+  <string name="pause">Pause</string>
+  <string name="play_record">Spill</string>
   <string name="preference_led_indicator">Opptaksindikator på låseskjerm</string>
   <string name="preference_led_indicator_prompt">Vis i statuslinje og blink med rød LED på låseskjermen under opptak</string>
   <string name="preference_record_type_dialog_title">Velg en opptakstype</string>
@@ -60,15 +63,19 @@
   <string name="rename_duplicate">Navn eksisterer, vennligst bruk et annet:</string>
   <string name="rename_illegal">Ugyldig navn, vennligst bruk et annet:</string>
   <string name="sd_card_not_available">SD-kort ikke tilgjengelig</string>
+  <string name="search_for_recordings_in_folders">Søk mapper etter opptak</string>
   <string name="second">%d sekunder</string>
   <string name="send_to">Send til</string>
   <string name="sound_recorder_settings">Innstillinger</string>
+  <string name="start_recording">Start opptak</string>
   <string name="status_bar_anti_disturb">Telefonen er på lydløs, juster lydstyrken for å fortsette.</string>
   <string name="status_bar_back">Trykk for å gå tilbake til opptaker</string>
   <string name="status_bar_recording">Tar opp...</string>
-  <string name="status_bar_recording_pause">opptak er satt på pause</string>
+  <string name="status_bar_recording_pause">"Opptak har blitt paused"</string>
+  <string name="stop_recording">Stopp opptak</string>
   <string name="storage_is_full">Minne er fullt</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">Program: %1$ sin maksimalt støttet opptakstid %2$s</string>
   <string name="unknown_caller">Ukjent</string>
+  <string name="view_list_of_recordings">Vis opptak</string>
 </resources>

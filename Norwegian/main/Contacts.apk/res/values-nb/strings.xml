@@ -78,7 +78,8 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="call_other_fax">Ring til fax</string>
   <string name="call_pager">Ring til personsøker</string>
   <string name="call_radio">Ring til radio</string>
-  <string name="call_settings">Inbstillinger</string>
+  <string name="call_settings">Innstillinger</string>
+  <string name="call_record_setting_miui">Opptaksinnstillinger</string>
   <string name="call_telex">Ring til telex</string>
   <string name="call_tty_tdd">Ring TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
@@ -138,7 +139,8 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="clearFrequentsConfirmation">Rydd listen med ofte kontaktede personer i Kontakter i Telefon-programmet, og tving email-program til å lære adresserings-preferanser fra bunnen av.</string>
   <string name="clearFrequentsConfirmation_title">Rydd ofte kontaktede?</string>
   <string name="clearFrequentsProgress_title">Rydder ofte kontaktede...</string>
-  <string name="clear_default">Rydd standard</string>
+  <string name="clear_default">Tøm standard</string>
+  <string name="clear_digits">Tøm telefonnummer</string>
   <string name="click_close">Trykl på skjermen for å lukke</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_summary">Filtrer anrop og beskjeder over Wi-Fi og data nettverk</string>
@@ -208,6 +210,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="deleteConfirmation_title">Slett</string>
   <string name="delete_call_log_title">Velg anropsliste til sletting?</string>
   <string name="delete_contact_calllog_title">"Bekreft sletting av kontaktens anropslister?"</string>
+  <string name="delete_dial_input">Slett</string>
   <string name="delete_duplicate">Flett</string>
   <string name="delete_duplicate_message">"Fletter ... "</string>
   <string name="delete_group_dialog_message">"Er du sikker på du vil slette gruppen '%1$s'? (Selve kontaktene vil ikke bli slettet .)"</string>
@@ -284,6 +287,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="device_version_header_bluetooth">åpne din telefons bluetooth</string>
   <string name="device_version_header_no_bluetooth">Importer kontakter fra SIM kort</string>
   <string name="device_version_title">Velg mobiltelefon versjon</string>
+  <string name="dial">Ring</string>
   <string name="dialerDialpadHintText">Tast for å legg tile anrop</string>
   <string name="dialerIconLabel">Nylige</string>
   <string name="dialerKeyboardHintText">Bruk tastaturet for å taste nummer</string>

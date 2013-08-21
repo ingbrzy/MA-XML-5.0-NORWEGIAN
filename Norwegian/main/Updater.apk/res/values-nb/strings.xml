@@ -26,6 +26,13 @@
   <string name="check_update_when_wifi_available">Se kun etter oppdateringer når WiFi er tilkoblet</string>
   <string name="checking_for_updates">Søker etter oppdateringer...</string>
   <string name="choose_recommend">Velg om den skal anbefales eller ikke</string>
+  <string name="comment_invalid">Trykk på stjerner for å stemme</string>
+  <string name="comment_publish">Publiser</string>
+  <string name="comment_sending">Sender kommentar...</string>
+  <string name="comment_upload_failed">Kunne ikke sende kommentar</string>
+  <string name="comment_upload_hint">Takk for dine kommentarer</string>
+  <string name="comment_upload_not_logined">Logg inn før du kan sende kommentarer</string>
+  <string name="comment_upload_success">Kommentar ble sendt!</string>
   <string name="confirm_download_cancelation_dialog_message">Er du sikker på at du vil avbryte nedlastingen?</string>
   <string name="copy_install_log">Kopier installationsloggen</string>
   <string name="current_version_text">Versjon i bruk： </string>
@@ -38,6 +45,9 @@
   <string name="download_ota_rom">Last ned OTA (%s)</string>
   <string name="download_whole_rom">Last ned komplett ROM (%s)</string>
   <string name="downloading_description">Laster ned...</string>
+  <string name="edit_comment">Legg til kommentar</string>
+  <string name="edit_comment_title">Endre kommentar</string>
+  <string name="edit_text_default">Skriv en kommentar</string>
   <string name="emegency_build">Build:</string>
   <string name="exception_while_downloading">Feil under henting av oppdatering</string>
   <string name="expect">4. Forventninger</string>

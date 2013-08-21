@@ -154,6 +154,7 @@
   <string name="download">DLagre</string>
   <string name="download_complete">Nedlastning fullført</string>
   <string name="download_default_path_txt">Sett som standard nedlastningsmappe  og ikke spør etter nedlastningsmappe-bane</string>
+  <string name="download_dialog_default_path_invalid">Ugyldig nedlastningsmappe, standard nedlastningsmappe satt</string>
   <string name="download_dialog_file_length_hint_txt">Filstørrelse:</string>
   <string name="download_dialog_file_length_lessthan1kb">Mindre enn 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Kunne ikke kalkulere filstørrelse</string>

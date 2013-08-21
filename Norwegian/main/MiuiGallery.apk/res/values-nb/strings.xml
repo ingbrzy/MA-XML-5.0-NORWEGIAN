@@ -243,10 +243,13 @@
 "</string>
   <string name="operation_refresh">Oppdater</string>
   <string name="operation_rename">Gi nytt navn</string>
+  <string name="operation_set_as_screensaver">Sett som skjermsparer</string>
+  <string name="operation_unset_as_screensaver">Avbryt skjermsparer</string>
   <string name="orientation">Orientering</string>
   <string name="other_category">Andre innstillinger</string>
   <string name="path">Sti</string>
   <string name="people">Personer</string>
+  <string name="photo_page_always_rotate">Auto-roter bilder</string>
   <string name="photo_page_save_image">Lagre</string>
   <string name="photo_page_save_uri_image_fail">Kunne ikke lagre bilde.</string>
   <string name="photo_page_save_uri_image_ok">Lagre bilder til kamera bilder mappe.</string>

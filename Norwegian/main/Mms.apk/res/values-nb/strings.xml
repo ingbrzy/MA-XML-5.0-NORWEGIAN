@@ -28,6 +28,7 @@
   <string name="attach_subject">Emne</string>
   <string name="attach_take_photo">Ta bilde</string>
   <string name="attach_video">Videoer</string>
+  <string name="back_to_message_list">tilbake til meldingsliste</string>
   <string name="batch_delete_confirm_dialog_message">Er du sikker på at du vil slette %1$s meldinger?</string>
   <string name="batch_deleting_message_progress_message">Sletter valgte melding(er)</string>
   <string name="batch_deleting_progress_message">Sletter valgte tråd(er)</string>
@@ -81,6 +82,7 @@
   <string name="converting_to_picture_message">Konverterer til MMS...</string>
   <string name="converting_to_text_message">Konverterer til SMS...</string>
   <string name="copy_message_text">Kopier meldingtekst</string>
+  <string name="copy_message_text_success">Meldingen ble kopiert!</string>
   <string name="copy_to_sdcard">Kopiér det vedlagte til SD-kort</string>
   <string name="copy_to_sdcard_fail">Kopiering til SD-kort mislyktes</string>
   <string name="copy_to_sdcard_success">Vedlegg kopiert til SD-kort</string>
@@ -343,10 +345,12 @@
   <string name="select_link_title">Velg handling</string>
   <string name="select_local_audio">Velg lokal lydfil</string>
   <string name="select_local_video">Velg lokal video</string>
-  <string name="select_top_text">Tekst i toppen</string>
+  <string name="select_recipient">Velg mottaker</string>
+  <string name="select_top_text">Tekst på toppen</string>
   <string name="send">Send</string>
   <string name="send_signature_confirm_dialog_message">Ikke noe innhold i meldingen, er du sikker på at du vil sende?</string>
   <string name="send_signature_confirm_dialog_title">Bekreft sending</string>
+  <string name="send_sms">Send melding</string>
   <string name="send_to">Send til: </string>
   <string name="send_to_count">%1$s meldinger sendt</string>
   <string name="send_to_index_contact">Sender %1$s av %2$s...</string>

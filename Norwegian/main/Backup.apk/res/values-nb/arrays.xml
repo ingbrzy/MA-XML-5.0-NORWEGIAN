@@ -5,12 +5,11 @@
         <item>Alle programmer</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Utforsker</item>
-        <item>Filer</item>
+        <item>Nettleser</item>
         <item>Galleri</item>
-        <item>ROOT-tillatelser</item>
+        <item>Tillatelser</item>
         <item>Kamera</item>
-        <item>Datakontrol</item>
+        <item>Datakontroll</item>
         <item>Værdatabaser</item>
         <item>Værdata</item>
     </string-array>
