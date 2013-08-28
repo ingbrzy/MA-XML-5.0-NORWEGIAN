@@ -28,6 +28,8 @@
   <string name="alert">Kunngjøring</string>
   <string name="alert_message_initial_cloud">Systemet vil automatisk laste opp gamle og nye bilder, om det er Wi-Fi-forbindelse.</string>
   <string name="alert_message_open_sync">Du bør åpne synk først, er du sikker på at du vil åpne synk umiddelbart?</string>
+  <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
+  <string name="androidesk_wallpapers">Android skrivebordsbakgrunner</string>
   <string name="aperture">Blender</string>
   <string name="app_name">Galleri</string>
   <string name="appwidget_empty_text">Ingen bilder.</string>
@@ -36,7 +38,11 @@
   <string name="auto_create_recent_album">Auto-opprett favoritt album(er)</string>
   <string name="auto_create_recent_album_confirm">Etter deaktivering av denne funksjonen, vil Galleri slette dataene for favorittalbum. Favorittalbum satt av brukeren, vil ikke bli berørt. Alternativt kan settes ved et langt trykk på et album.</string>
   <string name="auto_create_recent_album_over_ten_times">Auto opret favorit album(s) når åbnet mere end ti gange</string>
-  <string name="autofix">Auto-fiks</string>
+  <string name="autofix">Auto-fiks</string> 
+  <string name="autohomemain">Autohomemain</string>
+  <string name="baidu_bdmobile_downloads">Baidu-mobil</string>
+  <string name="baidu_flyflow_downloads">Baidu-nettleser</string>
+  <string name="beautyphone">Skjønhetstelefon</string>
   <string name="big_screen_alertdialog_title">Projekteringsenhet</string>
   <string name="bigscrren_slide_exit">Avslutt presentasjon på TV</string>
   <string name="browse_category">Bla gjennom bilder</string>
@@ -99,6 +105,9 @@
   <string name="crossprocess">Kryss-behandle</string>
   <string name="cut">Beskjær</string>
   <string name="damaged_file">Fil er skadet</string>
+  <string name="dcim_100media">Taobao TMall</string>
+  <string name="dcim_opaipic">Opaipic</string>
+  <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">mobil</string>
   <string name="delete">Slett</string>
   <string name="delete_fail_too_many_items">Kunne ikke slette. Muligens for mange valgte elementer.</string>
@@ -173,6 +182,7 @@
   <string name="how_many_sub_folders">%d Mapper</string>
   <string name="how_many_videos">%d Videoer</string>
   <string name="image_quota_fulfiled">"Kan ikke opprett bilde, bildegrense nådd."</string>
+  <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importering fullført</string>
   <string name="import_fail">Importering mislykkes</string>
   <string name="initial_cloud_button_text">Begynn å bruk din MiCloud</string>
@@ -212,6 +222,7 @@
   <string name="messagelist_sender_self">Meg</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk Maleri</string>
+  <string name="miliao_saved">MiChat</string>
   <string name="miliao_saved_folder_display_name">MiTalk Lagret</string>
   <string name="mimetype">MIME-type</string>
   <string name="mishop_saved_folder_display_name">MiShop Lagret</string>
@@ -221,9 +232,12 @@
   <string name="modify_disallow_hint">Å legge til nye bilder til albumet er ikke tillatt</string>
   <string name="more">Mer</string>
   <string name="move_to_cloud_album">Flytt til Cloud</string>
+  <string name="mtgif">MTGIF</string>
+  <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Rør et ansikt for å begynne.</string>
   <string name="must_pick_file">Velg et bilde</string>
   <string name="negative">Negativ</string>
+  <string name="netease_newsreader_netease_down_pic">Netease-nyhetsleser</string>
   <string name="no">Nei</string>
   <string name="no_albums_alert">Ingen album tilgjengelige.</string>
   <string name="no_connectivity">"Noen lokasjoner kunne ikke identifiseres på grunn av nettverksproblemer."</string>
@@ -258,7 +272,10 @@
   <string name="photos">Bilde(r)</string>
   <string name="pick_too_many_recipients">For mange mottakere</string>
   <string name="posterize">Posteriser</string>
+  <string name="ppmm_gallery">PPMM</string>
   <string name="projection">Projeksjon</string>
+  <string name="qqbrowser_img">QQ-nettleser</string>
+  <string name="qsbk_save">QSBK</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="quotation">\"%s\"</string>
   <string name="redeye">Rødt øye</string>
@@ -266,6 +283,7 @@
   <string name="remove_hidden_album">Avbryt skjulte</string>
   <string name="remove_recent_album">Fjern fra favoritt-album</string>
   <string name="rename_failed">Endring av navn mislykkes</string>
+  <string name="renren_image">RenRen</string>
   <string name="request_qr_code">Henter QR-kode, vennligst vent...</string>
   <string name="request_qr_code_failed">QR-kode henting feilet, trykk for å prøve igjen</string>
   <string name="request_sms_url_failed">Kunne ikke be om URL for deling via SMS</string>
@@ -293,6 +311,7 @@
   <string name="select_all">Velg alle</string>
   <string name="select_image">Velg bilde</string>
   <string name="select_item">Rediger</string>
+  <string name="select_too_much_to_send_tips">Valgte bilder er for store for å sendes. Den tillatte grensen er %d.</string>
   <string name="select_video">Velg video</string>
   <string name="send">Send</string>
   <string name="send_multiple_files_hint_format">Send flere filer (%s)</string>
@@ -332,6 +351,7 @@
   <string name="show_images_only">Kun bilder</string>
   <string name="show_on_map">Vis på kart</string>
   <string name="show_videos_only">Kun videoer</string>
+  <string name="sina_weibo_save">Weibo</string>
   <string name="size_above">%1$s eller over</string>
   <string name="size_below">%1$s eller under</string>
   <string name="size_between">%1$s til %2$s</string>
@@ -360,6 +380,10 @@
   <string name="tab_wallpaper_text">Skrivebord</string>
   <string name="tags">Tags</string>
   <string name="temperature">Varme</string>
+  <string name="tencent_mobile_qq_img_save">QQ2012</string>
+  <string name="tencent_qq_hd_pic">QQ HD</string>
+  <string name="tencent_qzonepic">Qzone</string>
+  <string name="tieba">Tie Ba</string>
   <string name="time">Tidspunkt</string>
   <string name="times">Tidspunkter</string>
   <string name="tint">Tint</string>
@@ -369,12 +393,14 @@
   <string name="try_to_send">Prøv å sende</string>
   <string name="turn_left">Roter venstre</string>
   <string name="turn_right">Roter høyre</string>
+  <string name="ucdownloads_screenshot">UC-nettleser</string>
   <string name="unit_mm">mm</string>
   <string name="untagged">Ikke tagget</string>
   <string name="video_err">"Kan ikke avspille video."</string>
   <string name="vignette">Vignette</string>
   <string name="wallpaper">Skrivebordsbakgrunn</string>
   <string name="warn">Advarsel</string>
+  <string name="weikan_weikan">Weikan TV</string>
   <string name="white_balance">Hvitbalanse</string>
   <string name="widget_type">Velg bilder</string>
   <string name="widget_type_album">Velg et album</string>

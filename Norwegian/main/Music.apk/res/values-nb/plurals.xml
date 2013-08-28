@@ -75,5 +75,9 @@
     <plurals name="Ntracks_remove_from_favorite_playlist">
         <item quantity="other">%d sanger fjernet fra spilleliste.</item>
         <item quantity="one">1 sang fjernet fra spilleliste.</item>
+    </plurals>    
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d sanger med topp-karakterer</item>
+        <item quantity="one">%d sang med topp-karakter</item>
     </plurals>
 </resources>

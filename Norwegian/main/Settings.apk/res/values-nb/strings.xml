@@ -683,6 +683,7 @@ Denne innstillingen gjelder for alle bruker på telefonen."</string>
   <string name="dirac_mode_earbuds">"Xiaomi sine ørepropper"</string>
   <string name="dirac_mode_earphones">"Xiaomi sine hodetelefoner"</string>
   <string name="dirac_mode_off">Dirac av</string>
+  <string name="dirac_mode_piston_100">Xiaomi stempel-hodetelefoner</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Deaktiver HW-overlegg</string>
   <string name="disable_overlays_summary">Bruk alltid GPU til skjermkomposisjon</string>
@@ -1351,6 +1352,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="perm_operating">Behandler...</string>
   <string name="perm_optimize">Optimaliser</string>
   <string name="perm_privacy_app_count">%1$d tillatelser</string>
+  <string name="perm_privacy_app_count_trust_summary">Stol på program</string>
   <string name="perm_privacy_app_finish">Ferdig</string>
   <string name="perm_privacy_app_installed">Installation fullført!</string>
   <string name="perm_privacy_app_launch">Åpne</string>
@@ -1858,6 +1860,7 @@ Muligens ugyldig PIN."</string>
   <string name="sync_plug"/>
   <string name="sync_settings">Kontoer og synkronisering</string>
   <string name="sync_wifi_label">WiFi Synk-innstillinger</string>
+  <string name="sync_wifi_only">Kun Wi-Fi</string>
   <string name="system">System</string>
   <string name="system_package">Systemoppdateringer kan ikke installeres på eksterne medier</string>
   <string name="system_update_settings_list_item_summary"/>

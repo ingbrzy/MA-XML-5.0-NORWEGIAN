@@ -64,6 +64,7 @@
   <string name="confirm_no_block_title">"Ikke blokker nummer og gjenopprette alle meldingene?"</string>
   <string name="confirm_export_dialog_title">Fjern privat kontakt</string>
   <string name="confirm_rate_limit">"Et stort antall MMS'er sendes, bekreft at dette er ok?"</string>
+  <string name="confirm_restore_all_title">Gjenopprett alle meldinger fra dette nummeret？</string>
   <string name="confirm_restore_positive">Gjenopprett</string>
   <string name="confirm_restore_title">Gjenopprett alle valgte meldinger?</string>
   <string name="context_menu_add_contact">Legg til kontakter</string>
@@ -325,6 +326,7 @@
   <string name="replace_image">Erstatt bilde</string>
   <string name="resent_message">Send igjen</string>
   <string name="resize_image_error_information">Beklager, selv med skalering er bildet for stort til å sendes.</string>
+  <string name="restore_all_button_msg">Gjenopprett alle meldinger fra dette nummeret</string>
   <string name="restore_blocked_message">Gjenopprett blokkert melding</string>
   <string name="save">Lagre</string>
   <string name="save_ringtone">Lagre som ringetone</string>
