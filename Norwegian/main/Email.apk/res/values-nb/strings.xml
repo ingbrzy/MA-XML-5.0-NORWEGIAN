@@ -261,7 +261,7 @@
   <string name="edit_quick_response_dialog">Rediger Hurtigsvar</string>
   <string name="eml_view_title">Viser %s</string>
   <string name="error_loading_message_body">"Kunne ikke laste inn teksten, meldingen er muligens for stor til å vise."</string>
-  <string name="exchange_name">Erhverv eller annen</string>
+  <string name="exchange_name">Exchange eller annen</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="failed_bad_response">Tjenestefeil</string>
   <string name="failed_network_error">Nettverksfeil</string>

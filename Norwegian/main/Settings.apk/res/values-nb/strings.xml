@@ -24,7 +24,7 @@
 
 Steg 1: Trykk og hold på på-knappen til du hører en lyd eller kjenner en vibrasjon
 
-Stegp 2: Trykk og hold to fingre til du hører bekreftelseslydden
+Stegp 2: Trykk og hold to fingre til du hører bekreftelseslyden
 
 Hvis enheten har flere brukere, vil denne snarveien på startskjermen midlertidig skru på tilgjengelighet til enheten blir låst opp.."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Av</string>
@@ -695,7 +695,7 @@ Denne innstillingen gjelder for alle bruker på telefonen."</string>
   <string name="display_label">Visuelle innstillinger</string>
   <string name="display_order_text">Sorter etter:</string>
   <string name="display_preview_label">Eksempel:</string>
-  <string name="display_settings">skjerminnstillinger</string>
+  <string name="display_settings">Skjerminnstillinger</string>
   <string name="display_settings_title">skjerm</string>
   <string name="dlg_cancel">Avbryt</string>
   <string name="dlg_confirm_unmount_text">Hvis du avmonterer SD-kort, vil noen programmer du bruker stoppe, og kan være utilgjengelige, inntil du remonterer SD-kortet.</string>
@@ -1011,10 +1011,10 @@ Denne innstillingen gjelder for alle bruker på telefonen."</string>
   <string name="location_access_summary">La programmer som har bedt om tillatelse bruke din stedsinformasjon</string>
   <string name="location_access_title">Tilgang til min lokasjon</string>  
   <string name="location_gps">GPS-satelitter</string>
-  <string name="location_neighborhood_level">La programmer bruke data fra kilder som WiFi og mobile nettverk for å bestemme din omtrentlige position</string>
+  <string name="location_neighborhood_level">La programmer bruke data fra kilder som Wi-Fi og mobile nettverk for å bestemme din omtrentlige posisjon</string>
   <string name="location_neighborhood_level_wifi">Lokasjon bestemmes av WiFi</string>
-  <string name="location_network_based">"Googles positionstjeneste"</string>
-  <string name="location_settings_title">Positionstjenester</string>
+  <string name="location_network_based">"Googles posisjonstjeneste"</string>
+  <string name="location_settings_title">Posisjonstjenester</string>
   <string name="location_street_level">La programmer bruke GPS for å lokalisere din plassering</string>
   <string name="location_title">Min plassering</string>
   <string name="location_sources_heading">Lokasjonskilder</string>
