@@ -23,6 +23,7 @@
   <string name="component_lockstyle_personal_title">Innstillinger</string>
   <string name="component_select_title">%1$s valgte elementer</string>
   <string name="component_settings_title">Tilpass tema</string>
+  <string name="default_name">Standard</string>
   <string name="deleting">Sletter...</string>
   <string name="description_author">Forfatter:</string>
   <string name="description_designer">Designer:</string>
@@ -43,6 +44,7 @@
   <string name="lockscreen_wallpaper">Låseskjerm</string>
   <string name="lockstyle_personal_settings">Tilpasning</string>
   <string name="long_ringtone_resource">Lang (&gt;5sek)</string>
+  <string name="maml_component_customization_title">Komponent-innstillinger</string>
   <string name="menu_refresh">Oppdater</string>
   <string name="mi_wallpaper">Bakgrunn</string>
   <string name="mi_wallpaper_loading">Laster bakgrunnsbilde...</string>

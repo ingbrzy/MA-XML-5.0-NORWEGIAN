@@ -341,6 +341,7 @@ Vi vil sjekke for deg etter to arbeidsdager"</string>
   <string name="update_contacts">Oppdater kontakter</string>
   <string name="update_contacts_description">Oppdater dine telefonkontakter og annen informasjon</string>
   <string name="updated_contacts">Oppdatert %s kontakter</string>
+  <string name="updated_nothing">Ingenting oppdatert!</string>
   <string name="user_agreement_p1">"Ved å logge inn, aksepterer du "</string>
   <string name="user_agreement_p2">Xiaomis tjenestevilkår</string>
   <string name="user_agreement_p3"> og </string>

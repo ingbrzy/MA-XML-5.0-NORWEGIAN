@@ -62,6 +62,8 @@
   <string name="sqrt">√</string>
   <string name="sqrtDesc">kvadratrot</string>
   <string name="standard">standard</string>
+  <string name="switch_to_scientific_pad">Bytt til vitenskapelig</string>
+  <string name="switch_to_standard_pad">Bytt til standard</string>
   <string name="tan">tan</string>
   <string name="tanDesc">tangens</string>
   <string name="tan_mathematical_value">tan</string>

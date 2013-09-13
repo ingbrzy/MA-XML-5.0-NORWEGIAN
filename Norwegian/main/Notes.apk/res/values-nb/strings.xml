@@ -92,7 +92,9 @@
   <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Eksport lyktes</string>
   <string name="time_picker_dialog_title">Still inn påminnelsestid</string>
+  <string name="toast_folder_privacy_mode">"Kan ikke endre mappe i vaktmodus"</string>
   <string name="toast_message_add_image_fail">Kunne ikke sette inn bilde!</string>
+  <string name="toast_note_privacy_mode">"Kan ikke endre notat i vaktmodus"</string>
   <string name="toast_privacy_mode">Kan ikke endre notat når du er i bevoktet modus</string>
   <string name="toast_reach_text_limit_attachment">Innholdet i notatet er for langt til å legge til nye vedlegg.</string>
   <string name="toast_reach_text_limit_truncate">"Innholdet av notatet har blitt klippet fordi det er for langt."</string>

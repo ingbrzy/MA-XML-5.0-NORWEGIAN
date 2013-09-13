@@ -2,12 +2,13 @@
 <resources>
   <string name="activity_not_found">Kunne ikke finne program for å åpne vedlegget</string>
   <string name="activity_not_found_uri">Kunne ikke finne program for åpning av objekt</string>
+  <string name="addBlackList">Legg i svarteliste</string>
   <string name="add_bookmark">Favoritter</string>
   <string name="add_contact">Kontakt</string>
   <string name="add_festival">Festival</string>
   <string name="add_music">Legg til musikk</string>
   <string name="add_nickname">Kallenavn</string>
-  <string name="add_nickname_title">Redigering av Kallenavnet</string>
+  <string name="add_nickname_title">Redigering av kallenavnet</string>
   <string name="add_number_to_sender">Legg til nummer til %s</string>
   <string name="add_picture">Legg til bilde</string>
   <string name="add_private_contact">Legg til privat kontakt</string>
@@ -29,6 +30,7 @@
   <string name="attach_take_photo">Ta bilde</string>
   <string name="attach_video">Videoer</string>
   <string name="back_to_message_list">tilbake til meldingsliste</string>
+  <string name="batch_adding_progress_message">Legger til...</string>
   <string name="batch_delete_confirm_dialog_message">Er du sikker på at du vil slette %1$s meldinger?</string>
   <string name="batch_deleting_message_progress_message">Sletter valgte melding(er)</string>
   <string name="batch_deleting_progress_message">Sletter valgte tråd(er)</string>
@@ -50,6 +52,7 @@
   <string name="close">Lukk</string>
   <string name="compressing">bilde for stort. Komprimerer...</string>
   <string name="confirm">Bekreft</string>
+  <string name="confirm_add_blacklist_dialog_dspt">Vil du legge til nummeret i svarteliste?</string>
   <string name="confirm_delete_SIM_message">Denne meldingen på SIM-kortet vil bli slettet.</string>
   <string name="confirm_delete_all_SIM_messages">Alle meldinger på SIM-kortet vil bli slettet.</string>
   <string name="confirm_delete_all_conversations">Alle tråder vil bli slettet.</string>
@@ -134,6 +137,7 @@
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Laster inn...</string>
   <string name="fetion_prefix">[Åpne]</string>
+  <string name="file_share_message_description">Jeg vil dele filer med deg</string>
   <string name="flatshow_page_no">Side %1$d</string>
   <string name="forward_prefix">"Videresend: "</string>
   <string name="found_old_messages">I alt: %1$s ble funnet på den gamle telefonkontoen. Vil du laste dem opp til din nåværende konto: %2$s?</string>
@@ -152,6 +156,7 @@
   <string name="importing_progress_private_message">Importerer meldinger til privat samtale</string>
   <string name="in_sms">Melding</string>
   <string name="insufficient_drm_rights">Det er registrert utilstrekkelige DRM-rettigheter.</string>
+  <string name="invalid_conversation">Ugyldig samtale</string>
   <string name="invalid_destination">Du har skrivd inn en ugyldig mottaker/adresse.</string>
   <string name="invalid_recipient_message">Rett opp mottaker(e) ellers vil de ikke motta meldingen.</string>
   <string name="kilobyte">KB</string>

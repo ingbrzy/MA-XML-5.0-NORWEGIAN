@@ -796,10 +796,11 @@ for å legge til kontakt til favoritter:
   <string name="ret_sign">" "</string>
   <string name="returnCall">Ring tilbake</string>
   <string name="ringLabelsGroup">Ringetone</string>
+  <string name="save">Lagre</string>
   <string name="save_photo_progress">lagrer bilde...</string>
-  <string name="savingContact">lagrer kontakt…</string>
-  <string name="savingDisplayGroups">lagrer visningsinnstillinger ...</string>
-  <string name="scan">skan Enhet</string>
+  <string name="savingContact">Lagrer kontakt…</string>
+  <string name="savingDisplayGroups">Lagrer visningsinnstillinger ...</string>
+  <string name="scan">Skann enhet</string>
   <string name="scan_duplicate_message">Kontakter med nøyaktig de samme dataene: %1$d</string>
   <string name="scan_merge">Søker etter dupliserte kontakter…</string>
   <string name="scanning">Skanner etter Enheter…</string>
