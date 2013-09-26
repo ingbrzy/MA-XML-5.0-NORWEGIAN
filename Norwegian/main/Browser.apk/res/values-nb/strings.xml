@@ -313,6 +313,7 @@
   <string name="pref_autofill_profile_editor">Auto-fyll tekst</string>
   <string name="pref_autofill_profile_editor_summary">Sett opp tekst til automatisk å fylle ut skjemaer</string>
   <string name="pref_autologin_progress">Logger inn på Google-nettsteder ved hjelp av %s</string>
+  <string name="pref_autologin_progress_in_background">Logger inn på Google sites med %s i bakgrunnen</string>
   <string name="pref_autologin_title">Automatisk Google innlogging</string>
   <string name="pref_clear_cache_for_exit">Tøm cache ved avslutning</string>
   <string name="pref_clear_history_for_exit">Tøm historikk ved avslutning</string>
@@ -465,7 +466,8 @@
   <string name="preview">Eksempel</string>
   <string name="progress_dialog_setting_wallpaper">Setter bakgrunn ...</string>
   <string name="quicklinks_management">Hurtiglinker</string>
-  <string name="readmode_already_add_to_bookshelf">Lagt til bokhylle</string>
+  <string name="readmode_already_add_to_bookshelf">Lagt til i bokhylle</string>
+  <string name="readmode_battery">Batteri </string>
   <string name="readmode_login">Kontoinnlogging</string>
   <string name="readmode_login_message">Påfølgende kapitlene krever pålogging før lesing kan være aktivert</string>
   <string name="readmode_page_load_error">Kunne ikke laste side, vennligst klikk Oppdater for å prøve på nytt</string>

@@ -135,6 +135,9 @@
   <string name="toast_channel_searched">Skannet %1$d stasjoner.</string>
   <string name="toast_delete_station">%sMHz er slettet.</string>
   <string name="toast_edit_station">Endringer lagret</string>
+  <string name="toast_fm_seeking">Søker etter stasjon, vennligst vent…</string>
+  <string name="toast_fm_starting">FM-programmet starter，vennligst vent…</string>
+  <string name="toast_fm_stoping">FM-programmet stopper, vennligst vent…</string>
   <string name="toast_removed_from_presets">Fjernet fra forhåndsinnstillinger</string>
   <string name="toast_save_station">%sMHz har blitt lagret</string>
   <string name="toast_sleep_mode">Stopp FM om %s</string>
