@@ -21,10 +21,10 @@
   <string name="dlg_delete_keyword">Fjern valgte nøkkelord?</string>
   <string name="dlg_delete_vip">Fjern dette hvitelistede nummeret?</string>
   <string name="dlg_edit_keyword">Endre nøkkeldord</string>
-  <string name="dlg_import_blacklist">Importing to blacklist</string>
-  <string name="dlg_import_whitelist">Importing to whitelist list</string>
+  <string name="dlg_import_blacklist">Importerer til svarteliste</string>
+  <string name="dlg_import_whitelist">Importerer til hviteliste</string>
   <string name="dlg_keyword_ok">Lagre</string>
-  <string name="dlg_no_block">"Ikke blokkerere dette nummeret?"</string>
+  <string name="dlg_no_block">"Ikke blokkere dette nummeret?"</string>
   <string name="dlg_no_block_ok">"Ikke blokker"</string>
   <string name="dlg_remove_blacklist">Fjern dette nummeret fra svartelisten?</string>
   <string name="dlg_remove_blacklist_ok">Fjern</string>

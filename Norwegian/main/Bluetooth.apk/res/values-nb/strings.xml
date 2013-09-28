@@ -19,7 +19,7 @@
   <string name="bt_sm_2_1">Det er ikke nok plass på SD-kortet til at lagre filen fra \"%1$s\"</string>
   <string name="bt_sm_2_2">Nødvendig plass: %1$s</string>
   <string name="bt_toast_1">Filen Mottas. Se status i notifikasjonspanelet.</string>
-  <string name="bt_toast_2">Filen kan ikke mopttas.</string>
+  <string name="bt_toast_2">Filen kan ikke mottas.</string>
   <string name="bt_toast_3">Mottakelse av fil fra \"%1$s\" stoppet</string>
   <string name="bt_toast_4">Sender filen til \"%1$s\"</string>
   <string name="bt_toast_5">Sender %1$s filer til \"%2$s\"</string>
