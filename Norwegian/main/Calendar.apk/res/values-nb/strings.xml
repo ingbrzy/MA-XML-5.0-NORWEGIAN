@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_add_attendee">Legg til deltager</string>
-  <string name="accessibility_add_reminder">Legg til påmindelse</string>
+  <string name="accessibility_add_reminder">Legg til påminnelse</string>
   <string name="accessibility_all_day">Heldagshendelse</string>
   <string name="accessibility_pick_end_date">Sluttdato</string>
   <string name="accessibility_pick_end_time">Sluttidspunkt</string>
@@ -10,10 +10,10 @@
   <string name="accessibility_pick_time_zone">Tidssone</string>
   <string name="accessibility_reminder_privacy">Privat</string>
   <string name="accessibility_reminder_showmeas">Vis meg som</string>
-  <string name="accessibility_reminder_time">Tidspunkt for påmindelse</string>
-  <string name="accessibility_reminder_type">Påmindelsestype</string>
+  <string name="accessibility_reminder_time">Tidspunkt for påminnelse</string>
+  <string name="accessibility_reminder_type">Påminnelsestype</string>
   <string name="accessibility_remove_attendee">Fjern deltager</string>
-  <string name="accessibility_remove_reminder">Fjern påmindelse</string>
+  <string name="accessibility_remove_reminder">Fjern påminnelse</string>
   <string name="accessibility_repeats">Gjenta</string>
   <string name="accessibility_sync_cal">Synkroniser kalender</string>
   <string name="accounts">Kontoer og synkronisering</string>
@@ -29,7 +29,7 @@
   <string name="alert_title">Beskjed fra Kalender</string>
   <string name="app_label">Kalender</string>
   <string name="attendees_label">Deltakere</string>
-  <string name="birthday_calendar_display_name">Fødselsdagspåmindelse</string>
+  <string name="birthday_calendar_display_name">Fødselsdagspåminnelse</string>
   <string name="birthday_event_description">"Idag er det %1$s's fødselsdag!"</string>
   <string name="birthday_event_description_detail_leap" />
   <string name="birthday_event_description_detail_smart" />
@@ -47,7 +47,7 @@
   <string name="create_an_account_desc">"Kalender fungerer bedre med en Google-konto.
 
 • Få adgang til den fra enhver webbrowser
-• Sikkerhetskopier dine hendleser på sikkert vis"</string>
+• Sikkerhetskopier dine hendelser på sikkert vis"</string>
   <string name="creating_event">Hendelsen er opprettet.</string>
   <string name="creating_event_with_guest">Invitasjonene er sendt.</string>
   <string name="custom">Tilpasset (kan ikke tilpasses på telefon)</string>
