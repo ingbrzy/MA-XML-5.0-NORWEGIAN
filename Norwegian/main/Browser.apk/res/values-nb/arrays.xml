@@ -15,7 +15,7 @@
         <item>Lite</item>
         <item>Normal</item>
         <item>Stor</item>
-        <item>Kjmpestor</item>
+        <item>Kjempestor</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
         <item>Langt</item>
