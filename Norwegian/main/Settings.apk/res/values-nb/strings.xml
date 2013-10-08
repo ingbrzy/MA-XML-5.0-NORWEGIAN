@@ -99,11 +99,13 @@ Merk: Triple-trykk for forstørrelse fungerer overalt bortsett fra tastaturet og
   <string name="allow_mock_location_summary">Tillat falske posisjoner</string>
   <string name="always_allow_bind_appwidgets_text">"Du har valgt å tillate dette programmet å opprette widgeter og få adgang til deres data."</string>
   <string name="android_beam_disabled_summary">Ikke tilgjengelig, da NFC er avslått</string>
-  <string name="android_beam_explained">"Når denne funksjonen er slått på, kan du stråle app innhold til en annen NFC-kompatibel enhet ved å holde enhetene tett på hverandre. For eksempel kan du sende nettsider, YouTube videoer, kontakter, og mer. Bare før enhetene sammen (typisk rygg mot rygg), og trykk deretter på skjermen. Applikasjonen avgjør, hva som blir strålet."</string>
+  <string name="android_beam_explained">"Når denne funksjonen er slått på, kan du stråle programinnhold til en annen NFC-kompatibel enhet ved å holde enhetene tett på hverandre. For eksempel kan du sende nettsider, YouTube videoer, kontakter, og mer. Bare før enhetene sammen (typisk rygg mot rygg), og trykk deretter på skjermen. Applikasjonen avgjør, hva som blir strålet."</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Av</string>
   <string name="android_beam_on_summary">Klar for å overføre app-innhold via NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
+  <string name="android_beam_tips">Vær sikker på at de to enhetene rører hverandre, og velg så innholdet du vil stråle.</string>
+  <string name="android_beam_witch_label">Aktiver Android Beam</string>
   <string name="animator_duration_scale_title">Animasjonslengde skala</string>
   <string name="antispam_quiet_mode_title">Stillemodus</string>
   <string name="apn_apn">APN</string>
