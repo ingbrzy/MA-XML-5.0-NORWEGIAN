@@ -285,7 +285,6 @@
   <string name="fools_day" />
   <string name="force_exit_message">Lukket \"%1$s\"</string>
   <string name="forget_password_string">Glemt passord</string>
-  <string name="format_time_in_12_hours">hh:mma</string>
   <string name="global_action_privacy_mode_dialog_message">I Privat modus vil anrop, noter og SMS-beskjeder bli gjemt, og launcher vil ikke være i stand til å gå inn i redigeringsmodus.</string>
   <string name="global_action_toggle_privacy_mode">Privat</string>
   <string name="grain_buds" />
