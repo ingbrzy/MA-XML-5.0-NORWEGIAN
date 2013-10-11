@@ -87,9 +87,12 @@
   <string name="bookmark_url_not_valid">"Denne URL ener ikke gyldig."</string>
   <string name="bookmarks">Bokmerker</string>
   <string name="bookmarks_manaLagreent">Bokmerker</string>
-  <string name="bookmarks_root_folder">Rodmappe</string>
+  <string name="bookmarks_root_folder">Rotmappe</string>
   <string name="bookmarks_search">Nettleser</string>
-  <string name="browserFrameFileErrorLabel">Fil problem</string>
+  <string name="bottom_bar_tabs_long_click_down_tip_txt">Sveip ned for å lukke</string>
+  <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Siste fane</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Sveip opp for å lukke</string>
+  <string name="browserFrameFileErrorLabel">Filproblem</string>
   <string name="browserFrameFormResubmitLabel" />
   <string name="browserFrameFormResubmitMessage">Siden du prøver å vise inneholder data som allerede er sendt (\" POSTDATA \ "). Hvis du sender dataene igjen, vil hver handling skjemaet på siden gjennomførte (som et søk eller et nettkjøp) bliv gjentattt. "</string>
   <string name="browserFrameNetworkErrorLabel">Forbindelsesproblem</string>
@@ -101,7 +104,8 @@
   <string name="choosertitle_sharevia">Del via</string>
   <string name="clear">Tøm</string>
   <string name="clear_history">Tøm historikk</string>
-  <string name="clear_history_group">Tøm historikk</string>
+  <string name="clear_history_group">Tøm all %s historikk</string>
+  <string name="clear_search_history">Tøm søkehistorikk</string>
   <string name="open_history_group_in_new_window">åpne alle %s i historikken i nytt vindu</string>
   <string name="clip_dialog_title">Åpne kopiert link?</string>
   <string name="close_all_tab_alert_message">Er du sikker på at du vil lukke alle fanene?</string>
@@ -205,6 +209,11 @@
   <string name="folder_name">Mappenavn</string>
   <string name="folder_name_too_long">Mappenavn er for langt</string>
   <string name="forward">Fremover</string>
+  <string name="general_set_default_browser_dialog_close_txt">Lukk</string>
+  <string name="general_set_default_browser_dialog_ok_txt">OK</string>
+  <string name="general_set_default_browser_dialog_summary">Bruk MIUI-integrerte programmer for raskere og jevnere hastighet</string>
+  <string name="general_set_default_browser_title">Bruk som standard nettleser</string>
+
   <string name="geolocation_permissions_prompt_dont_share">Avslå</string>
   <string name="geolocation_permissions_prompt_message">%s ønsker å vite din plassering</string>
   <string name="geolocation_permissions_prompt_remember">Husk preferanser</string>

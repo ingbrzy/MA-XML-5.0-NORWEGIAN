@@ -55,6 +55,9 @@
   <string name="file_not_found_error_message">Oppdateringsfil ikke funnet</string>
   <string name="finish">Avslutt</string>
   <string name="finish_download">Nedlasting fullført</string>
+  <string name="fourgrid_hint_text">Takk for at du bruker utviklerutgaven av MIUI. Vær vennelig å fortell oss hva du synes og hjelp oss med å gjøre MIUI til en bedre Android ROM!</string>
+  <string name="fourgrid_no_notificaiont">"Ikke vis i statuslinjen"</string>
+  <string name="fourgrid_notificaiont">Vis i statuslinjen</string>
   <string name="get_update_error">Kunne ikke hente informasjon om oppdatering</string>
   <string name="install_email">Installer epost-app</string>
   <string name="install_file_explorer">Installer Filhåndtering</string>

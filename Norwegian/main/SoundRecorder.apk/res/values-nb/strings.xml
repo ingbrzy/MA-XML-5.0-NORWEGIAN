@@ -45,6 +45,8 @@
   <string name="overwrite_dialog_message">%s eksisterer allerede.\nVil du overskrive?</string>
   <string name="pause">Pause</string>
   <string name="play_record">Spill</string>
+  <string name="preference_enable_earpiece_summary">Bruk mottaker for ekstern avspilling</string>
+  <string name="preference_enable_earpiece_title">Bruk mottaker for å spille lyd</string>
   <string name="preference_led_indicator">Opptaksindikator på låseskjerm</string>
   <string name="preference_led_indicator_prompt">Vis i statuslinje og blink med rød LED på låseskjermen under opptak</string>
   <string name="preference_record_scenes_dialog_title">Velg en opptaks-scene</string>

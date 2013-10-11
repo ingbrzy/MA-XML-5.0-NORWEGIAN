@@ -61,6 +61,7 @@
   <string name="menu_add_list">Legg til i liste</string>
   <string name="menu_delete">Slett</string>
   <string name="menu_edit">Rediger</string>
+  <string name="menu_exit">Avslutt</string>
   <string name="menu_new_station">Legg til ny kanal</string>
   <string name="menu_play">Spill av</string>
   <string name="menu_record_list">Liste over opptak</string>
@@ -69,6 +70,8 @@
   <string name="menu_rename_list">Endre navn på liste</string>
   <string name="menu_reorder_list">Arranger liste</string>
   <string name="menu_save_station">Lagre kanal</string>
+  <string name="menu_save_station_list">Lagre stasjon i liste</string>
+  <string name="menu_save_station_presets">Legg til i forhåndsstilte stasjoner</string>
   <string name="menu_scan_for_preset">Skann for forhåndsinnstillinger</string>
   <string name="menu_scan_start">Skann</string>
   <string name="menu_scan_stop">Stop søking</string>
@@ -119,6 +122,7 @@
   <string name="spaceIsLow_content">Ditt SD-kort er nesten fullt. Senk kvalitetsinnstillingen, eller frigjør plass på kortet.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
   <string name="stat_notif_tx_frequency">FM sender på: %1$s</string>
+  <string name="station_check_favorite">Legg til i favoritter</string>
   <string name="station_edit">Rediger</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="station_move">Flytt</string>
@@ -131,6 +135,7 @@
   <string name="test_prompt">Velg en test</string>
   <string name="test_run">Kjør Test</string>
   <string name="title_select_station">Velg kanal - %s</string>
+  <string name="toast_added_to_list">Lagt til i stasjonsliste</string>
   <string name="toast_added_to_presets">Lagt til i forhåndsinnstillinger</string>
   <string name="toast_channel_searched">Skannet %1$d stasjoner.</string>
   <string name="toast_delete_station">%sMHz er slettet.</string>

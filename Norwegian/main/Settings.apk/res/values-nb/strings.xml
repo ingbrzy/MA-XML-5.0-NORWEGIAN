@@ -434,6 +434,7 @@ Merk: Triple-trykk for forstørrelse fungerer overalt bortsett fra tastaturet og
   <string name="bluetooth_visibility_timeout">Synlighet timeout</string>
   <string name="bluetooth_visibility_timeout_summary">Velg hvor lang tid enheten vil kunne registreres</string>
   <string name="breathing_light_color_summary">LED farge ved mottalse av notifikasjoner</string>
+  <string name="breathing_light_color_menu_title">Lysfarge</string>
   <string name="breathing_light_color_title">" LED farge"</string>
   <string name="breathing_light_freq_summary">LED pause mellom blink</string>
   <string name="breathing_light_freq_title">" LED frekvens </string>

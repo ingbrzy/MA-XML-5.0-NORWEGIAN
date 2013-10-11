@@ -58,6 +58,10 @@
   <string name="delete_playlist_menu">Slett</string>
   <string name="delete_song_desc">Er du sikker på du vil slette %s ?</string>
   <string name="deselect_all">Opphev alle valg</string>
+  <string name="dirac_mode_earbuds">Xiaomi-hodetelefoner</string>
+  <string name="dirac_mode_in_ear">Xiaomi-øretelefoner</string>
+  <string name="dirac_mode_off">Dirac av</string>
+  <string name="dirac_mode_piston_100">Xiaomi-stempel hodetelefoner</string>
   <string name="dirac_disabled">Dirac er deaktivert</string>
   <string name="dirac_enabled">Dirac er aktivert</string>
   <string name="download">Hent</string>
@@ -78,6 +82,26 @@
   <string name="empty_track_list">Ingen sang-liste</string>
   <string name="emptyplaylist">Valgte spilleliste er tom.</string>
   <string name="enter_sleep_mode">Aktiver sleep tilstand</string>
+  <string name="eq_auto">Egendefinert</string>
+  <string name="eq_blues">Blues</string>
+  <string name="eq_classical">Klassisk</string>
+  <string name="eq_country">Country</string>
+  <string name="eq_dance">Dance</string>
+  <string name="eq_delete">Fjern</string>
+  <string name="eq_delete_success">Fullført.</string>
+  <string name="eq_electronic">Elektronisk</string>
+  <string name="eq_flat">Flat</string>
+  <string name="eq_hiphop">Hip Hop</string>
+  <string name="eq_jazz">Jazz</string>
+  <string name="eq_metal">Metal</string>
+  <string name="eq_pop">Pop</string>
+  <string name="eq_preset_create">Lag</string>
+  <string name="eq_preset_format">Forhåndsinnstilling %d</string>
+  <string name="eq_preset_hint">Navn på forhåndsinnstilling</string>
+  <string name="eq_preset_rename">Gi nytt navn</string>
+  <string name="eq_preset_select">Velg en forhåndsinnstilling</string>
+  <string name="eq_rb">R &amp; B</string>
+  <string name="eq_rock">Rock</string>
   <string name="equalizer">Equaliser</string>
   <string name="equalizer_delete">Slett</string>
   <string name="equalizer_delete_success">Equaliser-profil fjernet</string>
@@ -104,6 +128,7 @@
   <string formatted="false" name="folder_title_format">%s(%d)</string>
   <string name="folders_title">Mapper</string>
   <string name="frequentlyplayed_title">Ofte avspilt</string>
+  <string name="headphone_settings">Hodetelefontype-innstillinger</string>
   <string name="hot_artists">Hotte artister</string>
   <string name="id3_edit">Rediger ID3-informasjon</string>
   <string name="id3_edit_failed">Kunne ikke redigere ID3-informasjon</string>
@@ -141,6 +166,9 @@
   <string name="lyric_picker_not_found">Filhåndtering ikke funnet på telefonen</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Musikk</string>
+  <string name="mi_effect">MI-effekter</string>
+  <string name="mi_effect_summary">Alltid bruk en MiLyd-forbedrer når du bruker høytaler</string>
+  <string name="mi_effect_title">Bruk MiLyd-forbedrer</string>
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Mobilt nettverk</string>
   <string name="modify_id3_for_list">Sangene fra nåværende liste vil få redigeret ID3-informasjon</string>
@@ -151,6 +179,7 @@
   <string name="music_browser_label">Musikk</string>
   <string name="music_filter">Filtrer filer</string>
   <string name="music_filter_helper">For å skjule filer som ikke er musikk, er det satt et størrelsesfilter på 800K for å hindre disse i å vises. Terskelen kan justeres i innstillingene.</string>
+  <string name="music_not_loaded">Ingen lydfiler funnet!</string>
   <string name="music_open_other_connect">Last ned musikk på mobildata-forbindelse</string>
   <string name="music_picker_title">Velg musikknummer</string>
   <string name="music_settings">Innstillinger</string>
