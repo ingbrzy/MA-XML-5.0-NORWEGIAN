@@ -870,6 +870,10 @@ Vennligst bemerk at SIM kortet vil være ubrukelig, hvis forsøket mislykkes igj
   <string name="sum_select_automatically_option_miui">Velg automatisk foretrukket nettverk, %s</string>
   <string name="sum_show_caller_id">Nummer vises i utgående anrop</string>
   <string name="sum_voicemail_choose_provider">Velg voicemail-tjeneste</string>
+  <string name="sum_xdivert_disabled">X-Divert deaktivert</string>
+  <string name="sum_xdivert_enabled">X-Divert aktivert</string>
+  <string name="summary_manage_subscriptions">Administrer nettverksinnstillingene for hvert abonnement</string>
+  <string name="suspect_info">"Ikke godta den som ringer, mulig svindelforsøk!"</string>
   <string name="t9_indexing_method_pinyin">PinYin</string>
   <string name="t9_indexing_method_title_miui">T9 Søke innstillinger</string>
   <string name="t9_indexing_method_zhuyin">ZhuYin</string>

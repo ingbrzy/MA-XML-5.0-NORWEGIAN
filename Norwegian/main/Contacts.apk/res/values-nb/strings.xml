@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_calllog_detail">Anropsloggdetajler</string>
   <string name="account_abnormal_state">Ikke godkjent kontoinformasjon, vennligst logge inn igjen eller prøv senere!</string>
   <string name="account_container_title">Fra følgende konto</string>
   <string name="account_default">Telefon</string>
@@ -22,7 +23,8 @@
   <string name="add_new_account">Legg til ny konto</string>
   <string name="add_new_entry_for_section">Legg til ny</string>
   <string name="add_organization">Legg til organisasjon</string>
-  <string name="add_to_my_contacts">Legg til mine kontaktpersoner</string>
+  <string name="add_slide_before">Legg til lysbilde (før)</string>
+  <string name="add_to_my_contacts">Legg til i mine kontakter</string>
   <string name="add_wait">Legg til pause</string>
   <string name="add_xiaomi_account_dialog_btn">Bruk Xiaomi konto</string>
   <string name="add_xiaomi_account_dialog_msg">For den beste brukeropplevelsen, vennligst vurder å bruke din Xiaomi kontoen til å synkronisere og sikkerhetskopiere kontaktene dine og administrere kontaktene dine fra en PC.</string>
@@ -194,6 +196,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="contacts_unavailable_add_account">Log inn på en konto</string>
   <string name="contacts_unavailable_create_contact">Opprett en ny kontaktperson</string>
   <string name="contacts_unavailable_import_contacts">Importer kontakter fra en fil</string>
+  <string name="context_menu_add_to_browser_favorite">Legg til i nettleserfavoritter</string>
   <string name="copy_text">Kopier til utklippstavlen</string>
   <string name="createContactShortcutSuccessful">Kontakt widget lagt til på skrivebordet.</string>
   <string name="create_group_dialog_title">Opprett ny gruppe</string>
@@ -374,8 +377,9 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="favoritesFrequentCalled">Ofte ringet opp</string>
   <string name="favoritesFrequentContacted">Ofte kontaktede</string>
   <string name="favorites_list_empty">Ingen favoritter</string>
-  <string name="foundTooManyContacts">mer enn %d funnet</string>
-  <string name="frequency_none">aldri</string>
+  <string name="forward_from">Videresend fra:</string>
+  <string name="foundTooManyContacts">Mer enn %d funnet.</string>
+  <string name="frequency_none">"Ikke påminn meg"</string>
   <string name="frequency_three_days">Hver 3. dag</string>
   <string name="frequency_weekly">Hver uke</string>
   <string name="frequentList">Hyppige</string>
@@ -665,15 +669,21 @@ for å legge til kontakt til favoritter:
   <string name="postal_pobox">Postboks</string>
   <string name="postal_postcode">postnummer</string>
   <string name="postal_region">Region/område</string>
+  <string name="pref_forward_title">Videresend</string>
   <string name="postal_street">Gate</string>
   <string name="pref_key_photo">Bilde</string>
   <string name="pref_key_photo_word_summary">Automatisk valg av bilde til kontakter</string>
   <string name="pref_key_photo_word_title">Autovelg bilde for kontakter</string>
-  <string name="pref_key_rebuild_t9_index_message">Rett indeks feil i kontaktsøking</string>
+  <string name="pref_summary_import_from_account">Importer kontakter fra Google og Exchange-kontoer til min Xiaomi konto</string>
+  <string name="pref_key_rebuild_t9_index_message">Rett indeksfeil i kontaktsøking</string>
   <string name="pref_key_rebuild_t9_index_title">Gjenoppbygg T9 indeks data</string>
   <string name="pref_summary_import_from_account">Importer kontakter fra Google og andre mail kontoer til min Xiaomi konto</string>
   <string name="pref_title_account_import">Importer fra konto</string>
+  <string name="pref_title_card_format">Kortdelingsformat</string>
+  <string name="pref_title_fwd_sender_info">Videresend senderinfo</string>
   <string name="pref_title_import_from_account">Importer til Xiaomi konto</string>
+  <string name="pref_title_miui_card">Send via MIUI-kort</string>
+  <string name="pref_title_vcard">Send via vCard</string>
   <string name="preference_auto_ip_summary_disable">Ikke aktivert</string>
   <string name="preference_auto_ip_summary_on">"Leverandørs IP prefiks: %s"</string>
   <string name="preference_auto_ip_title">Automatisk IP</string>
@@ -793,11 +803,15 @@ for å legge til kontakt til favoritter:
   <string name="resource_update">Oppdater</string>
   <string name="resource_waiting_download">Venter på nedlastning...</string>
   <string name="restore_nickname">Gjenopprett</string>
+  <string name="restore_to_phone_memory_failed">Kunne ikke gjenopprette til telefonminne!</string>
+  <string name="restored_to_phone_memory">"Gjenopprettet til telefonminne"</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Ring tilbake</string>
   <string name="ringLabelsGroup">Ringetone</string>
   <string name="save">Lagre</string>
-  <string name="save_photo_progress">lagrer bilde...</string>
+  <string name="save_photo_progress">Lagrer bilde...</string>
+  <string name="save_to_sim_failed">Kunne ikke lagre til SIM! restored_to_phone_memory </string>
+  <string name="saved_to_sim">Lagret til SIM!</string>
   <string name="savingContact">Lagrer kontakt…</string>
   <string name="savingDisplayGroups">Lagrer visningsinnstillinger ...</string>
   <string name="scan">Skann enhet</string>
@@ -814,6 +828,7 @@ for å legge til kontakt til favoritter:
   <string name="searching_vcard_message">Søker etter vCard data på SD-kort</string>
   <string name="select_all">Velg alle</string>
   <string name="select_device">Velg enhet å koble til</string>
+  <string name="select_groups">Velg grupper</string>
   <string name="select_new_photo_from_photo_package">Velg nytt bilde fra bildepakken</string>
   <string name="select_none">Intet valgt, handlingen er ugyldig</string>
   <string name="select_photo_from_photo_package">Velg bilde fra bildepakken</string>
@@ -826,7 +841,8 @@ for å legge til kontakt til favoritter:
   <string name="service_provider">Tjenesteleverandør</string>
   <string name="set_default">Sett standard</string>
   <string name="set_photo_failed_msg">Klarte ikke å sette bilde</string>
-  <string name="share_error">Denne kontakt kan ikke deles</string>
+  <string name="share_error">Denne kontakten kan ikke deles</string>
+  <string name="set_smsc_address_title_miui">Sett SMS-senter nummer</string>
   <string name="share_via">Del kontakt via</string>
   <string name="share_visible_contacts">Del synlige kontakter</string>
   <string name="shortcutActivityTitle">Kontaktsnarvei</string>
@@ -838,12 +854,24 @@ for å legge til kontakt til favoritter:
   <string name="simContacts_empty">Ingen kontakter funnet på SIM-kort.</string>
   <string name="simContacts_emptyLoading">Lesning fra SIM</string>
   <string name="simContacts_title">SIM-kontakter</string>
+  <string name="sim_capacity_content" formatted="false">Total kapasitet %d, brukt %d</string>
+  <string name="sim_card1">SIM 1</string>
+  <string name="sim_card2">SIM 2</string>
+  <string name="sim_card_cloud">%s (Skymelding)</string>
   <string name="sim_card_no_free_space_message">SIM Kort fullt, kan ikke importere nye kontakter. Vennligst frigjør nok plass og prøv igjen</string>
   <string name="sim_card_no_free_space_title">SIM-kort fullt</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Avvelg all</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Velg all</string>
   <string name="sim_contact_search_error">Det oppstod en feil under søkning av SIM kort kontakter</string>
   <string name="sim_contacts">SIM Kontakter</string>
+  <string name="sim_error_anr_full">Lagringsplass for nummer er fullt!</string>
+  <string name="sim_error_email_full">Lagringsplass for E-post er fullt!</string>
+  <string name="sim_error_email_too_long">E-postadressen er for lang.</string>
+  <string name="sim_error_generic_failure">Generisk SIM-feil.</string>
+  <string name="sim_error_number_too_long">SIM-nummer er for langt!</string>
+  <string name="sim_error_password_error">SIM-passord feil.</string>
+  <string name="sim_error_storage_full">SIM-lagringsplassen er full!</string>
+  <string name="sim_error_text_too_long">Navnet er for langt!</string>
   <string name="sim_export_loading">SIM Kort informasjon leses. Denne handlingen kan ta et par minutter, vennligst vær tålmodig.</string>
   <string name="sim_indexed_contact_not_exist">Posisjon %1$d på SIM-kort er ugyldig, skal være mellom %2$d og %3$d</string>
   <string name="sim_no_contact">Ingen kontakter på SIM kort</string>
@@ -916,6 +944,7 @@ for å legge til kontakt til favoritter:
   <string name="type_incoming">Innkommende anrop</string>
   <string name="type_missed">Tapte anrop</string>
   <string name="type_outgoing">Utgående anrop</string>
+  <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Voicemail</string>
   <string name="unknown">ukjent</string>
   <string name="unknown_contact_name">ukjent kontakt</string>

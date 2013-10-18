@@ -12,6 +12,7 @@
   <string name="app_name">MiVideo</string>
   <string name="buffering">Leser inn i buffer...</string>
   <string name="buffering_video_netplay_label_v5">Leser inn i buffer...</string>
+  <string name="episode_prefix">episode</string>
   <string name="loading_video_netplay_label">Laster, vennligst vent...</string>
   <string name="loading_video_netplay_label_v5">Laster stream, vennligst vent...</string>
   <string name="menu_item_about_label">Om</string>

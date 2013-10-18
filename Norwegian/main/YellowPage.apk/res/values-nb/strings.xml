@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+   <string name="about_smart_antispam_summary">Om Smart Antispam ukjent nummerdeteksjon</string>
+   <string name="about_telephone_fraud">Om telefonsvindel</string>
     <string name="agree">Samtykk</string>
     <string name="all_numbers">Alle nummer</string>
     <string name="app_label">Gulesider</string>
@@ -37,7 +39,8 @@
     <string name="menu_about_yellow_page">Om denne siden</string>
     <string name="menu_add_black_list">Legg til i svarteliste</string>
     <string name="menu_call_ip_number">Ring IP-samtale (ring %s)</string>
-    <string name="menu_copy_text">Kopier til utklippstable</string>
+    <string name="menu_copy_text">Kopier til utklippstavle</string>
+    <string name="menu_correct_yellow_page">Korreksjon</string>
     <string name="menu_delete_call_log">Fjern anropslogger</string>
     <string name="menu_delete_one">Fjern element fra anropslogg</string>
     <string name="menu_refresh">Oppdater</string>
@@ -75,6 +78,10 @@
     <string name="recharge_user_confirm_summary">"Du vil bli belastet %1$s for RMB%2$s 
   Total beløp: RMB%3$s"</string>
     <string name="recharge_user_confirm_title">Bekreft</string>
+    <string name="remind_another_time">"Ikke be om dette nummeret"</string>
+    <string name="remind_user_confirm">OK</string>
+    <string name="remind_user_suspect_number_message">"Kriminelle kan stjele andres identiteter for svindel, hvis du er i tvil, kan du ringe tilbake for å kontrollere den som ringer. Banker, e-handelselskaper og budtjenesteselskaper vil ikke be om passordet ditt eller bankkortinformasjon.</string>
+    <string name="remind_user_suspect_number_title">Pass opp for uredelige samtaler</string>
     <string name="scan">Skann</string>
     <string name="selected_category_format">%1$s(%2$d folk har merket, klikk hvis du er enig)</string>
     <string name="service_unavailiable">Ditt nåværende nettverket er ikke bra, prøv igjen senere</string>

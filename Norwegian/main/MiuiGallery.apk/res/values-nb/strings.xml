@@ -58,6 +58,8 @@
   <string name="baidu_flyflow_downloads">Baidu-nettleser</string>
   <string name="beautyphone">Skjønhetstelefon</string>
   <string name="big_screen_alertdialog_title">Projekteringsenhet</string>
+  <string name="bigscreen_slide_exit">Avbryt presentasjon</string>
+  <string name="bigscreen_slide_fail_cause_loading">Vennligst start presentasjon etter bildet er lastet.</string>
   <string name="bigscrren_slide_exit">Avslutt presentasjon på TV</string>
   <string name="browse_category">Bla gjennom bilder</string>
   <string name="by_email">E-post</string>
@@ -457,6 +459,7 @@ venner."</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
+  <string name="there_is_no_image">Det finnes ingen bilde.</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Tidspunkt</string>
   <string name="times">Tidspunkter</string>

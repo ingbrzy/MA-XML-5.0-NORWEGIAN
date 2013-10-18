@@ -13,6 +13,7 @@
   <string name="add_picture">Legg til bilde</string>
   <string name="add_private_contact">Legg til privat kontakt</string>
   <string name="add_slide">Legg til lysbilde</string>
+  <string name="add_slide_before">Legg til lysbilde (før)</string>
   <string name="add_slide_hint">Velg å opprette nytt lysbilde.</string>
   <string name="add_smiley">Smiley</string>
   <string name="add_timing">Nedtelling</string>
@@ -71,6 +72,7 @@
   <string name="confirm_restore_positive">Gjenopprett</string>
   <string name="confirm_restore_title">Gjenopprett alle valgte meldinger?</string>
   <string name="context_menu_add_contact">Legg til kontakter</string>
+  <string name="context_menu_add_to_browser_favorite">Legg til i nettleserfavoritter</string>
   <string name="context_menu_browse_web">Web</string>
   <string name="context_menu_call">Ring til</string>
   <string name="context_menu_contact">Kontakt: %1$s</string>
@@ -139,6 +141,7 @@
   <string name="fetion_prefix">[Åpne]</string>
   <string name="file_share_message_description">Jeg vil dele filer med deg</string>
   <string name="flatshow_page_no">Side %1$d</string>
+  <string name="forward_from">Videresend fra:</string>
   <string name="forward_prefix">"Videresend: "</string>
   <string name="found_old_messages">I alt: %1$s ble funnet på den gamle telefonkontoen. Vil du laste dem opp til din nåværende konto: %2$s?</string>
   <string name="found_old_messages_title">Last opp meldinger</string>
@@ -261,6 +264,7 @@
   <string name="prefDefault_vibrate_true">alltid</string>
   <string name="pref_advanced_settings_title">Avanserte innstillinger</string>
   <string name="pref_edit_smsc_address">SMS-senter nummer</string>
+  <string name="pref_forward_title">Videresend</string>
   <string name="pref_messages_to_save">Sett antall meldinger som kan lagres</string>
   <string name="pref_mms_settings_title">MMS-innstillinger</string>
   <string name="pref_notification_settings_title">meldingsinnstillinger</string>
@@ -286,9 +290,12 @@
   <string name="pref_time_auto_group_summary">Gruppér meldinger på tid</string>
   <string name="pref_time_auto_group_title">Gruppér</string>
   <string name="pref_title_allow_si_sl_push">Tillat WAP push</string>
+  <string name="pref_title_card_format">Kortdelingsformat</string>
   <string name="pref_title_delivery_reports">Leveringsrapporter</string>
+  <string name="pref_title_fwd_sender_info">Videresend senderinfo</string>
   <string name="pref_title_hide_festival">Skjul diverse-fanen</string>
   <string name="pref_title_manage_sim_messages">Håndter meldinger lagret på SIM-kort</string>
+  <string name="pref_title_miui_card">Send via MIUI-kort</string>
   <string name="pref_title_mms_auto_retrieval">Hent automatisk</string>
   <string name="pref_title_mms_delete">MAX MMS-størrelse</string>
   <string name="pref_title_mms_read_reports">Leserapporter</string>
@@ -299,6 +306,7 @@
   <string name="pref_title_show_recent_contacts">Vis siste kontakter</string>
   <string name="pref_title_sms_delete">MAX meldingsstørrelse</string>
   <string name="pref_title_system_mms_priority">System Mms app prioritet</string>
+  <string name="pref_title_vcard">Send via vCard</string>
   <string name="pref_title_wake_up_screen">Vekk skjerm</string>
   <string name="preferences_title">Innstillinger</string>
   <string name="prepare_send">Klar for å sende...</string>
@@ -334,12 +342,16 @@
   <string name="resize_image_error_information">Beklager, selv med skalering er bildet for stort til å sendes.</string>
   <string name="restore_all_button_msg">Gjenopprett alle meldinger fra dette nummeret</string>
   <string name="restore_blocked_message">Gjenopprett blokkert melding</string>
+  <string name="restore_to_phone_memory_failed">Kunne ikke gjenopprette til telefonminne!</string>
+  <string name="restored_to_phone_memory">"Gjenopprettet til telefonminne"</string>
   <string name="save">Lagre</string>
   <string name="save_ringtone">Lagre som ringetone</string>
   <string name="save_to_sim">Lagre på SIM-kort</string>
+  <string name="save_to_sim_failed">Kunne ikke lagre på SIM! restored_to_phone_memory </string>
   <string name="saved_label">"Lagret: "</string>
   <string name="saved_ringtone">Ringetone lagret</string>
   <string name="saved_ringtone_fail">Lagring av ringetone mislyktes</string>
+  <string name="saved_to_sim">Lagret tilSIM!</string>
   <string name="search">meldinger</string>
   <string name="search_empty">Ingen treff</string>
   <string name="search_hint">Søk i meldinger</string>
@@ -366,8 +378,12 @@
   <string name="service_message_not_found">Melding utløpt eller ikke tilgjengelig.</string>
   <string name="service_network_problem">"Kunne ikke send pga nettverksproblemer."</string>
   <string name="service_not_activated">Tjeneste ikke aktivert på nettverk.</string>
-  <string name="set">sett</string>
+  <string name="set">Sett</string>
+  <string name="set_smsc_address_title_miui">Set SMS-senter nummer</string>
   <string name="show_all_messages">Vis alle meldinger</string>
+  <string name="sim_card1">SIM 1</string>
+  <string name="sim_card2">SIM 2</string>
+  <string name="sim_card_cloud">%s (Skymelding)</string>
   <string name="sim_copy_to_phone_memory">Kopiér til tlf. minne</string>
   <string name="sim_delete">Slett</string>
   <string name="sim_empty">Ingen meldinger på SIM-kort.</string>
@@ -420,6 +436,7 @@
   <string name="type_picture">bilde</string>
   <string name="type_to_compose_text_enter_to_send">Opprett ny melding</string>
   <string name="type_to_compose_text_or_leave_blank">Skriv melding eller la stå blank</string>
+  <string name="type_vcard">vCard</string>
   <string name="type_video">video</string>
   <string name="undelivered_msg_dialog_body">Kan ikke sende denne meldingen.\nForsøk: %s.</string>
   <string name="undelivered_msg_dialog_title">Ikke levert melding</string>

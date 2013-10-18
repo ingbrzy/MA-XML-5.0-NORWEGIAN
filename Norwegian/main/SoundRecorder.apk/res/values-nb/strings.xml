@@ -80,6 +80,7 @@
   <string name="storage_is_full">Minne er fullt</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">Program: %1$ sin maksimalt støttet opptakstid %2$s</string>
+  <string name="toast_uninstall_fileexplorer">Fileutforsker ikke innstallert!</string>
   <string name="unknown_caller">Ukjent</string>
   <string name="view_list_of_recordings">Vis opptak</string>
 </resources>

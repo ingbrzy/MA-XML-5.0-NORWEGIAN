@@ -59,6 +59,7 @@
   <string name="delete_song_desc">Er du sikker på du vil slette %s ?</string>
   <string name="deselect_all">Opphev alle valg</string>
   <string name="dirac_mode_earbuds">Xiaomi-hodetelefoner</string>
+   <string name="dirac_mode_general">Generell modus</string>
   <string name="dirac_mode_in_ear">Xiaomi-øretelefoner</string>
   <string name="dirac_mode_off">Dirac av</string>
   <string name="dirac_mode_piston_100">Xiaomi-stempel hodetelefoner</string>
