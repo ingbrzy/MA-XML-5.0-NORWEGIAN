@@ -674,7 +674,6 @@ for å legge til kontakt til favoritter:
   <string name="pref_key_photo">Bilde</string>
   <string name="pref_key_photo_word_summary">Automatisk valg av bilde til kontakter</string>
   <string name="pref_key_photo_word_title">Autovelg bilde for kontakter</string>
-  <string name="pref_summary_import_from_account">Importer kontakter fra Google og Exchange-kontoer til min Xiaomi konto</string>
   <string name="pref_key_rebuild_t9_index_message">Rett indeksfeil i kontaktsøking</string>
   <string name="pref_key_rebuild_t9_index_title">Gjenoppbygg T9 indeks data</string>
   <string name="pref_summary_import_from_account">Importer kontakter fra Google og andre mail kontoer til min Xiaomi konto</string>
@@ -753,7 +752,7 @@ for å legge til kontakt til favoritter:
   <string name="recent_number">Nylige</string>
   <string name="recent_updates">Seneste oppdateringer</string>
   <string name="redirect_calls_to_vm_confirm_message">Hvis du ikke har søkt til eieren av denne bedriften, vennligst ikke skru på. Ellers, kan du ikke motta samtaler fra denne kontakten.</string>
- <string name="redirect_calls_to_vm_confirm_text">Skru på</string>
+  <string name="redirect_calls_to_vm_confirm_text">Skru på</string>
   <string name="relationLabelsGroup">Forhold</string>
   <string name="remind_btn_ignore">Ignorer</string>
   <string name="remind_btn_sync_now">Nå</string>
