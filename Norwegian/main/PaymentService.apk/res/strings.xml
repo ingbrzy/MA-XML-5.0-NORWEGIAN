@@ -65,9 +65,9 @@ Vennligst logg på igjen."</string>
   <string name="error_common_summary">Systemfeil. Vennligst prøv igjen.</string>
   <string name="error_common_title">Systemfeil</string>
   <string name="error_expired_summary">Orderen din har gått ut på date</string>
-  <string name="error_frozen_summary">"Kontoen din er fryst. 
+  <string name="error_frozen_summary">"Kontoen din er låst. 
 Vennligst kontakt Xiaomi kundeservice."</string>
-  <string name="error_frozen_title">Konto fryst</string>
+  <string name="error_frozen_title">Konto låst</string>
   <string name="error_giftcard_summary">"Kan ikke hente gavekortinfo."</string>
   <string name="error_has_bought_summary">Du har allerede kjøpt dette produktet.</string>
   <string name="error_has_bought_title">Gjenta kjøp</string>
@@ -90,7 +90,7 @@ Vent fem minutte og prøv igjen."</string>
   <string name="giftcard_acitivity_and_denomination">%2$s-MiCredit gavekort fra %1$s</string>
   <string name="giftcard_denom">MiCredit</string>
   <string name="giftcard_denom_available">MiCredit tilgjengelig</string>
-  <string name="giftcard_denom_frozen">MiCredit fryst</string>
+  <string name="giftcard_denom_frozen">MiCredit låst</string>
   <string name="giftcard_empty">Ingen gavekort.</string>
   <string name="giftcard_expire">%1$s-%2$s-%3$s gått ut</string>
   <string name="giftcard_hint">MiCredits lagt til med gavekort vil automatisk bli brukt først.</string>
