@@ -25,6 +25,7 @@
   <string name="btn_count_down_wait">Vent %1$s sekunder</string>
   <string name="btn_wait_confirm">Venter...</string>
   <string name="btn_wait_confirm_count">Venter (%1$s)</string>
+  <string name="button_cancel">Avbryt</string>
   <string name="check_phone_error_title">Aktivering av synktjeneste mislyktes</string>
   <string name="check_phone_io_error">Nettverksfeil</string>
   <string name="checking_account">Verifiserer konto...</string>
