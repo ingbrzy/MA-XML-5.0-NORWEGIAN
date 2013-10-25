@@ -126,6 +126,7 @@
   <string name="resource_no_result">Ingen resultater</string>
   <string name="resource_notification_default">Notifikasjoner</string>
   <string name="resource_online">Online %1$s</string>
+  <string name="resource_pack_confirm">Du har allerede kjøpt %1$d elementer, men gjeldende pris er fortsatt bedre enn å kjøpe elementene individuelt, vil du fortsette?</string>
   <string name="resource_pack_discount_info">%1$s lagret!</string>
   <string name="resource_pack_price_info">%1$s original</string>
   <string name="resource_pack_warning">Advarsel! du har allerede kjøpt %1$d elementer, gjeldende pris er ikke lenger gyldig for de venstre elemenetene, vennligst kjøp dem individuelt.</string>
