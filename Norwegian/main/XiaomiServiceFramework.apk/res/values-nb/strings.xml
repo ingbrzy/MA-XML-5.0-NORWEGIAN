@@ -38,7 +38,7 @@
   <string name="activate_status_desc_acquire_sim_user_id_server_no_info_wait">Kan ikke hente registrasjonsinformasjon, venter på å fortsette...</string>
   <string name="activate_status_desc_failed_getting_device_info">Kan ikke hente enhetsinformasjon</string>
   <string name="activate_status_desc_failed_getting_gateway">Kunne ikke hente SMS-gateway</string>
-  <string name="activate_status_desc_failed_getting_sim_info">Kunne ikke hente SIM-kortinformasjon< /string>
+  <string name="activate_status_desc_failed_getting_sim_info">Kunne ikke hente SIM-kortinformasjon</string>
   <string name="activate_status_desc_getting_device_info">Henter enhetsinformasjon</string>
   <string name="activate_status_desc_getting_gateway">Henter SMS-gateway</string>
   <string name="activate_status_desc_getting_sim_info">Henter SIM-kort data</string>
