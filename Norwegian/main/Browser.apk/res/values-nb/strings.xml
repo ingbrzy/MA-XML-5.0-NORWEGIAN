@@ -39,6 +39,7 @@
   <string name="added_to_bookmarks">Lagt til i bokmerkene.</string>
   <string name="alert_tips">Siden du prøver å besøke kan være en sikkerhetsrisiko, vil du fortsette?</string>
   <string name="allow">Tillat</string>
+  <string name="already_in_top_level">Bokmerke er allerede på øverste nivå</string>
   <string name="app_new_version">Du har allerede den nyeste versjonen nedlastet</string>
   <string name="app_update_install">Ny versjon nedlastet og klar for installering</string>
   <string name="application_name">Nettleser</string>
@@ -151,6 +152,8 @@
   <string name="delete_bookmark_warning">slett bokmerke \"%s\"?</string>
   <string name="delete_folder">slett mappe</string>
   <string name="delete_multi_bookmarks_alert_title">Er du sikker på du vil slette %1$s elementer?</string>
+  <string name="dialog_geolocation_reject">Gjem lokasjon</string>
+  <string name="dialog_geolocation_share">Del lokasjon</string>
   <string name="disable_autofill">Deaktiver Autofyll</string>
   <string name="disk_space_available">%1$s tilgjengelig</string>
   <string name="disk_space_selected">%1$s valgt</string>
@@ -569,6 +572,19 @@
   <string name="username">Navn</string>
   <string name="view_certificate">Vis sertifikat</string>
   <string name="warning">Advarsel</string>
+  <string name="webapp_add_to_desktop">Legg til hjemskjerm</string>
+  <string name="webapp_addtodeskpop_append">Program lagt på hjemskjermen</string>
+  <string name="webapp_app_name">MiMarket webbutikk</string>
+  <string name="webapp_bottom_bar_addtodesk">Legg til på hjemskjerm</string>
+  <string name="webapp_bottom_bar_already_addtodesk">Allerede lagt på hjemskjerm</string>
+  <string name="webapp_bottom_bar_exit">Avslutt</string>
+  <string name="webapp_bottom_bar_hidebar">Gjem nederste linjen</string>
+  <string name="webapp_bottom_bar_openbrowser">Åpne i nettleser</string>
+  <string name="webapp_bottom_bar_showbar">Vis nederste linjen</string>
+  <string name="webapp_dialog_title">Legg til program på hjemskjermen</string>
+  <string name="webapp_splashview_loading">Laster, vennligst vent…</string>
+  <string name="webapp_web_forward">Forward</string>
+  <string name="webapp_web_goback">Back</string>
   <string name="website_settings_clear_all">Rydd alle</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Avbryt</string>
   <string name="website_settings_clear_all_dialog_message">slett alle hjemmeside og lokaliseringsdata tillatelser?</string>

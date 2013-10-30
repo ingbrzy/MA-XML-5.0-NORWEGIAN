@@ -6,10 +6,13 @@
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Sett som standard</string>
   <string name="android_lockscreen_glogin_instructions">Logg inn med din konto for å låse opp</string>
+  <string name="anniversary_of_lifting_martial_law"/>
+  <string name="anti_aggression_day"/>
   <string name="app_no_notification">ingen notifikasjon</string>
   <string name="app_notificaiton_on_notificationBar">Notifikasjonslinje</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Status og notifikasjonsbar</string>
   <string name="arbor_day" />
+  <string name="armed_forces_day"/>
   <string name="autumn_begins">Høsten begynner</string>
   <string name="autumn_equinox">Høstjevndøgn</string>
   <string name="callNoAnswerTimeFormat">%s Ring</string>
@@ -404,6 +407,7 @@
   <string name="reboot_confirm">Telefonen vil restarte</string>
   <string name="reboot_confirm_title">Er du sikker på at du vil restarte telefonen din?</string>
   <string name="reboot_progress">Restarter...</string>
+  <string name="retrocession_day"/>
   <string name="return_to_me_message">Vennligst returner til eier.</string>
   <string name="reverse_all">Fjern alle</string>
   <string name="safetylegal_activity_unreachable">Din telefon er ikke koblet til en datatjeneste. For å se denne information nå, gå til %s fra hvilken som helst datamaskin som er koblet til Internett.</string>
@@ -452,6 +456,9 @@
   <string name="the_spring_festival" />
   <string name="today">I dag</string>
   <string name="tomorrow">I morgen</string>
+  <string name="tw_childrens_day"/>
+  <string name="tw_youth_day"/>
+  <string name="united_nations_day"/>
   <string name="unknown">Ukjent nummer</string>
   <string name="unknown_caller">Ukjent nummer</string>
   <string name="unlock_string">OK</string>
