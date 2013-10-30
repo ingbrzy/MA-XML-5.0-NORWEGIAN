@@ -113,7 +113,7 @@ Vent fem minutte og prøv igjen."</string>
   <string name="hfb_customer_service_phone_number">4006125880</string>
   <string name="hfb_dialog_exit_content">Transaksjonen er ikke fullført, er du sikker på at du vil avslutte</string>
   <string name="hfb_fail_hint">"Feil ved mottak av SMS-aktivering, vennligst kontakt China Mobile betalingskundesenter: 400 612 5880 (direkte telefon, gratis langdistansesamtatler) 0.3 yuan per minutt. "</string>
-  <string name="hfb_fail_label">Betaling feilet!<string>
+  <string name="hfb_fail_label">Betaling feilet!</string>
   <string name="hfb_fail_pad_result">Du svarte ikke på meldingene, vennligst svar til %1$s fra din SMS-innboks.</string>
   <string name="hfb_fail_result">"Kunne ikke fullføre betaling, vennligst prøv igjen eller prøv en annen betalingsmetode.
 Hvis du trenger videre support vennligst ring kundeservice：4006125880"</string>
