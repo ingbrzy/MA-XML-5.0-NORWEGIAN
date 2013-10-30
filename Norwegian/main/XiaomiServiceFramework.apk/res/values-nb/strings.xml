@@ -8,10 +8,51 @@
   <string name="account_dspt">"Xiaomi-konto kan synkronisere og ta backup av dine beskjeder, kontakter, bilder, osv."</string>
   <string name="account_hint_text">Epost/Telefonnummer</string>
   <string name="account_name">Konto: %1$s</string>
+  <string name="activate_phone_failed_notif_title">Kan ikke aktivere MiCloud-tjeneste</string>
+  <string name="activate_phone_failed_notif_title_msim">Kunne ikke starte MiCloud for SIM %s</string>
+  <string name="activate_phone_send_sms_fail">Kunne ikke sende aktiverings-SMS, kunne ikke åpne synktjeneste</string>
+  <string name="activate_phone_send_sms_failed_notif">Kunne ikke sende aktiverings-SMS</string>
+  <string name="activate_phone_server_error">Serverfeil，kunne ikke åpne synktjeneste</string>
+  <string name="activate_phone_server_error_notif">Serverfeil</string>
+  <string name="activate_status_desc_acquire_phone_number">Henter telefonnummer fra server</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error">Server error occurred while acquiring phone number.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error_wait">Serverfeil under henting av telefonnummer. Venter på å fortsette...</string>
+  <string name="activate_status_desc_acquire_phone_number_server_io_error">Server I/O feil ved planlagt henting av telefonnummer.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Server I/O feil ved henting av telefonnummer. Venter på å prøve igjen...</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info">Kan ikke hente telefonnummer.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info_wait">Kan ikke hente telefonnummer, venter på å fortsette...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token">Henter sikkerhetsinformasjon fra server...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_password_error">Kan ikke hente sikkerhetsinformasjon på grunn av ukorrekt sikkerhetstegn</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_error">Serverfeil ved henting av sikkerhetsinformasjon</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_error_wait">Serverfeil ved henting av sikkerhetsinformasjon, venter på å fortsette...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">Server I/O feil ved henting av sikkerhetsinformasjon</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">Server I/O feil ved henting av sikkerhetsinformasjon, venter på å fortsette...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Kan ikke hente sikkerhetsinformasjon</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_no_info_wait">Kan ikke hente sikkerhetsinformasjon, venter på å fortsette...</string>
+  <string name="activate_status_desc_acquire_sim_user_id">Henter registrasjonsinformasjon fra server</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_error">Serverfeil ved henting av registrasjonsinformasjon</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_error_wait">Serverfeil ved henting av sikkerhetsinformasjon, venter på å fortsette...</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_io_error">Server I/O feil ved henting av registrasjonsinformasjon</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_io_error_wait">Server I/O feil ved henting av registrasjonsinformasjon, venter på å fortsette...</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_no_info">CKan ikke hente registrasjonsinformasjon</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_no_info_wait">Kan ikke hente registrasjonsinformasjon, venter på å fortsette...</string>
+  <string name="activate_status_desc_failed_getting_device_info">Kan ikke hente enhetsinformasjon</string>
+  <string name="activate_status_desc_failed_getting_gateway">Kunne ikke hente SMS-gateway</string>
+  <string name="activate_status_desc_failed_getting_sim_info">Kunne ikke hente SIM-kortinformasjon/string>
+  <string name="activate_status_desc_getting_device_info">Henter enhetsinformasjon</string>
+  <string name="activate_status_desc_getting_gateway">Henter SMS-gateway</string>
+  <string name="activate_status_desc_getting_sim_info">Henter SIM-kort data</string>
+  <string name="activate_status_desc_prepare_sending_sms">Forbereder til å sende aktiverings-SMS til gateway</string>
+  <string name="activate_status_desc_sending_sms">Sender aktiverings-SMS til gateway</string>
+  <string name="activate_status_desc_sim_absent">SIM-kort ikke funnet!</string>
+  <string name="activate_status_desc_sms_sent">Aktiverings-SMS sendt vellykket</string>
+  <string name="activate_status_title_activating">Aktiverer ditt SIM-kort, vennligst vent...</string>
+  <string name="activate_status_title_activating_msim">Aktiverer ditt SIM-kort %s...</string>
   <string name="activating">Aktiverer...</string>
   <string name="add_weibo_account">Legg til konto</string>
+  <string name="alert_notif_title_dspt">Vennligst fortsett synkroniseringen for å holde dine data sikre</string>
   <string name="alert_title_remove_account">Slett konto</string>
-  <string name="app_name">Xiaomi Services Framework</string>
+  <string name="app_name">Xiaomi Services-rammeverk</string>
   <string name="bad_authentication">Validering mislyktes, feil brukernavn eller passord</string>
   <string name="balance">Saldo: %1$s Mi credits</string>
 
@@ -26,9 +67,11 @@
   <string name="btn_wait_confirm">Venter...</string>
   <string name="btn_wait_confirm_count">Venter (%1$s)</string>
   <string name="button_cancel">Avbryt</string>
+  <string name="captcha">Captcha-kode</string>
   <string name="check_phone_error_title">Aktivering av synktjeneste mislyktes</string>
   <string name="check_phone_io_error">Nettverksfeil</string>
   <string name="checking_account">Verifiserer konto...</string>
+  <string name="checking_input">Sjekker input...</string>
   <string name="cloud_messaging">MiCloud-meldinger</string>
   <string name="cmcc_data_sync_notice">Bruk Xiaomi-kontoen til å synkronisere meldinger, kontakter og andre data. I mellomtiden, nyt Xiaomi cloud-tjenester.</string>
   <string name="cmcc_micloud_dspt">Cloud-tjenester inkluderer mobilsynk, enhetsplassering og andre funksjoner. Du kan også administrere dine data online til enhver tid!</string>
@@ -37,8 +80,12 @@
   <string name="data_keep_in_phone">Behold data på enheten</string>
   <string name="data_sync_notice">Bruk din Xiaomi-konto til å synkronisere meldinger, kontakter og andre data.</string>
   <string name="data_wipe_from_phone">Slett fra enheten</string>
+  <string name="dirty_contacts_count">%d kontakt(er)</string>
+  <string name="dirty_mms_count">%d melding(er)</string>
+  <string name="dirty_note_count">%d notat(er)</string>
   <string name="disable_find_device_error">%1$s, kunne ikke deaktivere plasseringstjeneste</string>
   <string name="email_already_be_used">Epostadresse allerede i bruk</string>
+  <string name="enableAll">Aktiver alle</string>
   <string name="enable_find_device_error">%1$s, kunne ikke aktivere plasseringstjeneste</string>
   <string name="error_dup_phone">Telefon registrert</string>
   <string name="error_invalid_dev_id">Enhets-ID er ugyldig</string>
@@ -51,6 +98,7 @@
   <string name="error_too_frequent_visits_summary">"Du prøver å besøke for ofte.
 Vennligst prøv igjen om fem minutter"</string>
   <string name="error_unknown">Ukjent feil: %1$s</string>
+  <string name="error_user_name">Ugyldig brukernavn!</string>
   <string name="failed_to_send_activate_email">Kunne ikke sende aktiveringsepost</string>
   <string name="find_device">Lokaliser enhet</string>
   <string name="find_device_check_phone_error_title">Kunne ikke finne enhetens plassering</string>
@@ -69,13 +117,20 @@ Vennligst prøv igjen om fem minutter"</string>
   <string name="get_back_pwd">Gjenopprett kontopassord</string>
   <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
   <string name="i_know">OK</string>
+  <string name="input_captcha_hint">Skriv captcha</string>
   <string name="input_password_hint">Tast inn passord</string>
+  <string name="input_vcode_hint">Skriv aktiveringskode</string>
+  <string name="input_vcode_prompt">Vennligst skriv aktiveringskode</string>
   <string name="int_phone_user_notice">Når du registrerer deg med et nummer utenfor Kina, skriv inn landskode, f.eks 47xxxxxxxxx</string>
   <string name="label_order_name">Produktnavn: </string>
   <string name="label_order_price">Antall: </string>
   <string name="login">Logg inn</string>
   <string name="login_failed">Innlogging mislyktes</string>
   <string name="login_notice">Logger inn...</string>
+  <string name="master_alert_notif_dspt" formatted="false">"I løpet av denne perioden har du lagt til %s navn, telefonkontakter, %s SMSer, %s bilder, %s av notater og andre data.
+
+Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent borte. Vi anbefaler at du aktiverer synkronisering for å sikre dataene dine"</string>
+  <string name="master_alert_notif_title">Dataen har ikke blir synkronisert på %s dager</string>
   <string name="memu_refresh">Oppdater</string>
   <string name="mibi_license_message">Du vil bruke Xiaomi Mi Credit Tjeneste. Trykk på OK betyr samtykke med %1$s.</string>
   <string name="mibi_license_message_span">Mi Credit brukeravtale</string>
@@ -95,8 +150,10 @@ Vennligst prøv igjen om fem minutter"</string>
   <string name="micloud_delete_account">Slett konto</string>
   <string name="micloud_email">Epostadresse</string>
   <string name="micloud_error_email">Ugyldig epost</string>
+  <string name="micloud_error_empty_captcha_code">Skriv captcha-kode.</string>
   <string name="micloud_error_empty_pwd">Passord er blankt</string>
   <string name="micloud_error_empty_username">Brukernavn er blankt</string>
+  <string name="micloud_error_empty_vcode">Skriv aktiveringskode.</string>
   <string name="micloud_error_illegal_pwd">Ugyldig passord</string>
   <string name="micloud_input_password_prompt">Tast inn passord</string>
   <string name="micloud_password_confirm_hint">Bekreft passord</string>
@@ -132,6 +189,7 @@ Vennligst prøv igjen om fem minutter"</string>
   <string name="msg_telecom_sending">Kontakter din nettverksoperatør...</string>
   <string name="my_mili_record">Min Mi Credit</string>
   <string name="next">Neste</string>
+  <string name="noRemind">"Ikke påminn"</string>
   <string name="no_sim">SIM ikke funnet, kan ikke synkronisere</string>
   <string name="order_price">%1$s Mi credits</string>
   <string name="other_settings">Andre innstillinger</string>
@@ -197,6 +255,7 @@ Vi vil sjekke for deg etter to arbeidsdager"</string>
 1. Vennligst kontakt kundeservice i Shenzhou：%1$s 
 2. Vennligst opplys serienummer: %2$s"</string>
   <string name="progress_warning_waiting">Fortsatt ingen svar. Prøv igjen senere.</string>
+  <string name="quick_login_step2_title">Innloggingssikkerhet</string>
   <string name="quick_login_title">"Godkjendelse påkrevd. Vennligst skriv inn ditt passord"</string>
   <string name="recharge_alipay_summary">Alipay oppfylling</string>
   <string name="recharge_alipay_title">Alipay</string>
@@ -233,13 +292,20 @@ Vi vil sjekke for deg etter to arbeidsdager"</string>
   <string name="remove_confirm">Slett</string>
   <string name="remove_unactivated_account_notice">Xiaomi-kontoen er ikke aktivert, ønsker du å fjerne den nå?</string>
   <string name="removing_account">Sletter konto...</string>
+  <string name="restoreSync">Gjenopprett synk</string>
   <string name="send_int_sms_for_sync_notice">En aktiverings-sms vil bli sendt til enheten din til din operatør sine priser. Er du sikker på at du vil fortsette?</string>
   <string name="send_sms_for_sync_notice">En aktiverings-SMS vil bli sendt, fortsett?</string>
   <string name="send_sms_for_sync_title">Synk-tjeneste ikke aktivert</string>
   <string name="sim_changed_notification_content">SIM -kort ikke aktivert, vennligst aktiver</string>
-  <string name="skip_login">Hopp over Logg inn</string>
+  <string name="skip_login">Hopp over innlogging</string>
+  <string name="skip_login_u">&lt;u&gt;Hopp over innlogging&lt;/u&gt;</string
   <string name="skip_setup_account_msg">Med din Xiaomi-konto, kan du synkronisere og sikkerhetskopiere SMS, kontakter, bilder, notater, etc. Fortsett og still inn senere?</string>
   <string name="skip_setup_account_title">Hopp over konto innstillinger</string>
+  <string name="start_micloud">Start</string>
+  <string name="sub_alert_notif_dspt" formatted="false">"Du har lagt til %s telefonkontakter, %s SMSer, %s bilder, %s av notater og andre data.
+
+Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent borte. Vi anbefaler at du aktiverer synkronisering for å sikre dataene dine"</string>
+   <string name="sub_alert_notif_title">Hovedsynkroniseringstjeneste har ikke blitt aktivert</string>
   <string name="sync_dspt">Bruk Xiaomi-konto til å synkronisere data</string>
   <string name="sync_off">Av</string>
   <string name="sync_on">På</string>
@@ -255,6 +321,7 @@ Vi vil sjekke for deg etter to arbeidsdager"</string>
   <string name="title_recharge_record">Oppfyllings-historikk</string>
   <string name="title_reg">Registrer en Xiaomi konto</string>
   <string name="title_voucher">Fyll på med Mi Credit-kupong</string>
+  <string name="trust_device">Stol på enhet</string>
   <string name="unactivated_user">Ikke aktivert</string>
   <string name="unbind">De-autoriser</string>
   <string name="update_contacts">Oppdater kontakter</string>
@@ -267,6 +334,9 @@ Vi vil sjekke for deg etter to arbeidsdager"</string>
   <string name="user_agreement_p4">Sikkerhetspolitikk</string>
   <string name="user_agreement_p5">"Ved registrering, aksepterer du "</string>
   <string name="value">Verdi</string>
+  <string name="vcode">Bekreftelseskode</string>
+  <string name="vcode_notification_title">Din innloggingsbekreftelse er ufullstendig</string>
+  <string name="vcode_prompt_long">Vennligst skriv bekreftelseskoden generert via Xiaomi sikkerhetskode</string>
   <string name="voucher_btn_exchange">Bruk kupong</string>
   <string name="voucher_btn_exchange_error">Ugyldig</string>
   <string name="voucher_btn_has_exchanged">Kupong løst inn</string>
@@ -281,5 +351,11 @@ Vi vil sjekke for deg etter to arbeidsdager"</string>
   <string name="voucher_expire">%1$s-%2$s-%3$s utløpt</string>
   <string name="voucher_input">Tast inn</string>
   <string name="voucher_input_password_prompt">Tast inn passord</string>
+  <string name="wipe_data_dialog_msg">%s vil ikke bli synket (denne dataen vil bli tapt hvis du forsetter).</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">"Noen elementer har ikke blitt synket."</string>
+  <string name="wrong_captcha">Ugyldig captcha-kode8</string>
+  <string name="wrong_vcode">Ugyldig Vkode</string>
+  <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr" />
 </resources>

@@ -84,10 +84,12 @@
   <string name="auto_record_scenario_enteries_always_miui">Auto-opptak for alle nummere</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Auto-opptak for utvalgte nummere</string>
   <string name="auto_record_scenario_title_miui">Auto-opptak</string>
+  <string name="auto_record_unknown_miui">Ukjente nummere</string>
   <string name="auto_record_whitelist_miui">Sett utvalgte numre</string>
   <string name="auto_record_whitelist_no_item_miui">Trykk på knappen under for å legge til i listen over numre som skal auto opptages</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d numre</string>
+  <string name="auto_record_yellowpage_miui">Gule sider</string>
   <string name="auto_redial_pref_summary_miui">Ring automatisk opp igjen hvis nummeret er opptatt.</string>
   <string name="auto_redial_pref_title_miui">Auto tilbakering</string>
   <string name="auto_retry_mode_summary">Aktiver automatisk tilbakeringmodus</string>

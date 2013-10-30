@@ -493,6 +493,11 @@
   <string name="white_dews" />
   <string name="winter_begins">Vinteren begynner</string>
   <string name="winter_solstice" />
+  <string name="yellow_page_module_sms_sent">SMS-melding kjent.</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">Kunne ikke sende SMS-melding i gjestemodus</string>
+  <string name="yellow_page_sms_send_failed">Kunne ikke sende SMS-melding!</string>
+  <string name="yellow_page_sms_sending">Sender…</string>
+  <string name="yellow_page_unable_send_sms">Kunne ikke sende SMS-melding!</string>
   <string name="yesterday">I går</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
