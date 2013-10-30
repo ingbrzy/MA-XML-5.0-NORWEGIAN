@@ -298,7 +298,7 @@ Vi vil sjekke for deg etter to arbeidsdager"</string>
   <string name="send_sms_for_sync_title">Synk-tjeneste ikke aktivert</string>
   <string name="sim_changed_notification_content">SIM -kort ikke aktivert, vennligst aktiver</string>
   <string name="skip_login">Hopp over innlogging</string>
-  <string name="skip_login_u">&lt;u&gt;Hopp over innlogging&lt;/u&gt;</string
+  <string name="skip_login_u">&lt;u&gt;Hopp over innlogging&lt;/u&gt;</string>
   <string name="skip_setup_account_msg">Med din Xiaomi-konto, kan du synkronisere og sikkerhetskopiere SMS, kontakter, bilder, notater, etc. Fortsett og still inn senere?</string>
   <string name="skip_setup_account_title">Hopp over konto innstillinger</string>
   <string name="start_micloud">Start</string>
