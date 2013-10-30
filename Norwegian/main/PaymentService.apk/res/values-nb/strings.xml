@@ -185,7 +185,7 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="linkpay_copyright">Copyright, China Unicom</string>
   <string name="linkpay_deal_time">Åpningstider</string>
   <string name="linkpay_dear_user">Kjære brukere:</string>
-  <string name="linkpay_determine">OKs/string>
+  <string name="linkpay_determine">OK</string>
   <string name="linkpay_enter_phonenum_msg">Kjære Unicom-bruker, SMS-bekreftelsen har feilet, vennligst skriv et gyldig telefonnummer for å sende bekreftelseskoden på nytt.</string>
   <string name="linkpay_enter_right_phonenumber">Skriv et gyldig telefonnummer:</string>
   <string name="linkpay_enter_right_verificationcode">Ugyldig bekreftelseskode</string>
