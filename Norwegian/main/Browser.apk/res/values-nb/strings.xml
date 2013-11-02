@@ -111,7 +111,7 @@
   <string name="clip_dialog_title">Åpne kopiert link?</string>
   <string name="close_all_tab_alert_message">Er du sikker på at du vil lukke alle fanene?</string>
   <string name="close_all_tab_alert_title">Lukk alle faner</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.no</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_down_analytic_txt">Kollaps</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
