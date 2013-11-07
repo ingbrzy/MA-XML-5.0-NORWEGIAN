@@ -296,8 +296,13 @@
   <string name="navigation_button_newtab">Ny</string>
   <string name="navigation_button_tab">Fane</string>
   <string name="navigation_button_view">Vis</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi-tilkobling funnet, vil du koble til??</string>
+  <string name="network_show_wifi_setting_tip_dialog_notshow">Lagre</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi-nettverk tilgjengelig</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_title">"Hvis du bruker mobildata for å få tilgang til internettet, vil MIUI varsle deg hvis et tilgjengelig Wi-Fi-nettverk er i nærheten"</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Lokal Wi-Fi-tilkobling tilgjengelig</string>
   <string name="new_folder">Ny mappe</string>
-  <string name="new_incognito_tab">Ny incognito fane</string>
+  <string name="new_incognito_tab">Ny inkognito fane</string>
   <string name="new_tab">Ny fane</string>
   <string name="no_subfolders">Ingen undermapper.</string>
   <string name="not_enough_disk_space_alert">Ikke nok diskplass</string>

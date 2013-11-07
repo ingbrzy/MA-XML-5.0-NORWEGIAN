@@ -84,8 +84,9 @@
   <string name="clear_thumbnail_cache_confirm">Cache for miniaturer vil bli tømt. Galleri vil skanne mediefiler og gjenopprette miniatyrbilder senere.</string>
   <string name="clear_thumbnail_cache_summary">Visning i Galleri vil opprette miniatyrbilder. Tømming av cachen vil øke plassen.</string>
   <string name="click_to_enter_camera">Åpne Kamera</string>
+  <string name="click_top_right">Trykk på ikonet øverst til høyre</string>
   <string name="close">Lukk</string>
-  <string name="cloud_album_more_settings">Innstillinger for Cloud albumer</string>
+  <string name="cloud_album_more_settings">Innstillinger for Cloud-album</string>
   <string name="cloud_album_set_create">Ny</string>
   <string name="cloud_album_set_scan_qr_code">QR-kode</string>
   <string name="cloud_albums">Cloud-album</string>

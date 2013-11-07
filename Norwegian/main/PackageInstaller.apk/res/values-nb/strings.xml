@@ -26,7 +26,8 @@
   <string name="install_failed_inconsistent_certificates">Det er allerede installert en eksisterende pakke med det samme navnet, men med en annen signatur.</string>
   <string name="install_failed_invalid_apk">Pakken ser ut til å være skadet.</string>
   <string name="install_failed_msg">%1$s kunne ikke installeres på denne telefonen.</string>
-  <string name="install_failed_older_sdk">Pakken virker kun på nyere versioner av Android.</string>
+  <string name="install_failed_older_sdk">Pakken virker kun på nyere versjoner av Android.</string>
+  <string name="install_failed_system_incompatible">Dette programmet er ikke kompatibelt med MIUI ROM!</string>
   <string name="install_failed_verify_failed">Pakken kunne ikke bekreftes, og kan derfor ikke installeres.</string>
   <string name="install_failed_verify_timeout">Det oppsto timeout under forsøk på å bekrefte denne pakken. Prøv å installere den igjen senere.</string>
   <string name="installing">Installerer ...</string>

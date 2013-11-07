@@ -160,7 +160,8 @@
   <string name="in_sms">Melding</string>
   <string name="insufficient_drm_rights">Det er registrert utilstrekkelige DRM-rettigheter.</string>
   <string name="invalid_conversation">Ugyldig samtale</string>
-  <string name="invalid_destination">Du har skrivd inn en ugyldig mottaker/adresse.</string>
+  <string name="invalid_destination">Du har skrevet inn en ugyldig mottaker/adresse.</string>
+  <string name="invalid_private_contact">Ugyldig privat kontakt</string>
   <string name="invalid_recipient_message">Rett opp mottaker(e) ellers vil de ikke motta meldingen.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">Lysbildeshow-layout\u0020</string>

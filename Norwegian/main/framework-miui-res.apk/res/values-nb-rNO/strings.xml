@@ -454,6 +454,7 @@
   <string name="the_mid_autumn_festival" />
   <string name="the_rains" />
   <string name="the_spring_festival" />
+  <string name="toast_lockscreen_glogin_empty_password">Passord kreves.</string>
   <string name="today">I dag</string>
   <string name="tomorrow">I morgen</string>
   <string name="tw_childrens_day"/>

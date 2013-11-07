@@ -673,9 +673,10 @@ Denne innstillingen gjelder for alle bruker på telefonen."</string>
   <string name="device_info_settings">Telefonstatus</string>
   <string name="device_internal_memory">Intern Hukommelse</string>
   <string name="device_memory">RAM</string>
-  <string name="device_miui_version">MIUI versjon</string>
+  <string name="device_miui_version">MIUI-versjon</string>
   <string name="device_name">Enhetsnavn</string>
-  <string name="device_name_input_hint">Skriv inn enhetensnavn</string>
+  <string name="device_name_input_error">Kunne ikke lagre enhetsnavn, vennligst prøv igjen</string>
+  <string name="device_name_input_hint">Skriv inn enhetsnavn</string>
   <string name="device_name_usage_point">Tillat enhet å bli oppdaget av andre Bluetooth-enheter, for å muliggjøre filoverførsler og andre funksjonener.</string>
   <string name="device_picker">Bluetooth-enhetsvelger</string>
   <string name="device_sd_memory">SD-kort</string>
@@ -1266,8 +1267,10 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="nsd_quick_toggle_title">Nettverkstjeneste søking</string>
   <string name="oem_radio_info_label">OEM-spesifikke Info / Innstillinger</string>
   <string name="onscreen_keyboard_settings_summary">Skjermtastatur innstillinger</string>
+  <string name="open_wifi_connect_summary">Klikk for å håndtere</string>
+  <string name="open_wifi_connect_title">Koble til åpent nettverk %1$s</string>
   <string name="other_relative">Andre tillatelser</string>
-  <string name="overlay_display_devices_title">Simuler sekundære skjermers</string>
+  <string name="overlay_display_devices_title">Simuler sekundære skjermer</string>
   <string name="owner_info_settings_edit_text_hint">Skriv tekst til visning på låseskjermen</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Eierinformasjon</string>
