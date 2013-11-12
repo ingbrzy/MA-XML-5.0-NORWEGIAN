@@ -79,6 +79,8 @@
   <string name="resource_comment_expand_full_text">Utvid</string>
   <string name="resource_comment_invalid">Trykk på stjerner for å bedømme</string>
   <string name="resource_comment_name_default">Bruker %1$s</string>
+  <string name="resource_comment_no_average_score">0.0</string>
+  <string name="resource_comment_no_comment">Ingen kommentarer</string>
   <string name="resource_comment_footer">Tomme kommentarer vises ikke.</string>
   <string name="resource_comment_good_comments">Positive kommentarer</string>
   <string name="resource_comment_publish">Send</string>
