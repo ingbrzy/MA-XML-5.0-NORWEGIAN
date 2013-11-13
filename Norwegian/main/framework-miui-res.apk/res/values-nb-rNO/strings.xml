@@ -293,6 +293,8 @@
   <string name="grain_buds" />
   <string name="grain_in_ear" />
   <string name="grain_rain" />
+  <string name="grant_permissions_account">Tillat kontotilgang</string>
+  <string name="grant_permissions_apps">Tillat programtilgang</string>
   <string name="great_cold" />
   <string name="great_heat" />
   <string name="group_name_contacts">Kontakter</string>

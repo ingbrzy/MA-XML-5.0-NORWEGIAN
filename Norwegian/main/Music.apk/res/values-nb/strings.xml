@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add">legg til</string>
-  <string name="add_to">legg til</string>
-  <string name="add_to_favorite">legg til favoritter</string>
-  <string name="add_to_playlist">legg til spilleliste</string>
+  <string name="account_and_synchronization">Konto &amp; Synk</string>
+  <string name="account_setting">Konoinnstillinger</string>
+  <string name="add">Legg til</string>
+  <string name="add_to">Legg til</string>
+  <string name="add_to_favorite">Legg til favoritter</string>
+  <string name="add_to_playlist">Legg til spilleliste</string>
   <string name="add_tracks">legg til sanger</string>
   <string formatted="false" name="album_artist_format">%s , %s</string>
   <string name="album_display_settings">Vis albumcover</string>
@@ -29,7 +31,9 @@
   <string name="auto_correct_id3_summary">Lyd-algoritmen vil rette ID3-data under avspilling.</string>
   <string name="batch_correct_id3_completed">Multi ID3-rettelse fullført!</string>
   <string name="billboard">Hitlister</string>
-  <string name="buffering">Buffrer</string>
+  <string name="bind_baidu_account_setting">Koble Baidu-konto</string>
+  <string name="bind_baidu_account_summary">Legg til spillelister og andre tjenester ved å koble til Baidu-musikkkonto</string>
+  <string name="buffering">Bufrer</string>
   <string name="cancel">Avbryt</string>
   <string name="cancel_sleep_mode">Sleep timer stoppet</string>
   <string name="cancle_warining">Sleep tilstand stoppet</string>
@@ -191,6 +195,7 @@
   <string name="new_playlist_name_template">Ny spilleliste %d</string>
   <string name="no_effect">Ingen effekt</string>
   <string name="no_song_downloaded">Sang kan ikke lastes ned</string>
+  <string name="not_login">Logg inn</string>
   <string name="not_selected">Vennligst velg en sang</string>
   <string name="notification_artist_album">"%2$s
 %1$s"</string>
@@ -275,6 +280,8 @@
   <string name="start_to_download_album">Last ned albumcover til dine sanger</string>
   <string name="start_to_download_avatar">Last ned artistavatarer til din musikk</string>
   <string name="streamloadingtext">Kobler til %s</string>
+  <string name="synchronize_playlist_setting">Synkroniser spillelister</string>
+  <string name="synchronize_playlist_summary">Synkroniser spillelister til MiCloud.</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_edit">Sang</string>
   <string name="track_num_format">(%s)</string>
@@ -283,4 +290,5 @@
   <string name="unknown_artist_name">Ukjent artist</string>
   <string name="use_local_album">Bruk lagrede albumcover</string>
   <string name="use_local_lyric">Bruk lagrede sangtekster</string>
+  <string name="xiaomi_account_setting">Xiaomi-konto</string>
 </resources>

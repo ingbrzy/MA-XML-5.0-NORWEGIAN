@@ -31,9 +31,12 @@
     <string name="express_inquiry">Sporer</string>
     <string name="express_inquiry_button_text">Spor</string>
     <string name="express_inquiry_data_owner">Sporingsinfo tilbudt av %s</string>
+    <string name="express_inquiry_delivered">Levert</string>
+    <string name="express_inquiry_history">Historikk</string>
     <string name="express_inquiry_indication">Tracking-nummer</string>
     <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
     <string name="express_inquiry_logistics_indication">Kurernavn</string>
+    <string name="express_inquiry_no_history">Ingen historikk</string>
     <string name="express_inquiry_no_result">Ingen resultater.</string>
     <string name="express_inquiry_serial_number_indication">Trackingnummer</string>
     <string name="express_inquiry_serial_number_prefix">"Serienummer: "</string>
@@ -44,6 +47,7 @@
     <string name="mark_number_custom_dialog_maintitle">Samtykk eller korrige merke</string>
     <string name="mark_number_dialog_maintitle">Marker som spam nummer og last opp</string>
     <string name="mark_number_dialog_subtitle">Utviklet i samarbeid med Sogou</string>
+    <string name="mark_title_null_hint">Inndata kan ikke være tom</string>
     <string name="menu_about_yellow_page">Om denne siden</string>
     <string name="menu_add_black_list">Legg til i svarteliste</string>
     <string name="menu_call_ip_number">Ring IP-samtale (ring %s)</string>
@@ -76,7 +80,8 @@
     <string name="recharge_charge_range">Pris: ¥%1$s-%2$s</string>
     <string name="recharge_charge_value">Pris: ¥%s</string>
     <string name="recharge_history">Oppfyllingshistorikk</string>
-    <string name="recharge_input_phone_title">Legg inn telefonnummer (China mobile, China Unicom, or China Telecom)</string>
+    <string name="recharge_history_empty">Ingen oppfyllingshistorikk</string>
+    <string name="recharge_input_phone_title">Legg inn telefonnummer (China mobile, China Unicom eller China Telecom)</string>
     <string name="recharge_order_actual_price">¥%s</string>
     <string name="recharge_order_id">Ordre-ID：</string>
     <string name="recharge_order_original_price">RMB%s</string>

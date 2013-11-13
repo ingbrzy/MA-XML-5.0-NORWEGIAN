@@ -304,6 +304,7 @@ venner."</string>
   <string name="open_public_title">Share publicly</string>
   <string name="open_single_image_failure">-kunne ikke åpne bilde-fil!</string>
   <string name="open_sync_title">Synk påkrevd</string>
+  <string name="operation_add_picture">Legg til bilder</string>
   <string name="operation_delete_confirm_message_folder">"Mapper og filer vil bli slette på samme tid.
 "</string>
   <string name="operation_failed">Operasjon feilet!</string>
@@ -328,8 +329,14 @@ venner."</string>
   <string name="photoeditor_name">Bilde Studie</string>
   <string name="photos">Bilde(r)</string>
   <string name="pick_too_many_recipients">For mange mottakere</string>
+  <string name="pick_too_much_tips">"Kan ikke velge så mange element (maks %d elementer)."</string>
+  <string name="picker_no_album_selected">Ingen album valgt</string>
+  <string name="picker_no_items_selected">Ingen elementer valgt</string>
+  <string name="picker_select_album_title_empty">Velg et album</string>
+  <string name="picker_tab_camera">Kamera</string>
   <string name="posterize">Posteriser</string>
   <string name="ppmm_gallery">PPMM</string>
+  <string name="preparing_data_to_delete">Forbereder sletting av bildedata.</string>
   <string name="projection">Projeksjon</string>
   <string name="public_url_descript">Alle kan få tilgang til albumet ved hjelp av denne nettadressen</string>
   <string name="publish_failed">Klarte ikke å publisere.</string>
@@ -478,7 +485,10 @@ venner."</string>
   <string name="unpublishing">Avlyser publisering, vennligst vent...</string>
   <string name="untagged">Ikke tagget</string>
   <string name="user_alias_self">Meg</string>
+  <string name="video_download_in_process">Video blir lastet ned, vennligst vent.</string>
+  <string name="video_download_start">Start videonedlastning</string>
   <string name="video_err">"Kan ikke avspille video."</string>
+  <string name="video_not_exist">Video eksisterer ikke!</string>
   <string name="view_sharers">Vis delere</string>
   <string name="vignette">Vignette</string>
   <string name="wallpaper">Skrivebordsbakgrunn</string>

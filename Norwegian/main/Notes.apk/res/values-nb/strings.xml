@@ -80,6 +80,7 @@
   <string name="pref_title_common">Vanlige innstillinger</string>
   <string name="pref_title_data_export">Dataeksport</string>
   <string name="pref_title_data_export_to_sdcard">Eksporter til SD-kort</string>
+  <string name="pref_title_font_size">Skriftstørrelse</string>
   <string name="pref_title_note_style">Notatstil</string>
   <string name="preferences_bg_random_appear_title">Tilfeldig notatfarger</string>
   <string name="preferences_title">Innstillinger</string>

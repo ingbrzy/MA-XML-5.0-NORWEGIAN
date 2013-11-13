@@ -40,6 +40,7 @@
   <string name="antispam_marked_count">%1$d avvist</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Identifiser ukjent nummer intelligent</string>
+  <string name="antispam_provider">Identifisert av %s</string>
   <string name="apn_settings">Navn på adgangspunkt</string>
   <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Områdenummer påkrevet for nødanrop</string>

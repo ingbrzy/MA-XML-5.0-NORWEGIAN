@@ -264,6 +264,7 @@
   <string name="prefDefault_vibrate_false">aldri</string>
   <string name="prefDefault_vibrate_true">alltid</string>
   <string name="pref_advanced_settings_title">Avanserte innstillinger</string>
+  <string name="pref_collapse_sp_messages_summary">Kombiner tjenestetilbydermelding i samme innlegg</string>
   <string name="pref_edit_smsc_address">SMS-senter nummer</string>
   <string name="pref_forward_title">Videresend</string>
   <string name="pref_messages_to_save">Sett antall meldinger som kan lagres</string>
@@ -400,6 +401,10 @@
   <string name="sms_full_title">SMS-minnet fullt!</string>
   <string name="sms_rejected_body">Inngående melding avvist av ukjent grunn.</string>
   <string name="sms_rejected_title">SMS avvist</string>
+  <string name="sp_conversation_title">Notifikasjonsmeldinger</string>
+  <string name="sp_mark_as_read">Merk alle meldinger som leste?</string>
+  <string name="sp_mark_as_read_progress">Merker alle meldinger som leste...</string>
+  <string name="sp_mark_as_read_title">Maerk alle melding som leste</string>
   <string name="status_failed">Mislykket</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">Avventer</string>
@@ -422,7 +427,8 @@
   <string name="timed_message_expired_title_2">Vil du sende dem nå?</string>
   <string name="timed_message_in_total">... (%d i alt)</string>
   <string name="timed_message_to">til</string>
-  <string name="title_date_type">melding tidsstempel</string>
+  <string name="title_collapse_sp_messages">Kombiner tjenestetilbydermeldinger</string>
+  <string name="title_date_type">Melding tidsstempel</string>
   <string name="title_timed_message_dialog">Planlegg sending av melding</string>
   <string name="to_address_label">"Til: "</string>
   <string name="to_count">%d i alt</string>
