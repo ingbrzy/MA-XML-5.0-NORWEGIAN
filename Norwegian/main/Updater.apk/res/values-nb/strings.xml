@@ -68,6 +68,7 @@
   <string name="internal_build">Intern Build</string>
   <string name="kernel_upgrade_link" />
   <string name="kernel_upgrade_version" />
+  <string name="later">Restart nå</string>
   <string name="loading">Kobler til MIUI</string>
   <string name="md5_check_cancelled">MD5 kontroll er avbrutt</string>
   <string name="mione_update_fail_description">Vennligst oppdater på nytt</string>
@@ -96,6 +97,7 @@
   <string name="no_updates_warning">fant ingen oppdateringer</string>
   <string name="no_updates_warning2">fant ingen oppdateringer.. igjen!</string>
   <string name="not_recommend">"Anbefales ikke"</string>
+  <string name="now">Restart senere</string>
   <string name="paused_queued_for_network">Venter på dataforbindelse</string>
   <string name="paused_queued_for_wifi">Venter på WiFi-forbindelse</string>
   <string name="previous">Forrige</string>

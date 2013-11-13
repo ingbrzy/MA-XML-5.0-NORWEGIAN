@@ -93,7 +93,12 @@
   <string name="mobile_traffic">2G/3G: %s</string>
   <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">Innstillinger for månedlig grense</string>
-  <string name="notify_carrier_settings_title">Du har ikke konfigureret din leverandør. Konfigurer nå?</string>
+  <string name="network_control_service_notification_text">Åpne nettverkskontroll</string>
+  <string name="network_control_service_notification_title_mutiple">%1$d programmer har blitt nektet tilgang for %2$s tilkobling</string>
+  <string name="network_control_service_notification_title_nettype_mobile">mobil</string>
+  <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+  <string name="network_control_service_notification_title_single">%1$s har blitt nektet for %2$s tilkobling</string>
+  <string name="notify_carrier_settings_title">Du har ikke konfigurert din leverandør. Konfigurer nå?</string>
   <string name="notify_traffic_settings_cancel_hint">Notifikasjoner og trafikkovervåkning vil bli deaktivert. Avslutt nå?</string>
   <string name="notify_traffic_settings_title">Du har ikke konfigureret ditt data abonnement. Konfigurer nå?</string>
   <string name="overseas_menu_traffic_adjust">Juster manuelt</string>
@@ -108,6 +113,8 @@
   <string name="pref_connect_settings_enable_backgroung_hint">Tillat automatisk forbindelse til nettverket, når programmet kjører i bakrunnen</string>
   <string name="pref_connect_settings_exceed_limit">Avbryt forbindelsen når datagrensen overskrides</string>
   <string name="pref_connect_settings_exceed_limit_hint">Påminn og avbryt forbindelsen når datagrensen overskrides</string>
+  <string name="pref_connect_settings_monitor_running_app">Vis nettverksnektet program under kjøring</string>
+  <string name="pref_connect_settings_monitor_running_app_summary">Vis notifikasjon når nettverksnektet program kjører<s/string>
   <string name="pref_connect_settings_notify_in_statusbar">Vis i statuslinje</string>
   <string name="pref_connect_settings_title">Innstillinger for nettverksovervåkning</string>
   <string name="pref_network_speed_internal_title">Hastighetsinterval</string>
@@ -119,6 +126,7 @@
   <string name="pref_traffic_settings">Pakkeinnstillinger</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="retry">Prøv igjen</string>
+  <string name="running_apps_activity_title">Kjørende programmer</string>
   <string name="save">Lagre</string>
   <string name="settings_page_adjust_summary_no_carrier">Operatør ikke satt， Auto justering fra</string>
   <string name="settings_page_traffic_summary">Tilgjengelig: %1$s, Advarsel: %2$s, Taksering siden %3$d</string>
