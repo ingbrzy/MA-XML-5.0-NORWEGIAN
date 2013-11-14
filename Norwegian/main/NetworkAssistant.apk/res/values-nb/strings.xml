@@ -114,7 +114,7 @@
   <string name="pref_connect_settings_exceed_limit">Avbryt forbindelsen når datagrensen overskrides</string>
   <string name="pref_connect_settings_exceed_limit_hint">Påminn og avbryt forbindelsen når datagrensen overskrides</string>
   <string name="pref_connect_settings_monitor_running_app">Vis nettverksnektet program under kjøring</string>
-  <string name="pref_connect_settings_monitor_running_app_summary">Vis notifikasjon når nettverksnektet program kjører<s/string>
+  <string name="pref_connect_settings_monitor_running_app_summary">Vis notifikasjon når nettverksnektet program kjører</string>
   <string name="pref_connect_settings_notify_in_statusbar">Vis i statuslinje</string>
   <string name="pref_connect_settings_title">Innstillinger for nettverksovervåkning</string>
   <string name="pref_network_speed_internal_title">Hastighetsinterval</string>
