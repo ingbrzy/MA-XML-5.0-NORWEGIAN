@@ -1573,8 +1573,8 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="pref_button_light_summary">Menu, Hjem og Tilbakeknapp-indikator</string>
   <string name="pref_operational_key">Operasjonstast</string>
   <string name="pref_volume_category_title">Lydstyrke</string>
-  <string name="pref_volume_wake_summary">Trykk på lydstyrke knappen (/-) vekker telefonen. Spesielt for enheter med defekt Slå på knapp</string>
-  <string name="pref_volume_wake_title">Vekk med Lydstyrke (/-)</string>
+  <string name="pref_volume_wake_summary">Trykk på lydstyrke knappen (+/-) vekker telefonen. Spesielt for enheter med defekt Slå på knapp</string>
+  <string name="pref_volume_wake_title">Vekk med Lydstyrke (+/-)</string>
   <string name="preference_change_password_title">Skift passord</string>
   <string name="preferred_launcher_title">Foretrukket Launcher</string>
   <string name="preferred_launcher_warning_message">Erstatning av standard Launcher kan medføre økt ressursbruk. Er du sikker på du vil fortsette?</string>
@@ -1624,7 +1624,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="quick_launch_display_mode_applications">Programmer</string>
   <string name="quick_launch_display_mode_shortcuts">Snarveier</string>
   <string name="quick_launch_no_shortcut">Ingen snarvei</string>
-  <string name="quick_launch_shortcut">Søk  %1$s</string>
+  <string name="quick_launch_shortcut">Søk + %1$s</string>
   <string name="quick_launch_summary">Tastatursnarveier for å starte programmer</string>
   <string name="quick_launch_title">Hurtigstart</string>
   <string name="radioInfo_cid">CID</string>
@@ -2192,7 +2192,7 @@ Alle brukere kan akseptere oppdaterte programtillatelser på vegne av alle andre
   <string name="user_dict_settings_context_menu_edit_title">Rediger</string>
   <string name="user_dict_settings_edit_dialog_title">Rediger ord</string>
   <string name="user_dict_settings_empty_text">"Du har ikke noen ord i brukerordboken.
-Legg til et ord ved å trykke på Legg til () knappen."</string>
+Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="user_dict_settings_more_languages">Flere språk…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_titlebar">Brukerordbok</string>
