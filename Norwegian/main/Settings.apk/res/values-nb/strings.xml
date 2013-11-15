@@ -2290,7 +2290,6 @@ Muligens ugyldig PIN."</string>
   <string name="title_virus_update_yes">Auto-oppdatering for virusdefinisjoner er på</string>
   <string name="title_virus_yes">Ingen virus detektert</string>
   <string name="toast_qucik_scan_list_empty">Alt ser bra ut, du trenger ikke rydde!</string>
-  <string name="total_size">%s totalt</string>
   <string name="total_size_label">Totalt</string>
   <string name="track_frame_time">Profiler GPU-tegning</string>
   <string name="track_frame_time_summary">Mål tegne tiden i adb shell dumpsys gfxinfo</string>
@@ -2361,8 +2360,6 @@ Muligens ugyldig PIN."</string>
   <string name="unlock_disable_lock_title">Slå av skjermlås</string>
   <string name="unlock_set_enter_system">Hopp over skjermlås</string>
   <string name="unlock_set_enter_system_summary">Gå direkte til hjemskjerm fra oppvåkning</string>
-  <string name="unlock_set_enter_system">Få adgang til system direkte</string>
-  <string name="unlock_set_enter_system_summary">"Systemets låseskjerm vil ikke bli brukt etter aktivering. Vekk telefonen for å få direkte adgang til systemet"</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Lav sikkerhet, eksperimenterende</string>
   <string name="unlock_set_unlock_biometric_weak_title">Ansikts Lås</string>
   <string name="unlock_set_unlock_disabled_summary">Deaktivert som administrator, krypteringspolitik, eller legitimasjonsopplysningslagring</string>
