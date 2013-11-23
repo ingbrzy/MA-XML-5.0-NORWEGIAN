@@ -13,7 +13,8 @@
   <string name="add_to_cloud_failed_message_with_count">%s element(er) can ikke bli lagt til i skyalbum</string>
   <string name="add_to_cloud_file_exist_message">Bilde eksisterer allerede i valgt slbum.</string>
   <string name="add_to_cloud_file_not_exist_message">Fil eksisterer ikke.</string>
-  <string name="add_to_cloud_folder">Legg til Cloud mappe</string>  
+  <string name="add_to_cloud_folder">Legg til Cloud-mappe</string>  
+  <string name="add_to_cloud_image_limit_exceeded_message">Bildegrense overskredet.</string>
   <string name="add_to_cloud_local_space_full_message">Lagringsminne er fullt eller ikke klar ennå.</string>
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">MiCloud album er fullt.</string>
@@ -254,6 +255,7 @@ venner."</string>
   <string name="lomoish">Lomo</string>
   <string name="maker">Forfatter</string>
   <string name="manual">Manuel</string>
+  <string name="marked_by_others">%d folk markerte dette</string>
   <string name="me">Meg</string>
   <string name="menu_item_sort">Sorter</string>
   <string name="menu_item_sort_date_asc">Dato stigende</string>

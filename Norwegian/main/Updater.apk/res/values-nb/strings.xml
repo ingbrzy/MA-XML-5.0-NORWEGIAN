@@ -152,7 +152,7 @@ Over %2$s brukere har oppdatert til MIUI %3$s"</string>
   <string name="update_comment_hint">(valgfritt)</string>
   <string name="update_comment_title">Dine kommentarer</string>
   <string name="update_feedback">Fire ledet oppdateringsfeedback</string>
-  <string name="update_feedback_expired">"Det var en dårlig at du glemte å gi oppdateringsfeedback! Vennligst prøv å sende inn igjen neste tirsdag"</string>
+  <string name="update_feedback_expired">"Det var dårlig at du glemte å gi oppdateringsfeedback! Vennligst prøv å sende inn igjen neste tirsdag"</string>
   <string name="update_feel">1. Hvordan har du det?</string>
   <string name="update_general">Ikke dårlig</string>
   <string name="update_happy">Glad</string>
@@ -161,6 +161,7 @@ Over %2$s brukere har oppdatert til MIUI %3$s"</string>
   <string name="update_success">oppdatering fullført</string>
   <string name="update_success_body">System oppdatert til %s</string>
   <string name="update_success_title">oppdatering fullført!</string>
+  <string name="updater_finish_download">ROM-nedlastning fullført</string>
   <string name="upgrade_close">Lukk</string>
   <string name="upgrade_kernel">Nåværende kernel krever oppdatering</string>
   <string name="upgrade_kernel_msg">"Nåværende kernel passer ikke overens med MIUI ROM. Du må oppdatere den manuelt. Vennligst sjekk oppdateringsguiden:"</string>
@@ -169,7 +170,7 @@ Over %2$s brukere har oppdatert til MIUI %3$s"</string>
   <string name="view_install_log">Se Logg</string>
   <string name="view_upgrade_tutorial">Se guiden</string>
   <string name="weekly_build">Ukentlig Build</string>
-  <string name="wifi_not_available_body">Dataforbindelse funnet, dog anbefales det å benytte WiFi. Forstett likevel?</string>
-  <string name="wifi_not_available_title">WiFi ikke tilgjengelig</string>
+  <string name="wifi_not_available_body">Dataforbindelse funnet, dog anbefales det å benytte WiFi. Forsett likevel?</string>
+  <string name="wifi_not_available_title">Wi-Fi ikke tilgjengelig</string>
   <string name="worst_update">Verste update</string>
 </resources>

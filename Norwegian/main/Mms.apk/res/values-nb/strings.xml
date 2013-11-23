@@ -215,12 +215,14 @@
   <string name="mx_activate_int_hint_malformed_info">Feil ved behandling av forespørselen. En internasjonal SMS kreves for å reaktivere cloud-meldinger. Vil du aktivere det nå?</string>
   <string name="mx_activate_int_hint_server">Aktivering med serveren mislyktes for cloud-meldinger, en internasjonal SMS kreves for å reaktivere cloud-meldinger. Vil du aktivere det nå?</string>
   <string name="mx_activate_int_hint_sim_change">SIM-kortets tilstand endret. En internasjonal SMS kreves for å aktivere cloud-meldinger. Vil du aktivere det nå?</string>
+  <string name="mx_activate_int_popup_msg">MiMessaging tillater MIUI-brukere å sende meldinger til hverandre uten å bruk mobildata.</string>
   <string name="mx_activation_done">Cloud-meldinger er nå aktivert</string>
   <string name="mx_auto_resend_mms">Auto resend MMS</string>
   <string name="mx_auto_resend_mms_summary">Send som MMS når Cloud-meldinger er utilgjengelig. Kostnad på meldinger fra operatør er gjeldende</string>
   <string name="mx_auto_resend_sms">Send som SMS</string>
   <string name="mx_auto_resend_sms_summary">Send som SMS når Cloud-melding er utilgjengelig</string>
   <string name="mx_btn_enable">Aktiver</string>
+   <string name="mx_btn_enable_now">Aktiver MiMessaging</string>
   <string name="mx_count_dspt">Siden aktivering, har MIUI sendt %1$d Cloud-melding(r) for deg (%2$s)</string>
   <string name="mx_current_status">Aktuell status: Online</string>
   <string name="mx_dspt">Send meldinger via internett mellom MIUI, aktiver for å sende via operatør når mislykket</string>

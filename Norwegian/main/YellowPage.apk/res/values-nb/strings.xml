@@ -31,6 +31,8 @@
     <string name="express_inquiry">Sporer</string>
     <string name="express_inquiry_button_text">Spor</string>
     <string name="express_inquiry_data_owner">Sporingsinfo tilbudt av %s</string>
+    <string name="express_inquiry_delete_warning_multiple">Slett %d valgte historikkinnlegg?</string>
+    <string name="express_inquiry_delete_warning_single">Slett valgte innlegg?</string>
     <string name="express_inquiry_delivered">Levert</string>
     <string name="express_inquiry_history">Historikk</string>
     <string name="express_inquiry_indication">Tracking-nummer</string>
