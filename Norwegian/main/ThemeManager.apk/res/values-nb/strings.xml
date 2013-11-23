@@ -41,8 +41,7 @@
   <string name="resource_ringtone_volume_mute">Ringetonevolum dempet</string>
   <string name="resource_save_to_note">Lagre til notater</string>
   <string name="resource_send">Send</string>
-  <string name="resource_unable_to_access">"Vi beklager
-innholdet du leter etter er ikke for øyeblikket tilgjengelig i din region/land.”</string>
+  <string name="resource_unable_to_access">"For øyeblikket ikke tilgjengelig i din region/land.”</string>
   <string name="resource_unknow_error">Ukjent feil oppsto.</string>
   <string name="resource_user_know">OK</string>
   <string name="settings">Innstillinger</string>

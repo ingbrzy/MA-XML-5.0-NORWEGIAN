@@ -64,6 +64,7 @@
   <string name="bigscrren_slide_exit">Avslutt presentasjon på TV</string>
   <string name="browse_category">Bla gjennom bilder</string>
   <string name="by_email">E-post</string>
+  <string name="by_others">Av andre</string>
   <string name="by_sms">SMS</string>
   <string name="camera_connected">Kamera tilkoblet.</string>
   <string name="camera_disconnected">Kamera ikke tilkoblet.</string>
