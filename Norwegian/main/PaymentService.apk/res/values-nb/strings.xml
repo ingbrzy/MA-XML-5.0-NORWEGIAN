@@ -380,7 +380,7 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="progress_submit_pay_summary">Betaler for %1$s MiCredits.</string>
   <string name="progress_submit_recharge_summary">Legger til oppfylling for %1$s MiCredits.</string>
   <string name="progress_submit_title">Forespørsel sendt</string>
-  <string name="progress_success_pay_summary">%1$s MiCredits oppladet，%2$s MiCredits betalt</string>
+  <string name="progress_success_pay_summary">%1$s MiCredits lagt til，%2$s MiCredits betalt</string>
   <string name="progress_success_pay_title">%1$s MiCredit betaling fullført</string>
   <string name="progress_success_recharge_summary">Kontobalanse: %1$s MiCredits.</string>
   <string name="progress_success_recharge_title">%1$s MiCredit oppfylling fullført</string>
