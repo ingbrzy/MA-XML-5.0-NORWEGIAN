@@ -70,6 +70,7 @@
   <string name="act_mute_ms">Demp notifikasjoner</string>
   <string name="act_mute_ms_summary">Notifikasjoner er deaktivert men meldinger vil fortsatt være visbare</string>
   <string name="action_settings">Innstillinger</string>
+  <string name="activate_miui_screensaver">Aktiver skjermsparer</string>
   <string name="activating">Aktiverer…</string>
   <string name="active_device_admin_msg">Enhetsadministrator</string>
   <string name="active_input_method_subtypes">Aktive input-metoder</string>
@@ -89,6 +90,8 @@
   <string name="advanced_settings_summary">Aktiver flere innstillingsmuligheter</string>
   <string name="airplane_mode">Flymodus</string>
   <string name="alarm_volume_title">Alarm</string>
+  <string name="alert_show_screensaver_when_not_charging_msg">Strøm vil bli brukt fortere hvis skjermsparer vises når telefonen ikke lades. Vil du deaktivere dette valget?</string>
+  <string name="alert_show_screensaver_when_not_charging_title">Skjermsparer når ikke lader</string>
   <string name="all_volume_title">Lydstyrke</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Etter du oppretter denne widgeten, kan %1$s få adgang til alle data den viser.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Opprett widget og tillat adgang?</string>
@@ -1294,6 +1297,12 @@ Obs: denne handling kan ikke angres!"</string>
   <string name="misc_files_selected_count">valgt %1$d ut av %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s ut av %2$s</string>
   <string name="miui_device_default_name">Android</string>
+  <string name="miui_screensaver_show_time">Varighet</string>
+  <string name="miui_screensaver_show_time_select_title">Velg varighet</string>
+  <string name="miui_screensaver_state_off">Av</string>
+  <string name="miui_screensaver_state_on">På</string>
+  <string name="miui_screensaver_title">Skjermsparer</string>
+  <string name="miui_screensaver_usage">Når aktivert, vil bilder i skjermspareralbumet bli vist gjentatte ganger 5 sekouder etter at skjermen skrus av.</string>
   <string name="mms_log_tab_title">Meldingslogg</string>
   <string name="mms_vibrate_abbreviation">"Meldinger "</string>
   <string name="model_number">Modell:</string>
@@ -1367,6 +1376,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="nsd_quick_toggle_title">Nettverkstjeneste søking</string>
   <string name="number_add_hint">Skriv nummer</string>
   <string name="oem_radio_info_label">OEM-spesifikke Info / Innstillinger</string>
+  <string name="only_when_charging">Bare under lading</string>
   <string name="onscreen_keyboard_settings_summary">Skjermtastatur innstillinger</string>
   <string name="open_wifi_connect_summary">Klikk for å håndtere</string>
   <string name="open_wifi_connect_title">Koble til åpent nettverk %1$s</string>
@@ -1609,7 +1619,8 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="pico_voice_summary_female">Kvinne</string>
   <string name="pico_voice_summary_male">Mann</string>
   <string name="ping_test_label">Kjør ping-test</string>
-  <string name="please_select_phase2">Fase 2-godkjendelse</string>
+  <string name="picture_source">Bildekilde</string>
+  <string name="please_select_phase2">Fase 2-godkjennelse</string>
   <string name="please_type_passphrase">Wi-Fi-passord</string>
   <string name="pointer_location">Peker-plassering</string>
   <string name="pointer_location_summary">Vis berøringskoordinater</string>

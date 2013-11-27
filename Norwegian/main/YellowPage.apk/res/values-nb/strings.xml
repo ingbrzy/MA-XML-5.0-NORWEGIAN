@@ -45,6 +45,7 @@
     <string name="expresss_inquiry_all_logistics">Alle</string>
     <string name="expresss_inquiry_frequently_used_logistics">Ofte brukte</string>
     <string name="login_before_recharging">Du må logge inn før du kan fylle opp.</string>
+    <string name="login_before_use">Vennligst logg inn før bruk.</string>
     <string name="login_ok">Logg inn</string>
     <string name="mark_number_custom_dialog_maintitle">Samtykk eller korrige merke</string>
     <string name="mark_number_dialog_maintitle">Marker som spam nummer og last opp</string>

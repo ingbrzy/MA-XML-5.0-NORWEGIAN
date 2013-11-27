@@ -32,6 +32,7 @@
   <string name="add_bookmark_short">Legg til</string>
   <string name="add_folder">Legg til mappe</string>
   <string name="add_new_bookmark">Legg til Bokmerke</string>
+  <string name="add_quicklink_to_popular">Legg på startside</string>
   <string name="add_to_bookmarks_menu_option">Bokmerker</string>
   <string name="add_to_homescreen_menu_option">Startskjermen</string>
   <string name="add_to_other_folder_menu_option">Annen mappe</string>
@@ -481,8 +482,12 @@
   <string name="pref_volume_key_operation">Handling for lydstyrke knapper</string>
   <string name="pref_zoom_on_double_tap">Zoom ved dobbelt-trykk</string>
   <string name="preview">Eksempel</string>
-  <string name="progress_dialog_setting_wallpaper">Setter bakgrunn ...</string>
+  <string name="progress_dialog_setting_wallpaper">Setter bakgrunn...</string>
+  <string name="quicklink_saved_before">Side lagt til i startside</string>
   <string name="quicklinks_management">Hurtiglinker</string>
+  <string name="quicklinks_most_visited">Legg til mest besøkte sider på startsiden</string>
+  <string name="quicklinks_most_visited_subtitle">Vis mest besøkte sider i Ny fane</string>
+  <string name="quicklinks_most_visited_title">Legg på startisden</string>
   <string name="readmode_already_add_to_bookshelf">Lagt til i bokhylle</string>
   <string name="readmode_battery">Batteri </string>
   <string name="readmode_login">Kontoinnlogging</string>
@@ -535,6 +540,7 @@
   <string name="selection_all">Velg alt</string>
   <string name="send_bookmark_to_home_screen">Send til hjemskjerm</string>
   <string name="send_to_desktop">Send til skrivebord</string>
+  <string name="send_to_popular">populær</string>
   <string name="set_as_homepage">Sett som startside</string>
   <string name="share_link">Del link</string>
   <string name="share_page">Del side</string>

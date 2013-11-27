@@ -272,6 +272,8 @@
   <string name="toast_rotation_locked">Skjerm låst til landskapsmodus</string>
   <string name="torch_activity_hint">Tenn lykt ved å holde [icon] nede på låseskjermen</string>
   <string name="torch_activity_name">Lykt</string>
+  <string name="torch_closed">Lykt av</string>
+  <string name="torch_opened">Lykt på</string>
   <string name="usb_accessory_confirm_prompt">Åpne %1$s når dette USB-tilbehøret kobles til?</string>
   <string name="usb_accessory_permission_prompt">Tillat %1$s tilgang til USB-tilbehøret?</string>
   <string name="usb_accessory_uri_prompt">Ingen programmer installert støtter dette USB-tilbehøret. Lær mer om dette tilbehøret på %1$s</string>

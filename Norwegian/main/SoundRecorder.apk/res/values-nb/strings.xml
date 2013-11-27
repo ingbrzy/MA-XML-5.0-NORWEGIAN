@@ -21,6 +21,7 @@
   <string name="dialog_warning">Advarsel</string>
   <string name="error_app_internal">Muligens en SD-kortfeil, eller et annet program bruker opptaksprogramvaren. Vennligst kontroller og prøv igjen.</string>
   <string name="error_app_internal_title">Lydopptakerfeil</string>
+  <string name="error_filename_illegal_char">Filnavnet innholder ulovlige tegn.</string>
   <string name="error_filename_too_long">Filnavn for langt</string>
   <string name="error_mediadb_new_record">Kan ikke lagre opptaket</string>
   <string name="error_sdcard_access">Kan ikke få adgang til SD-kort</string>
