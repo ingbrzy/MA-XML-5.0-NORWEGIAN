@@ -510,6 +510,7 @@
   <string name="choose_timezone">Velg tidssone</string>
   <string name="clean_confirm_title">Slett valgte filer?</string>
   <string name="cleaner">Opprydder</string>
+  <string name="cleaner_support_hints">Tilbudt av Clean Master</string>
   <string name="clear_activities">Tøm standarder</string>
   <string name="clear_activities_summary">Bruk dette programmet som standard for noen handlinger</string>
   <string name="clear_all_calllog">Tøm anropslogg</string>
