@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about">Om</string>
+  <string name="adjust_module_miss">Databrukmodul mangler</string>
   <string name="adjust_traffic_auto_adjust_hint">Systemet spørr etter og justerer data regelmessig fra operatører. Operatørinformasjon behøves.</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Autojustering er aktiveret og vil automatisk regulere trafik data jævnligt</string>
   <string name="adjust_traffic_auto_adjust_title">Auto justering</string>

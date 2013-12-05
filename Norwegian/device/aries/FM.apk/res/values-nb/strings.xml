@@ -83,7 +83,7 @@
   <string name="msg_callactive">FM Tx støttes ikke under en aktiv samtale</string>
   <string name="msg_do_not_support_fm">FM er ikke støttet på denne enheten.</string>
   <string name="msg_headsetpluggedin">Koble fra alle hodetelefoner før du bruker FM Tx</string>
-  <string name="msg_noantenna_message">Koble til hodetelefonene før bruk.</string>
+  <string name="msg_noantenna_message">For å forbedre lydkvaliteten, koble til hodetelefoner.</string>
   <string name="msg_scanning">Skanner etter alle FM kanaler</string>
   <string name="msg_scanning_pty">Skanner for %s</string>
   <string name="msg_search_title">FM - %1$s</string>
