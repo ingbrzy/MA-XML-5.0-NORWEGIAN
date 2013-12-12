@@ -25,7 +25,7 @@
   <string name="backup_delete">Slett backup</string>
   <string name="backup_empty">Ingen backups funnet!</string>
   <string name="backup_empty_info">Backup dine data, innstillinger og programmer</string>
-  <string name="backup_error">Backup Feil</string>
+  <string name="backup_error">Backup-feil</string>
   <string name="backup_failed">Backup mislyktes, vennligst prøv igjen</string>
   <string name="backup_file_error">Det var et problem med backup\'en, handlingen var ugyldig.</string>
   <string name="backup_finished">Backup fullført</string>
@@ -41,6 +41,7 @@
   <string name="button_abandon">Avbryt</string>
   <string name="button_backup">Backup</string>
   <string name="button_cancel">Annuller</string>
+  <string name="button_continue">Fortsett</string>
   <string name="button_delete">Slett</string>
   <string name="button_finish">Ferdig</string>
   <string name="button_next">Neste</string>
@@ -51,12 +52,19 @@
   <string name="cancel">Annuller</string>
   <string name="cancel_backup">Annuller backup</string>
   <string name="cancel_restore">Annuller gjenoppretting</string>
+  <string name="cloud_app_backup_cancel">Avbryt backup</string>
+  <string name="cloud_app_backup_cancel_prompt_message">"Backup uferdig, trykk 
+OJ for å avbryte backup"</string>
+  <string name="cloud_app_backup_cancel_prompt_title">Cancel backup</string>
   <string name="cloud_app_mine">Nedlastede programmer</string>
   <string name="cloud_app_backup_date">"Tatt backup den "</string>
   <string name="cloud_app_backup_pending">Ventende...</string>
   <string name="cloud_app_backup_progress">Tar backup...</string>
   <string name="cloud_app_backup_summary">Automatisk backup av programmer og brukerdata når telefonen lades og koblet til Wi-Fi</string>
   <string name="cloud_app_backup_title">Backup i MiCloud</string>
+  <string name="cloud_app_check_data">Spørr etter data fra MiCloud...</string>
+  <string name="cloud_app_check_data_fail">Kunne ikke spørre etter data fra MiCloud</string>
+  <string name="cloud_app_check_data_timeout">Timeout for spørring av data fra MiCloud</string>
   <string name="cloud_app_current_device">Gjeldende enhet</string>
   <string name="cloud_app_data_in_other_devices">Ikke MiCloud backup opp på denne enheten.</string>
   <string name="cloud_app_delete_data">Slett backup</string>
@@ -66,16 +74,31 @@
   <string name="cloud_app_find_backup_prompt_2">Hvis du avbryter den nå, vil den bli overskrevet når du gjenoppretter.</string>
   <string name="cloud_app_function_summary">Når du tar backup av data til skyen, kan du gjenopprette den raskt på hvilken som helst enhet.</string>
   <string name="cloud_app_invalid_op">"Du kan ikke vise skydata mens den blir sikkerhetskopiert eller gjenopprettet."</string>
+  <string name="cloud_app_invalid_op_when_removing">"Du kan ikke vise MiCloud-data mens det blir fjernet!"</string>
   <string name="cloud_app_just_show_in_current_device">Bare vise programmer på denne enheten</string>
+  <string name="cloud_app_load_data">Spørr etter backup-dataliste...</string>
+  <string name="cloud_app_load_data_timeout">Timeout ved spørring av data fra MiCloud</string>
+  <string name="cloud_app_loading_with_mobile_network_prompt">"Mobildata-trafikk vil bli brukt for å fortsette. Vil du fortsette?"</string>
   <string name="cloud_app_name">Online Backup</string>
   <string name="cloud_app_no_data">Ingen data her.</string>
+  <string name="cloud_app_no_network">Nettverk utilgjengelig</string>
+  <string name="cloud_app_no_wifi">Wi-Fi utilgjengelig</string>
+  <string name="cloud_app_no_wifi_connect">Ingen Wi-Fi-tilkobling tilgjengelig</string>
   <string name="cloud_app_other_devices">Andre enheter</string>
+  <string name="cloud_app_remove_cancel">Avbryt sletting</string>
+  <string name="cloud_app_remove_cancel_prompt_message">"Slett uferdig backup, trykk OK
+for å avbryte"</string>
+  <string name="cloud_app_remove_cancel_prompt_title">Stopp sletting</string>
   <string name="cloud_app_remove_error">Kunne ikke slette!</string>
   <string name="cloud_app_remove_pending">Venter på å slette...</string>
   <string name="cloud_app_remove_progress">Sletter...</string>
   <string name="cloud_app_remove_prompt">%1$s av data vil bli slettet. Vil du fortsette?</string>
   <string name="cloud_app_restore_action_bar_title">%1$s av dataen har blitt tatt backup av</string>
   <string name="cloud_app_restore_app_and_data">Gjenopprett programmer og brukerdata</string>
+   <string name="cloud_app_restore_cancel">Avbryt gjenoppretting</string>
+  <string name="cloud_app_restore_cancel_prompt_message">"Gjenopprett uferdige, trykk OK
+for å avbryte gjenoppretting"</string>
+  <string name="cloud_app_restore_cancel_prompt_title">Avbryt gjenoppretting</string>
   <string name="cloud_app_restore_data">Gjenopprette tidligere installerte programmer</string>
   <string name="cloud_app_restore_data_title">Gjenopprett brukerdata</string>
   <string name="cloud_app_restore_error">Gjenoppretting mislyktes!</string>
@@ -88,6 +111,7 @@
   <string name="cloud_app_restore_wifi_prompt">Koble til ved bruk av Wi-Fi for å gjenopprette programmer og brukerdata.</string>
   <string name="cloud_app_total_size">Total MiCloud backupstørrelse: %1$s</string>
   <string name="cloud_app_version_size">Versjon: %1$s, Størrelse: %2$s</string>
+  <string name="cloud_app_wait_wifi">Venter på Wi-FI-tilkobling</string>
   <string name="cloud_backup_hint">Du må være logget inn\n for å lage backup, gjenopprette data, og\n sette opp automatisk backup</string>
   <string name="cloud_backup_login">MIUI konto</string>
   <string name="cloud_backup_window_title">Online Data Backup</string>
