@@ -124,6 +124,7 @@ venner."</string>
   <string name="confirm_delete_pictures">%s bilder</string>
   <string name="confirm_delete_system_album">%s er et system album, er du sikker på at du vil slette?</string>
   <string name="confirm_delete_videos">%s videoer</string>
+  <string name="confirm_download">"Du må laste ned %s. Dette tipset vil ikke bli vist igjen."</string>
   <string name="contact_photo">Kontaktbilde</string> 
   <string name="context_menu_add_contact">Legg til i kontakter</string>
   <string name="context_menu_copy">Kopiér</string>
@@ -149,6 +150,7 @@ venner."</string>
   <string name="delete_file">Er du sikker på at vil slette %1$d valgte fil(er)?</string>
   <string name="delete_files_and_folders">Er du sikker på at vil slette %1$d valgte fil(er) og %2$d valgte mappe(r)?</string>
   <string name="delete_folder">Er du sikker at vil slette %1$d valgte mappe(r)?</string>
+  <string name="delete_smb_file_fail">Kunne ikke slette SMB-fil</string>
   <string name="deleting_files">Sletter filer...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="deny">Avvis</string>
@@ -162,6 +164,9 @@ venner."</string>
   <string name="done">Ferdig</string>
   <string name="doodle">Krusseduller</string>
   <string name="doodle_tooltip">Tegn på bildet for å krussedulle</string>
+  <string name="download">Last ned</string>
+  <string name="download_fail">Nedlasting feilet!</string>
+  <string name="download_fail_confirm_continue">Nedlastinv av %s feilet. Fortsett?</string>
   <string name="duotone">Dobbelt-tone</string>
   <string name="duration">Lengde</string>
   <string name="edit">Rediger</string>
@@ -193,6 +198,7 @@ venner."</string>
   <string name="fail_to_apply">Kunne ikke bli med i album.</string>
   <string name="fail_to_pick_email">Ingen gyldige e-poster valgt</string>
   <string name="fail_to_sync_album">Klarte ikke å synkronisere albumet til server. Vennligst sjekk nettverkstilkoblingen!</string>
+  <string name="file_not_exist_message">Fil eksisterer ikke.</string>
   <string name="file_size">Filstørrelse</string>
   <string name="filllight">Lys fyld</string>
   <string name="fisheye">Fiskeøye</string>
@@ -254,6 +260,7 @@ venner."</string>
   <string name="location">Sted</string>
   <string name="locations">Steder</string>
   <string name="lomoish">Lomo</string>
+  <string name="make_download_dir_fail">Kunne ikke slette mappe!</string>
   <string name="maker">Forfatter</string>
   <string name="manual">Manuel</string>
   <string name="marked_by_others">%d folk markerte dette</string>
@@ -289,6 +296,7 @@ venner."</string>
   <string name="must_pick_file">Velg et bilde</string>
   <string name="negative">Negativ</string>
   <string name="netease_newsreader_netease_down_pic">Netease-nyhetsleser</string>
+  <string name="new_device_tips">Ny enhet funnet. Klikk for å vise</string>
   <string name="no">Nei</string>
   <string name="no_albums_alert">Ingen album tilgjengelige.</string>
   <string name="no_connectivity">"Noen lokasjoner kunne ikke identifiseres på grunn av nettverksproblemer."</string>

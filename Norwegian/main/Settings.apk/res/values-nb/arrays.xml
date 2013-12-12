@@ -313,6 +313,17 @@
         <item>Mønster</item>
         <item>Numerisk passord</item>
         <item>Blandet passord</item>
+    </string-array>  
+    <string-array name="preferred_app_entries">
+        <item>Hjemmeskjerm</item>
+        <item>Telefon</item>
+        <item>SMS</item>
+        <item>Nettleser</item>
+        <item>Kamera</item>
+        <item>Album</item>
+        <item>Musikk</item>
+        <item>Video</item>
+        <item>E-post</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekund</item>
