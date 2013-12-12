@@ -8,9 +8,9 @@
   <string name="android_lockscreen_glogin_instructions">Logg inn med din konto for å låse opp</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
-  <string name="app_no_notification">ingen notifikasjon</string>
-  <string name="app_notificaiton_on_notificationBar">Notifikasjonslinje</string>
-  <string name="app_notificaiton_on_statusBar_and_notificationBar">Status og notifikasjonsbar</string>
+  <string name="app_no_notification">ingen varsel</string>
+  <string name="app_notificaiton_on_notificationBar">Varslingslinje</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Status og varslingslinje</string>
   <string name="arbor_day" />
   <string name="armed_forces_day"/>
   <string name="autumn_begins">Høsten begynner</string>
@@ -491,7 +491,7 @@
   <string name="volume_icon_description_media">Media</string>
   <string name="volume_icon_description_notification">Notifikasjon</string>
   <string name="volume_icon_description_ringer">Ringetone</string>
-  <string name="volume_ring_description">Ringetone og notifikasjons-volum</string>
+  <string name="volume_ring_description">Ringetone og varsel-volum</string>
   <string name="wake_alarm_message">Utsett alarm. Påminn om %s </string>
   <string name="white_dews" />
   <string name="winter_begins">Vinteren begynner</string>

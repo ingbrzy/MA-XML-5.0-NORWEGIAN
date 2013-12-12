@@ -43,7 +43,7 @@
   <string name="perm_action_accept">Aksepter</string>
   <string name="perm_action_prompt">Spør</string>
   <string name="perm_action_reject">Avvis</string>
-  <string name="perm_notice">Sikkerhetsnotifikasjon</string>
+  <string name="perm_notice">Sikkerhetsvarsel</string>
   <string name="perm_privacy_app_finish">Ferdig</string>
   <string name="perm_privacy_app_installed">Installasjon fullført!</string>
   <string name="perm_privacy_app_launch">Åpne</string>

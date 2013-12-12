@@ -145,7 +145,7 @@
   <string name="call_record_sd_space_low_miui">SD kort har lite ledig plass igjen, vennligst prøv igjen etter litt plass er frigjort</string>
   <string name="call_record_setting_miui">Opptak av anrop</string>
   <string name="call_record_unknown_error">En ukjent feil skjedde under opptak!</string>
-  <string name="call_recording_notification_summary_miui">Vis notifikasjon i statuslinie når opptak er slutt</string>
+  <string name="call_recording_notification_summary_miui">Vis varsel i statuslinje når opptak er slutt</string>
   <string name="call_recording_notification_title_miui">Notifikasjon ved opptak</string>
   <string name="call_recording_prompt_miui">Åpen anropsopptak</string>
   <string name="call_settings">Innstillinger for anrop</string>

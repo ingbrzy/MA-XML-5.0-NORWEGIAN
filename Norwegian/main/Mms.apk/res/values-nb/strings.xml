@@ -100,7 +100,7 @@
   <string name="delete_unlocked">Slett låst melding</string>
   <string name="delivery_report_activity">Leveringsrapport</string>
   <string name="delivery_toast_body">Melding mottatt av %s</string>
-  <string name="disable_notifications_dialog_message">Stopp duplikerte meldingsnotifikasjoner fra standard meldings app?</string>
+  <string name="disable_notifications_dialog_message">Stopp duplikerte meldingsvrasler fra standard meldingsprogram?</string>
   <string name="discard">Avbryt</string>
   <string name="discard_message">Avbryt</string>
   <string name="discard_message_reason">Din melding slettes da den ikke har noen gyldig mottaker.</string>
@@ -323,11 +323,11 @@
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">Kan ikke sende melding i Privat tilstand</string>
   <string name="private_message">Privat melding</string>
-  <string name="private_new_notification">Ny Privat melding notifikasjon</string>
+  <string name="private_new_notification">Ny Privat melding-varsel</string>
   <string name="private_protect">Beskytt private meldinger</string>
-  <string name="private_settings">Privat Innstillinger</string>
+  <string name="private_settings">Privat-innstillinger</string>
   <string name="processing">Behandler...</string>
-  <string name="prvate_contact">Privat Kontakt</string>
+  <string name="prvate_contact">Privat kontakt</string>
   <string name="rate_limit_surpassed">Bekreft</string>
   <string name="received_label">"Mottatt: "</string>
   <string name="recipient_editor_count_format">%d</string>

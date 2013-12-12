@@ -109,7 +109,7 @@
   <string name="st_mute_title">Lydløs</string>
   <string name="st_other_setting_group">Andre innstillinger</string>
   <string name="st_settings_name">Innstillinger</string>
-  <string name="st_show_block_notification">Vis blokkerte notifikasjoner</string>
+  <string name="st_show_block_notification">Vis blokkerte varsler</string>
   <string name="st_sms_group">Meldinger</string>
   <string name="tab_blacklist">Svarteliste</string>
   <string name="tab_block_log">Brannmur</string>

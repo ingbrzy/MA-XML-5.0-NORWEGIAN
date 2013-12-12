@@ -18,9 +18,9 @@
   <string name="accessibility_sync_cal">Synkroniser kalender</string>
   <string name="accounts">Kontoer og synkronisering</string>
   <string name="acct_not_synced">"Denne kontoen synkroniseres ikke, så dine kalendere er muligens ikke oppdatert."</string>
-  <string name="acessibility_cal_notification">Kalender Notifikasjon</string>
+  <string name="acessibility_cal_notification">Kalendervarsel</string>
   <string name="acessibility_selected_marker_description">Valgte hendelse</string>
-  <string name="acessibility_snooze_notification">Utsett notifikasjon</string>
+  <string name="acessibility_snooze_notification">Utsett varsel</string>
   <string name="add_account">Legg til konto</string>
   <string name="agenda_today">I DAG, %1$s</string>
   <string name="agenda_tomorrow">I MORGEN, %1$s</string>

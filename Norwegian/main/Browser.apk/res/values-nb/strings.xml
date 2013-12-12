@@ -172,7 +172,7 @@
   <string name="download_no_sdcard_dlg_msg">USB-lagring er nødvendig for å laste ned %s.</string>
   <string name="download_no_sdcard_dlg_title">USB utilgjengelig</string>
   <string name="download_pending">Start nedlastning ...</string>
-  <string name="download_sdcard_busy_dlg_msg">USB-lagring er aktivert. Hvis du vil tillate nedlastninger, slå USB-lagring av i notifikasjonen.</string>
+  <string name="download_sdcard_busy_dlg_msg">USB-lagring er aktivert. Hvis du vil tillate nedlastninger, slå USB-lagring av i varselet.</string>
   <string name="download_sdcard_busy_dlg_title">USB utilgjengelig</string>
   <string name="download_video_alert_message">Hvis din nåværende dataplan har datakostnader, kan nedlastning av video bruke opp kvoten din, vil du fortsette?</string>
   <string name="download_video_alert_title">Nedlastningsvarsel!</string>

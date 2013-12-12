@@ -1370,7 +1370,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="normal_date_format">Regionalt (%s)</string>
   <string name="notification_pulse_title">LED Varsler</string>
   <string name="notification_sound_dialog_title">Velg Meldingstone</string>
-  <string name="notification_sound_title">Standard notifikasjon</string>
+  <string name="notification_sound_title">Standard varsel</string>
   <string name="notification_vibrate_abbreviation">"Varsler "</string>
   <string name="notification_volume_title">Varsel</string>
   <string name="nsd_quick_toggle_summary">Tillat programmer på andre enheter å gjenkjenne denne enheten</string>
@@ -1739,7 +1739,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="power_mode_switch_off">Av</string>
   <string name="power_mode_switch_on">På</string>
   <string name="power_mode_synchronization">Synk</string>
-  <string name="power_mode_touch_with_ring">Lydnotifikasjon ved trykk</string>
+  <string name="power_mode_touch_with_ring">Lydvarsel ved trykk</string>
   <string name="power_mode_touch_with_vibration">Vibrasjon ved trykk</string>
   <string name="power_mode_vibration">Vibrasjon</string>
   <string name="power_mode_vibration_no">Vibrasjon deaktivert</string>
@@ -2603,7 +2603,7 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="volume_notification_mute">Gjør varsler lydløse</string>
   <string name="volume_restore">Gjenopprett lydstyrke</string>
   <string name="volume_restore_alert">Alle lydstyrkeinnstillinger vil bli satt til standard, er du sikker?</string>
-  <string name="volume_ring_description">Ringetone og notifikasjonslydstyrke</string>
+  <string name="volume_ring_description">Ringetone og varslingslydstyrke</string>
   <string name="volume_ring_mute">Gjør ringetone og varsler lydløse</string>
   <string name="volume_system_description">Systemlydstyrke, for kameralukker, låseskjerm og andre systemvarsler</string>
   <string name="volume_voice_description">Stemme lydstyrke</string>
