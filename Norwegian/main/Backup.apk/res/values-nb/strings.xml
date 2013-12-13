@@ -96,7 +96,7 @@ for å avbryte"</string>
   <string name="cloud_app_restore_action_bar_title">%1$s av dataen har blitt tatt backup av</string>
   <string name="cloud_app_restore_app_and_data">Gjenopprett programmer og brukerdata</string>
    <string name="cloud_app_restore_cancel">Avbryt gjenoppretting</string>
-  <string name="cloud_app_restore_cancel_prompt_message">"Gjenopprett uferdige, trykk OK
+  <string name="cloud_app_restore_cancel_prompt_message">"Gjenoppretting ufullstendig, trykk OK
 for å avbryte gjenoppretting"</string>
   <string name="cloud_app_restore_cancel_prompt_title">Avbryt gjenoppretting</string>
   <string name="cloud_app_restore_data">Gjenopprette tidligere installerte programmer</string>
@@ -227,7 +227,7 @@ for å avbryte gjenoppretting"</string>
   <string name="task_failed">Mislyktes</string>
   <string name="task_failed_all_local">Annullering mislyktes</string>
   <string name="task_failed_local">Kunne ikke fjerne %s oppgave(r)</string>
-  <string name="task_finished">Fullført</string>
+  <string name="task_finished">Ferdig</string>
   <string name="task_local_backup_cancel_dialog">Backup ikke fullført. Trykk OK for å fjerne backup</string>
   <string name="task_pending">Avventer</string>
   <string name="task_post_running">Etter kjøring</string>
