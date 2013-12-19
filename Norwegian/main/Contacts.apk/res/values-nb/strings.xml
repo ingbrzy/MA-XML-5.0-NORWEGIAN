@@ -493,7 +493,9 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="local_invisible_directory">Andre</string>
   <string name="local_profile_title">Min lokale profil</string>
   <string name="local_search_label">Alle kontakter</string>
-  <string name="locale_change_in_progress">kontaktlisten er i ferd med å bli oppdatert for å gjenspeile endringen av språk.</string>
+  <string name="locale_change_in_progress">Kontaktlisten er i ferd med å bli oppdatert for å gjenspeile endringen av språk.</string>
+  <string name="login_before_recharging">Du må logge inn før du kan fylle opp.</string>
+  <string name="login_ok">Logg inn</string>
   <string name="lunarBirthdayLabelsGroup">Måne fødselsdag (kinesisk)</string>
   <string name="make_primary">Husk dette valget</string>
   <string name="map_custom">Vis %s adresse</string>
@@ -759,6 +761,7 @@ for å legge til kontakt til favoritter:
   <string name="recent_updates">Seneste oppdateringer</string>
   <string name="redirect_calls_to_vm_confirm_message">Hvis du ikke har søkt til eieren av denne bedriften, vennligst ikke skru på. Ellers, kan du ikke motta samtaler fra denne kontakten.</string>
   <string name="redirect_calls_to_vm_confirm_text">Skru på</string>
+  <string name="refresh">Oppdater</string>
   <string name="relationLabelsGroup">Forhold</string>
   <string name="remind_btn_ignore">Ignorer</string>
   <string name="remind_btn_sync_now">Nå</string>
@@ -1028,7 +1031,9 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="strequentList">Favoritter</string>
   <string name="success_message_import_from_account">Import fullført</string>
   <string name="summary_kind_title">Oversikt</string>
-  <string name="t9_search_guide">Tast inn nummer, eller søk etter kontakt med T9-indeksen.</string>
+  <string name="t9_search_guide">Tast 7 og 5 for å søke, f.eks Steve Jobs</string>
+  <string name="t9_search_guide_pinyin">Tast 7 og 5 for å søke, f.eks Steve Jobs</string>
+ <string name="t9_search_guide_zhuyin">Tast 7 og 5 for å søke, f.eks Steve Jobs</string>
   <string name="take_new_photo">Ta nytt bilde</string>
   <string name="take_photo">Ta bilde</string>
   <string name="titleJoinContactDataWith">Flett kontakter</string>
@@ -1089,6 +1094,13 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="voicemail_status_voicemail_not_available">Kan ikke opprette forbindelse med telefonsvareren.</string>
   <string name="websiteLabelsGroup">Hjemmeside</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
-  <string name="wipe_data">Slett kontakter</string>
+  <string name="wipe_data">Slett kontakter</string> 
+  <string name="yellowPageNavigationIconLabel">Katalog</string>
+  <string name="yellowPageNavigationLabel">Katalog</string>
+  <string name="yellowpage_navigation_no_content">Ingen søkeresultater</string>
+  <string name="yellowpage_navigation_search_city_name_hint">Søk med by</string>
+  <string name="yellowpage_navigation_search_hint">Søk<string>
+  <string name="yellowpage_navigation_search_offline_hint">Nettverk utilgjengelig</string>
+  <string name="yellowpage_navigation_search_select_city">Vennligst velg by</string>
   <string name="zero_items_selected">Ingen elementer valgt</string>
 </resources>

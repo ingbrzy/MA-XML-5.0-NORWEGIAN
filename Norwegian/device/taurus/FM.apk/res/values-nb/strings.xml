@@ -101,7 +101,8 @@
   <string name="preset_replace">Erstatt</string>
   <string name="preset_tune">Tuning</string>
   <string name="presetlist_autoselect_title">Bekreft Auto-Sett</string>
-  <string name="radio_text_string">Dette er den lange Radio-tekstmeldingen som skal  rulle</string>
+  <string name="radio_text_string">Dette er den lange Radio-tekstmeldingen som skal rulle</string>
+  <string name="record_completed">Opptak ferdig</string>
   <string name="record_error_unknown">Opptaket er stoppet. Ukjent feil under opptak.</string>
   <string name="record_fail">Opptak mislyktes</string>
   <string name="record_file_format">%1$s_%2$s</string>

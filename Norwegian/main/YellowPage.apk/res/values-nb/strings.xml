@@ -31,6 +31,8 @@
     <string name="express_inquiry">Sporer</string>
     <string name="express_inquiry_button_text">Spor</string>
     <string name="express_inquiry_data_owner">Sporingsinfo tilbudt av %s</string>
+    <string name="express_inquiry_data_owner_prefix">Sporingsinfo tilbudt av</string>
+    <string name="express_inquiry_data_owner_suffix"/>
     <string name="express_inquiry_delete_warning_multiple">Slett %d valgte historikkinnlegg?</string>
     <string name="express_inquiry_delete_warning_single">Slett valgte innlegg?</string>
     <string name="express_inquiry_delivered">Levert</string>
@@ -62,7 +64,18 @@
     <string name="menu_remove_black_list">Fjern fra svareliste</string>
     <string name="mishop_web_payment_title">MiStore-utsjekking</string>
     <string name="module_sms_sent">Tekstmelding levert</string>
+    <string name="navigation_search_all_cities">Alle byer</string>
+    <string name="navigation_search_automatically_positioned_city">Gjeldende by</string>
+    <string name="navigation_search_hot_cities">Populære</string>
+    <string name="navigation_search_no_city_list">Ingen bydata funnet!</string>
+    <string name="navigation_search_positioning">Finner...</string>
+    <string name="navigation_search_positioning_failed">Kunne ikke finne by</string>
     <string name="network_unavaliable">Nettverket er ikke tilgjengelig, vennligst sjekk nettverksinnstillingene</string>
+    <string name="order_empty_hint">Ingen ordre</string>
+    <string name="order_id">Ordre-ref: %s</string>
+    <string name="order_merchant_title">Mine ordre - %s</string>
+    <string name="order_price">%s</string>
+    <string name="order_status">%s</string>
     <string name="packages_no_package">Ingen brukbar datapakke tilgjengelig</string>
     <string name="packages_pay">Kjøp</string>
     <string name="packages_pay_confirm">Bekreft betaling</string>
@@ -78,6 +91,7 @@
     <string name="payment_unknown_status_summary">Kontroller nettverkstilkoblingen og prøv på nytt.</string>
     <string name="payment_unknown_status_title">"Feil med Betalingsstatus"</string>
     <string name="phone_info_divider">" ｜ "</string>
+    <string name="provider">Identifisert av %s</string>
     <string name="provider_tag">Datakilde</string>
     <string name="recharge_actual_price">Pris：</string>
     <string name="recharge_charge_range">Pris: ¥%1$s-%2$s</string>

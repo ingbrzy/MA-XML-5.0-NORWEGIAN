@@ -40,6 +40,8 @@
   <string name="channel">FM</string>
   <string formatted="false" name="channel_format">"%s  %s Mhz"</string>
   <string name="channel_postfix">Mhz</string>
+  <string name="choose_download_quality">Velg nedlastningskvalitet</string>
+  <string name="choose_stream_quality">Velg streamingkvalitet</string>
   <string name="click_to_shuffle">Trykk for å blande alle</string>
   <string name="complete">Fullført</string>
   <string name="confirm">Bekreft</string>
@@ -62,13 +64,14 @@
   <string name="delete_playlist_menu">Slett</string>
   <string name="delete_song_desc">Er du sikker på du vil slette %s ?</string>
   <string name="deselect_all">Opphev alle valg</string>
-  <string name="dirac_mode_earbuds">Xiaomi-hodetelefoner</string>
+  <string name="dirac_mode_earbuds">Xiaomi-ørepropper</string>
    <string name="dirac_mode_general">Generell modus</string>
   <string name="dirac_mode_in_ear">Xiaomi-øretelefoner</string>
   <string name="dirac_mode_off">Dirac av</string>
   <string name="dirac_mode_piston_100">Xiaomi-stempel hodetelefoner</string>
   <string name="dirac_disabled">Dirac er deaktivert</string>
   <string name="dirac_enabled">Dirac er aktivert</string>
+  <string name="disconnect">Koble fra</string>
   <string name="download">Hent</string>
   <string name="download_album_settings">Autohent albumcover</string>
   <string name="download_album_summary">Kan medvirke ekstra kostnad, overvei om du vil bruke WiFi istedet</string>
@@ -76,6 +79,7 @@
   <string name="download_all_avatar">Last ned artistavatar</string>
   <string name="download_all_track">Last ned alle numre</string>
   <string name="download_batch_start">Last ned alle</string>
+  <string name="download_completed">Lastet ned</string>
   <string name="download_lyric_settings">Autohent sangtekster</string>
   <string name="download_lyric_summary">"Hentning av sangtekster har mindre innflytelse på datatrafikken, men kan slås av for å spare på forbruket."</string>
   <string name="download_processing">Henter</string>
@@ -130,11 +134,14 @@
   <string name="filter_by_size_prefix">"Minimum størrelse: "</string>
   <string name="filter_by_size_summary">Filtrer mindre lydfiler</string>
   <string name="filter_notification">Filter er aktivt, skift innstillinger i innstillinger for filtrering.</string>
+  <string name="find_ktv">Oppdag KTV</string>
   <string formatted="false" name="folder_title_format">%s(%d)</string>
   <string name="folders_title">Mapper</string>
   <string name="frequentlyplayed_title">Ofte avspilt</string>
   <string name="headphone_settings">Hodetelefontype-innstillinger</string>
+  <string name="high_quality">Høy kvalitet</string>
   <string name="hot_artists">Hotte artister</string>
+  <string name="i_know">OK</string>
   <string name="id3_edit">Rediger ID3-informasjon</string>
   <string name="id3_edit_failed">Kunne ikke redigere ID3-informasjon</string>
   <string name="id3_modify_confirm_check">Bekreft ID3-endringer?</string>
@@ -142,7 +149,16 @@
   <string name="impunity_declaration">Onlinemusikken du skal til å bruke er fra Baidu Online Music Service. Tryk \"OK\" for å akseptere og bruke, trykk \"Avbryt\" for å avslutte.</string>
   <string name="impunity_declaration_title">Deklarasjon</string>
   <string name="keep_quit_position_settings">Lagre siste posisjon</string>
-  <string name="keep_quit_position_summary">Lagrer avspillingens posisjon til neste gang applikasjonen startes</string>
+  <string name="keep_quit_position_summary">Lagrer avspillingens posisjon til neste gang programmet startes</string>
+  <string name="ktv_alert_message">"Trykk Bruk telefon for å legge til sanger på forsiden av KTV-konsolen for å vise tilsvarende QR-kode"</string>
+  <string name="ktv_alert_title">Bare støttede enheter kan legge til sanger</string>
+  <string name="ktv_and_room">%1$s %2$s</string>
+  <string name="ktv_connected_alert_message">Sangene du velger vil bli lagt til en spilleliste kalt Min KTV</string>
+  <string name="ktv_connected_alert_titel">Koblet til %1$s</string>
+  <string name="ktv_disconnect_alert_titel">Koble fra %1$s?</string>
+  <string name="ktv_song_vod_fail">Kunne ikke legge til %1$s</string>
+  <string name="ktv_song_vod_success">%1$s lagt til</string>
+  <string name="ktv_unbind_message">"Kunne ikke koble til med KTV-konsol. Vær sikker på at du bruker riktig QR-kode."</string>
   <string name="listen_to_music_online_settings">Lytt til online musikk</string>
   <string name="listen_to_online_summary">Lytt til musikk via mobilt nettverk eller WiFi</string>
   <string name="load_album_artist_failed">Kunne ikke laste inn album og artistliste. </string>
@@ -158,6 +174,8 @@
   <string name="load_channel_failed">Innlasting av kategoriliste mislyktes.</string>
   <string name="load_channel_in_process">Laster inn liste...</string>
   <string name="loading">laster inn</string>
+  <string name="login">Logg inn</string>
+  <string name="login_first">Du må logge inn på din Xiaomi-konto først</string>
   <string name="lrc_progress_modify">Juster sangtekst rullehastighet</string>
   <string name="lrc_progress_modify_helper">Juster hastigheten ved å dra opp eller ned</string>
   <string name="lrc_search_failed">Sangtekster ikke funnet!</string>
@@ -195,6 +213,7 @@
   <string name="new_playlist_name_template">Ny spilleliste %d</string>
   <string name="no_effect">Ingen effekt</string>
   <string name="no_song_downloaded">Sang kan ikke lastes ned</string>
+  <string name="normal_quality">Normal kvalitet</string>
   <string name="not_login">Logg inn</string>
   <string name="not_selected">Vennligst velg en sang</string>
   <string name="notification_artist_album">"%2$s
@@ -204,6 +223,10 @@
   <string name="online_title">Online</string>
   <string name="other_settings">Annet</string>
   <string name="overwrite_confirm">Overskriv</string>
+  <string name="pay_service_guide_dowload">Nedlastningskvalitet</string>
+  <string name="pay_service_guide_listen">Streamingkvalitet</string>
+  <string name="payment_fail">Betaling feilet!</string>
+  <string name="payment_success">Betaling fullført!</string>
   <string name="play_all">Spill av alle</string>
   <string name="play_and_download">Lytt og hent</string>
   <string name="play_and_download_summary">Lytt til sanger online og hent dem automatisk.</string>
@@ -217,6 +240,7 @@
   <string name="playlist_deleted_message">spilleliste slettet.</string>
   <string name="playlist_favorite">Favoritter</string>
   <string name="playlist_frequently_played">Ofte spilt av</string>
+  <string name="playlist_my_ktv">Min KTV</string>
   <string name="playlist_new">Opprett ny spilleliste</string>
   <string name="playlist_recently_added">Sist lagt til</string>
   <string name="playlist_recently_played">Sist spilt av</string>
@@ -240,11 +264,14 @@
   <string name="rename_album_menu">Omdøp album</string>
   <string name="rename_artist_menu">Omdøp artist</string>
   <string name="rename_playlist_menu">Omdøp</string>
+  <string name="request_fail">Spørring feilet!</string>
+  <string name="requesting">Spørr…</string>
   <string name="retry">Prøv igjen</string>
   <string name="ringtone_menu">Bruk som ringetone</string>
   <string name="ringtone_not_support">Ringetone-format ikke støttet</string>
   <string name="ringtone_set">\"%s\" Bruk som ringetone.</string>
   <string name="save">Lagre</string>
+  <string name="scan_barcode_to_connect">"Juster KTV-konsollens QR-kode i rammen for å skanne"</string>
   <string name="scanning">Skanner SD-kort…</string>
   <string name="scanning_nosdcard">Skanner USB-lagring…</string>
   <string name="screen_bright_wake">Skjerm holdes på</string>
@@ -265,9 +292,10 @@
   <string name="select_quit_time">Still inn timeren til å stoppe Avspilleren (i minutter)</string>
   <string name="send_to">Send til</string>
   <string name="send_to_application">Send til en annen applikasjon</string>
+  <string name="server_error">Serverfeil oppsto!</string>
   <string name="shake_and_skip">Rist for å skifte</string>
-  <string name="shake_degree_desc">Rist følsomhed</string>
-  <string name="shake_degree_high">Høj</string>
+  <string name="shake_degree_desc">Ristefølsomhet</string>
+  <string name="shake_degree_high">Høy</string>
   <string name="shake_degree_low">Lav</string>
   <string name="shake_settings">Rist for å skifte</string>
   <string name="shake_summary">Rist telefonen for å skifte sang</string>
@@ -280,15 +308,28 @@
   <string name="start_to_download_album">Last ned albumcover til dine sanger</string>
   <string name="start_to_download_avatar">Last ned artistavatarer til din musikk</string>
   <string name="streamloadingtext">Kobler til %s</string>
+  <string name="synchronize_guide_toast">For å aktivere synk, vennligst gå til Innstillinger &gt; Synk spillelister</string>
   <string name="synchronize_playlist_setting">Synkroniser spillelister</string>
   <string name="synchronize_playlist_summary">Synkroniser spillelister til MiCloud.</string>
+  <string name="synchronize_to_baidu_cloud">Sikkerhetskopier online sanger i din spilleliste ved bruk av Baidu Cloud</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
+  <string name="track_bit_rate_hd">Høy</string>
+  <string name="track_bit_rate_standard">Normal</string>
+  <string name="track_bit_rate_uhd">Høyere</string>
   <string name="track_edit">Sang</string>
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">Alle sanger</string>
+  <string name="ultra_high_quality">Høyeste kvalitet</string>
   <string name="unknown_album_name">Ukjent album</string>
   <string name="unknown_artist_name">Ukjent artist</string>
   <string name="use_local_album">Bruk lagrede albumcover</string>
   <string name="use_local_lyric">Bruk lagrede sangtekster</string>
+  <string name="vip_recommend_buy">Kjøp (RMB 5 for 1 måned)</string>
+  <string name="vip_recommend_exchange">Bruk gavekode</string>
+  <string name="vip_recommend_main_title">Ubegrenset CD-kvalitet (320 kbps)</string>
+  <string name="vip_recommend_sub_title">Bare 5 RMB per måned</string>
+  <string name="vip_recommend_summary">Stream eller last ned alle dine favoritt artister fra Baidu Music i 320 kbps.</string>
+  <string name="vip_recommend_title">Høyere kvalitet-musikk</string>
+  <string name="where_is_barcode">"Hvor er QR-koden?"</string>
   <string name="xiaomi_account_setting">Xiaomi-konto</string>
 </resources>

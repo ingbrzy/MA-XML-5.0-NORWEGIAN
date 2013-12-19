@@ -123,6 +123,8 @@ venner."</string>
   <string name="confirm_delete_items">%s elementer</string>
   <string name="confirm_delete_pictures">%s bilder</string>
   <string name="confirm_delete_system_album">%s er et system album, er du sikker på at du vil slette?</string>
+  <string name="confirm_delete_this_picture">Vil du slette det valgte bildet?</string>
+  <string name="confirm_delete_this_video">Vil du slette den valgte videoen?</string>
   <string name="confirm_delete_videos">%s videoer</string>
   <string name="confirm_download">"Du må laste ned %s. Dette tipset vil ikke bli vist igjen."</string>
   <string name="contact_photo">Kontaktbilde</string> 
@@ -255,6 +257,7 @@ venner."</string>
   <string name="landscape_mode">Skru på landskapsmodus</string>
   <string name="loading">Laster…</string>
   <string name="loading_failure">Foto kan ikke lastes</string>
+  <string name="loading_members">Laster medlemmer...</string>
   <string name="loading_thumbnail">Laster miniaturer...</string>
   <string name="local_albums">Lokale bilder</string>
   <string name="location">Sted</string>
