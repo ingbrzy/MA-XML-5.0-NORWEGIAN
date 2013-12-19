@@ -467,6 +467,7 @@
   <string name="button_text_delete">Slett</string>
   <string name="button_text_done">Ferdig</string>
   <string name="button_text_fix">Fiks</string>
+  <string name="button_text_quick_scan">Start skann</string>
   <string name="button_text_security">Sikkerhet</string>
   <string name="button_text_view">Vis</string>
   <string name="cache_garbage">Cache filer</string>
@@ -684,8 +685,14 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="debug_log">Brukeropplevelsesprogram</string>
   <string name="debug_monitoring_category">Overvåking</string>
   <string name="deep_clean_tips_cache">"iconNoen programmer vil bruke cache-filer for å laste ned ekstra ressurser (f.eks sangtekster, musikk, bilder osv.). Vær forsikti når du rydder opp disse filene."</string>
+  <string name="deep_clean_tips_cache_content">"Noen programmer kan bruke cache-filer for å laste ned ekstra ressurser. Vær forsiktig når du rydder opp disse filene."</string>
+  <string name="deep_clean_tips_cache_title">Cachede filer</string>
   <string name="deep_clean_tips_large_file">iconOppryddning viser deg bare store filer (større en 10MB) som er lagret på din enhet. Bare du kan bestemme om du trenger dem eller ikke.</string>
+  <string name="deep_clean_tips_large_file_content">Store filer (10MB+) kan ta opp plass på din enhet.</string>
+  <string name="deep_clean_tips_large_file_title">Store filer</string>
   <string name="deep_clean_tips_residual">"iconRester er filer (f.eks videoer, bakgrunner, music osv.) som har blitt lastet ned til enheten din sitt SD-kort av programmer som siden har blitt avinnstallert. Vær forsiktig når du rydder opp, fordi noen av disse filene kan fortsatt være av nytte for deg"</string>
+  <string name="deep_clean_tips_residual_content">"Restefiler lastet ned til ditt SD-kort av programmer som senere har blitt avinstallert"</string>
+  <string name="deep_clean_tips_residual_title">Restefilers</string>
   <string name="deep_clean_title_cache">Cache</string>
   <string name="deep_clean_title_large_file">Store filer</string>
   <string name="deep_clean_title_residual">Rester</string>
@@ -1424,10 +1431,18 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="optimize_now">Start</string>
   <string name="optimize_residual_header_left">Rester: %d</string>
   <string name="optimize_residual_list_empty_content">Ingen rester funnet.</string>
-  <string name="optimize_tips_ad">iconReklaefiler er bilder, tekst og annen reklame-relatert data som tredjeparts tjenesteleverandører lagrer på telefonen.</string>
+  <string name="optimize_tips_ad">iconReklamefiler er bilder, tekst og annen reklame-relatert data som tredjeparts tjenesteleverandører lagrer på telefonen.</string>
+  <string name="optimize_tips_ad_content">Bilder, tekst og annen reklame-relatert data via tredjeparts-tilbydere lagret på din telefon.</string>
+  <string name="optimize_tips_ad_title">Reklamefiler</string>
   <string name="optimize_tips_apk">"iconInstallasjonspakker brukes til å installere programmer på enheten, men de gjør ikke noe annet enn å ta opp plass når du har installert programmet."</string>
+  <string name="optimize_tips_apk_content">"Brukt for å installere programmer på din enhet, men de gjør ike noe når du allerede har installert programmet"</string>
+  <string name="optimize_tips_apk_title">Programmer</string>
   <string name="optimize_tips_cache">iconCache-filer genereres av prosesser som bare krever dem midlertidig (f.eks thumbnails).</string>
+  <string name="optimize_tips_cache_content">Mildlertidige filer laget av programmer og prosesser (f.eks miniatyrer).</string>
+  <string name="optimize_tips_cache_title">Cache</string>
   <string name="optimize_tips_residual">"iconRester er filer (f.eks videoer, bakgrunnsbilder, musikk osv.) som har blitt lastet ned på enhetens SD-kortet av programmer som siden har blitt avinstallert. Som noen av disse filene likevel kan være til nytte for deg, anbefaler vi at du bruker Avansert-funksjonen når du rydder gjenværende filer."</string>
+   <string name="optimize_tips_residual_content">Resteinnhold laget av programmer som senere har blitt avinstallert. Noen filer kan fortsatt kreves, vi anbefaler at du bruker avansert oppryddning-funksjonen for å fjerne disse filene.</string>
+  <string name="optimize_tips_residual_title">Residual content</string>
   <string name="optimize_tips_title">Hjelp</string>
   <string name="optimize_title_ad">Reklamefiler</string>
   <string name="optimize_title_apk">Pakker</string>
@@ -1447,6 +1462,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="perm_app">Programmmer</string>
   <string name="perm_app_enable">Hold øye med tillatelsesforspørsler</string>
   <string name="perm_app_header">Tillatelsehåndtering</string>
+  <string name="perm_app_manage_empty">Ingen overvåkede programmer</string>
   <string name="perm_app_name">Tillatelser</string>
   <string name="perm_app_title">Håndter programtilatelser</string>
   <string name="perm_auto_start">Håndter autokjøring av programmer</string>
@@ -1572,6 +1588,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="perm_privacy_app_trust_summary_on">MIUI vil overvåke dette programmet</string>
   <string name="perm_privacy_app_uninstall">Avinstaller</string>
   <string name="perm_privacy_count">Tillatt: %1$d Avvist: %2$d</string>
+  <string name="perm_root_manage_empty">Ingen programmer med ROOT-tillatelse</string>
   <string name="perm_service_disabled">Tjeneste er deaktivert</string>
   <string name="perm_service_enabled">Tjeneste er aktivert</string>
   <string name="perm_shortcut">Kontekst meny</string>
@@ -1882,6 +1899,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="quick_scan_apk_list_item_version_hit">Versjon: %s</string>
   <string name="quick_scan_cleaning_title">Rydder...</string>
   <string name="quick_scan_doing_title">Skanner...</string>
+  <string name="quick_scan_done_title">Skann fullført!</string>
   <string name="quick_scan_list_loading_hits">Skanner...</string>
   <string name="quick_scan_result_summary">Rydding vil starte om %d sek</string>
   <string name="quick_scan_result_title">%s elementer funnet</string>
