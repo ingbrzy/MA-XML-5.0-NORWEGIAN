@@ -23,6 +23,8 @@
   <string name="acessibility_cal_notification">Kalendervarsel</string>
   <string name="acessibility_selected_marker_description">Valgte hendelse</string>
   <string name="acessibility_snooze_notification">Utsett varsel</string>
+  <string name="activity_summary">10 yuan-lotteri</string>
+  <string name="activity_title">MIUI-nyttårsgaver</string>
   <string name="add_account">Legg til konto</string>
   <string name="agenda_today">I DAG, %1$s</string>
   <string name="agenda_tomorrow">I MORGEN, %1$s</string>

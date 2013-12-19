@@ -135,6 +135,8 @@
   <string name="failed_to_add_media">Beklager, du kan ikke legge til %1$s til din melding.</string>
   <string name="failed_to_resize_image">Bildet er ikke skalert.</string>
   <string name="fdn_check_failure">Du kan kun sende meldinger til dine faste anropsnumre.</string>
+  <string name="feedback_description_hint">Vennligst skriv dine tilbakemeldinger her</string>
+  <string name="feedback_submit">Send</string>
   <string name="festival">Diverse</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Laster inn...</string>
@@ -270,6 +272,7 @@
   <string name="pref_collapse_sp_messages_summary">Kombiner tjenestetilbydermelding i samme innlegg</string>
   <string name="pref_edit_smsc_address">SMS-senter nummer</string>
   <string name="pref_forward_title">Videresend</string>
+  <string name="pref_key_mx_feedback">Send tilbakemelding</string>
   <string name="pref_messages_to_save">Sett antall meldinger som kan lagres</string>
   <string name="pref_mms_settings_title">MMS-innstillinger</string>
   <string name="pref_notification_settings_title">meldingsinnstillinger</string>
@@ -283,6 +286,8 @@
   <string name="pref_summary_mms_auto_retrieval">Hent automatisk MMS-meldinger</string>
   <string name="pref_summary_mms_read_reports">Spør om lestrapport for hver melding du sender</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Hent automatisk MMS-meldinger under roaming</string>
+  <string name="pref_summary_mx_feedback">"Hjelp til med å forbedre MIUI!
+Rapporter feil og send tilbakemelding direkte til Xiaomi.”</string>
   <string name="pref_summary_new_message_popup">Vis Pop-up på skjermen når meldinger mottas</string>
   <string name="pref_summary_new_message_popup_when_secure">Pop-up vinduet er deaktivert når telefonen er beskyttet med passord</string>
   <string name="pref_summary_off_system_mms_priority">Andre programmer vil muligens motta MMS-meldingen før system MMS app</string>
@@ -438,6 +443,10 @@
   <string name="to_count">%d i alt</string>
   <string name="to_label">"Til "</string>
   <string name="to_send_wrapper">Sendes: %s</string>
+  <string name="toast_description_required">Tilbakemelding kreves for å sende</string>
+  <string name="toast_feedback_finish">Din rapport vil bli sendt automatisk når du kobler til et Wi-Fi-nettverk</string>
+  <string name="toast_feedback_max">Bare 3 rapporter kan bli sendt per dag</string>
+  <string name="toast_feedback_start">Sender tilbakemeldingdata…</string>
   <string name="too_many_attachments">Max %1$s vedlegg. Kun de første %2$s vil bli lagt til.</string>
   <string name="too_many_recipients">Denne melding har for mange mottakere (%1$s). - MAX %2$s mottakere!</string>
   <string name="too_many_unsent_mms">Kan ikke sende melding nå, det er for mange usendte MMS\'er.</string>
