@@ -2513,14 +2513,14 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="virus_button_clear">Rydd opp</string>
   <string name="virus_scan">Virusskann</string>
   <string name="virus_scan_app_continue">Fortsett skann</string>
-  <string name="virus_scan_app_find_risk">% d riser funnet</string>
+  <string name="virus_scan_app_find_risk">%d risker funnet. Fjern dem med en gang!</string>
   <string name="virus_scan_app_finish">Skann fullført</string>
   <string name="virus_scan_app_force_stop">Skann pauset</string>
   <string name="virus_scan_app_is_stop_scan">Stopp skann?</string>
   <string name="virus_scan_app_multi_engines">Du bruker mer enn ett sett av definisjoner. Skanningen kan ta lengere tid.</string>
   <string name="virus_scan_app_no_risk">Ingen risker funnet</string>
   <string name="virus_scan_app_passed">Skannet</string>
-  <string name="virus_scan_app_risk">Risk detektert</string>
+  <string name="virus_scan_app_risk">Risiko detektert</string>
   <string name="virus_scan_app_safe_scanning">Skanner…</string>
   <string name="virus_scan_app_scan_finish">Skann fullført</string>
   <string name="virus_scan_app_scanning">Skanner…</string>
