@@ -737,6 +737,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="dialog_title_font_size">Skriftstørrelse</string>
   <string name="dirac_control">MI-lyd</string>
   <string name="dirac_mode_earbuds">Xiaomi-ørepropper</string>
+  <string name="dirac_mode_general">Generelt</string>
   <string name="dirac_mode_earphones">Xiaomi-hodetelefoner</string>
   <string name="dirac_mode_off">Dirac av</string>
   <string name="dirac_mode_piston_100">Xiaomi stempel-hodetelefoner</string>

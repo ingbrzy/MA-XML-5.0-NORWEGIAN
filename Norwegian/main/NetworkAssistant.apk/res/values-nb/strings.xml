@@ -150,6 +150,7 @@
   <string name="text_day" />
   <string name="text_done">Ferdig</string>
   <string name="text_save">Lagre</string>
+  <string name="traffic_bought">Trafikk kjøpt</string>
   <string name="traffic_none">Ingen</string>
   <string name="traffic_remain">Igjen</string>
   <string name="traffic_settings_error">Pakke-innstillingsfeil. Pakken med fri trafikk er %1$s, men beskjeden fra leverandøren viser at du har %2$s igjen.</string>

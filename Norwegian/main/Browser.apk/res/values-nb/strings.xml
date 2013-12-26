@@ -339,6 +339,7 @@
   <string name="pref_content_auto_light_mode">Automatisk lysstyrke</string>
   <string name="pref_content_autofit">Auto-tilpass sider</string>
   <string name="pref_content_autofit_summary">Formater nettsider til å passe på skjermen</string>
+  <string name="pref_content_block_float_popups">Blokker svevende pop-ups</string>
   <string name="pref_content_block_popups">Blokker pop-ups</string>
   <string name="pref_content_fontsize_setting">Font-innstillinger</string>
   <string name="pref_content_homepage">Startside</string>

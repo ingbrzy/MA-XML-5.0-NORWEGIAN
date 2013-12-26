@@ -127,6 +127,8 @@ venner."</string>
   <string name="confirm_delete_this_video">Vil du slette den valgte videoen?</string>
   <string name="confirm_delete_videos">%s videoer</string>
   <string name="confirm_download">"Du må laste ned %s. Dette tipset vil ikke bli vist igjen."</string>
+  <string name="confirm_download_video_message">Video kreves nedlastning! Nedlastning vil fortsette når en Wi-Fi-tilkobling er tilgjengelig.</string>
+  <string name="confirm_download_video_title">Last ned video</string>
   <string name="contact_photo">Kontaktbilde</string> 
   <string name="context_menu_add_contact">Legg til i kontakter</string>
   <string name="context_menu_copy">Kopiér</string>
@@ -236,6 +238,7 @@ venner."</string>
   <string name="how_many_pics">%d Bilder</string>
   <string name="how_many_sub_folders">%d Mapper</string>
   <string name="how_many_videos">%d Videoer</string>
+  <string name="image_download_item_title">Last ned bilde (%s)</string>
   <string name="image_quota_fulfiled">"Kan ikke opprett bilde, bildegrense nådd."</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importering fullført</string>
@@ -258,8 +261,11 @@ venner."</string>
   <string name="landscape_mode">Skru på landskapsmodus</string>
   <string name="loading">Laster…</string>
   <string name="loading_failure">Foto kan ikke lastes</string>
+  <string name="loading_image">Laster ned bilde…</string>
   <string name="loading_members">Laster medlemmer...</string>
-  <string name="loading_thumbnail">Laster miniaturer...</string>
+  <string name="loading_suspend">Nedlastning pauset: Vil fortsette når Wi-Fi-tilkobling er tilgjengelig</string>
+  <string name="loading_thumbnail">Laster miniatyrer...</string>
+  <string name="loading_video">Laster ned video…</string>
   <string name="local_albums">Lokale bilder</string>
   <string name="location">Sted</string>
   <string name="locations">Steder</string>
