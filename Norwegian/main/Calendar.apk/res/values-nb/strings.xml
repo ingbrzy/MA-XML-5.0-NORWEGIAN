@@ -193,6 +193,7 @@
   <string name="select_synced_calendars_title">Kalendere til synkronisering</string>
   <string name="select_visible_calendars_title">Kalendere til visning</string>
   <string name="show_all_lunar">Vis måne</string>
+  <string name="show_almanac">Vis almanakk</string>
   <string name="show_controls">Vis knapper</string>
   <string name="show_day_view">Vis dag</string>
   <string name="show_newer_events">Trykk for å få vist hendelser etter %1$s</string>

@@ -1053,6 +1053,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="today">I dag</string>
   <string name="type_incoming">Innkommende anrop</string>
   <string name="type_missed">Tapte anrop</string>
+  <string name="type_mx_msg">Skymeldinger</string>
   <string name="type_outgoing">Utgående anrop</string>
   <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Voicemail</string>
@@ -1101,6 +1102,10 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="yellowpage_navigation_search_city_name_hint">Søk med by</string>
   <string name="yellowpage_navigation_search_hint">Søk</string>
   <string name="yellowpage_navigation_search_offline_hint">Nettverk utilgjengelig</string>
+  <string name="yellowpage_navigation_search_result_network_error">"Kunne ikke koble til nettverk"</string>
+  <string name="yellowpage_navigation_search_result_no_more">Ingen flere resultater</string>
+  <string name="yellowpage_navigation_search_result_service_error">Tjeneste foreløpig utilgjengelig</string>
+  <string name="yellowpage_navigation_search_result_unknown_error">Ukjent feil oppstod!</string>
   <string name="yellowpage_navigation_search_select_city">Vennligst velg by</string>
   <string name="zero_items_selected">Ingen elementer valgt</string>
 </resources>

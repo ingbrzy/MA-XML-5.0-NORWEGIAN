@@ -210,6 +210,7 @@ venner."</string>
   <string name="flip">Snu</string>
   <string name="flip_tooltip">Trekk bilde for at snu det</string>
   <string name="focal_length">Brennvidde</string>
+  <string name="folder_holder_file">Filplassholder</string>
   <string name="frame_black">Sort</string>
   <string name="frame_button">Ramme</string>
   <string name="frame_classic">Klassisk</string>
@@ -484,6 +485,7 @@ venner."</string>
   <string name="there_is_no_image">Det finnes ingen bilde.</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Tidspunkt</string>
+  <string name="time_line_view">Tidslinjevisning</string>
   <string name="times">Tidspunkter</string>
   <string name="tint">Tint</string>
   <string name="title">Tittel</string>

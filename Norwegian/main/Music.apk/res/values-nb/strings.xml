@@ -225,6 +225,7 @@
   <string name="overwrite_confirm">Overskriv</string>
   <string name="pay_service_guide_dowload">Nedlastningskvalitet</string>
   <string name="pay_service_guide_listen">Streamingkvalitet</string>
+  <string name="pay_service_guide_new">Høyere kvalitet er nå tilgjengelig</string>
   <string name="payment_fail">Betaling feilet!</string>
   <string name="payment_success">Betaling fullført!</string>
   <string name="play_all">Spill av alle</string>

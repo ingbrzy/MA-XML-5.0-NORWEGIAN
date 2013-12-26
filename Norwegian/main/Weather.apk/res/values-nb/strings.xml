@@ -16,6 +16,7 @@
   <string name="act_set_city_re_find_side">Lokaliserer...</string>
   <string name="act_weather_aqi_share">Del</string>
   <string name="act_weather_aqi_title">Luftkvalitetsindex</string>
+  <string name="act_weather_cycle_link_china">Kinesisk værnettverk</string>
   <string name="act_weather_cycle_low_temp">lav</string>
   <string name="act_weather_cycle_update">Oppdaterer…</string>
   <string name="act_weather_find_city_connect_net">Sjekk din nettverksforbindelse og prøv igjen.</string>
@@ -69,10 +70,12 @@
   <string name="location_management">Lokasjoner</string>
   <string name="location_notification">Værvarslinger</string>
   <string name="menu_about">Om</string>
+  <string name="menu_add">Legg til by</string>
   <string name="menu_around">Nærliggende</string>
   <string name="menu_delete">Slett</string>
   <string name="menu_location">Lokasjoner</string>
   <string name="menu_main">Indeks</string>
+  <string name="menu_more">Detaljer</string>
   <string name="menu_notification">Notifikasjonesr</string>
   <string name="menu_reload">Oppdater</string>
   <string name="menu_reloading">Oppdater…</string>
