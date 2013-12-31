@@ -60,6 +60,10 @@
         <item quantity="other">" kategorier"</item>
         <item quantity="one">" kategori"</item>
     </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">%d dager er å ferd med å utløpe</item>
+        <item quantity="one">%d dag er i ferd med å utløpe</item>
+    </plurals>
     <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d sanger</item>
         <item quantity="one">%1$s, %2$d sang</item>
@@ -79,5 +83,8 @@
     <plurals name="Nhot_tracks_total">
         <item quantity="other">%d sanger med topp-karakterer</item>
         <item quantity="one">%d sang med topp-karakter</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Din høykvalitetsmusikk-tilgang er i ferd med å utløpe (%d dager gjenstår)</item>
     </plurals>
 </resources>

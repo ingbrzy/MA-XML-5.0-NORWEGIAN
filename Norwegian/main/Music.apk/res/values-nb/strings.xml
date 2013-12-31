@@ -58,6 +58,8 @@
   <string name="create_equalzier_create_text_prompt">Equaliser effektnavn</string>
   <string name="create_playlist_create_text_prompt">Spillelistenavn</string>
   <string name="custom">Rediger</string>
+  <string name="data_usage_warning">Databrukadvarsel!</string>
+  <string name="data_usage_warning_summary">Bruk av din mobildatatilkobling til streaming av høykvalitetsmusikk kan føre til økte datakostnader.</string>
   <string name="default_interval">30</string>
   <string name="delete_file_from_sdcard">Slett også fra SD-kort</string>
   <string name="delete_item">Slett</string>
@@ -90,6 +92,7 @@
   <string name="empty_edit_hint">Sanginformasjon utilgjengelig</string>
   <string name="empty_track_list">Ingen sang-liste</string>
   <string name="emptyplaylist">Valgte spilleliste er tom.</string>
+  <string name="enabled">Aktivert</string>
   <string name="enter_sleep_mode">Aktiver sleep tilstand</string>
   <string name="eq_auto">Egendefinert</string>
   <string name="eq_blues">Blues</string>
@@ -115,6 +118,7 @@
   <string name="equalizer_delete">Slett</string>
   <string name="equalizer_delete_success">Equaliser-profil fjernet</string>
   <string name="equalizer_save_success">Equaliser-profil lagret</string>
+  <string name="expired">Utløpt</string>
   <string name="fade_effect_settings">Fade-innstillinger</string>
   <string name="fade_effect_summary">Aktiver fading mellom hver sang</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅ"</string>
@@ -140,6 +144,8 @@
   <string name="frequentlyplayed_title">Ofte avspilt</string>
   <string name="headphone_settings">Hodetelefontype-innstillinger</string>
   <string name="high_quality">Høy kvalitet</string>
+  <string name="higher_quality_music">Høykvalitetsmusikk</string>
+  <string name="higher_quality_music_summary">Lytt til og last ned musikk med høyere kvalitet</string>
   <string name="hot_artists">Hotte artister</string>
   <string name="i_know">OK</string>
   <string name="id3_edit">Rediger ID3-informasjon</string>
@@ -189,6 +195,7 @@
   <string name="lyric_picker_not_found">Filhåndtering ikke funnet på telefonen</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Musikk</string>
+  <string name="menu_higher_quality_music">Høyere kvalitet-musikk (månedlig tilgang)</string>
   <string name="mi_effect">MI-effekter</string>
   <string name="mi_effect_summary">Alltid bruk en MiLyd-forbedrer når du bruker høytaler</string>
   <string name="mi_effect_title">Bruk MiLyd-forbedrer</string>
@@ -205,6 +212,7 @@
   <string name="music_not_loaded">Ingen lydfiler funnet!</string>
   <string name="music_open_other_connect">Last ned musikk på mobildata-forbindelse</string>
   <string name="music_picker_title">Velg musikknummer</string>
+  <string name="music_quality">Musikk-kvalitet</string>
   <string name="music_settings">Innstillinger</string>
   <string name="network_error">Ingen nettverksforbindelse, kontroller innstillinger.</string>
   <string name="new_albums">Nye Album</string>
@@ -325,9 +333,14 @@
   <string name="unknown_artist_name">Ukjent artist</string>
   <string name="use_local_album">Bruk lagrede albumcover</string>
   <string name="use_local_lyric">Bruk lagrede sangtekster</string>
+  <string name="valid_period">"Gyldig fra: "</string>
+  <string name="vip_bought">"Du har allerede kjøpt tilgang til musikk med høyere kvalitet"</string>
+  <string name="vip_expired">Din tilgang til musikk med høyere kvalitet har utløpt</string>
+  <string name="vip_rebuy">Forny</string>
   <string name="vip_recommend_buy">Kjøp (RMB 5 for 1 måned)</string>
   <string name="vip_recommend_exchange">Bruk gavekode</string>
   <string name="vip_recommend_main_title">Ubegrenset CD-kvalitet (320 kbps)</string>
+  <string name="vip_recommend_rebuy">Fornying av VIP-tilgang for 30 dager koster 5 MiCredits</string>
   <string name="vip_recommend_sub_title">Bare 5 RMB per måned</string>
   <string name="vip_recommend_summary">Stream eller last ned alle dine favoritt artister fra Baidu Music i 320 kbps.</string>
   <string name="vip_recommend_title">Høyere kvalitet-musikk</string>

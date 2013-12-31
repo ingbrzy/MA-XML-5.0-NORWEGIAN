@@ -195,6 +195,7 @@ venner."</string>
   <string name="exposure_time">Eksponeringstid</string>
   <string name="external_sd_card">SD kort</string>
   <string name="external_usb_device">USB-enhet</string>
+  <string name="external_usb_device_hm">Ekstern USB-lagring</string>
   <string name="facelift">Ansiktsglød</string>
   <string name="facetan">Ansiktsfarge</string>
   <string name="fail_hint">Operasjon feilet.</string>
@@ -250,9 +251,11 @@ venner."</string>
   <string name="internal_camera_folder_display_name">Kamera Bilder (Internt)</string>
   <string name="internal_miui_capture_screen_folder_display_name">Skjermbilder (Internt)</string>
   <string name="internal_sd_card">Internt SD-kort</string>
+  <string name="internal_sd_card_hm">Telefon-lagring</string>
   <string name="invalid_invition_url">Ugyldig invitasjons-URL.</string>
   <string name="invalid_recipient_message">"Korriger feil med mottakere eller så vil de ikke motta meldingen."</string>
   <string name="iso">ISO</string>
+  <string name="item_not_sync">Dette elementet har ikke blitt synkronisert til skyen og kan ikke lastes ned</string>
   <string name="kick_owner_user_positive_button_text">Fjern</string>
   <string name="kick_owner_user_title">Fjern dette medlemmet?</string>
   <string name="kick_sharer">Fjern deler</string>
@@ -299,6 +302,7 @@ venner."</string>
   <string name="modify_allow_hint">Å legge til nye bilder til albumet er tillatt</string>
   <string name="modify_disallow_hint">Å legge til nye bilder til albumet er ikke tillatt</string>
   <string name="more">Mer</string>
+  <string name="move">Flytt</string>
   <string name="move_to_cloud_album">Flytt til Cloud</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>

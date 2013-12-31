@@ -87,6 +87,9 @@
   <string name="email_already_be_used">Epostadresse allerede i bruk</string>
   <string name="enableAll">Aktiver alle</string>
   <string name="enable_find_device_error">%1$s, kunne ikke aktivere plasseringstjeneste</string>
+  <string name="enable_micloud">Aktiver sky-tjenester</string>
+  <string name="enable_sync">Aktiver synk</string>
+  <string name="enable_sync_dspt">Synk er av</string>
   <string name="error_dup_phone">Telefon registrert</string>
   <string name="error_invalid_dev_id">Enhets-ID er ugyldig</string>
   <string name="error_mili_title">Ikke nok Mi credits</string>
@@ -136,8 +139,9 @@ Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent bort
   <string name="mibi_license_message_span">Mi Credit brukeravtale</string>
   <string name="mibi_license_title">brukeravtale</string>
   <string name="micloud_account">Xiaomi konto</string>
+  <string name="micloud_account_details">Konto detaljer</string>
   <string name="micloud_account_label">Konto: %1$s</string>
-  <string name="micloud_account_name">Xiaomi Konto</string>
+  <string name="micloud_account_name">Xiaomi-konto</string>
   <string name="micloud_account_not_actived">Konto ikke aktivert</string>
   <string name="micloud_active_email_sent_1">Vi har sendt en aktiveringslink til din epost:</string>
   <string name="micloud_active_email_sent_2" />
@@ -145,8 +149,10 @@ Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent bort
   <string name="micloud_activing_account">Aktiverer din konto...</string>
   <string name="micloud_activing_account_delayed">"Det kan ta opptil 30 sekunder å fullføre aktivering. Ta deg en kopp kaffe mens du venter..."</string>
   <string name="micloud_activing_account_failed">Failed to activate your account</string>
+  <string name="micloud_app_data">MiCloud-programsikkerhetskopier</string>
   <string name="micloud_click_email">Klink på linken i eposten for å aktivere din Xiaomi-konto</string>
   <string name="micloud_click_email_to_valid">Klikk på aktiveringslinken i din inboks</string>
+  <string name="micloud_data_loading">Laster...</string>
   <string name="micloud_delete_account">Slett konto</string>
   <string name="micloud_email">Epostadresse</string>
   <string name="micloud_error_email">Ugyldig epost</string>
@@ -155,16 +161,51 @@ Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent bort
   <string name="micloud_error_empty_username">Brukernavn er blankt</string>
   <string name="micloud_error_empty_vcode">Skriv aktiveringskode.</string>
   <string name="micloud_error_illegal_pwd">Ugyldig passord</string>
+  <string name="micloud_full_influence_dspt">"Alle bilder, videoer, notater og programmer vil bli sikkerhetskopiert til MiCloud.
+
+Hvis du mister eller ødelegger din telefon, vil alle din data fortsatt være trygge.
+
+Når din MiCloud-konto er full, vil ikke dine gamle data bli fjernet. Derimot, vil alt nytt innhold du legger til (f.eks bilder, videoer, notater eller programmer) ikke bli sikkerhetskopiert.
+
+For å løse dette, kan du enten fjerne gamle filer, eller kjøpe mer lagringsplass."</string>
+  <string name="micloud_full_influence_title">Når din MiCloud er full</string>
+  <string name="micloud_gallery_image">MiCloud-bilder</string>
+  <string name="micloud_gallery_video">MiCloud-videoer</string>
   <string name="micloud_input_password_prompt">Tast inn passord</string>
+  <string name="micloud_intro_01_part_01">Spar SMS-kostnader</string>
+  <string name="micloud_intro_01_part_02">MIUI tillater deg å sende gratis skymeldinger via nettverket</string>
+  <string name="micloud_intro_03_part_02">Mange your data and also locate, lock or erase device contents on i.xiaomi.com</string>
+  <string name="micloud_is_what">Hva er MiCloud?</string>
+  <string name="micloud_more">Lær mer</string>
+  <string name="micloud_none">Ingen</string>
   <string name="micloud_password_confirm_hint">Bekreft passord</string>
   <string name="micloud_password_error_inconsistent">Passordene stemmer ikke overens</string>
   <string name="micloud_password_req_notice">8~16 sifre, inneholder tall, bokstaver, store og små bokstaver</string>
   <string name="micloud_reg_new">Lag ny</string>
   <string name="micloud_resend_active_email">Send aktiveringsepost på nytt</string>
+  <string name="micloud_space_full_influence">Hva skjer hvis jeg går tom for plass?</string>
+  <string name="micloud_storage_space">MiCloud-lagringsplass</string>
+  <string name="micloud_summary">Logg inn på din Xiaomi-konto for å synking av Kontakter, Gallerialbum og andre funksjoner</string>
+  <string name="micloud_title_dspt" formatted="false">"Total plass %s
+brukt %s | gjenværende %s"</string>
+  <string name="micloud_title_full_dspt">Lagringsgrensen er nådd!</string>
   <string name="micloud_use_existing">Eksisterende</string>
+  <string name="micloud_user_base_info">Brukerinfo</string>
+  <string name="micloud_user_email">E-post</string>
+  <string name="micloud_user_id">Xiaomi-ID</string>
+  <string name="micloud_user_name">Brukernavn</string>
+  <string name="micloud_user_phone">Telefonnummer</string>
+  <string name="micloud_user_space_usage">Plass brukt</string>
   <string name="micloud_val_sms_alert">En SMS skal sendes for å validere ditt telefonnummer, fortsett?</string>
   <string name="micloud_via_int_sms_alert">En SMS vil bli sendt til enheten din til din operatør sine priser. Er du sikker på at du vil fortsette?</string>
   <string name="micloud_via_sms_alert">En SMS vil bli sent for å verifisere ditt telefonnummer. Er du sikker på at du vil fortsette?</string>
+  <string name="micloud_warn_full_msg">Du har nådd din lagringsgrense!</string>
+  <string name="micloud_warn_full_sum">"Nye elementer vil ikke bli synket med din MiCloud-konto."</string>
+  <string name="micloud_warn_full_title">MiCloud-lagring full!</string>
+  <string name="micloud_warn_low_sum">Lagringsplass er 90% brukt.</string>
+  <string name="micloud_warn_low_title">Lav lagringsplass!</string>
+  <string name="micloud_web_discription_01">Logg in på http://i.xiaomi.com</string>
+  <string name="micloud_web_discription_02">for å lagre og få tilgang til dine filer fra overalt</string>
   <string name="micloud_welcome_skip_login">Hopp over registrering</string>
   <string name="mili_center">Mi credit-senter</string>
   <string name="msg_denomination_type">Mi Credit</string>

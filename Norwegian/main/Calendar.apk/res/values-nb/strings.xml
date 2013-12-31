@@ -105,6 +105,12 @@
   <string name="gadget_no_events">Ingen kommende kalenderhendelser</string>
   <string name="gadget_title">Kalender</string>
   <string name="goto_today">I dag</string>
+  <string name="gou_piao_event_title">%s togpåminnelser</string>
+  <string name="gou_piao_item1">Påminn meg om togtider</string>
+  <string name="gou_piao_item2">For telefon-bestillinger ring 12036</string>
+  <string name="gou_piao_item3">Kjøp billetter ved å ringe 12306</string>
+  <string name="gou_piao_website_start_time">Kjøp hos %s på nett eller via telefon</string>
+  <string name="gou_piao_window_start_time">Billetter kan kjøpes på stasjonen hos %s</string>
   <string name="hide_controls">Skjul knapper</string>
   <string name="hint_attendees">Deltakere</string>
   <string name="hint_description">Beskrivelse</string>
@@ -196,6 +202,7 @@
   <string name="show_almanac">Vis almanakk</string>
   <string name="show_controls">Vis knapper</string>
   <string name="show_day_view">Vis dag</string>
+  <string name="show_gou_piao">Vis vårfestival-billettkalender</string>
   <string name="show_newer_events">Trykk for å få vist hendelser etter %1$s</string>
   <string name="show_older_events">Trykk for å få vist hendelser før %1$s</string>
   <string name="snooze_all_label">Sett alle i slumretilstand</string>
