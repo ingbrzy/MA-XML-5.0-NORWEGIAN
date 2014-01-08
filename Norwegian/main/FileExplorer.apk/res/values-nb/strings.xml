@@ -214,8 +214,8 @@ Søppelelementer"</string>
   <string name="paused">På pause</string>
   <string name="pull_to_signin">Dra ned for å logge inn og få gratis diskplass</string>
   <string name="query_bind_state">Forespørrer status på tilkobling, vennligst vent...</string>
-  <string name="release_to_signin">Slipp for å logge inn</string>
   <string name="release_space_indication">Oppdag søppelfiler</string>
+  <string name="release_to_signin">Slipp for å logge inn</string>
   <string name="rename_description">Gir nytt navn, vennligst vent…</string>
   <string name="rename_failed">Kunne ikke gi nytt navn %1$s</string>
   <string name="restart_cleaning">Restart</string>

@@ -90,7 +90,7 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Siste fane</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Sveip opp for å lukke</string>
   <string name="browserFrameFileErrorLabel">Filproblem</string>
-  <string name="browserFrameFormResubmitLabel" />
+  <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">Siden du prøver å vise inneholder data som allerede er sendt (\" POSTDATA \ "). Hvis du sender dataene igjen, vil hver handling skjemaet på siden gjennomførte (som et søk eller et nettkjøp) bliv gjentattt. "</string>
   <string name="browserFrameNetworkErrorLabel">Forbindelsesproblem</string>
   <string name="browser_bookmarks_page_bookmarks_text">Bokmerker</string>
@@ -103,7 +103,6 @@
   <string name="clear_history">Tøm historikk</string>
   <string name="clear_history_group">Tøm all %s historikk</string>
   <string name="clear_search_history">Tøm søkehistorikk</string>
-  <string name="open_history_group_in_new_window">åpne alle %s i historikken i nytt vindu</string>
   <string name="clip_dialog_title">Åpne kopiert link?</string>
   <string name="close_all_tab_alert_message">Er du sikker på at du vil lukke alle fanene?</string>
   <string name="close_all_tab_alert_title">Lukk alle faner</string>
@@ -172,8 +171,8 @@
   <string name="download_video_alert_message">Hvis din nåværende dataplan har datakostnader, kan nedlastning av video bruke opp kvoten din, vil du fortsette?</string>
   <string name="download_video_alert_title">Nedlastningsvarsel!</string>
   <string name="download_video_menu_dialog_positive_txt">Installer</string>
-  <string name="download_video_menu_dialog_title">Installerer...</string>
   <string name="download_video_menu_dialog_summary">MiuiVideo kreves før du kan bruke denne funksjonen</string>
+  <string name="download_video_menu_dialog_title">Installerer...</string>
   <string name="download_video_menu_video_version_low">Du må oppdatere MiuiVideo.</string>
   <string name="download_video_no_title_default_name">Unavngitt video</string>
   <string name="download_video_please_download_market">Vennligst installer MiApps før du bruker denne funksjonen.</string>
@@ -203,7 +202,6 @@
   <string name="file_picker">Velg mappe</string>
   <string name="filename_empty_alert_message">"Filnavn kan ikke være tomt!"</string>
   <string name="filename_illegal_alert_message">Filnavn inneholder ulovlige tegn, filen har blitt automatisk fjernet.</string>
-  <string name="find_on_page">Find on page</string>
   <string name="find_on_page">Finn på side</string>
   <string name="folder_name">Mappenavn</string>
   <string name="forward">Fremover</string>
@@ -211,7 +209,6 @@
   <string name="general_set_default_browser_dialog_ok_txt">OK</string>
   <string name="general_set_default_browser_dialog_summary">Bruk MIUI-integrerte programmer for raskere og jevnere hastighet</string>
   <string name="general_set_default_browser_title">Bruk som standard nettleser</string>
-
   <string name="geolocation_permissions_prompt_dont_share">Avslå</string>
   <string name="geolocation_permissions_prompt_message">%s ønsker å vite din plassering</string>
   <string name="geolocation_permissions_prompt_remember">Husk preferanser</string>
@@ -303,6 +300,7 @@
   <string name="open_all_bookmarks">Åpne alle</string>
   <string name="open_all_in_new_window">Åpne alle i nye faner</string>
   <string name="open_bookmark">Åpne</string>
+  <string name="open_history_group_in_new_window">åpne alle %s i historikken i nytt vindu</string>
   <string name="other_bookmarks">Andre bokmerker</string>
   <string name="page_info">Sideopplysninger</string>
   <string name="page_info_address">Adresse:</string>
@@ -391,7 +389,7 @@
   <string name="pref_general_setting_title">Innstillinger</string>
   <string name="pref_general_sync_title">Synk</string>
   <string name="pref_general_title">Generelt</string>
-  <string name="pref_gesture_title">Berøringshandlinger</string> 
+  <string name="pref_gesture_title">Berøringshandlinger</string>
   <string name="pref_images_preload_dialogtitle">Bilder forhåndslaster...</string>
   <string name="pref_images_preload_summary">" Tillat nettleseren å forhåndslaste bilder når dette støttes av serveren"</string>
   <string name="pref_images_preload_title">Bildeforhåndslastning</string>
@@ -461,8 +459,8 @@
   <string name="pref_ua_title">Brukeragent håndtering</string>
   <string name="pref_use_instant_search">Google Instant</string>
   <string name="pref_use_instant_search_summary">Bruk Google Instant, når du bruker Google-søkning, for å vise resultater, som du skriver (dette kan øke databruk).</string>
-  <string name="pref_video_preload_title">Video forhåndslastning</string>
   <string name="pref_video_preload_summary">Tillat nettleser å forhåndslastevideo når serveren støtter det</string>
+  <string name="pref_video_preload_title">Video forhåndslastning</string>
   <string name="pref_video_preload_value_never_summary">Aldri tillat nettleseren å forhåndslaste videoer</string>
   <string name="pref_volume_key_enabled">Lydstyrke knapper</string>
   <string name="pref_volume_key_operation">Handling for lydstyrke knapper</string>
@@ -500,7 +498,7 @@
   <string name="report_reading_mode_issue">Rapport feil med lesemodusen til MIUI</string>
   <string name="return_to_homepage">Tilbake til startside</string>
   <string name="rlz_access_point">Y1</string>
-   <string name="same_bookmarks_warning">Dette bokmerket eksisterer allerede</string>
+  <string name="same_bookmarks_warning">Dette bokmerket eksisterer allerede</string>
   <string name="same_folder_name_warning">Denne mappen eksisterer allerede</string>
   <string name="save">OK</string>
   <string name="save_bookmark">Lagre bokmerke</string>
@@ -530,7 +528,7 @@
   <string name="share_page">Del side</string>
   <string name="shortcut_bookmark">Bokmerke</string>
   <string name="shortcut_bookmark_title">Velg et bokmerke</string>
-  <string formatted="false" name="sign_in_to">Logg inn på %s1 \"%s2\"</string>
+  <string name="sign_in_to" formatted="false">Logg inn på %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Kunne ikke lagre til offline lesning."</string>
   <string name="snapshot_go_live">Gå Live</string>
   <string name="ssl_continue">Fortsett</string>
@@ -549,12 +547,12 @@
   <string name="tab_bookmarks">Bokmerker</string>
   <string name="tab_history">Historikk</string>
   <string name="tab_most_visited">Mest besøkte</string>
+  <string name="tab_opened_background_in_incognito">Nytt inkognitovindu åpnet</string>
   <string name="tab_quicklinks">Hurtiglinker</string>
   <string name="tab_snapshots">Lagrede sider</string>
   <string name="tab_yellowpage">Populære sider</string>
   <string name="title_bar_loading">Laster ...</string>
   <string name="too_many_subwindows_dialog_message">Kun en pop-up kan være åpen om gangen.</string>
-  <string name="tab_opened_background_in_incognito">Nytt inkognitovindu åpnet</string>
   <string name="too_many_subwindows_dialog_title">Pop-up er allerede åpent</string>
   <string name="too_many_windows_dialog_message">"Kan ikke åpne en ny fane før du lukker en."</string>
   <string name="too_many_windows_dialog_title">For mange faner</string>

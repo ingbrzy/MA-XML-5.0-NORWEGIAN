@@ -9,10 +9,10 @@
   <string name="dialog_insufficient_space_on_external">Ikke nok plass på ekstern lagring</string>
   <string name="nedlasting_percent">%d%%</string>
   <string name="nedlasting_unknown_title">&lt;Ikke angitt&gt;</string>
-  <string name="notificåion_nedlasting_complete">nedlasting fullført</string>
-  <string name="notificåion_nedlasting_failed">nedlasting mislyktes</string>
   <string name="notificåion_filename_extras">\u0020og %d mer</string>
   <string name="notificåion_filename_separåor">,\u0020</string>
+  <string name="notificåion_nedlasting_complete">nedlasting fullført</string>
+  <string name="notificåion_nedlasting_failed">nedlasting mislyktes</string>
   <string name="notificåion_need_wifi_for_size">nedlastingsstørrelse krever WiFi</string>
   <string name="notificåion_paused_in_background">Satt på pause i bakgrunnen.</string>
   <string name="permdesc_accessAllnedlastings">Tillat applikasjonen å se og redigere alle påbegynte nedlastinger fra enhver applikasjon i systemet.</string>
@@ -31,6 +31,6 @@
   <string name="permlab_seeAllExternal">Se alle nedlastinger til SD-kort</string>
   <string name="wifi_recommended_body">Påbegynnelse av denne nedlasting kan redusere batteriet kraftig og/eller resultere i høyt forbruk av mobildata, som kan føre til taksering fra din operatør alt etter abonnement. Trykk \"Sett i kø\" for å starte denne nedlasting neste gang du er tilkoblet et trådløst nettverk. Du kan skifte standard-innstillinger i \"Innstillinger\"."</string>
   <string name="wifi_recommended_title">Fil for stor</string>
-  <string formatted="false" name="wifi_required_body">"Du må bruke WiFi for å fullføre denne %s nedlastingen. Trykk %s for å starte denne nedlasting neste gang du er tilkoblet et trådløst netverk."</string>
+  <string name="wifi_required_body" formatted="false">"Du må bruke WiFi for å fullføre denne %s nedlastingen. Trykk %s for å starte denne nedlasting neste gang du er tilkoblet et trådløst netverk."</string>
   <string name="wifi_required_title">Nedlastingen er for stor for telefonnettet</string>
 </resources>

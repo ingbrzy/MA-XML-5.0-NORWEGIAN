@@ -66,8 +66,8 @@
   <string name="install_sina">Installer Sina-app</string>
   <string name="install_whole_rom">Det anbefales å laste ned og installere fullt ROM</string>
   <string name="internal_build">Intern Build</string>
-  <string name="kernel_upgrade_link" />
-  <string name="kernel_upgrade_version" />
+  <string name="kernel_upgrade_link"/>
+  <string name="kernel_upgrade_version"/>
   <string name="later">Restart nå</string>
   <string name="loading">Kobler til MIUI</string>
   <string name="md5_check_cancelled">MD5 kontroll er avbrutt</string>

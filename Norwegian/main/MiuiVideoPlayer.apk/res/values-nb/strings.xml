@@ -7,7 +7,7 @@
   <string name="adjust_position_prev_media_notice">Forrige</string>
   <string name="airkan_control_device_des">Du kan styre avspillingen via knappen i bunnen</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-  <string name="airkan_video_playing" />
+  <string name="airkan_video_playing"/>
   <string name="airkan_video_playing_in">Spiller av video...</string>
   <string name="app_name">MiVideo</string>
   <string name="buffering">Leser inn i buffer...</string>

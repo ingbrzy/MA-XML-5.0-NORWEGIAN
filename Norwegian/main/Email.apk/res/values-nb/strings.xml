@@ -317,7 +317,7 @@ CC: %4$s
   <string name="message_compose_subject_hint">Emne</string>
   <string name="message_compose_to_hint">Til</string>
   <string name="message_decode_error">Det oppstod en feil ved avkodingen av meldingn.</string>
-  <string name="message_delete_dialog_title" />
+  <string name="message_delete_dialog_title"/>
   <string name="message_discarded_toast">Melding forkastet.</string>
   <string name="message_is_empty_description">Intet emne</string>
   <string name="message_list_load_more_messages_action">Last inn flere meldinger</string>

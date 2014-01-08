@@ -43,7 +43,6 @@
   <string name="download_title_sorted_by_date">nedlastinger - Sortert via tid</string>
   <string name="download_title_sorted_by_size">nedlastinger - Sortert via størrelse</string>
   <string name="download_when_network_connected">Last ned når netverksforbindelse er tilgjengelig</string>
-  <string name="nedlastinger_operating">Nedlasting(er) igang...</string>
   <string name="editmode_menu_delete">Slett</string>
   <string name="editmode_menu_share">Del</string>
   <string name="keep_queued_download">Behold</string>
@@ -51,6 +50,7 @@
   <string name="menu_preferences">Innstillinger</string>
   <string name="might_lead_to_mobile_charge">"Etter avslåing, vil det ikke være noen påmindelse ved nedlasting over telefonnettet. Dette kan medføre kostnad"</string>
   <string name="missing_title">&lt;Ukjent&gt;</string>
+  <string name="nedlastinger_operating">Nedlasting(er) igang...</string>
   <string name="no_nedlastinger">Ingen nedlastinger.</string>
   <string name="open_download">Åpen</string>
   <string name="pause_download">Pause</string>

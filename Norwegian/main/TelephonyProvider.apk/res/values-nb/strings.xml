@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Telefon/Meldingslager</string>  
+  <string name="app_label">Telefon/Meldingslager</string>
   <string name="default_cateogry_courier">Leverandør</string>
   <string name="default_cateogry_fraudulent">Falsk</string>
   <string name="default_cateogry_intermediary">Mellommann</string>

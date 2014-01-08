@@ -56,7 +56,6 @@
   <string name="cloud_app_backup_cancel_prompt_message">"Backup uferdig, trykk 
 OJ for å avbryte backup"</string>
   <string name="cloud_app_backup_cancel_prompt_title">Cancel backup</string>
-  <string name="cloud_app_mine">Nedlastede programmer</string>
   <string name="cloud_app_backup_date">"Tatt backup den "</string>
   <string name="cloud_app_backup_pending">Ventende...</string>
   <string name="cloud_app_backup_progress">Tar backup...</string>
@@ -79,6 +78,7 @@ OJ for å avbryte backup"</string>
   <string name="cloud_app_load_data">Spørr etter backup-dataliste...</string>
   <string name="cloud_app_load_data_timeout">Timeout ved spørring av data fra MiCloud</string>
   <string name="cloud_app_loading_with_mobile_network_prompt">"Mobildata-trafikk vil bli brukt for å fortsette. Vil du fortsette?"</string>
+  <string name="cloud_app_mine">Nedlastede programmer</string>
   <string name="cloud_app_name">Online Backup</string>
   <string name="cloud_app_no_data">Ingen data her.</string>
   <string name="cloud_app_no_network">Nettverk utilgjengelig</string>
@@ -95,7 +95,7 @@ for å avbryte"</string>
   <string name="cloud_app_remove_prompt">%1$s av data vil bli slettet. Vil du fortsette?</string>
   <string name="cloud_app_restore_action_bar_title">%1$s av dataen har blitt tatt backup av</string>
   <string name="cloud_app_restore_app_and_data">Gjenopprett programmer og brukerdata</string>
-   <string name="cloud_app_restore_cancel">Avbryt gjenoppretting</string>
+  <string name="cloud_app_restore_cancel">Avbryt gjenoppretting</string>
   <string name="cloud_app_restore_cancel_prompt_message">"Gjenoppretting ufullstendig, trykk OK
 for å avbryte gjenoppretting"</string>
   <string name="cloud_app_restore_cancel_prompt_title">Avbryt gjenoppretting</string>

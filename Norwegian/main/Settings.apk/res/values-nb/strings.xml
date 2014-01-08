@@ -446,8 +446,8 @@
   <string name="bluetooth_visibility">Synlig</string>
   <string name="bluetooth_visibility_timeout">Synlighet timeout</string>
   <string name="bluetooth_visibility_timeout_summary">Velg hvor lang tid enheten vil kunne registreres</string>
-  <string name="breathing_light_color_summary">LED farge ved mottalse av varsler</string>
   <string name="breathing_light_color_menu_title">Lysfarge</string>
+  <string name="breathing_light_color_summary">LED farge ved mottalse av varsler</string>
   <string name="breathing_light_color_title">" LED farge"</string>
   <string name="breathing_light_freq_summary">LED pause mellom blink</string>
   <string name="breathing_light_freq_title">" LED frekvens </string>
@@ -539,12 +539,12 @@
   <string name="confirm_clear_whitelist">Tøm unntak?</string>
   <string name="confirm_erase">Slett</string>
   <string name="confirm_new_backup_pw_prompt">Gjenta ditt nye backuppassord her</string>
-  <string name="contributors_title">Bidragsytere</string>
   <string name="connected_wifi">Tilkoblet Wi-FI</string>
   <string name="context_add_contact">Legg til eksisterende kontakt</string>
   <string name="context_call">Ring</string>
   <string name="context_ms">Send SMS</string>
   <string name="context_new_contact">Ny kontakt</string>
+  <string name="contributors_title">Bidragsytere</string>
   <string name="controls_label">Styringer</string>
   <string name="controls_subtitle">Juster strømforbruk</string>
   <string name="copyright_title">Opphavsrett</string>
@@ -734,8 +734,8 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="dialog_title_font_size">Skriftstørrelse</string>
   <string name="dirac_control">MI-lyd</string>
   <string name="dirac_mode_earbuds">Xiaomi-ørepropper</string>
-  <string name="dirac_mode_general">Generelt</string>
   <string name="dirac_mode_earphones">Xiaomi-hodetelefoner</string>
+  <string name="dirac_mode_general">Generelt</string>
   <string name="dirac_mode_off">Dirac av</string>
   <string name="dirac_mode_piston_100">Xiaomi stempel-hodetelefoner</string>
   <string name="disableNetwork">disableNetwork</string>
@@ -840,7 +840,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="emergency_tone_title">Nødanropstone</string>
   <string name="empty_list_msg">"Du har ikke noen tredjepartsprogrammer installert."</string>
   <string name="emptylist_fwlog_call">Blokkerte anrop vil bli logget her.</string>
- <string name="emptylist_fwlog_ms">Alle blokkerte tekstmeldinger og MMS-meldinger vil bli logget her.</string>
+  <string name="emptylist_fwlog_ms">Alle blokkerte tekstmeldinger og MMS-meldinger vil bli logget her.</string>
   <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USB feilretting</string>
   <string name="enable_adb_debug_summary">Når tilkoblet via USB, bruk ADB-kommandoen</string>
@@ -894,9 +894,9 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="external_data_size_label">SD-kort Data</string>
   <string name="factory_reset_summary">Du kan slette personlige data ved å nullstille telefonen, eller velge å slette de installerte programmer og formatere SD-kortet for å gjenopprette fabriksinnstillinger</string>
   <string name="failed_to_open_app_settings_toast">Åpning av innstillinger for %1$s mislyktes</string>
-  <string name="fcc_equipment_id">Equipment-ID</string>
   <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
   <string name="fancy_icon_power_center">com.miui.powercenter</string>
+  <string name="fcc_equipment_id">Equipment-ID</string>
   <string name="filter">Filter</string>
   <string name="filter_apps_all">Alle</string>
   <string name="filter_apps_cached">Cachet</string>
@@ -991,7 +991,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="fw_time_settings">Avtalte</string>
   <string name="fw_whitelist">Unntak</string>
   <string name="fw_whitelist_hint">Anrop og meldinger vil ikke bli blokkert som standard</string>
-  <string name="gadget_picker_title">Velg gadget</string> 
+  <string name="gadget_picker_title">Velg gadget</string>
   <string name="gadget_title">Kraftkontroll</string>
   <string name="gadget_toggle_bluetooth">Oppdatering av Bluetooth-innstilling</string>
   <string name="gadget_toggle_wifi">Oppdatering av WiFi-innstilling</string>
@@ -1236,7 +1236,7 @@ Du er i øyeblikket logget inn på følgende kontoer:
   <string name="master_clear_all">"Er du sikker på du vil slette alle data og vende tilbake til fabrikkinnstillinger?
 Obs: handlingen kan ikke angres."</string>
   <string name="master_clear_button_text">Nullstil telefon</string>
-  <string name="master_clear_confirm_title">Nullstil?</string>  
+  <string name="master_clear_confirm_title">Nullstil?</string>
   <string name="master_clear_desc">"Dette vil slette all data fra din telefons "&lt;b&gt;internlager&lt;/b&gt;", inkludert:
 
 "&lt;li&gt;Din Google-konto&lt;/li&gt;"
@@ -1630,8 +1630,8 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="pico_not_installed">Ikke installert</string>
   <string name="pico_voice_summary_female">Kvinne</string>
   <string name="pico_voice_summary_male">Mann</string>
-  <string name="ping_test_label">Kjør ping-test</string>
   <string name="picture_source">Bildekilde</string>
+  <string name="ping_test_label">Kjør ping-test</string>
   <string name="please_select_phase2">Fase 2-godkjennelse</string>
   <string name="please_type_passphrase">Wi-Fi-passord</string>
   <string name="pointer_location">Peker-plassering</string>
@@ -1648,7 +1648,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="power_battery_history_zero_minutes">0 min</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Mobilsignal</string>
-    <string name="power_center_battery_full">Batteriet er fulladet</string>
+  <string name="power_center_battery_full">Batteriet er fulladet</string>
   <string name="power_center_charge_time">Oppladning vil fullføres innen %1$s</string>
   <string name="power_center_consume_rank">Strømforbruk</string>
   <string name="power_center_consume_time">%1$s igjen</string>
@@ -1874,7 +1874,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="quick_launch_no_shortcut">Ingen snarvei</string>
   <string name="quick_launch_shortcut">Søk + %1$s</string>
   <string name="quick_launch_summary">Tastatursnarveier for å starte programmer</string>
-  <string name="quick_launch_title">Hurtigstart</string>  
+  <string name="quick_launch_title">Hurtigstart</string>
   <string name="quick_optimize">Optimaliser</string>
   <string name="quick_scan_apk_list_item_version_hit">Versjon: %s</string>
   <string name="quick_scan_cleaning_title">Rydder...</string>
@@ -2017,7 +2017,6 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="screen_timeout">Slå av skjerm</string>
   <string name="screen_timeout_summary">Etter %1$s uten aktivitet</string>
   <string name="screen_timeout_title">Skjerm timeout</string>
-
   <string name="screensaver_activate_on_dock_title">Start også når dokket</string>
   <string name="screensaver_component_title">Valgt Candy</string>
   <string name="screensaver_settings_summary_off">Deaktivert</string>
@@ -2131,7 +2130,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="show_hw_screen_updates">Vis GPU-oppdateringer</string>
   <string name="show_hw_screen_updates_summary">Blink visninger i vinduer når tegnet med GPU</string>
   <string name="show_magnifier_when_input">Vis forstørrelsesglass</string>
-   <string name="show_notification">Vis varsler</string>
+  <string name="show_notification">Vis varsler</string>
   <string name="show_owner_info_on_lockscreen_label">Vis eierinformasjon på låseskjermen</string>
   <string name="show_password">Synlige passord</string>
   <string name="show_password_summary">Vis passord mens du skriver</string>
@@ -2293,7 +2292,6 @@ Muligens ugyldig PIN."</string>
   <string name="title_data_flow_yes">Databrukmonitor på</string>
   <string name="title_dolby_control">Dobly digital plus</string>
   <string name="title_font_size">Skriftstørrelse</string>
-  <string name="total_size">%s totalt</string>  
   <string name="title_install_virus_no">Installeringsmonitor av</string>
   <string name="title_install_virus_yes">Installeringsmonitor på</string>
   <string name="title_miui_update_no">Funnet MIUI-oppdatering: %s</string>
@@ -2309,6 +2307,7 @@ Muligens ugyldig PIN."</string>
   <string name="title_virus_update_yes">Auto-oppdatering for virusdefinisjoner er på</string>
   <string name="title_virus_yes">Ingen virus detektert</string>
   <string name="toast_qucik_scan_list_empty">Alt ser bra ut, du trenger ikke rydde!</string>
+  <string name="total_size">%s totalt</string>
   <string name="total_size_label">Totalt</string>
   <string name="track_frame_time">Profiler GPU-tegning</string>
   <string name="track_frame_time_summary">Mål tegne tiden i adb shell dumpsys gfxinfo</string>

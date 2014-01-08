@@ -236,7 +236,7 @@
   <string name="confirm_pin_hint_miui">Bekreft PIN</string>
   <string name="connect_disconnect_vibrate_none_miui">Ingen vibrering</string>
   <string name="connect_disconnect_vibrate_normal_miui">Vibrer</string>
-  <string name="connect_disconnect_vibrate_summary_miui" />
+  <string name="connect_disconnect_vibrate_summary_miui"/>
   <string name="connect_disconnect_vibrate_title_miui">Vibrer når mottager svarer/legger på</string>
   <string name="connect_disconnect_vibrate_weak_miui">Vibrer svagt</string>
   <string name="connect_later">Det kan ikke opprettes forbindelse til dette nettverk akkurat nå. Prøv igjen senere.</string>
@@ -321,13 +321,13 @@
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Utfør</string>
   <string name="dtmf_tone_enable_title">Tastetone</string>
-  <string name="duringcall">Operasjonen er ikke tillatt under samtalen</string>
   <string name="dtmf_tone_entries_long_miui">Lang</string>
   <string name="dtmf_tone_entries_normal_miui">Normal</string>
   <string name="dtmf_tones_summary">Angi lengden på DTMF-toner</string>
   <string name="dtmf_tones_summary_miui">Innstill lengden på DTMF toner</string>
   <string name="dtmf_tones_title">DTMF-toner</string>
   <string name="dtmf_tones_title_miui">DTMF Toner</string>
+  <string name="duringcall">Operasjonen er ikke tillatt under samtalen</string>
   <string name="ecm_exit_dialog">NttAfslutDialog</string>
   <string name="edit_custom_location_title_miui">Rediger region og områdenumre, wildcards som # er understøttet</string>
   <string name="edit_fdn_contact">Rediger fast anropsnummer</string>
@@ -341,9 +341,9 @@
   <string name="emergency_enable_radio_dialog_title">Nødanrop</string>
   <string name="empty_alert">%s skal utfylles. Feltet kan ikke være tomt.</string>
   <string name="empty_networks_list">Det ble ikke funnet noe nettverk.</string>
+  <string name="enable">Aktiver</string>
   <string name="enable_antispam_strange_summary">Demp første anrop fra et ukjent nummer</string>
   <string name="enable_antispam_strange_title">Anti-fremmed samtale</string>
-  <string name="enable">Aktiver</string>
   <string name="enable_disable_administrative">Administrasjon</string>
   <string name="enable_disable_advertisements">Annonser</string>
   <string name="enable_disable_atr">Trafikkkmeldinger i området</string>

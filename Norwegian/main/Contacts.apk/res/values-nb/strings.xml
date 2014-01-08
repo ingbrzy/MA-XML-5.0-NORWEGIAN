@@ -58,7 +58,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="callAgain">Ring igjen</string>
   <string name="callBack">Ring tilbake</string>
   <string name="callDetailTitle">anropsdetaljer</string>
-  <string formatted="false" name="callDetailsDurationFormat">%s min %s sek</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s min %s sek</string>
   <string name="callShortcutActivityTitle">Velg et nummer å ringe opp</string>
   <string name="call_assistant">Ring til %s</string>
   <string name="call_callback">Ring til tilbakeringing</string>
@@ -81,8 +81,8 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="call_other_fax">Ring til fax</string>
   <string name="call_pager">Ring til personsøker</string>
   <string name="call_radio">Ring til radio</string>
-  <string name="call_settings">Innstillinger</string>
   <string name="call_record_setting_miui">Opptaksinnstillinger</string>
+  <string name="call_settings">Innstillinger</string>
   <string name="call_telex">Ring til telex</string>
   <string name="call_tty_tdd">Ring TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
@@ -154,13 +154,13 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du faktisk har kontakter på din telefon, kan alle de kontakter, kan de forbys fra å bli eksportert fra telefonen av noen telefonleverandører.</string>
   <string name="composer_not_initialized">vCard-oppretteren er ikke korrekt klargjørt</string>
   <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider" />
+  <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix" />
-  <string name="config_export_file_suffix" />
+  <string name="config_export_file_prefix"/>
+  <string name="config_export_file_suffix"/>
   <string name="config_export_vcard_type">standard</string>
   <string name="config_import_vcard_type">standard</string>
-  <string name="config_prohibited_phone_number_regexp" />
+  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"Er du sikker på du vil slette anropslister for %s?"</string>
   <string name="confirm_delete_selected_all_call_logs">Er du sikker på du vil slette valgte kontakts anropslister</string>
   <string name="confirm_delete_sim_entry_miui">Bekreft sletting av %d valgte kontakter på SIM-kortet?</string>
@@ -410,9 +410,9 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="group_sms_progress_msg">Forbereder gruppe SMS…</string>
   <string name="groupsLabel">Grupper</string>
   <string name="groups_list_empty">Ingen grupper</string>
-  <string name="help_url_people_add" />
-  <string name="help_url_people_edit" />
-  <string name="help_url_people_main" />
+  <string name="help_url_people_add"/>
+  <string name="help_url_people_edit"/>
+  <string name="help_url_people_main"/>
   <string name="hint_distance">hold avstanden</string>
   <string name="hint_findContacts">Finn kontakter</string>
   <string name="hint_more_contact">Bruk fletning av kontakter når det finnes duplikater</string>
@@ -638,9 +638,9 @@ for å legge til kontakt til favoritter:
   <string name="option_send_to_others">Send til andre</string>
   <string name="option_view_contact">Vis</string>
   <string name="option_view_group">Vis</string>
+  <string name="organizationLabelsGroup">Organisasjon</string>
   <string name="organization_company_and_title">%2$s, %1$s</string>
   <string name="other_contacts">Andre</string>
-  <string name="organizationLabelsGroup">Organisasjon</string>
   <string name="other_phone">andre telefoner</string>
   <string name="payphone">Betalingstelefon</string>
   <string name="people">Personer</string>
@@ -677,8 +677,8 @@ for å legge til kontakt til favoritter:
   <string name="postal_pobox">Postboks</string>
   <string name="postal_postcode">postnummer</string>
   <string name="postal_region">Region/område</string>
-  <string name="pref_forward_title">Videresend</string>
   <string name="postal_street">Gate</string>
+  <string name="pref_forward_title">Videresend</string>
   <string name="pref_key_photo">Bilde</string>
   <string name="pref_key_photo_word_summary">Automatisk valg av bilde til kontakter</string>
   <string name="pref_key_photo_word_title">Autovelg bilde for kontakter</string>
@@ -790,8 +790,8 @@ for å legge til kontakt til favoritter:
   <string name="resource_comment_all_comments">Alle kommentarer</string>
   <string name="resource_comment_average_score">Gjennomsnittlig</string>
   <string name="resource_comment_bad_comments">Negativ</string>
-  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_current_version">Gjeldende versjon</string>
+  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Legg til kommentarer</string>
   <string name="resource_comment_edit_comment_waiting">Sjekker brukerhistorikk…</string>
   <string name="resource_comment_edit_text_default">Legg til en kommentar</string>
@@ -949,8 +949,8 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="service_provider">Tjenesteleverandør</string>
   <string name="set_default">Sett standard</string>
   <string name="set_photo_failed_msg">Klarte ikke å sette bilde</string>
-  <string name="share_error">Denne kontakten kan ikke deles</string>
   <string name="set_smsc_address_title_miui">Sett SMS-senter nummer</string>
+  <string name="share_error">Denne kontakten kan ikke deles</string>
   <string name="share_via">Del kontakt via</string>
   <string name="share_visible_contacts">Del synlige kontakter</string>
   <string name="shortcutActivityTitle">Kontaktsnarvei</string>
@@ -1002,11 +1002,11 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="smart_group_location_label">Via plassering</string>
   <string name="smart_group_location_unavailable">Ingen andresseinformasjon</string>
   <string name="sms">SMS</string>
-  <string formatted="false" name="sms_assistant">Skriv til %s</string>
+  <string name="sms_assistant" formatted="false">Skriv til %s</string>
   <string name="sms_callback">Skriv til tilbakeringing</string>
   <string name="sms_car">Skriv til bil</string>
   <string name="sms_company_main">Skriv til firma hovednummer</string>
-  <string formatted="false" name="sms_custom">Skriv til %s</string>
+  <string name="sms_custom" formatted="false">Skriv til %s</string>
   <string name="sms_disambig_title">Skriv besked ved hjelp av</string>
   <string name="sms_fax_home">Skriv til fax hjem</string>
   <string name="sms_fax_work">Skriv til jobbfax</string>
@@ -1038,7 +1038,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="summary_kind_title">Oversikt</string>
   <string name="t9_search_guide">Tast 7 og 5 for å søke, f.eks Steve Jobs</string>
   <string name="t9_search_guide_pinyin">Tast 7 og 5 for å søke, f.eks Steve Jobs</string>
- <string name="t9_search_guide_zhuyin">Tast 7 og 5 for å søke, f.eks Steve Jobs</string>
+  <string name="t9_search_guide_zhuyin">Tast 7 og 5 for å søke, f.eks Steve Jobs</string>
   <string name="take_new_photo">Ta nytt bilde</string>
   <string name="take_photo">Ta bilde</string>
   <string name="titleJoinContactDataWith">Flett kontakter</string>
@@ -1100,7 +1100,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="voicemail_status_voicemail_not_available">Kan ikke opprette forbindelse med telefonsvareren.</string>
   <string name="websiteLabelsGroup">Hjemmeside</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
-  <string name="wipe_data">Slett kontakter</string> 
+  <string name="wipe_data">Slett kontakter</string>
   <string name="yellowPageNavigationIconLabel">Katalog</string>
   <string name="yellowPageNavigationLabel">Katalog</string>
   <string name="yellowpage_navigation_menu_order">Min ordre</string>

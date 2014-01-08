@@ -89,7 +89,7 @@
   <string name="no_content">Ingen innhold</string>
   <string name="no_selected">Ingen fil valgt</string>
   <string name="no_transfer_history">Ingen overføringshistorikk</string>
-<string name="not_support_this_type">Filtype ikke støttet for deling</string>
+  <string name="not_support_this_type">Filtype ikke støttet for deling</string>
   <string name="noti_completed">Fullført, overført %1$d/%2$d fil(er)</string>
   <string name="noti_receiving">%1$s: Receiving %2$d/%3$d fil(er)</string>
   <string name="noti_sending">%1$s: Sending %2$d/%3$d fil(er)</string>

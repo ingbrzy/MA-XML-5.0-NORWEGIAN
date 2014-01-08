@@ -13,7 +13,7 @@
   <string name="bt_enable_line1">Du må aktivere Bluetooth, før du kan bruke Bluetooth-tjenester.</string>
   <string name="bt_enable_line2">Vil du slå på Bluetooth nå?</string>
   <string name="bt_enable_ok">Slå på</string>
-  <string name="bt_enable_title" />
+  <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">Det er ikke nok plass på SD-kortet til at lagre filen fra \"%1$s\"</string>
@@ -37,7 +37,7 @@
   <string name="download_line1">Fra: \"%1$s\"</string>
   <string name="download_line2">Fil: %1$s</string>
   <string name="download_line3">Filstørrelse: %1$s</string>
-  <string name="download_line4" />
+  <string name="download_line4"/>
   <string name="download_line5">Mottar fil…</string>
   <string name="download_ok">Skjul</string>
   <string name="download_succ_line5">Filen blev mottatt</string>
@@ -98,8 +98,8 @@
   <string name="permlab_bluetoothShareManager">Adgang til download håndtering.</string>
   <string name="permlab_bluetoothWhitelist">Godkjend bluetooth enhetsadgang.</string>
   <string name="permlab_handoverStatus">Motta BT-overføringsmeldinger.</string>
-  <string name="process" />
-  <string name="sharedUserId" />
+  <string name="process"/>
+  <string name="sharedUserId"/>
   <string name="start_server">Start TCP server</string>
   <string name="status_canceled">overføring avbrutt av bruker.</string>
   <string name="status_connection_error">Forbindelsen mislyktes.</string>

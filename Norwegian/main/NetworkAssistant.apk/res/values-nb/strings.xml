@@ -63,7 +63,7 @@
   <string name="edit_frame_free_traffic_title">Tilgjengelig trafikk</string>
   <string name="edit_frame_month_start_title">Start dato</string>
   <string name="edit_frame_warning_title">Advarselsverdi</string>
-  <string name="empty" />
+  <string name="empty"/>
   <string name="finish_traffic_settings_hint">Innstilling av pakke fullført</string>
   <string name="finish_traffic_settings_message">"Brukt trafikk er %s. Er disse dataene korrekte?  Ellers kan de justeres."</string>
   <string name="finish_traffic_settings_title">Juster trafikkdata</string>
@@ -147,7 +147,7 @@
   <string name="sync_traffic_no_cmd_detail_custom_config">"Du kan: 1. Innstillinger &gt;&gt; Trafikkjustering &gt;&gt; Egendefinerte innstillinger, eller på hoved Traffikjusteringssiden &gt;&gt; Egendefinerte innstillinger; 2. Send inn din by, kommune og leverandør samt operatør i følgende forum: http://www.miui.com/forum-172-1.html. (Ikke relevant for norske brukere)"</string>
   <string name="sync_traffic_no_cmd_title">Ingen SMS mal</string>
   <string name="sync_traffic_success">"Mottok data fra operatør, trafikkjustering fullført"</string>
-  <string name="text_day" />
+  <string name="text_day"/>
   <string name="text_done">Ferdig</string>
   <string name="text_save">Lagre</string>
   <string name="traffic_bought">Trafikk kjøpt</string>

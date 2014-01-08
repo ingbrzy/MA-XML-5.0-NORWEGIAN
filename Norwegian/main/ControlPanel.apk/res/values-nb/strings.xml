@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_settings">Tilgjengelighetsinnstillinger</string>
-  <string name="accessibility_settings_summary" />
+  <string name="accessibility_settings_summary"/>
   <string name="advanced_tab">Avansert</string>
   <string name="app_label">Kontrollpanel</string>
   <string name="applying_pref">Bruk preferanser...</string>
   <string name="battery_category">Batteri-innstillinger</string>
   <string name="battery_info">Batteri-information</string>
-  <string name="battery_info_summary" />
+  <string name="battery_info_summary"/>
   <string name="carrier_label_category">Operatørnavn</string>
   <string name="carrier_logo_summary">Vis en logo istedet for navnet på operatøren</string>
   <string name="carrier_logo_title">ØperatørLogo</string>
@@ -48,7 +48,7 @@
   <string name="fancy_ime_animations_summary_on">Bruk detaljerte animasjoner for tastaturvinduer</string>
   <string name="fancy_ime_animations_title">Fancy inputanimasjoner</string>
   <string name="fuel_gauge">Batteriforbruk</string>
-  <string name="fuel_gauge_summary" />
+  <string name="fuel_gauge_summary"/>
   <string name="hide_clock_summary">Skjul klokka fra statuslinjen</string>
   <string name="hide_clock_title">Skjul klokka</string>
   <string name="interface_animation_category">Animasjoner</string>
@@ -82,7 +82,7 @@ Vær oppmerksom på om ditt ROM er korrekt rootet før du prøver igjen."</strin
   <string name="overscroll_weight_title">Overskyt vekt</string>
   <string name="personal_tab">Personlig</string>
   <string name="phone_info">Telefoninformation</string>
-  <string name="phone_info_summary" />
+  <string name="phone_info_summary"/>
   <string name="progress_cpu_working">Leser CPU-innstillinger</string>
   <string name="progress_info_working">Leser Rominformation</string>
   <string name="progress_storage_working">Leser lagringsinnstillinger</string>
@@ -128,9 +128,9 @@ Vær oppmerksom på om ditt ROM er korrekt rootet før du prøver igjen."</strin
   <string name="transition_animations_title">Overgang animasjoner</string>
   <string name="unavailable_toast">Applikasjon ikke installert</string>
   <string name="usage_statistics">Forbruksstatistik</string>
-  <string name="usage_statistics_summary" />
+  <string name="usage_statistics_summary"/>
   <string name="wifi_testing">WiFi-information</string>
-  <string name="wifi_testing_summary" />
+  <string name="wifi_testing_summary"/>
   <string name="window_animations_summary">Hastighet på animasjoner i individuelle vinduer</string>
   <string name="window_animations_title">Vindusanimasjoner</string>
 </resources>

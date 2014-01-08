@@ -7,7 +7,7 @@
   <string name="add_to_favorite">Legg til favoritter</string>
   <string name="add_to_playlist">Legg til spilleliste</string>
   <string name="add_tracks">legg til sanger</string>
-  <string formatted="false" name="album_artist_format">%s , %s</string>
+  <string name="album_artist_format" formatted="false">%s , %s</string>
   <string name="album_display_settings">Vis albumcover</string>
   <string name="album_display_summary">Vis albumcover i avspillervinduet</string>
   <string name="album_download">Hent albumcover</string>
@@ -23,7 +23,7 @@
   <string name="android_album_settings">Bruk integrerte albumcover</string>
   <string name="android_album_summary">Automatisk bruk av albumcover fra sanger kan medføre feil.</string>
   <string name="artist_albums">Alle Album</string>
-  <string formatted="false" name="artist_details_format">%1$s, %2$s</string>
+  <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
   <string name="artist_edit">Artist</string>
   <string name="artist_hot_audios">Populær musikk</string>
   <string name="artists_title">Artister</string>
@@ -38,7 +38,7 @@
   <string name="cancel_sleep_mode">Sleep timer stoppet</string>
   <string name="cancle_warining">Sleep tilstand stoppet</string>
   <string name="channel">FM</string>
-  <string formatted="false" name="channel_format">"%s  %s Mhz"</string>
+  <string name="channel_format" formatted="false">"%s  %s Mhz"</string>
   <string name="channel_postfix">Mhz</string>
   <string name="choose_download_quality">Velg nedlastningskvalitet</string>
   <string name="choose_stream_quality">Velg streamingkvalitet</string>
@@ -66,13 +66,13 @@
   <string name="delete_playlist_menu">Slett</string>
   <string name="delete_song_desc">Er du sikker på du vil slette %s ?</string>
   <string name="deselect_all">Opphev alle valg</string>
+  <string name="dirac_disabled">Dirac er deaktivert</string>
+  <string name="dirac_enabled">Dirac er aktivert</string>
   <string name="dirac_mode_earbuds">Xiaomi-ørepropper</string>
-   <string name="dirac_mode_general">Generell modus</string>
+  <string name="dirac_mode_general">Generell modus</string>
   <string name="dirac_mode_in_ear">Xiaomi-øretelefoner</string>
   <string name="dirac_mode_off">Dirac av</string>
   <string name="dirac_mode_piston_100">Xiaomi-stempel hodetelefoner</string>
-  <string name="dirac_disabled">Dirac er deaktivert</string>
-  <string name="dirac_enabled">Dirac er aktivert</string>
   <string name="disconnect">Koble fra</string>
   <string name="download">Hent</string>
   <string name="download_album_settings">Autohent albumcover</string>
@@ -139,7 +139,7 @@
   <string name="filter_by_size_summary">Filtrer mindre lydfiler</string>
   <string name="filter_notification">Filter er aktivt, skift innstillinger i innstillinger for filtrering.</string>
   <string name="find_ktv">Oppdag KTV</string>
-  <string formatted="false" name="folder_title_format">%s(%d)</string>
+  <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">Mapper</string>
   <string name="frequentlyplayed_title">Ofte avspilt</string>
   <string name="headphone_settings">Hodetelefontype-innstillinger</string>
