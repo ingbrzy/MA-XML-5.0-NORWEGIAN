@@ -96,11 +96,6 @@
         <item>Vibrer når ringesignalet er dempet</item>
         <item>Alltid</item>
     </string-array>
-    <string-array name="power_mode_entries">
-        <item>High performance</item>
-        <item>Balance</item>
-        <item>Battery saving</item>
-    </string-array>
     <string-array name="entries_font_size">
         <item>Liten</item>
         <item>Normal</item>
