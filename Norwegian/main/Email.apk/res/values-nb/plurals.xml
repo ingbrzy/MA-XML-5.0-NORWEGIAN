@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="move_messages">
-        <item quantity="other">Flytt melding</item>
+        <item quantity="other">Flytt meldinger</item>
         <item quantity="one">Flytt melding</item>
     </plurals>
     <plurals name="notification_new_one_account_fmt">
@@ -34,12 +34,12 @@
         <item quantity="one">Slett denne meldingen?</item>
     </plurals>
     <plurals name="message_deleted_toast">
-        <item quantity="other">meldinger Slettet.</item>
-        <item quantity="one">melding Slettet.</item>
+        <item quantity="other">Meldinger slettet</item>
+        <item quantity="one">Melding slette.</item>
     </plurals>
     <plurals name="message_moved_toast">
-        <item quantity="other">%1$d meldinger Flyttet til %2$s</item>
-        <item quantity="one">%1$d meldinger Flyttet til %2$s</item>
+        <item quantity="other">%1$d meldinger flyttet til %2$s</item>
+        <item quantity="one">%1$d meldinger flyttet til %2$s</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%dB</item>

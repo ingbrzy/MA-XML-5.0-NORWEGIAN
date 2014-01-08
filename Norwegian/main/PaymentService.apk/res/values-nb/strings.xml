@@ -338,9 +338,9 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">Oppfylling feilet</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">Oppfylling via SMS er kanskje dyrere: &lt;font color=red&gt;￥2 = 1 MiCredit&lt;/font&gt;</string>
+  <string name="msg_picker_hint_1_2">Oppfylling via SMS er kanskje dyrere: &lt;font color=red&gt;￥ %1$d = %2$d MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
-  <string name="msg_picker_hint_2_2">Teleselskapet tar en avgift på ￥0.1 per oppfylling</string>
+  <string name="msg_picker_hint_2_2">Teleselskapet tar en avgift på %1$s yuan per oppfylling</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Maks månedlig oppfylling: %1$s yuan</string>
   <string name="msg_send_no_net_error">"Kunne ikke sende melding: kan ikke koble til nettverksleverandøren."</string>

@@ -790,6 +790,7 @@ for å legge til kontakt til favoritter:
   <string name="resource_comment_all_comments">Alle kommentarer</string>
   <string name="resource_comment_average_score">Gjennomsnittlig</string>
   <string name="resource_comment_bad_comments">Negativ</string>
+  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_current_version">Gjeldende versjon</string>
   <string name="resource_comment_edit_comment">Legg til kommentarer</string>
   <string name="resource_comment_edit_comment_waiting">Sjekker brukerhistorikk…</string>
@@ -961,20 +962,24 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="simContacts_empty">Ingen kontakter funnet på SIM-kort.</string>
   <string name="simContacts_emptyLoading">Lesning fra SIM</string>
   <string name="simContacts_title">SIM-kontakter</string>
+  <string name="sim_capacity">Vis SIM-kort-kapasitet</string>
   <string name="sim_capacity_content" formatted="false">Total kapasitet %d, brukt %d</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
   <string name="sim_card_cloud">%s (Skymelding)</string>
   <string name="sim_card_no_free_space_message">SIM Kort fullt, kan ikke importere nye kontakter. Vennligst frigjør nok plass og prøv igjen</string>
   <string name="sim_card_no_free_space_title">SIM-kort fullt</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Avvelg all</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Velg all</string>
+  <string name="sim_contact_dropdown_menu_deselect_all_miui">Avvelg alle</string>
+  <string name="sim_contact_dropdown_menu_select_all_miui">Velg alle</string>
+  <string name="sim_contact_existing">Kontakt eksisterer allerede</string>
+  <string name="sim_contact_invalid">Ugyldig SIM-kontakt</string>
   <string name="sim_contact_search_error">Det oppstod en feil under søkning av SIM kort kontakter</string>
   <string name="sim_contacts">SIM Kontakter</string>
   <string name="sim_error_anr_full">Lagringsplass for nummer er fullt!</string>
   <string name="sim_error_email_full">Lagringsplass for E-post er fullt!</string>
   <string name="sim_error_email_too_long">E-postadressen er for lang.</string>
   <string name="sim_error_generic_failure">Generisk SIM-feil.</string>
+  <string name="sim_error_not_ready">Loading SIM-kontakter…</string>
   <string name="sim_error_number_too_long">SIM-nummer er for langt!</string>
   <string name="sim_error_password_error">SIM-passord feil.</string>
   <string name="sim_error_storage_full">SIM-lagringsplassen er full!</string>

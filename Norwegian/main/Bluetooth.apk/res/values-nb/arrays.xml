@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Én ved siden av hverandre</item>
+        <item>To ved siden av hverandre</item>
+        <item>Fire ved siden av hverandre</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Portrett</item>
+        <item>Landskap</item>
+        <item>Omvendt landskap</item>
+        <item>Omvendt portrett</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Ensidig</item>
+        <item>Tosidig dobbel-kant</item>
+        <item>Tosidig kort-kant</item>
+    </string-array>
+</resources>

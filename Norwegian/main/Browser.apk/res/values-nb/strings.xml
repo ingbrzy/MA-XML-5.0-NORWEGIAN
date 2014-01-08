@@ -3,23 +3,18 @@
   <string name="MIUI_startpage">Startside</string>
   <string name="accessibility_button_addbookmark">Bokmerk side</string>
   <string name="accessibility_button_back">Gå tilbake</string>
-  <string name="accessibility_button_bookmark">Bokmerke</string>
   <string name="accessibility_button_bookmarks">Bokmerker</string>
   <string name="accessibility_button_clear">Rydd input</string>
   <string name="accessibility_button_closetab">Lukk fane</string>
   <string name="accessibility_button_forward">Gå fremover</string>
   <string name="accessibility_button_go">Gå</string>
-  <string name="accessibility_button_goto">Gå</string>
-  <string name="accessibility_button_larger">Større</string>
   <string name="accessibility_button_more">Flere muligheter</string>
   <string name="accessibility_button_navscreen">Sidehåndtering</string>
   <string name="accessibility_button_newincognitotab">Åpne ny incognito fane</string>
   <string name="accessibility_button_newtab">Åpne ny fane</string>
   <string name="accessibility_button_refresh">Oppdater side</string>
   <string name="accessibility_button_search">Søk</string>
-  <string name="accessibility_button_smaller">Mindre</string>
   <string name="accessibility_button_stop">Stopp sideinnlastning</string>
-  <string name="accessibility_button_tabs">Faner</string>
   <string name="accessibility_button_uaswitch">Skift brukeragent</string>
   <string name="accessibility_button_voice">Start talesøk</string>
   <string name="accessibility_state_frozen">Lagret side</string>
@@ -203,15 +198,14 @@
   <string name="error_console_header_text_maximized">JavaScript-konsol</string>
   <string name="error_console_header_text_minimized">Vis JavaScript-konsol</string>
   <string name="exit_browser_warning">Avslutt nettleser?</string>
-  <string name="export_bookmark">Eksporter bokmerker</string>
-  <string name="export_bookmark_failure">Kunne ikke eksportere bokmerker til SD-kort!</string>
-  <string name="export_bookmark_sucess">Eksport av bokmerker til SD-kort fullført!</string>
-  <string name="exported_bookmark_file_name">Mine favoritter</string>
-  <string name="file_picker_new_folder">Ny mappe</string>
-  <string name="file_picker_sdcard_not_found">​​SD-kortet ikke funnet, kontroller at enheten er montert eller i bruk</string>
+  <string name="file_dir">Mappe</string>
+  <string name="file_name">Filnavn</string>
+  <string name="file_picker">Velg mappe</string>
+  <string name="filename_empty_alert_message">"Filnavn kan ikke være tomt!"</string>
+  <string name="filename_illegal_alert_message">Filnavn inneholder ulovlige tegn, filen har blitt automatisk fjernet.</string>
+  <string name="find_on_page">Find on page</string>
   <string name="find_on_page">Finn på side</string>
   <string name="folder_name">Mappenavn</string>
-  <string name="folder_name_too_long">Mappenavn er for langt</string>
   <string name="forward">Fremover</string>
   <string name="general_set_default_browser_dialog_close_txt">Lukk</string>
   <string name="general_set_default_browser_dialog_ok_txt">OK</string>
@@ -234,13 +228,10 @@
   <string name="google_bookmarks">"Google: "</string>
   <string name="goto_dot">Gå</string>
   <string name="have_sent_bookmark_to_home_screen">Sendt til skrivebord</string>
-  <string name="history">Historik</string>
+  <string name="history">Historikk</string>
   <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Sett som startside</string>
   <string name="http">http://</string>
-  <string name="import_bookmark">Importer Bokmerker</string>
-  <string name="import_bookmark_failure">Import av bokmerker mislykkes!</string>
-  <string name="import_bookmark_sucess">Bokmerker importert</string>
   <string name="import_bookmarks_dialog_add">Legg til bokmerker til Google-konto</string>
   <string name="import_bookmarks_dialog_confirm_add">Legg til bokmerker i øyeblikket på denne enhet og begynn å synkronisere bokmerker med %s?</string>
   <string name="import_bookmarks_dialog_confirm_delete">slett bokmerker i øyeblikket på denne enhet og begynn å synkronisere bBokmerker med %s?</string>
@@ -254,7 +245,6 @@
   <string name="import_bookmarks_wizard_done">Utført</string>
   <string name="import_bookmarks_wizard_next">Neste</string>
   <string name="import_bookmarks_wizard_previous">Forrige</string>
-  <string name="importing_favorite_files">Import av data ...</string>
   <string name="in_incognito">Inkognito-modus er aktiv, ingen nettleserhistorikk blir lagret.</string>
   <string name="instant_search_label">Google med Instant (Labs)</string>
   <string name="is_first_history_item">Er allerede første element i historikk</string>
@@ -297,10 +287,6 @@
   <string name="move_to_up_folder">Gå et nivå opp</string>
   <string name="multi_select_title"> %1$s valgte elementer</string>
   <string name="name">Navn</string>
-  <string name="navigation_button_close">Lukk</string>
-  <string name="navigation_button_newtab">Ny</string>
-  <string name="navigation_button_tab">Fane</string>
-  <string name="navigation_button_view">Vis</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi-tilkobling funnet, vil du koble til??</string>
   <string name="network_show_wifi_setting_tip_dialog_notshow">Lagre</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi-nettverk tilgjengelig</string>
@@ -324,7 +310,6 @@
   <string name="password">tilgangskode</string>
   <string name="permission_preload_label">Forhåndslast resultater</string>
   <string name="picasa">Picasa</string>
-  <string name="please_select_a_file_to_import">Velg datafilen</string>
   <string name="popup_window_attempt">Tillat denne side å åpne et pop-up-vindue?</string>
   <string name="pref_accessibility_title">Tilgjengelighet</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Når du skriver inn fra adressefeltet, kan vanlige bokstavkombinasjoner angis med ett tastetrykk</string>
@@ -356,7 +341,6 @@
   <string name="pref_content_open_in_background">​​Åpne i bakgrunnen</string>
   <string name="pref_content_open_in_background_summary">Åpne nye faner bak den aktuelle fane</string>
   <string name="pref_content_plugins">Aktiver plug-ins</string>
-  <string name="pref_content_preload_title">Forhåndslast innhold</string>
   <string name="pref_content_search_engine">Søkemotor</string>
   <string name="pref_content_search_engine_summary">Velg en søkemotor</string>
   <string name="pref_content_title">Sideindhold</string>
@@ -385,7 +369,6 @@
   <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_viewport">Bruk bred viewport</string>
   <string name="pref_development_visual_indicator">Aktivér visuel indikator</string>
-  <string name="pref_exit_on_closing_last_tab_enabled_summary">Kryss av denne for å lukke Nettleser ved lukning av siste fane på navigationsskjermen. Ikke avkryss for å vise startside</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Avslutt ved lukning av siste fane</string>
   <string name="pref_extras_reset_default">Nullstill til standard</string>
   <string name="pref_extras_reset_default_dlg">Tilbakestill Innstillinger til standardverdier?</string>
@@ -400,7 +383,6 @@
   <string name="pref_file_download_save_title">Last ned og lagre fil</string>
   <string name="pref_fling_on_border_enabled">Trekk på kanten</string>
   <string name="pref_fling_on_border_enabled_title_summary">Trekk fra kanten av skjermen</string>
-  <string name="pref_fling_on_border_operation">Handling for trekk på kanten</string>
   <string name="pref_font_size_category">Tekststørrelse</string>
   <string name="pref_force_userscalable">Tving aktivering av zoom</string>
   <string name="pref_force_userscalable_summary">"Overskyg en hjemmesides anmodning om at styre zoom adfærd"</string>
@@ -410,7 +392,6 @@
   <string name="pref_general_sync_title">Synk</string>
   <string name="pref_general_title">Generelt</string>
   <string name="pref_gesture_title">Berøringshandlinger</string> 
-  <string name="pref_image_display_control">Bildevisningskontroll</string>
   <string name="pref_images_preload_dialogtitle">Bilder forhåndslaster...</string>
   <string name="pref_images_preload_summary">" Tillat nettleseren å forhåndslaste bilder når dette støttes av serveren"</string>
   <string name="pref_images_preload_title">Bildeforhåndslastning</string>
@@ -475,7 +456,7 @@
   <string name="pref_setting_title">Sideinnstillinger</string>
   <string name="pref_text_zoom">Tekstskalering</string>
   <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">6</string>
+  <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">Brukeragent streng</string>
   <string name="pref_ua_title">Brukeragent håndtering</string>
   <string name="pref_use_instant_search">Google Instant</string>
@@ -542,9 +523,7 @@
   <string name="search_yahoo">Yahoo</string>
   <string name="security_warning">Sikkerhetsadvarsel</string>
   <string name="select_dot">Velg tekst</string>
-  <string name="selection_all">Velg alt</string>
   <string name="send_bookmark_to_home_screen">Send til hjemskjerm</string>
-  <string name="send_to_desktop">Send til skrivebord</string>
   <string name="send_to_popular">populær</string>
   <string name="set_as_homepage">Sett som startside</string>
   <string name="share_link">Del link</string>
@@ -568,10 +547,8 @@
   <string name="stop_loading">Stopp</string>
   <string name="stopping">Stopper ...</string>
   <string name="tab_bookmarks">Bokmerker</string>
-  <string name="tab_closed">Fane lukket.</string>
   <string name="tab_history">Historikk</string>
   <string name="tab_most_visited">Mest besøkte</string>
-  <string name="tab_opened_background">Fane åpnet i bakgrunnen.</string>
   <string name="tab_quicklinks">Hurtiglinker</string>
   <string name="tab_snapshots">Lagrede sider</string>
   <string name="tab_yellowpage">Populære sider</string>
@@ -591,7 +568,6 @@
   <string name="webapp_add_to_desktop">Legg til hjemskjerm</string>
   <string name="webapp_addtodeskpop_append">Program lagt på hjemskjermen</string>
   <string name="webapp_app_name">MiMarket webbutikk</string>
-  <string name="webapp_bottom_bar_addtodesk">Legg til på hjemskjerm</string>
   <string name="webapp_bottom_bar_already_addtodesk">Allerede lagt på hjemskjerm</string>
   <string name="webapp_bottom_bar_exit">Avslutt</string>
   <string name="webapp_bottom_bar_hidebar">Gjem nederste linjen</string>

@@ -7,6 +7,7 @@
         <item>Alarm</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
+        <item>Ingen</item>
         <item>0 minutter</item>
         <item>1 minutt</item>
         <item>5 minutter</item>

@@ -7,11 +7,9 @@
         <item>Stor tekst</item>
         <item>Meget stor tekst</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_size">
-        <item>0.8</item>
-        <item>0.9</item>
-        <item>1.0</item>
-        <item>1.2</item>
-        <item>1.5</item>
+   <string-array name="general_preference_auto_advance_summary_array">
+        <item>Gå til nyere melding etter at du har slettet en melding</item>
+        <item>Gå til eldre melding etter at du har slettet en melding</item>
+        <item>Gå til innboks når etter har slettet en melding</item>
     </string-array>
 </resources>

@@ -14,7 +14,7 @@
         <item>Epost</item>
         <item>Organisasjon</item>
         <item>IM</item>
-        <item>SIP Telefon</item>
+        <item>SIP -tlefon</item>
         <item>Fødselsdag</item>
         <item>Hjemmeside</item>
         <item>Adresse</item>
@@ -27,11 +27,11 @@
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Via SMS-melding</item>
-        <item>Via Cloud-melding</item>
+        <item>Via skymelding</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>Via MMS-melding</item>
-        <item>Via Cloud-melding</item>
+        <item>Via skymelding</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 sekund</item>

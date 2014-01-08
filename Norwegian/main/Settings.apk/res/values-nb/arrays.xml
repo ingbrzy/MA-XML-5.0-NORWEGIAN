@@ -21,6 +21,13 @@
         <item>5 minutter</item>
         <item>10 minutter</item>
     </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 minutter</item>
+        <item>15 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>Ubegrenset</item>
+    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Aldri</item>
         <item>15 sekunder</item>
@@ -41,6 +48,58 @@
         <item>5 minutter</item>
         <item>10 minutter</item>
         <item>30 minutter</item>
+    </string-array>
+    <string-array name="multi_sim_entries">
+        <item>Abonnement 1</item>
+        <item>Abonnement 2</item>
+    </string-array>
+    <string-array name="multi_sim_summaries">
+        <item>Abonnement 1</item>
+        <item>Abonnement 2</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Abonnement 1</item>
+        <item>Abonnement 2</item>
+        <item>Spørr</item>
+    </string-array>
+    <string-array name="multi_sim_summaries_voice">
+        <item>Abonnement 1</item>
+        <item>Abonnement 2</item>
+        <item>Spørr bruker</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice_without_prompt">
+        <item>Abonnement 1</item>
+        <item>Abonnement 2</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Etter 1 minutt</item>
+        <item>Etter 5 minutter</item>
+        <item>Etter 10 minutter</item>
+        <item>Aldri</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Høy ytelse</item>
+        <item>Balanse</item>
+        <item>Batteri-sparende</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 sekunder</item>
+        <item>30 sekunder</item>
+        <item>1 minutt</item>
+        <item>2 minutter</item>
+        <item>5 minutter</item>
+        <item>10 minutter</item>
+        <item>Aldri</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Aldri vibrer</item>
+        <item>Vibrer når ringesignalet er dempet</item>
+        <item>Alltid</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>High performance</item>
+        <item>Balance</item>
+        <item>Battery saving</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>Liten</item>
@@ -63,7 +122,7 @@
         <item>Meget høy</item>
     </string-array>
     <string-array name="tts_demo_strings">
-        <item>Dette er et ekspempel på Text-To-Speech på Engelsk.</item>
+        <item>Dette er et eksempel på Text-To-Speech på Engelsk.</item>
         <item>Voici un échantillon de synthèse vocale en français.</item>
         <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
         <item>Questo è un esempio di sintesi vocale in italiano.</item>
@@ -82,6 +141,11 @@
         <item>Mislykket</item>
         <item>Blokkert</item>
         <item>Unngår midlertidig dårlig forbindelse</item>
+    </string-array>
+    
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI heksadesimal</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -115,8 +179,8 @@
         <item>Utenfor rekkevidde</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 Minutter</item>
-        <item>5 Minutter</item>
+        <item>2 minutter</item>
+        <item>5 minutter</item>
         <item>1 Time</item>
         <item>Aldri</item>
     </string-array>
@@ -162,7 +226,7 @@
         <item>Manuell</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>Fra</item>
+        <item>Av</item>
         <item>Ring</item>
         <item>Vibrer</item>
     </string-array>
@@ -182,7 +246,7 @@
         <item>Uspesifisert</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Intern Hukommelse</item>
+        <item>Intern hukommelse</item>
         <item>SD-kort</item>
         <item>La telefonen bestemme</item>
     </string-array>
@@ -202,7 +266,7 @@
         <item>Sjekk alltid for HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animasjon fra</item>
+        <item>Animasjon av</item>
         <item>Animasjon skala .5x</item>
         <item>Animasjon skala 1x</item>
         <item>Animasjon skala 1.5x</item>
@@ -211,7 +275,7 @@
         <item>Animasjon skala 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animasjon fra</item>
+        <item>Animasjon av</item>
         <item>Animasjon skala .5x</item>
         <item>Animasjon skala 1x</item>
         <item>Animasjon skala 1.5x</item>
@@ -220,7 +284,7 @@
         <item>Animasjon skala 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animasjon fra</item>
+        <item>Animasjon av</item>
         <item>Animasjon skala .5x</item>
         <item>Animasjon skala 1x</item>
         <item>Animasjon skala 1.5x</item>
@@ -229,12 +293,12 @@
         <item>Animasjon skala 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Ingen grense</item>
+        <item>Standard grense</item>
         <item>Ingen bakgrunnsprosesser</item>
-        <item>1 prosess</item>
-        <item>2 prosesser</item>
-        <item>3 prosesser</item>
-        <item>4 prosesser</item>
+        <item>Maks 1 prosess</item>
+        <item>Maks 2 prosesser</item>
+        <item>Maks 3 prosesser</item>
+        <item>Maks 4 prosesser</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -324,6 +388,20 @@
         <item>Musikk</item>
         <item>Video</item>
         <item>E-post</item>
+    </string-array>
+    <string-array name="score_descriptions">
+        <item>Blokkeringsliste er av</item>
+        <item>Tillatelseshåndtering er av</item>
+        <item>Søppelkasse er for full</item>
+        <item>Virusdefinisjoner timet out</item>
+        <item>For mange bakgrunnsprosesser</item>
+    </string-array>
+    <string-array name="score_suggests">
+        <item>Aktiver blokkeringsliste</item>
+        <item>Aktiver programtillatelseshåndtering</item>
+        <item>Tøm skrot</item>
+        <item>Oppdater virusbiblioteky</item>
+        <item>"Du kjører veldig mange programmer i bakgrunnen…"</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekund</item>

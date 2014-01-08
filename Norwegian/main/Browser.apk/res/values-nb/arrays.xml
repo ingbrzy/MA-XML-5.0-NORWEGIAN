@@ -51,8 +51,6 @@
         <item>Normal PC</item>
         <item>iPhone</item>
         <item>iPad</item>
-        <item>Froyo-N1</item>
-        <item>Honeycomb-Xoom</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Side opp/ned</item>

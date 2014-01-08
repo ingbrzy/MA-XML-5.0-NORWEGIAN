@@ -146,9 +146,6 @@
   <string name="no_title_label">(Ingen tittel)</string>
   <string name="not_synced">ikke synkronisert</string>
   <string name="pengzu"/>
-  <string name="prefDefault_alerts_vibrateWhen">aldri</string>
-  <string name="prefDefault_alerts_vibrate_false">aldri</string>
-  <string name="prefDefault_alerts_vibrate_true">alltid</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrasjon</string>
   <string name="preferences_about_title">Om</string>
   <string name="preferences_alerts_popup_title">Popup-melding</string>
@@ -160,7 +157,6 @@
   <string name="preferences_category_general_title">Generelt</string>
   <string name="preferences_clear_search_history_summary">Fjern alle utførte søk</string>
   <string name="preferences_clear_search_history_title">Fjern søkehistorikk</string>
-  <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">Standard påmindelsestid</string>
   <string name="preferences_default_reminder_title">Standard påmindelsestid</string>
   <string name="preferences_general_title">Innstillinger for kalendervisning</string>

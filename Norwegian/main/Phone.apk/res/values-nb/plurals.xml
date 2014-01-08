@@ -12,4 +12,9 @@
         <item quantity="other">Valgte funksjon er ikke tilgjengelig i nødanropsmodus. Telefonen vil være i denne modus i %s minutter. Vil du avslutte nå?</item>
         <item quantity="one">Valgte funksjon er ikke tilgjengelig i nødanropsmodus. Telefonen vil være i denne modus i %s minut. Vil du avslutte nå?</item>
     </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d  valgt"</item>
+        <item quantity="zero">%1$d valgt</item>
+        <item quantity="one">%1$d valgt</item>
+    </plurals>
 </resources>

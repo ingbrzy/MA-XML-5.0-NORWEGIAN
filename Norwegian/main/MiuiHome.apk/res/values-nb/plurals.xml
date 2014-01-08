@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Avinstaller \"%1$s\" og %2$d andre programmer?</item>
+        <item quantity="one">Avinstaller \"%s\"</item>
+        <item quantity="two">Avinstaller \"%s\" og 1 annet program?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%1$ programmer avinstallert</item>
+        <item quantity="one">Program avinstallert</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"Kunne ikke avinstallere \"%1$s\" og %2$d andre programmer"</item>
+        <item quantity="one">"Kunne ikke avinstallere \"%s\""</item>
+        <item quantity="two">"Kunne ikke avinstallere \"%s\" and 1 annet program"</item>
+    </plurals>
+</resources>

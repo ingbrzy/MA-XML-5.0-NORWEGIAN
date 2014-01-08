@@ -9,8 +9,8 @@
         <item quantity="one">Viser 1 kontakt</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">Fandt %d kontakter</item>
-        <item quantity="one">Fandt 1 kontakt</item>
+        <item quantity="other">Fant %d kontakter</item>
+        <item quantity="one">Fant 1 kontakt</item>
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">%d kontakter</item>
@@ -40,5 +40,18 @@
         <item quantity="other">%1$d valgt</item>
         <item quantity="zero">%1$d valgt</item>
         <item quantity="one">%1$d valgt</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d  lagt til"</item>
+        <item quantity="one">%1$d kontakter lagt til</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d personer</item>
+        <item quantity="one">1 person</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d elementer valgt"</item>
+        <item quantity="zero">%1$d elementer valgt</item>
+        <item quantity="one">%1$d element valgt</item>
     </plurals>
 </resources>

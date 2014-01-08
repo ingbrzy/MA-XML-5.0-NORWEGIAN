@@ -4,33 +4,17 @@
         <item>Klassisk</item>
         <item>Klassisk (Ingen overskyd)</item>
         <item>Kryssfade</item>
-        <item>Fall ned</item>
-        <item>Vend side</item>
-        <item>Overlappende</item>
-        <item>Roterende</item>
-        <item>3D Firkant</item>
-    </string-array>
-    <string-array name="transformation_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>7</item>
-        <item>8</item>
-        <item>4</item>
+        <item>Rundkast</item>
+        <item>Side</item>
+        <item>Strøm</item>
+        <item>Roter</item>
+        <item>Kube</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Som tema</item>
         <item>Midt</item>
         <item>Venstre</item>
         <item>Høyre</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_values">
-        <item>byTheme</item>
-        <item>center</item>
-        <item>left</item>
-        <item>right</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Standard</item>

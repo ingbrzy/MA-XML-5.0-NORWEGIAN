@@ -376,6 +376,7 @@ venner."</string>
   <string name="remove_hidden_album">Avbryt skjulte</string>
   <string name="remove_recent_album">Fjern fra favoritt-album</string>
   <string name="rename_failed">Endring av navn mislykkes</string>
+  <string name="rename_failed_duplicated_name">En fil med dette navnet eksisterer allerede.</string>
   <string name="renren_image">RenRen</string>
   <string name="request_qr_code">Henter QR-kode, vennligst vent...</string>
   <string name="request_qr_code_failed">QR-kode henting feilet, trykk for å prøve igjen</string>
