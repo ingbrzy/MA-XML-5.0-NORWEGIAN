@@ -14,7 +14,7 @@
   <string name="activate_phone_server_error">Serverfeil，kunne ikke åpne synktjeneste</string>
   <string name="activate_phone_server_error_notif">Serverfeil</string>
   <string name="activate_status_desc_acquire_phone_number">Henter telefonnummer fra server</string>
-  <string name="activate_status_desc_acquire_phone_number_server_error">Server error occurred while acquiring phone number.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error">Feil skjedde under henting av telefonummer.</string>
   <string name="activate_status_desc_acquire_phone_number_server_error_wait">Serverfeil under henting av telefonnummer. Venter på å fortsette...</string>
   <string name="activate_status_desc_acquire_phone_number_server_io_error">Server I/O feil ved planlagt henting av telefonnummer.</string>
   <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Server I/O feil ved henting av telefonnummer. Venter på å prøve igjen...</string>
@@ -52,13 +52,11 @@
   <string name="alert_notif_title_dspt">Vennligst fortsett synkroniseringen for å holde dine data sikre</string>
   <string name="alert_title_remove_account">Slett konto</string>
   <string name="app_name">Xiaomi Services-rammeverk</string>
+  <string name="available_functionality">Tilgjengelige funksjoner</string>
   <string name="bad_authentication">Validering mislyktes, feil brukernavn eller passord</string>
-  <string name="bind">Authoriser</string>
-  <string name="bind_description">Tilat synk med telefonkontakter</string>
   <string name="bind_sina_weibo">Autoriser Sina Weibo</string>
   <string name="bind_weibo_description">Finn telefonkontakter,  venner og annen informasjon direkte fra kontoen din</string>
   <string name="binded">Assosiert</string>
-  <string name="binding_behavior_error">Autoriseringsfeil!</string>
   <string name="btn_activate">Aktiver</string>
   <string name="button_cancel">Avbryt</string>
   <string name="captcha">Captcha-kode</string>
@@ -71,6 +69,7 @@
   <string name="cmcc_micloud_dspt">Cloud-tjenester inkluderer mobilsynk, enhetsplassering og andre funksjoner. Du kan også administrere dine data online til enhver tid!</string>
   <string name="completed">Fullført</string>
   <string name="confirm">Bekreft</string>
+  <string name="current_account">Gjeldende konto</string>
   <string name="data_keep_in_phone">Behold data på enheten</string>
   <string name="data_sync_notice">Bruk din Xiaomi-konto til å synkronisere meldinger, kontakter og andre data.</string>
   <string name="data_wipe_from_phone">Slett fra enheten</string>
@@ -78,6 +77,7 @@
   <string name="dirty_mms_count">%d melding(er)</string>
   <string name="dirty_note_count">%d notat(er)</string>
   <string name="disable_find_device_error">%1$s, kunne ikke deaktivere plasseringstjeneste</string>
+  <string name="disable_micloud">&lt;u&gt;Ikke aktivert MiCloud&lt;/u&gt;</string>
   <string name="email_already_be_used">Epostadresse allerede i bruk</string>
   <string name="enableAll">Aktiver alle</string>
   <string name="enable_find_device_error">%1$s, kunne ikke aktivere plasseringstjeneste</string>
@@ -90,8 +90,6 @@
   <string name="error_no_sms_service">SMS tjeneste ikke tilgjengelig</string>
   <string name="error_server">Serverfeil</string>
   <string name="error_sim_not_ready">SIM ikke klar</string>
-  <string name="error_too_frequent_visits_summary">"Du prøver å besøke for ofte.
-Vennligst prøv igjen om fem minutter"</string>
   <string name="error_unknown">Ukjent feil: %1$s</string>
   <string name="error_user_name">Ugyldig brukernavn!</string>
   <string name="failed_to_send_activate_email">Kunne ikke sende aktiveringsepost</string>
@@ -117,8 +115,11 @@ Vennligst prøv igjen om fem minutter"</string>
   <string name="input_vcode_hint">Skriv aktiveringskode</string>
   <string name="input_vcode_prompt">Vennligst skriv aktiveringskode</string>
   <string name="int_phone_user_notice">Når du registrerer deg med et nummer utenfor Kina, skriv inn landskode, f.eks 47xxxxxxxxx</string>
+  <string name="internet_comm">Meldingstjenester</string>
+  <string name="internet_message">MiCloud-meldinger</string>
   <string name="login">Logg inn</string>
   <string name="login_failed">Innlogging mislyktes</string>
+  <string name="login_instead_reg">Logg inn med dette telefonnummeret</string>
   <string name="login_notice">Logger inn...</string>
   <string name="master_alert_notif_dspt" formatted="false">"I løpet av denne perioden har du lagt til %s navn, telefonkontakter, %s SMSer, %s bilder, %s av notater og andre data.
 
@@ -129,7 +130,14 @@ Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent bort
   <string name="micloud_account_label">Konto: %1$s</string>
   <string name="micloud_account_name">Xiaomi-konto</string>
   <string name="micloud_account_not_actived">Konto ikke aktivert</string>
-  <string name="micloud_active_email_sent_1">Vi har sendt en aktiveringslink til din epost:</string>
+  <string name="micloud_activate_account_fail_notify_title">Kunne ikke aktivere din Xiaomi-konto</string>
+  <string name="micloud_activate_account_success_notify_title">Din Xiaomi-konto ble aktivert</string>
+  <string name="micloud_activate_back_btn">Avbryt</string>
+  <string name="micloud_activate_retry_btn">Prøv aktivering på nytt</string>
+  <string name="micloud_activating_account_notify_info">Du aktiverer din Xiaomi-konto</string>
+  <string name="micloud_activating_account_notify_title">Aktiverer din Xiaomi-konto...</string>
+  <string name="micloud_active_alert_title">Aktiver din konto</string>
+  <string name="micloud_active_email_sent_1">Vi har sendt en aktiverings-link til din E-post:</string>
   <string name="micloud_active_email_sent_2"/>
   <string name="micloud_active_email_visit">Besøk %s</string>
   <string name="micloud_activing_account">Aktiverer din konto...</string>
@@ -140,6 +148,7 @@ Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent bort
   <string name="micloud_click_email_to_valid">Klikk på aktiveringslinken i din inboks</string>
   <string name="micloud_data_loading">Laster...</string>
   <string name="micloud_delete_account">Slett konto</string>
+  <string name="micloud_dspt">Skytjenester inkluderer MiCloud-meldinger, mobilsynk, lokalisering av enhet og andre funksjoner. Du kan også administrere din data når-som-helst!</string>
   <string name="micloud_email">Epostadresse</string>
   <string name="micloud_error_email">Ugyldig epost</string>
   <string name="micloud_error_empty_captcha_code">Skriv captcha-kode.</string>
@@ -160,13 +169,17 @@ For å løse dette, kan du enten fjerne gamle filer, eller kjøpe mer lagringspl
   <string name="micloud_input_password_prompt">Tast inn passord</string>
   <string name="micloud_intro_01_part_01">Spar SMS-kostnader</string>
   <string name="micloud_intro_01_part_02">MIUI tillater deg å sende gratis skymeldinger via nettverket</string>
-  <string name="micloud_intro_03_part_02">Mange your data and also locate, lock or erase device contents on i.xiaomi.com</string>
+  <string name="micloud_intro_02_part_01">Du trenger ikke å gjøre noe</string>
+  <string name="micloud_intro_02_part_02">Skytjenester lar deg synke kontakter, meldinger, bilder og annen data til forskjellige mobilenheter.</string>
+  <string name="micloud_intro_03_part_01">Never lose your data again and ensure that contents are secure</string>
+  <string name="micloud_intro_03_part_02">Administrer dine data og i tillegg finn, lås eller slett enhetsinnhold på i.xiaomi.com</string>
   <string name="micloud_is_what">Hva er MiCloud?</string>
   <string name="micloud_more">Lær mer</string>
   <string name="micloud_none">Ingen</string>
   <string name="micloud_password_confirm_hint">Bekreft passord</string>
   <string name="micloud_password_error_inconsistent">Passordene stemmer ikke overens</string>
   <string name="micloud_password_req_notice">8~16 sifre, inneholder tall, bokstaver, store og små bokstaver</string>
+  <string name="micloud_proceed">Fortsett</string>
   <string name="micloud_reg_new">Lag ny</string>
   <string name="micloud_resend_active_email">Send aktiveringsepost på nytt</string>
   <string name="micloud_space_full_influence">Hva skjer hvis jeg går tom for plass?</string>
@@ -182,7 +195,6 @@ brukt %s | gjenværende %s"</string>
   <string name="micloud_user_name">Brukernavn</string>
   <string name="micloud_user_phone">Telefonnummer</string>
   <string name="micloud_user_space_usage">Plass brukt</string>
-  <string name="micloud_val_sms_alert">En SMS skal sendes for å validere ditt telefonnummer, fortsett?</string>
   <string name="micloud_via_int_sms_alert">En SMS vil bli sendt til enheten din til din operatør sine priser. Er du sikker på at du vil fortsette?</string>
   <string name="micloud_via_sms_alert">En SMS vil bli sent for å verifisere ditt telefonnummer. Er du sikker på at du vil fortsette?</string>
   <string name="micloud_warn_full_msg">Du har nådd din lagringsgrense!</string>
@@ -193,10 +205,11 @@ brukt %s | gjenværende %s"</string>
   <string name="micloud_web_discription_01">Logg in på http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">for å lagre og få tilgang til dine filer fra overalt</string>
   <string name="micloud_welcome_skip_login">Hopp over registrering</string>
-  <string name="mili_center">Mi credit-senter</string>
+  <string name="mili_center">Mi Credit</string>
+  <string name="my_xiaomi_account">Min Xiaomi-konto</string>
   <string name="next">Neste</string>
   <string name="noRemind">"Ikke påminn"</string>
-  <string name="no_sim">SIM ikke funnet, kan ikke synkronisere</string>
+  <string name="nobind">Ikke autorisert</string>
   <string name="other_settings">Andre innstillinger</string>
   <string name="password">Passord</string>
   <string name="prev">Tilbake</string>
@@ -206,6 +219,7 @@ brukt %s | gjenværende %s"</string>
   <string name="reg_by_email_failure">Registrering mislyktes: %1$s</string>
   <string name="reg_failed">Registrering mislyktes</string>
   <string name="reg_success">Registrering fullført</string>
+  <string name="reg_success_summary">Ditt telefonnummer %1$s er allerede koblet til MiLock hvor du kan bruke det til å logge inn og gjenopprette passord.</string>
   <string name="reg_type_email">Registrer via epost</string>
   <string name="reg_type_phone">Registrer via telefon (anbefalt)</string>
   <string name="reging">Registerer, vennligst vent…</string>
@@ -221,6 +235,7 @@ brukt %s | gjenværende %s"</string>
   <string name="service_error">Tjenestefeil</string>
   <string name="show_password">Vis passord</string>
   <string name="sim_changed_notification_content">SIM -kort ikke aktivert, vennligst aktiver</string>
+  <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Hopp over innlogging</string>
   <string name="skip_login_u">&lt;u&gt;Hopp over innlogging&lt;/u&gt;</string>
   <string name="skip_setup_account_msg">Med din Xiaomi-konto, kan du synkronisere og sikkerhetskopiere SMS, kontakter, bilder, notater, etc. Fortsett og still inn senere?</string>
@@ -236,6 +251,7 @@ Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent bort
   <string name="sync_sub_dspt">En SMS må sendes for å aktivere tjenesten</string>
   <string name="sync_sub_int_dspt">En internasjonal sms vil sendes for å aktivere tjenesten</string>
   <string name="title_reg">Registrer en Xiaomi konto</string>
+  <string name="title_voucher">Fyll på ved bruk av MiCredit-kupong</string>
   <string name="trust_device">Stol på enhet</string>
   <string name="unactivated_user">Ikke aktivert</string>
   <string name="unbind">De-autoriser</string>
@@ -251,16 +267,6 @@ Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent bort
   <string name="vcode">Bekreftelseskode</string>
   <string name="vcode_notification_title">Din innloggingsbekreftelse er ufullstendig</string>
   <string name="vcode_prompt_long">Vennligst skriv bekreftelseskoden generert via Xiaomi sikkerhetskode</string>
-  <string name="voucher_btn_exchange">Bruk kupong</string>
-  <string name="voucher_btn_exchange_error">Ugyldig</string>
-  <string name="voucher_btn_has_exchanged">Kupong løst inn</string>
-  <string name="voucher_denom">Mi Credits</string>
-  <string name="voucher_empty">Ingen lagrede MiCredit data</string>
-  <string name="voucher_exchange">Løs inn</string>
-  <string name="voucher_exchange_count">Kuponger brukt (%1$s)</string>
-  <string name="voucher_exchange_success">%1$s MiCredit(s) innløsning fullført </string>
-  <string name="voucher_expire">%1$s-%2$s-%3$s utløpt</string>
-  <string name="voucher_input">Tast inn</string>
   <string name="wipe_data_dialog_msg">%s vil ikke bli synket (denne dataen vil bli tapt hvis du forsetter).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Noen elementer har ikke blitt synket."</string>
