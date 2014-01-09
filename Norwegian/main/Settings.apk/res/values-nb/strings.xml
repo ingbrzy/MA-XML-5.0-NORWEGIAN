@@ -424,6 +424,7 @@ Tast PIN for å parre med \"%1$s\". [Høy sikkerhet aktivert: Trenger 16-tegnsn�
   <string name="bluetooth_pan_user_profile_summary_connected">Koble til enhet for internettadgang</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s ønsker å få adgang til dine kontakter og anropshistorikk. Gi adgang til %2$s?</string>
   <string name="bluetooth_pb_remember_choice">"Ikke spør igjen"</string>
+  <string name="bluetooth_pbap_connection_permission_request">Pbap-tilkoblingsforespørsel</string>
   <string name="bluetooth_permission_request">Bluetooth tillatelse</string>
   <string name="bluetooth_phonebook_request">Telefonbok anmodning</string>
   <string name="bluetooth_pin_values_hint">Normalt 0000 eller 1234</string>
@@ -433,16 +434,24 @@ Tast PIN for å parre med \"%1$s\". [Høy sikkerhet aktivert: Trenger 16-tegnsn�
   <string name="bluetooth_preference_scan_title">Søk etter enheter</string>
   <string name="bluetooth_profile_a2dp">Media Audio</string>
   <string name="bluetooth_profile_details">Profilinnstillinger</string>
+  <string name="bluetooth_profile_dun">Dial-up-nettverkstilgang</string>
   <string name="bluetooth_profile_headset">Telefonlyd</string>
   <string name="bluetooth_profile_hid">Inputenhet</string>
-  <string name="bluetooth_profile_name">"%1$s's Xiaomi Telefon"</string>
   <string name="bluetooth_profile_opp">Filoverførsel</string>
   <string name="bluetooth_profile_pan">internettadgang</string>
   <string name="bluetooth_profile_pan_nap">internetforbindelse deling</string>
+  <string name="bluetooth_profile_sap">SIM-tilgang</string>
   <string name="bluetooth_quick_toggle_summary">Slå på Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_rename_button">Gi nytt navn</string>
-  <string name="bluetooth_rename_device">Gi nytt navn telefon</string>
+  <string name="bluetooth_rename_device">Gi nytt navn til telefon</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s vil ha tilgang til ditt SIM-kort. Gi tilgang til %2$s?</string>
+  <string name="bluetooth_sap_connection_permission_request">Sap-tilkoblingsforespørsel</string>
+  <string name="bluetooth_sap_profile_summary_connected">Tilkoblet SIM-tilgangsserver</string>
+  <string name="bluetooth_sap_profile_summary_not_connected">Ikke tilkoblet SIM-tilgangsserver</string>
+  <string name="bluetooth_sap_profile_summary_use_for">Bruk for SIM-tilgang</string>
+  <string name="bluetooth_sap_remember_choice">"Ikke spørr igjen"</string>
+  <string name="bluetooth_sap_request">SAP-forespørsel</string>
   <string name="bluetooth_scan_for_devices">Skan etter enheter</string>
   <string name="bluetooth_search_for_devices">Søk etter enheter</string>
   <string name="bluetooth_searching_for_devices">Søker ...</string>
@@ -509,14 +518,19 @@ Tast PIN for å parre med \"%1$s\". [Høy sikkerhet aktivert: Trenger 16-tegnsn�
   <string name="camera_key_action_shortcut_search">Søk</string>
   <string name="camera_key_action_shortcut_title">Snarvei</string>
   <string name="camera_key_action_shortcut_wake">Lås/Vekk enhet</string>
-  <string name="camera_key_action_title">MI Knapp</string>
+  <string name="camera_key_action_title">MI-knapp</string>
   <string name="camera_key_action_toggle_title">Slå på/Slå av-knapp</string>
   <string name="cancel">Avbryt</string>
+  <string name="cancel_alert">Forkast dine endringer?</string>
+  <string name="cancel_button">Avbryt</string>
+  <string name="cancel_optimize">Avbryt</string>
+  <string name="cancel_scan">Avbryt</string>
   <string name="cant_sync_dialog_message">Synk for denne post er i øyeblikket deaktivert. For å endre denne innstillingen, slå midlertidig slå bakgrunnsdata og automatisk synkronisering.</string>
   <string name="cant_sync_dialog_title">"Kan ikke synkronisere manuelt"</string>
   <string name="carrier_enabled">APN aktiver/deaktiver</string>
   <string name="carrier_enabled_summaryOff">APN deaktivert</string>
   <string name="carrier_enabled_summaryOn">APN aktivert</string>
+  <string name="category_key_settings">key_settings</string>
   <string name="cdma_security_settings_summary">Velg Min plassering, opplåsning av skjermen, lås lagring for legitimasjonsopplysninger</string>
   <string name="cell_broadcast_settings">Celle-utsendinger</string>
   <string name="cell_broadcast_settings_summary">Velg typen av viktige beskjeder som skal vises.</string>
@@ -589,14 +603,16 @@ Tast PIN for å parre med \"%1$s\". [Høy sikkerhet aktivert: Trenger 16-tegnsn�
   <string name="crypt_keeper_button_text">Krypter telefon</string>
   <string name="crypt_keeper_confirm_title">Bekreft kryptering</string>
   <string name="crypt_keeper_cooldown">Prøv igjen ^1 sekunder.</string>
-  <string name="crypt_keeper_desc">"Du kan kryptere dine kontoer, innstillinger, hentede programmer og deres data, medier og andre filer. Når du kryptere din telefon, må du skrive inn en numerisk PIN-kode eller passord for å dekryptere den, hver gang du slår den på: Du kan ikke dekryptere din telefon, unntatt ved å utføre en fabrikknullstilling, og dermed slette alle dine data. Kryptering tar en time eller mer. Du må starte med et oppladet batteri og holde din telefon koblet til, inntil kryptering er ferdig. Hvis du avbryter krypteringsprosessen, vil du miste noen eller alle dine data. "</string>
+  <string name="crypt_keeper_desc">"Du kan kryptere dine kontoer, innstillinger, hentede programmer og deres data, medier og andre filer. Når du kryptere din telefon, må du skrive inn en numerisk PIN-kode eller passord for å dekryptere den, hver gang du slår den på: Du kan ikke dekryptere din telefon, unntatt ved å utføre en fabrikknullstilling, og dermed slette alle dine data.
+Kryptering tar en time eller mer. Du må starte med et oppladet batteri og holde din telefon koblet til, inntil kryptering er ferdig. Hvis du avbryter krypteringsprosessen, vil du miste noen eller alle dine data. "</string>
   <string name="crypt_keeper_dialog_need_password_message">Du må angi en låseskjerms PIN-kode eller passord, før du kan starte kryptering.</string>
   <string name="crypt_keeper_dialog_need_password_title">Ingen låseskjerms PIN-kode eller passord</string>
   <string name="crypt_keeper_encrypt_summary">Krev en numerisk PIN-kode eller passord for å dekryptere din telefon hver gang du slå den på</string>
   <string name="crypt_keeper_encrypt_title">Krypter telefon</string>
   <string name="crypt_keeper_encrypted_summary">Kryptert</string>
   <string name="crypt_keeper_enter_password">Skriv ditt passord</string>
-  <string name="crypt_keeper_failed_summary">"Kryptering ble avbrutt, og kan ikke fullføre. Som følge av dette er dataene på din telefon ikke lengere tilgjengelig. For at fortsette bruken av ​​telefonen, må du utføre en fabrikknullstilling. Når du har opprettet din telefon etter nullstilling, har du mulighet for å gjenopprette data som ble lagret til din Google-konto."</string>
+  <string name="crypt_keeper_failed_summary">"Kryptering ble avbrutt, og kan ikke fullføre. Som følge av dette er dataene på din telefon ikke lengere tilgjengelig.
+For å fortsette bruken av ​​telefonen, må du utføre en fabrikknullstilling. Når du har opprettet din telefon etter nullstilling, har du mulighet for å gjenopprette data som ble lagret til din Google-konto."</string>
   <string name="crypt_keeper_failed_title">Kryptering mislykket</string>
   <string name="crypt_keeper_final_desc">Krypter telefon? Denne operasjonen kan ikke angres, og hvis du avbryter vil du miste data. Kryptering tar ca en time eller mer, hvor telefonen vil restarte flere ganger.</string>
   <string name="crypt_keeper_low_charge_text">Lad opp ditt batteri, og prøv igjen.</string>
@@ -611,10 +627,13 @@ Tast PIN for å parre med \"%1$s\". [Høy sikkerhet aktivert: Trenger 16-tegnsn�
   <string name="current_input_method">Standard</string>
   <string name="custom_mark_category">Egendefinert</string>
   <string name="data_size_label">Data</string>
+  <string name="data_summary">Velg abonnement for dataanrop</string>
+  <string name="data_title">Dataanrop</string>
   <string name="data_usage_app_restrict_background">Begrens bakgrunnsdata</string>
   <string name="data_usage_app_restrict_background_summary">Deaktiver bakgrunnsdata på mobile data-nettverk alene. WiFi vil bli brukt hvis det er tilgjengelig.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">For å sette en grense for bakgrunnsdata for dette programmet, må det først settes en mobildata-grense.</string>
-  <string name="data_usage_app_restrict_dialog">"Denne funksjonen kan hindre en app, som er avhengig av bakgrunnsdata for å stoppe med å jobbe, når WiFi ikke er tilgjengelig. Du kan finne mer passende dataforbruk kontrol i innstillingene til rådighet innen i programmet."</string>
+  <string name="data_usage_app_restrict_dialog">"Denne funksjonen kan hindre et program, som er avhengig av bakgrunnsdata til å slutte å virke, når bare mobilnettverk er tilgjengelig.
+Du kan finne mer passende dataforbruk kontroll i innstillingene til rådighet innen i programmet."</string>
   <string name="data_usage_app_restrict_dialog_title">Begrens bakgrunnsdata?</string>
   <string name="data_usage_app_restricted">begrenset</string>
   <string name="data_usage_app_settings">Vis app-innstillinger</string>
@@ -703,11 +722,14 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="debug_log">Brukeropplevelsesprogram</string>
   <string name="debug_monitoring_category">Overvåking</string>
   <string name="deep_clean_tips_cache_content">"Noen programmer kan bruke cache-filer for å laste ned ekstra ressurser. Vær forsiktig når du rydder opp disse filene."</string>
+  <string name="deep_clean_tips_cache_content">"Noen programmer kan bruke cache-filer for å laste ned ekstra ressurser (f.eks. sangtekster, musikk, bilder osv.) Vær forsiktig med å rydde opp disse filene."</string>
+  <string name="deep_clean_tips_cache_title">Cachede filer</string>
   <string name="deep_clean_tips_cache_title">Cachede filer</string>
   <string name="deep_clean_tips_large_file_content">Store filer (10MB+) kan ta opp plass på din enhet.</string>
   <string name="deep_clean_tips_large_file_title">Store filer</string>
   <string name="deep_clean_tips_residual_content">"Restefiler lastet ned til ditt SD-kort av programmer som senere har blitt avinstallert"</string>
-  <string name="deep_clean_tips_residual_title">Restefilers</string>
+  <string name="deep_clean_tips_residual_content">"Restefiler lastet ned til SD-kortet av programmer som siden har blitt avinstallert"</string>
+  <string name="deep_clean_tips_residual_title">Restefiler</string>
   <string name="deep_clean_title_cache">Cache</string>
   <string name="deep_clean_title_large_file">Store filer</string>
   <string name="deep_clean_title_residual">Rester</string>
@@ -723,6 +745,8 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="development_enable">Aktiver utviklingsinnstillinger</string>
   <string name="development_settings_summary">Angi utviklingsinnstillinger</string>
   <string name="development_settings_title">Utviklingsinnstillinger</string>
+  <string name="device_additional_status">Ekstra statusinfo</string>
+  <string name="device_additional_status_summary">Telefonnummer, Signal, IMEI, osv.</string>
   <string name="device_admin_add_title">Enhetsadministrator</string>
   <string name="device_admin_settings_title">Enhetsadministrasjons-Innstillinger</string>
   <string name="device_admin_status">Denne administratoren er aktiv og gjør det mulig for programmet %1$s å utføre følgende handlinger:</string>
@@ -731,7 +755,6 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-Core</string>
   <string name="device_cpu4_info">Quad-Core</string>
-  <string name="device_default_name">Xiaomi telefon</string>
   <string name="device_edit_title">Endre enhetensnavn</string>
   <string name="device_info_default">Ukjent</string>
   <string name="device_info_label">Enhetsinfo</string>
@@ -752,8 +775,8 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="dialog_title_font_size">Skriftstørrelse</string>
   <string name="dirac_control">MI-lyd</string>
   <string name="dirac_mode_earbuds">Xiaomi-ørepropper</string>
-  <string name="dirac_mode_earphones">Xiaomi-hodetelefoner</string>
   <string name="dirac_mode_general">Generelt</string>
+  <string name="dirac_mode_in_ear">Xiaomi i-øre-hodetelefoner</string>
   <string name="dirac_mode_off">Dirac av</string>
   <string name="dirac_mode_piston_100">Xiaomi stempel-hodetelefoner</string>
   <string name="disableNetwork">disableNetwork</string>
@@ -856,6 +879,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="edit_whitelist">Endre notater</string>
   <string name="emergency_tone_summary">Velg adferd når et nødanrop er tastet inn</string>
   <string name="emergency_tone_title">Nødanropstone</string>
+  <string name="empty_folder_title">Tom mappe (%d)</string>
   <string name="empty_list_msg">"Du har ikke noen tredjepartsprogrammer installert."</string>
   <string name="emptylist_fwlog_call">Blokkerte anrop vil bli logget her.</string>
   <string name="emptylist_fwlog_ms">Alle blokkerte tekstmeldinger og MMS-meldinger vil bli logget her.</string>
@@ -868,8 +892,6 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="enable_anti_spam_title">Filtrer uønskede meldinger</string>
   <string name="enable_app_permission_summary">Overvåker 23 programmer</string>
   <string name="enable_app_permission_title">Tillatelsemonitor er på</string>
-  <string name="enable_assist_key_long_press">Start Google Nå</string>
-  <string name="enable_back_long_press">Lukk program</string>
   <string name="enable_compatibility">Skaler program</string>
   <string name="enable_drive_mode">Bilmodus</string>
   <string name="enable_firewall">Blokker uønskede samtaler</string>
@@ -887,7 +909,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="enforce_read_external_summary">Programmer skal spørre om tillatelse for å lese USB-lagring</string>
   <string name="enforce_read_external_title">Beskytt USB-lagring</string>
   <string name="enter_password">Skriv passord for å dekryptere lagring</string>
-  <string name="equalizer">Equalizer</string>
+  <string name="equalizer">EQ</string>
   <string name="erase_application">Slett Programmer</string>
   <string name="erase_application_description">Slett installerte programmer</string>
   <string name="erase_external_storage">Slett SD-kort</string>
@@ -1151,6 +1173,11 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="legal_information">Juridisk informasjon</string>
   <string name="license_title">Lisens</string>
   <string name="link_speed_label">Link Hastighet:</string>
+  <string name="list_sub_view_item_clean">Rydd</string>
+  <string name="list_sub_view_item_install">Installer</string>
+  <string name="list_sub_view_item_lock">Lås</string>
+  <string name="list_sub_view_item_unlock">Lås opp</string>
+  <string name="list_sub_view_item_view">Detaljer</string>
   <string name="local_backup_password_summary_change">Velg for å endre eller fjerne passord for desktop full backup</string>
   <string name="local_backup_password_summary_none">"Desktop full backup er i øyeblikket ikke beskyttet."</string>
   <string name="local_backup_password_title">Desktop backup passord</string>
@@ -1166,7 +1193,9 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="location_title">Min plassering</string>
   <string name="lock_after_timeout">Lås automatisk</string>
   <string name="lock_after_timeout_summary">%1$s etter skjerm slås av</string>
-  <string name="lock_intro_message">"Beskytt din telefon mot uautoriseret bruk ved å opprette et personlig skjermopplåsningsmønster. Dra fingeren for å binde sammen minst fire prikker i vilkårlig rekkefølge på det neste skjermbilde. Klar for å starte? Trykk på Neste."</string>
+  <string name="lock_intro_message">"Beskytt din telefon mot uautoriseret bruk ved å opprette et personlig skjermopplåsningsmønster. Dra fingeren for å binde sammen minst fire prikker i vilkårlig rekkefølge på det neste skjermbilde.
+
+Klar for å starte? Trykk på Neste."</string>
   <string name="lock_screen_unlock_show">Deaktiver sveipskjerm</string>
   <string name="lock_screen_unlock_show_summary">Gå direkte til hjermskjerm eller passordinput fra oppvåkning</string>
   <string name="lock_settings_common_title">Skjermlås-innstillinger</string>
@@ -1308,7 +1337,13 @@ Obs: denne handling kan ikke angres!"</string>
   <string name="menu_delete">Slett APN</string>
   <string name="menu_edit">Endre</string>
   <string name="menu_item_about_content">Sikkerhet: %s</string>
+  <string name="menu_item_about_summary">Versjon: %s</string>
   <string name="menu_item_about_title">Om</string>
+  <string name="menu_item_settings_title">Innstillinger</string>
+  <string name="menu_item_shortcut">Lag snarveier</string>
+  <string name="menu_item_shortcut_summary">Legg til mest brukte programmer som skrivebordssnarveier</string>
+  <string name="menu_item_shortcut_title">Legg til snarvei</string>
+  <string name="menu_item_shortcut_uninstall">Fjern snarvei</string>
   <string name="menu_key">Langt trykk på Meny-knapp</string>
   <string name="menu_new">Ny APN</string>
   <string name="menu_restore">Nullstil til standard</string>
