@@ -21,7 +21,7 @@
   <string name="dlg_delete_keyword">Fjern valgte nøkkelord?</string>
   <string name="dlg_edit_keyword">Endre nøkkeldord</string>
   <string name="dlg_import_blacklist">Importerer til svarteliste</string>
-  <string name="dlg_import_whitelist">Importerer til hviteliste</string>
+  <string name="dlg_import_whitelist">Legger til unntak…</string>
   <string name="dlg_keyword_ok">Lagre</string>
   <string name="dlg_no_block">"Ikke blokkere dette nummeret?"</string>
   <string name="dlg_no_block_ok">"Ikke blokker"</string>
