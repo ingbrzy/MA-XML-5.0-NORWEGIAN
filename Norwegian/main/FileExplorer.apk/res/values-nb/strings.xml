@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">"Laster inn brukerdata
-innlastingen kan ta noen minutter,
-din konto vil bli låst midlertidig, vennligst vent..."</string>
+  <string name="account_bind_prompt">"Flytter brukerdata, kontoen din vil bli låst midlertidig, vennligst vent..."</string>
   <string name="add_task">Legg til oppgaver</string>
   <string name="adding_upload_tasks">Legger til opplastingsoppgave.</string>
   <string name="already_signin_description">Du er allerede logget inn</string>
@@ -12,7 +10,8 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="app_garbage_path">Lokasjon:</string>
   <string name="app_garbage_title">Program-søppel</string>
   <string name="app_name">Filer</string>
-  <string name="background">Stile nedlastning</string>
+  <string name="application_size_label">Program</string>
+  <string name="background">Stille nedlastning</string>
   <string name="big5_summary">Standard koding av den tradisjonelle kinesiske versjonen av Windows-system</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Knytt til kuaipan-konto</string>
@@ -79,6 +78,7 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="dialog_type_image">Bilde</string>
   <string name="dialog_type_text">Tekst</string>
   <string name="dialog_type_video">Video</string>
+  <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Tom mappe</string>
   <string name="dlg_error_unmount_text">"Kunne ikke koble fra USB-lagring. Prøv igjen senere."</string>
   <string name="download_current_progress">%1$d/100</string>
@@ -118,6 +118,8 @@ din konto vil bli låst midlertidig, vennligst vent..."</string>
   <string name="ftp_transfer_secure">Sikker FTP-overføring</string>
   <string name="ftp_username_and_passworld">Brukernavn og passord</string>
   <string name="ftp_username_hint">Brukernavn</string>
+  <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
+  <string name="garbage_item_path_format" formatted="false">%s %s</string>
   <string name="garbage_size_metric">"%s
 Søppelelementer"</string>
   <string name="gbk_summary">Hvis du bruker GBK-tegnsett, e.g. Windows Explorer, velg denne type tegnset for å unngå forvrengt kinesisk tekst.</string>
