@@ -279,7 +279,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="device_import_progress_end_message">Importering fullført!</string>
   <string name="device_import_progress_message">Importerer...</string>
   <string name="device_import_progress_toast">%1$d kontakter importert</string>
-  <string name="device_import_title">importeringsprocess</string>
+  <string name="device_import_title">Importer</string>
   <string name="device_list_title">Velg telefon å parre med</string>
   <string name="device_other_guide">hvis din telefon ikke er i listen med modeller, prøv å bruk hjelpen nedenfor</string>
   <string name="device_other_title">annen telefon</string>
@@ -313,8 +313,8 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="dirty_contacts_notification_message">(Du kan deaktivere påminnelsen i innstillingerne)</string>
   <string name="dirty_contacts_notification_title">Vil du synkronisere dine kontakter?</string>
   <string name="display_all_contacts">Alle kontaktpersoner</string>
-  <string name="display_more_groups">flere grupper ...</string>
-  <string name="display_only_phones">Kun med telefonnumre</string>
+  <string name="display_more_groups">Flere grupper…</string>
+  <string name="display_only_phones">Gjem ufullstendige nummer</string>
   <string name="display_options_sort_by_family_name">Etternavn</string>
   <string name="display_options_sort_by_given_name">Fornavn</string>
   <string name="display_options_sort_list_by">Sorter listen etter</string>
@@ -341,7 +341,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="email_other">E-mail</string>
   <string name="email_work">E-mail jobb</string>
   <string name="emptyGroup">Ingen personer i den gruppe.</string>
-  <string name="empty_divider_title">Du kan</string>
+  <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Tast inn persons navn"</string>
   <string name="eventLabelsGroup">Hendelse</string>
   <string name="event_edit_field_hint_text">Dato</string>
@@ -410,7 +410,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="help_url_people_add"/>
   <string name="help_url_people_edit"/>
   <string name="help_url_people_main"/>
-  <string name="hint_distance">hold avstanden</string>
+  <string name="hint_distance"/>
   <string name="hint_findContacts">Finn kontakter</string>
   <string name="hint_more_contact">Bruk fletning av kontakter når det finnes duplikater</string>
   <string name="hint_search_contacts">%d kontakter</string>
@@ -428,7 +428,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="import_from_sdcard">Importer fra lager</string>
   <string name="import_from_sim">Importer fra SIM kort</string>
   <string name="import_multiple_vcard_string">Importer flere vCard filer</string>
-  <string name="import_name">navn</string>
+  <string name="import_name">Navn</string>
   <string name="import_one_vcard_string">Importer en vCard fil</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Importer valgte kontakter</string>
@@ -457,7 +457,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="importing_vcard_finished_title">Ferdig med at importere vCard %s</string>
   <string name="insertContactDescription">Opprett ny Kontakt</string>
   <string name="insertGroupDescription">Opprett gruppe</string>
-  <string name="invalidContactMessage">Kontakt eksisterer ikke</string>
+  <string name="invalidContactMessage">"Kontakt eksisterer ikke"</string>
   <string name="keep_local">Behold lokal</string>
   <string name="keep_local_btn">Lagre kun til telefon</string>
   <string name="label_custom_type">Brukerdefinert</string>
@@ -755,7 +755,7 @@ for å legge til kontakt til favoritter:
   <string name="remind_btn_ignore">Ignorer</string>
   <string name="remind_btn_sync_now">Nå</string>
   <string name="removePhoto">Fjern bilde</string>
-  <string name="remove_blacklist">Fjern fra svarteliste</string>
+  <string name="remove_blacklist">Fjern blokkering</string>
   <string name="remove_duplicate">MIUI hjelper deg med å finne og flette dupliserte kontakter, men de flettes ikke automatisk. Dette må gjøres manuelt</string>
   <string name="resource_account_abnormal_state">Kontofeil, vennligst prøv igjen senere.</string>
   <string name="resource_account_current">Konto: %1$s</string>
@@ -769,7 +769,7 @@ for å legge til kontakt til favoritter:
   <string name="resource_apply">Bruk</string>
   <string name="resource_apply_trial">Prøv nå</string>
   <string name="resource_buy">Kjøp</string>
-  <string name="resource_can_not_selected">%1$s kan ikke velges!</string>
+  <string name="resource_can_not_selected">"%1$s kan ikke velges!"</string>
   <string name="resource_category">Kategori</string>
   <string name="resource_comment_1_star">1 stjerne</string>
   <string name="resource_comment_2_star">2 stjerne</string>
@@ -808,8 +808,8 @@ for å legge til kontakt til favoritter:
   <string name="resource_default_name">Element</string>
   <string name="resource_delete_all">Er du sikker på at du vil slette %1$d valgte elementer?</string>
   <string name="resource_delete_confirm">Er du sikker på at du vil slette disse elementer?</string>
-  <string name="resource_delta_update_failed">Patch-oppdatering mislyktes! Hele ressursen vil nå bli lastet ned</string>
-  <string name="resource_delta_update_successful">Patch-oppdatering vellykket, lagrer %1$s.</string>
+  <string name="resource_delta_update_failed">Oppdatering mislyktes! Hele ressursen vil nå bli lastet ned</string>
+  <string name="resource_delta_update_successful">Oppdatering vellykket, lagrer %1$s.</string>
   <string name="resource_delta_update_total">%1$d patchoppdateringer. Totalt %2$s spart</string>
   <string name="resource_detail">Detaljer</string>
   <string name="resource_detail_comment_title">Kommentarer</string>
@@ -826,7 +826,7 @@ for å legge til kontakt til favoritter:
   <string name="resource_downloading">Laster ned...</string>
   <string name="resource_exchange">Løs inn</string>
   <string name="resource_exchange_confirm">Bekreft</string>
-  <string name="resource_exchange_empty_format">Vennligst skriv en kode!</string>
+  <string name="resource_exchange_empty_format">Vennligst skriv en gavekode!</string>
   <string name="resource_exchange_has_bought">"Du har allerede kjøpt dette temaet."</string>
   <string name="resource_exchange_has_expired">Denne koden er utløpt.</string>
   <string name="resource_exchange_has_used">Denne koden har allerede blitt brukt.</string>
@@ -886,7 +886,7 @@ for å legge til kontakt til favoritter:
   <string name="resource_server_alert_dialog_title">Tjenesten er utilgjengelig for øyeblikket</string>
   <string name="resource_server_out_of_service">Server utilgjengelig for øyeblikket, prøv igjen senere.</string>
   <string name="resource_share_subject">Del tema: %1$s</string>
-  <string name="resource_share_text">Her er et tema jeg tenkte at du kanskje vil like: %1$s! Link: %2$s</string>
+  <string name="resource_share_text">"Her er et tema jeg tenkte at du kanskje vil like: %1$s! Link: %2$s"</string>
   <string name="resource_share_title">Del</string>
   <string name="resource_system_title">System elementer</string>
   <string name="resource_tip_select_ringtone">Ingen ringetone valgt</string>
@@ -925,7 +925,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="search_settings_description">Navn på dine kontakter</string>
   <string name="searching_vcard_message">Søker etter vCard data på SD-kort</string>
   <string name="select_all">Velg alle</string>
-  <string name="select_device">Velg enhet å koble til</string>
+  <string name="select_device">Velg enhet</string>
   <string name="select_groups">Velg grupper</string>
   <string name="select_new_photo_from_photo_package">Velg nytt bilde fra bildepakken</string>
   <string name="select_none">Intet valgt, handlingen er ugyldig</string>

@@ -32,13 +32,16 @@
         <item quantity="other">%1$d personer</item>
         <item quantity="one">%1$d person</item>
     </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d nummere</item>
+        <item quantity="one">%1$d nummmer</item>
+    </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d Voicemails</item>
         <item quantity="one">Voicemail</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d valgt</item>
-        <item quantity="zero">%1$d valgt</item>
         <item quantity="one">%1$d valgt</item>
     </plurals>
     <plurals name="group_add_success_toast">
