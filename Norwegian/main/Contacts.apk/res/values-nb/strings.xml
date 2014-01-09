@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Anropsloggdetajler</string>
-  <string name="account_abnormal_state">Ikke godkjent kontoinformasjon, vennligst logge inn igjen eller prøv senere!</string>
   <string name="account_container_title">Fra følgende konto</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">Kun telefon (usynkroniserede)</string>
@@ -10,7 +9,6 @@
   <string name="account_unactivated">Konto ikke aktivert.</string>
   <string name="actionIncomingCall">Innkommende anrop</string>
   <string name="action_menu_overflow_description">Flere muligheter</string>
-  <string name="activity_not_found_uri">Ingen støttet applikasjon funnet!</string>
   <string name="activity_title_confirm_add_detail">Legg til til kontakt</string>
   <string name="activity_title_contacts_filter">Kontakter som skal vises</string>
   <string name="activity_title_settings">Innstillinger</string>
@@ -24,7 +22,6 @@
   <string name="add_new_account">Legg til ny konto</string>
   <string name="add_new_entry_for_section">Legg til ny</string>
   <string name="add_organization">Legg til organisasjon</string>
-  <string name="add_slide_before">Legg til lysbilde (før)</string>
   <string name="add_to_my_contacts">Legg til i mine kontakter</string>
   <string name="add_wait">Legg til pause</string>
   <string name="add_xiaomi_account_dialog_btn">Bruk Xiaomi konto</string>
@@ -147,8 +144,8 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="clear_default">Tøm standard</string>
   <string name="clear_digits">Tøm telefonnummer</string>
   <string name="click_close">Trykk på skjermen for å lukke</string>
+  <string name="close_dial_pad">lukk talltastatur</string>
   <string name="cloud_antispam_mark">Spam</string>
-  <string name="cloud_antispam_summary">Filtrer anrop og beskjeder over Wi-Fi og data nettverk</string>
   <string name="cloud_antispam_title">Cloud-brannmur</string>
   <string name="composer_failed_to_get_database_infomation">"Kunne ikke få database opplysninger"</string>
   <string name="composer_has_no_exportable_contact">Der er ingen eksporterbare kontakter. Hvis du faktisk har kontakter på din telefon, kan alle de kontakter, kan de forbys fra å bli eksportert fra telefonen av noen telefonleverandører.</string>
@@ -199,7 +196,6 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="contacts_unavailable_add_account">Log inn på en konto</string>
   <string name="contacts_unavailable_create_contact">Opprett en ny kontaktperson</string>
   <string name="contacts_unavailable_import_contacts">Importer kontakter fra en fil</string>
-  <string name="context_menu_add_to_browser_favorite">Legg til i nettleserfavoritter</string>
   <string name="copy_text">Kopier til utklippstavlen</string>
   <string name="createContactShortcutSuccessful">Kontakt widget lagt til på skrivebordet.</string>
   <string name="create_group_dialog_title">Opprett ny gruppe</string>
@@ -357,7 +353,8 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="export_to_sim">Eksporter til SIM-kort</string>
   <string name="export_to_sim_title">Eksporterer til SIM-kort…</string>
   <string name="export_vcard_description">Eksporter vCard til SD-kort</string>
-  <string name="exporting_contact_failed_message">"Kunne ikke eksportere kontaktopplysninger. Årsak: \"%s\" "</string>
+  <string name="exporting_contact_failed_message">"Kunne ikke eksportere kontaktopplysninger.
+ Årsak: \"%s\" "</string>
   <string name="exporting_contact_failed_title">"Kunne ikke eksportere kontakt data"</string>
   <string name="exporting_contact_list_message">Dine kontakt data blir eksportert til: %s.</string>
   <string name="exporting_contact_list_progress" formatted="false">%s av %s kontakter</string>
@@ -382,7 +379,6 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="favoritesFrequentCalled">Ofte ringet opp</string>
   <string name="favoritesFrequentContacted">Ofte kontaktede</string>
   <string name="favorites_list_empty">Ingen favoritter</string>
-  <string name="forward_from">Videresend fra:</string>
   <string name="foundTooManyContacts">Mer enn %d funnet.</string>
   <string name="frequency_none">"Ikke påminn meg"</string>
   <string name="frequency_three_days">Hver 3. dag</string>
@@ -402,6 +398,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="group_delete_success_toast">Gruppe slettet</string>
   <string name="group_edit_field_hint_text">Gruppens navn</string>
   <string name="group_member_remove_toast">Kontakt fjernet fra gruppe</string>
+  <string name="group_name">Mine grupper</string>
   <string name="group_name_hint">Gruppens navn</string>
   <string name="group_read_only">Kan ikke redigeres på denne enhet.</string>
   <string name="group_rename_dialog_title">Bytt navn på gruppe</string>
@@ -469,7 +466,6 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="label_notes">Noter</string>
   <string name="label_sip_address">SIP</string>
   <string name="launcherDialer">Telefon</string>
-  <string name="listAllContactsInAccount">Kontakter i %s</string>
   <string name="listCustomView">Kontakter i brukerdefinert visning</string>
   <string name="listFoundAllContactsZero">Kontakt ikke funnet</string>
   <string name="listSingleContact">Enkelt kontakt</string>
@@ -494,7 +490,6 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="local_profile_title">Min lokale profil</string>
   <string name="local_search_label">Alle kontakter</string>
   <string name="locale_change_in_progress">Kontaktlisten er i ferd med å bli oppdatert for å gjenspeile endringen av språk.</string>
-  <string name="login_before_recharging">Du må logge inn før du kan fylle opp.</string>
   <string name="login_ok">Logg inn</string>
   <string name="lunarBirthdayLabelsGroup">Måne fødselsdag (kinesisk)</string>
   <string name="make_primary">Husk dette valget</string>
@@ -538,8 +533,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="menu_new_group_action_bar">Ny</string>
   <string name="menu_not_redirect_calls_to_vm">anrop ikke sendt til voicemail</string>
   <string name="menu_redirect_calls_to_vm">Alle anrop til voicemail</string>
-  <string name="menu_refresh">Last på nytt</string>
-  <string name="menu_removeStar">Fjern fra favoritter</string>
+   <string name="menu_removeStar">Fjern fra favoritter</string>
   <string name="menu_search">Søk</string>
   <string name="menu_select_all">Velg alle</string>
   <string name="menu_select_none">Fravelg alle</string>
@@ -678,24 +672,20 @@ for å legge til kontakt til favoritter:
   <string name="postal_postcode">postnummer</string>
   <string name="postal_region">Region/område</string>
   <string name="postal_street">Gate</string>
-  <string name="pref_forward_title">Videresend</string>
   <string name="pref_key_photo">Bilde</string>
   <string name="pref_key_photo_word_summary">Automatisk valg av bilde til kontakter</string>
   <string name="pref_key_photo_word_title">Autovelg bilde for kontakter</string>
   <string name="pref_key_rebuild_t9_index_message">Rett indeksfeil i kontaktsøking</string>
   <string name="pref_key_rebuild_t9_index_title">Gjenoppbygg T9 indeks data</string>
+  <string name="pref_key_sim_manage">SIM-håndtering</string>
   <string name="pref_summary_import_from_account">Importer kontakter fra Google og andre mail kontoer til min Xiaomi konto</string>
   <string name="pref_title_account_import">Importer fra konto</string>
-  <string name="pref_title_card_format">Kortdelingsformat</string>
-  <string name="pref_title_fwd_sender_info">Videresend senderinfo</string>
-  <string name="pref_title_import_from_account">Importer til Xiaomi konto</string>
-  <string name="pref_title_miui_card">Send via MIUI-kort</string>
-  <string name="pref_title_vcard">Send via vCard</string>
+  <string name="pref_title_import_from_account">Importer fra Xiaomi Account</string>
   <string name="preference_auto_ip_summary_disable">Ikke aktivert</string>
   <string name="preference_auto_ip_summary_on">"Leverandørs IP prefiks: %s"</string>
   <string name="preference_auto_ip_title">Automatisk IP</string>
   <string name="preference_contacts">Kontakt</string>
-  <string name="preference_contacts_display">Kontakt Visning</string>
+  <string name="preference_contacts_display">Kontaktvisning</string>
   <string name="preference_contacts_filter">Velg fra konto</string>
   <string name="preference_contacts_more">Flere innstillinger</string>
   <string name="preference_dial_pad_touch_tone_default">Standard</string>
@@ -728,11 +718,10 @@ for å legge til kontakt til favoritter:
   <string name="preference_telocation_summary_teloc_on">Vis plassering</string>
   <string name="preference_telocation_title">plassering</string>
   <string name="preference_tone_title">Tone</string>
-  <string name="prepare_import">forbered import</string>
+  <string name="prepare_import">Importer kontakter</string>
   <string name="preview_contact_card_title">Importerer kontakter…</string>
-  <string name="previous">forrige</string>
+  <string name="previous">Forrige</string>
   <string name="private_num">Hemmelig nummer</string>
-  <string name="processing">Behandler...</string>
   <string name="profile_display_name">Sett opp min profil</string>
   <string name="profile_name">Min profil</string>
   <string name="profile_name_photo">Meg</string>
@@ -778,6 +767,7 @@ for å legge til kontakt til favoritter:
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Element-utforsker</string>
   <string name="resource_apply">Bruk</string>
+  <string name="resource_apply_trial">Prøv nå</string>
   <string name="resource_buy">Kjøp</string>
   <string name="resource_can_not_selected">%1$s kan ikke velges!</string>
   <string name="resource_category">Kategori</string>
@@ -786,12 +776,10 @@ for å legge til kontakt til favoritter:
   <string name="resource_comment_3_star">3 stjerne</string>
   <string name="resource_comment_4_star">4 stjerne</string>
   <string name="resource_comment_5_star">5 stjerne</string>
-  <string name="resource_comment_account_need_activitied">Vennligst aktiver din Xiaomi-konto for å bruke denne funksjonen.</string>
   <string name="resource_comment_all_comments">Alle kommentarer</string>
   <string name="resource_comment_average_score">Gjennomsnittlig</string>
   <string name="resource_comment_bad_comments">Negativ</string>
   <string name="resource_comment_current_version">Gjeldende versjon</string>
-  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Legg til kommentarer</string>
   <string name="resource_comment_edit_comment_waiting">Sjekker brukerhistorikk…</string>
   <string name="resource_comment_edit_text_default">Legg til en kommentar</string>
@@ -833,6 +821,7 @@ for å legge til kontakt til favoritter:
   <string name="resource_detail_update_log_title">Oppdateringer</string>
   <string name="resource_detail_window_title">%1$s detaljer</string>
   <string name="resource_download">Last ned</string>
+  <string name="resource_download_trial">Gratis prøve</string>
   <string name="resource_downloaded_title">Nedlastede elementer</string>
   <string name="resource_downloading">Laster ned...</string>
   <string name="resource_exchange">Løs inn</string>
@@ -860,6 +849,7 @@ for å legge til kontakt til favoritter:
   <string name="resource_get_auth_missing">Tema ikke hentet fra offisielt marked, kan ikke brukes.</string>
   <string name="resource_get_auth_retrieving">Mottar godkjennelse...</string>
   <string name="resource_hint">Varsel</string>
+  <string name="resource_import_failed">Importering feilet</string>
   <string name="resource_import_successful">Nedlastning fullført.</string>
   <string name="resource_importing">Importerer...</string>
   <string name="resource_list_title">Seneste</string>
@@ -869,6 +859,7 @@ for å legge til kontakt til favoritter:
   <string name="resource_my">Lokal</string>
   <string name="resource_no_result">Ingen resultater</string>
   <string name="resource_notification_default">Notifikasjoner</string>
+  <string name="resource_on_trial">Prøver: %1$s</string>
   <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">Du har allerede kjøpt %1$d elementer, gjeldende kjøpspris er bedre enn å kjøpe de venstre elementene enkeltvis, ønsker du å fortsette?</string>
   <string name="resource_pack_discount_info">%1$s lagret!</string>
@@ -885,6 +876,7 @@ for å legge til kontakt til favoritter:
   <string name="resource_ranking_free">Gratis</string>
   <string name="resource_ranking_purchase">Betalt</string>
   <string name="resource_ringtone_default">Ringetoner</string>
+  <string name="resource_ringtone_playing_error">spillingsfeil</string>
   <string name="resource_ringtone_volume_mute">Ringetonevolum dempet</string>
   <string name="resource_save_to_note">Lagre til notater</string>
   <string name="resource_see_more">Se flere</string>
@@ -896,11 +888,15 @@ for å legge til kontakt til favoritter:
   <string name="resource_share_subject">Del tema: %1$s</string>
   <string name="resource_share_text">Her er et tema jeg tenkte at du kanskje vil like: %1$s! Link: %2$s</string>
   <string name="resource_share_title">Del</string>
-  <string name="resource_switch_account">Skift</string>
   <string name="resource_system_title">System elementer</string>
   <string name="resource_tip_select_ringtone">Ingen ringetone valgt</string>
   <string name="resource_title">Element detaljer</string>
   <string name="resource_title_select_ringtone">Velg ringetone</string>
+  <string name="resource_trial_end_message">Prøving av %1$s utløpt. Hvis du liker den, vennligst kjøp det.</string>
+  <string name="resource_trial_end_purchase">Kjøp</string>
+  <string name="resource_trial_end_restore">Fullfør prøving</string>
+  <string name="resource_trial_end_title">Prøving utløpt</string>
+  <string name="resource_trial_time">（prøvd i %1$d minutter）</string>
   <string name="resource_unable_to_access">"Vi beklager
 innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</string>
   <string name="resource_unknow_error">Ukjent feil oppsto.</string>
@@ -908,16 +904,11 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Venter på nedlastning...</string>
   <string name="restore_nickname">Gjenopprett</string>
-  <string name="restore_to_phone_memory_failed">Kunne ikke gjenopprette til telefonminne!</string>
-  <string name="restored_to_phone_memory">"Gjenopprettet til telefonminne"</string>
-  <string name="ret_sign">" "</string>
+  <string name="ret_sign">"
+"</string>
   <string name="returnCall">Ring tilbake</string>
   <string name="ringLabelsGroup">Ringetone</string>
-  <string name="ringtone_volume_mute">Ringetone er i lydløs.</string>
-  <string name="save">Lagre</string>
   <string name="save_photo_progress">Lagrer bilde...</string>
-  <string name="save_to_sim_failed">Kunne ikke lagre til SIM! restored_to_phone_memory </string>
-  <string name="saved_to_sim">Lagret til SIM!</string>
   <string name="savingContact">Lagrer kontakt…</string>
   <string name="savingDisplayGroups">Lagrer visningsinnstillinger ...</string>
   <string name="scan">Skann enhet</string>
@@ -925,11 +916,10 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="scan_merge">Søker etter dupliserte kontakter…</string>
   <string name="scanning">Skanner etter Enheter…</string>
   <string name="scanning_sdcard_failed_message">Kan ikke bruke SD-kort (årsak: \"%s\")</string>
-  <string name="scanning_sdcard_failed_title">Kan ikke bruke SD-kort</string>
-  <string name="sdcard_not_mounted_dialog_message">"SD-kort ikke tilgjengelig, vennligst sett inn ett nå."</string>
+  <string name="scanning_sdcard_failed_title">"Lagringen kunne ikke bli skannet"</string>
+  <string name="sdcard_not_mounted_dialog_message">"Sett inn SD-kort nå.
+"</string>
   <string name="sdcard_not_mounted_dialog_title">SD-kort ikke detektert</string>
-  <string name="sdcard_status_changed_dialog_message">"Programmet vil nå avsluttes. Vennligst åpne igjen for å oppdatere elementer."</string>
-  <string name="sdcard_status_changed_dialog_title">SD-kort status endret</string>
   <string name="searchHint">Søk i kontakter</string>
   <string name="search_results_searching">Søker ...</string>
   <string name="search_settings_description">Navn på dine kontakter</string>
@@ -949,7 +939,6 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="service_provider">Tjenesteleverandør</string>
   <string name="set_default">Sett standard</string>
   <string name="set_photo_failed_msg">Klarte ikke å sette bilde</string>
-  <string name="set_smsc_address_title_miui">Sett SMS-senter nummer</string>
   <string name="share_error">Denne kontakten kan ikke deles</string>
   <string name="share_via">Del kontakt via</string>
   <string name="share_visible_contacts">Del synlige kontakter</string>
@@ -964,9 +953,6 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="simContacts_title">SIM-kontakter</string>
   <string name="sim_capacity">Vis SIM-kort-kapasitet</string>
   <string name="sim_capacity_content" formatted="false">Total kapasitet %d, brukt %d</string>
-  <string name="sim_card1">SIM 1</string>
-  <string name="sim_card2">SIM 2</string>
-  <string name="sim_card_cloud">%s (Skymelding)</string>
   <string name="sim_card_no_free_space_message">SIM Kort fullt, kan ikke importere nye kontakter. Vennligst frigjør nok plass og prøv igjen</string>
   <string name="sim_card_no_free_space_title">SIM-kort fullt</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Avvelg alle</string>
@@ -1060,12 +1046,15 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="type_missed">Tapte anrop</string>
   <string name="type_mx_msg">Skymeldinger</string>
   <string name="type_outgoing">Utgående anrop</string>
-  <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Voicemail</string>
   <string name="unknown">ukjent</string>
   <string name="unknown_contact_name">ukjent kontakt</string>
   <string name="upgrade_in_progress">Kontakt listen blir oppdatert.</string>
-  <string name="upgrade_out_of_memory">"Kontaktpersoner er i ferd med å bli oppgradert. Oppgraderingen krever ca %s Mb plass. Velg en av følgende muligheter:"</string>
+  <string name="upgrade_out_of_memory">"Kontaktpersoner er i ferd med å bli oppgradert.
+
+ Oppgraderingen krever ca %s MB plass.
+
+ Velg en av følgende muligheter:"</string>
   <string name="upgrade_out_of_memory_retry">Prøv oppgradering igen</string>
   <string name="upgrade_out_of_memory_uninstall">Avinstaller noen programmer</string>
   <string name="use_photo_as_primary">Bruk dette bilde</string>
