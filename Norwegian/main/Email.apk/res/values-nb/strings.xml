@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account">Konto</string>
   <string name="account_delete_dlg_instructions_fmt">Kontoen \"%s\" vil bli fjernet fra Epost.</string>
   <string name="account_delete_dlg_title">Fjern konto</string>
   <string name="account_duplicate_dlg_message_fmt">Innloggingen er allerede brukt av kontoen \"%s\".</string>
@@ -283,12 +282,19 @@
   <string name="mailbox_name_display_sent">Sendt</string>
   <string name="mailbox_name_display_trash">Søppelkurv</string>
   <string name="mailbox_name_display_unread">Ulest</string>
+  <string name="mailbox_name_server_drafts">Utkast</string>
+  <string name="mailbox_name_server_inbox">Inboks</string>
+  <string name="mailbox_name_server_junk">Søppel</string>
+  <string name="mailbox_name_server_outbox">Utbox</string>
+  <string name="mailbox_name_server_sent">Sendt</string>
+  <string name="mailbox_name_server_trash">Søppel</string>
   <string name="mailbox_preferences_header">Synk-innstillinger</string>
   <string name="mailbox_settings_action">Synk-innstillinger</string>
   <string name="mailbox_settings_activity_title">Synk-innstillinger</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synk-innstillinger (%s)</string>
   <string name="mailbox_settings_mailbox_check_frequency_label">Hyppighed for sjekk</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dager å synkronisere</string>
+  <string name="mailbox_shortcut_picker_title">Choose a folder</string>
   <string name="mark_as_unread_action">Marker som lest</string>
   <string name="message_compose_attachment_size">Fil for stor til å legge ved.</string>
   <string name="message_compose_bcc_hint">Bcc</string>
