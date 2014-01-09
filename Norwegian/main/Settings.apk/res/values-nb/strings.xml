@@ -1355,7 +1355,6 @@ Obs: denne handling kan ikke angres!"</string>
   <string name="misc_files">Diverse filer</string>
   <string name="misc_files_selected_count">valgt %1$d ut av %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s ut av %2$s</string>
-  <string name="miui_device_default_name">Android</string>
   <string name="miui_screensaver_show_time">Varighet</string>
   <string name="miui_screensaver_show_time_select_title">Velg varighet</string>
   <string name="miui_screensaver_state_off">Av</string>
@@ -1376,7 +1375,8 @@ Obs: denne handling kan ikke angres!"</string>
 Hent driveren hos http://miui.com/mac"</string>
   <string name="msd_driver_windows_xp_download">"For PC-er, last ned driveren og trykk AndroidFileTransfer.dmg for å installere
 Hent driveren hos http://miui.com/win"</string>
-  <string name="msd_help_summary">"Problemer med å få adgang til telefonen? Velg din datamaskins operativsystem:"</string>
+  <string name="msd_help_summary">"Problemer med å få adgang til telefonen?
+Velg din datamaskins operativsystem:"</string>
   <string name="msd_help_title">MTP Hjelp</string>
   <string name="msd_install">Reinstaller driveren</string>
   <string name="msd_install_finish">OK</string>
@@ -1389,15 +1389,23 @@ Prøv følgende:
 4) Logg av og på igjen
 5) Få adgang til montert enhet mtpfs /media/mtp via Filhåndtering; samme som lokal mappe
 6) Avinstaller enhet fusermount -u /media/mtp
- Obs: For ubuntu 8.04 environment"</string>
-  <string name="msd_install_retry_mac">"Hvis din datamaskin ikke gjenkjenner enheten, prøv følgende:"</string>
-  <string name="msd_install_retry_windows_vista">"Hvis din datamaskin ikke gjenkjenner enheten, prøv følgende:"</string>
-  <string name="msd_install_retry_windows_xp">"Hvis din datamaskin ikke gjenkjenner enheten, prøv følgende:"</string>
+ Obs: For ubuntu 8.04-milkø"</string>
+  <string name="msd_install_retry_mac">"Hvis din datamaskin ikke gjenkjenner enheten,
+prøv følgende:
+"</string>
+  <string name="msd_install_retry_windows_vista">"Hvis din datamaskin ikke gjenkjenner enheten,
+prøv følgende:
+"</string>
+  <string name="msd_install_retry_windows_xp">"Hvis din datamaskin ikke gjenkjenner enheten,
+prøv følgende:
+"</string>
   <string name="msd_install_status_done">Driver allerede installert</string>
   <string name="msd_install_status_undo">Installer driver</string>
   <string name="msd_install_succeed">Driver installert</string>
-  <string name="msd_install_windows_xp_step_2_1">"1. Hvis installeringsguiden dukker opp, 
-følg trinene for å fullføre installasjonen"</string>
+  <string name="msd_install_windows_xp_step_2_1">"1. Hvis installeringsguiden dukker opp,
+følg trinnene for å fullføre installasjonen"</string>
+  <string name="multi_sim_settings_summary">Sett opp Multi-SIM-innstillinger for tale, data og SMS</string>
+  <string name="multi_sim_settings_title">Multi-SIM-innstillinger</string>
   <string name="multi_touch_points_category_title">Multi-touch punkter</string>
   <string name="multi_touch_points_preference">Restart for å bruke</string>
   <string name="musicfx_title">Musikkeffekter</string>
@@ -1482,14 +1490,18 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="optimize_now">Start</string>
   <string name="optimize_residual_header_left">Rester: %d</string>
   <string name="optimize_residual_list_empty_content">Ingen rester funnet.</string>
+  <string name="optimize_tips_ad">iconReklamefiler er bilder, tekst og andre reklame-relatert data som tredjeparts-tjenestetilbydere lagret på din telefon.</string>
   <string name="optimize_tips_ad_content">Bilder, tekst og annen reklame-relatert data via tredjeparts-tilbydere lagret på din telefon.</string>
   <string name="optimize_tips_ad_title">Reklamefiler</string>
+  <string name="optimize_tips_apk">"iconInstallasjonspakker er brukt for å installere programmer på din enhet, men de bruker bare opp lagringsplass når du har installert programmet."</string>
   <string name="optimize_tips_apk_content">"Brukt for å installere programmer på din enhet, men de gjør ike noe når du allerede har installert programmet"</string>
   <string name="optimize_tips_apk_title">Programmer</string>
-  <string name="optimize_tips_cache_content">Mildlertidige filer laget av programmer og prosesser (f.eks miniatyrer).</string>
+  <string name="optimize_tips_cache">iconCache-filer er generert av prosesser som bare krever dem midlertidig (f.eks miniatyrer).</string>
+  <string name="optimize_tips_cache_content">Midlertidige filer laget av programmer og prosesser (f.eks miniatyrer).</string>
   <string name="optimize_tips_cache_title">Cache</string>
+  <string name="optimize_tips_residual">"iconRester er filer (f.eks videoer, bakgrunnsbilder, musikk osv.) som har blitt lastet ned på enhetens SD-kortet av programmer som siden har blitt avinstallert. Som noen av disse filene likevel kan være til nytte for deg, anbefaler vi at du bruker Avansert-funksjonen når du rydder gjenværende filer."</string
   <string name="optimize_tips_residual_content">Resteinnhold laget av programmer som senere har blitt avinstallert. Noen filer kan fortsatt kreves, vi anbefaler at du bruker avansert oppryddning-funksjonen for å fjerne disse filene.</string>
-  <string name="optimize_tips_residual_title">Residual content</string>
+  <string name="optimize_tips_residual_title">Resteinnhold</string>
   <string name="optimize_tips_title">Hjelp</string>
   <string name="optimize_title_ad">Reklamefiler</string>
   <string name="optimize_title_apk">Pakker</string>
@@ -1615,6 +1627,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="perm_log">Logger</string>
   <string name="perm_log_clear_content">Alle logger vil bli slettet. Vil du aktivere?</string>
   <string name="perm_log_clear_title">Tøm logger</string>
+  <string name="perm_log_empty">Tøm logg</string>
   <string name="perm_manage_tab_title">Tillatelser</string>
   <string name="perm_mian_name">Tillatelser</string>
   <string name="perm_monitored_app">Overvåkede programmer (%1$d)</string>
@@ -1759,6 +1772,8 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">"Kan ikke slette: du bruker denne profilen."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Kan ikke slette: Enheten er satt til å bytte til denne profilen når batterinivået er lavt,
   Du må endre denne konfigurasjonen før du kan slette denne profilen."</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Kunne ikke slette, enheten din er satt til å bytte til denne konfigurasjonen når batteriet er bedre. Du må kanskje endre dine batteri-innstillinger før du kan slette denne modusen.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Kunne ikke slette, enheten din er satt til å bytte til denne konfigurasjonen når tiden er opptil den planlagte perioden. Du må kanskje endre batteri-innstillingene dine før du kan slette denne modusen.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Kan ikke slette: Enheten er planlagt å bytte til denne profilen,
   Du må endre denne konfigurasjonen før du kan slette denne profilen."</string>
   <string name="power_dialog_delete_dialog_delete">"Slett egendefinert profil og tilhørende innstillingsdata? Du kan ikke reversere denne handlingen!"</string>
@@ -1771,7 +1786,6 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="power_dialog_sleep_title">Sov</string>
   <string name="power_dialog_vibration_title">Vibrer</string>
   <string name="power_idle">Telefon på tomgang</string>
-  <string name="power_key">Slå av knapp</string>
   <string name="power_mgr">Strøm</string>
   <string name="power_mode">Strøminnstillinger</string>
   <string name="power_mode_airplane_mode">Flymodus</string>
@@ -1782,6 +1796,7 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="power_mode_auto_clean_memory_in_ten_minutes">Etter ti minutter</string>
   <string name="power_mode_auto_clean_memory_never">Aldri</string>
   <string name="power_mode_bluetooth">Bluetooth</string>
+  <string name="power_mode_chooser_button_text">Bruk</string>
   <string name="power_mode_cpu_state">CPU-bruk</string>
   <string name="power_mode_cpu_state_balance">Balanse</string>
   <string name="power_mode_cpu_state_balance_desc">Bare øk CPU-kraft når krevet</string>
@@ -1810,10 +1825,13 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="power_mode_vibration_silence">Vibrer når ringing er dempet</string>
   <string name="power_mode_vibration_yes">Vibrasjon aktivert</string>
   <string name="power_mode_wifi">Wi-Fi</string>
+  <string name="power_new_choose_mode">Velg modus</string>
   <string name="power_perm_logs_empty">Ingen logger</string>
   <string name="power_phone">Taleanrop</string>
   <string name="power_save_choose_mode">Velg en profil</string>
+  <string name="power_save_choose_recovery_mode">Velg gjenopprettningsmodus</string>
   <string name="power_save_low_battery_auto_save_title">Spar strøm når batterinivået er lavt</string>
+  <string name="power_save_low_battery_option_recovery_title">Når batteriet forbedres, bytt modus</string>
   <string name="power_save_low_battery_option_summary">Når batteriet er over lavterskelen vil enheten gå til bake til sist brukte profil</string>
   <string name="power_save_low_battery_option_title">Når batteriet er lavt bytt til</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
@@ -1827,6 +1845,8 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Ende</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
+  <string name="power_save_on_time_goout_title">Gjenopprett til</string>
+  <string name="power_save_on_time_option_recovery_title">Planlagte tid nådd, bytt modus</string>
   <string name="power_save_on_time_option_summary">På enden av denne perioden vil enheten bytte til sist brukte profil</string>
   <string name="power_save_on_time_option_title">I løp av denne perioden</string>
   <string name="power_save_on_time_start_time_summary">Start</string>
@@ -1854,7 +1874,6 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="pref_button_light">Knapp lys</string>
   <string name="pref_button_light_summary">Meny, Hjem og Tilbakeknapp-indikator</string>
   <string name="pref_operational_key">Operasjonstast</string>
-  <string name="pref_volume_category_title">Lydstyrke</string>
   <string name="pref_volume_wake_summary">Trykk på lydstyrke knappen (+/-) vekker telefonen. Spesielt for enheter med defekt Slå på knapp</string>
   <string name="pref_volume_wake_title">Vekk med Lydstyrke (+/-)</string>
   <string name="preference_change_password_title">Skift passord</string>
@@ -2014,7 +2033,8 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="remove_sms">Slett alle meldingslogger?</string>
   <string name="reset_app_preferences">Nullstil programinnstillinger</string>
   <string name="reset_app_preferences_button">Nullstill programmer</string>
-  <string name="reset_app_preferences_desc">"Dette vil nullstille innstillinger for: "</string>
+  <string name="reset_app_preferences_desc">"Dette vil nullstille alle innstillinger for:
+ "</string>
   <string name="reset_app_preferences_title">Nullstill programinnstillinger?</string>
   <string name="residual_cancel">Avbryt</string>
   <string name="residual_clean">Rydd</string>
@@ -2066,7 +2086,8 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="screen_never_timeout_title">Alltid på</string>
   <string name="screen_on_proximity_sensor_summary">Unngå anrop m.m. når telefonen ligger løst i lommen (oppdag via sensor).</string>
   <string name="screen_on_proximity_sensor_title">Unngå misbruk</string>
-  <string name="screen_saturation_adjust">Velg fargemetning</string>
+  <string name="screen_saturation">Fargemetning</string>
+  <string name="screen_saturation_adjust">Still fargemetning</string>
   <string name="screen_timeout">Slå av skjerm</string>
   <string name="screen_timeout_summary">Etter %1$s uten aktivitet</string>
   <string name="screen_timeout_title">Skjerm timeout</string>
@@ -2145,10 +2166,13 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="security_settings_desc_multi">Dette programmet kan få adgang til følgende på telefonen. For å øke yteevnen og redusere minnebruk, noen av disse tillatelser er tilgjengelige for %1$s fordi den kjører i samme prosess som %2$s:</string>
   <string name="security_settings_summary">Velg Min plassering, opplåsing av skjermen, SIM-lås, lås lager for legitimasjonsopplysninger</string>
   <string name="security_settings_title">Sikkerhet</string>
+  <string name="sel_sub_summary">Velg abonnementet for SUB-1 og SUB-2</string>
+  <string name="sel_sub_title">Velg abonnomenter</string>
   <string name="select_all">Velg alle</string>
   <string name="select_application">Velg program</string>
   <string name="select_device_admin_msg">Enhetsadministratorer</string>
-  <string name="service_background_processes">%1$s fritt</string>
+  <string name="select_subscription">Velg abonnement</string>
+  <string name="service_background_processes">%1$s ledig</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s brukt</string>
   <string name="service_manage">Oppsett</string>
@@ -2158,6 +2182,12 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="service_started_by_app">Startet av program.</string>
   <string name="service_stop">Stopp</string>
   <string name="service_stop_description">Denne service ble startet av dens program. Avslutning kan få programmet til å feile.</string>
+  <string name="set_data_subscription_progress">Sett dataabonnement som er i fremgang</string>
+  <string name="set_dds_error">Feil under setting av dataabonnement.</string>
+  <string name="set_dds_failed">Feil under setting av dataabonnement. Error in set data subscription. Rydd opp alle eksisterende datatilkoblinger og prøv på nytt.</string>
+  <string name="set_dds_success">Setting av dataabonnement var vellykket</string>
+  <string name="set_sms_error">Feil ved oppsett av SMS-abonnement. Abonnement ikke aktivt.</string>
+  <string name="set_voice_error">Feil ved av taleabonnement. Abonnement ikke aktivt.</string>
   <string name="settings_backup">Lagre innstillinger</string>
   <string name="settings_backup_summary">Sikkerhetskopier mine innstillinger</string>
   <string name="settings_button">Innstillinger</string>
@@ -2194,10 +2224,12 @@ følg trinene for å fullføre installasjonen"</string>
   <string name="show_touches">Vis berøringer</string>
   <string name="show_touches_summary">Vis visuell feedback for berøringer</string>
   <string name="silent_mode_title">Lydløs modus</string>
+  <string name="sim_absent">Ingen SIM/RUIM</string>
   <string name="sim_bad_pin">Ugyldig PIN</string>
   <string name="sim_change_failed">"Kan ikke endre PIN.
 Muligens ugyldig PIN."</string>
-  <string name="sim_change_failed_enable_sim_lock">Kan ikke endre SIM/RUIM PIN. Aktiver SIM/RUIM Lås.</string>
+  <string name="sim_change_failed_enable_sim_lock">Kan ikke endre SIM/RUIM PIN.
+ Aktiver SIM/RUIM Lås.</string>
   <string name="sim_change_pin">SIM PIN</string>
   <string name="sim_change_succeeded">SIM PIN-kode endret med suksess</string>
   <string name="sim_disable_sim_lock">Lås SIM-kort</string>
@@ -2207,15 +2239,21 @@ Muligens ugyldig PIN."</string>
   <string name="sim_enter_ok">OK</string>
   <string name="sim_enter_old">gamle SIM PIN-kode</string>
   <string name="sim_enter_pin">SIM PIN</string>
-  <string name="sim_lock_change_not_supported">"Kan ikke endre SIM/RUIM Lås. SIM/RUIM støtter det ikke."</string>
-  <string name="sim_lock_failed">"Kan ikke skifte SIM-låsmodus. Muligens feil PIN-kode. "</string>
+  <string name="sim_lock_change_not_supported">"Kan ikke endre SIM-lås.
+ SIM støtter det ikke."</string>
+  <string name="sim_lock_failed">"Kan ikke skifte SIM-låsmodus.
+ Muligens feil PIN-kode. "</string>
   <string name="sim_lock_off">Krev PIN-kode for å bruke telefonen</string>
   <string name="sim_lock_on">Krev PIN-kode for å bruke telefonen</string>
   <string name="sim_lock_settings">SIM-lås innstillinger</string>
   <string name="sim_lock_settings_category">Konfigurer SIM-lås</string>
   <string name="sim_lock_settings_title">SIM-lås</string>
   <string name="sim_management_title">SIM-administrering</string>
+  <string name="sim_pin_attempts">"
+Forsøk gjenstående :"</string>
   <string name="sim_pin_change">Skift SIM PIN-kode</string>
+  <string name="sim_pin_disabled">PIN1 deaktivert!</string>
+  <string name="sim_pin_enabled">PIN1 aktivert!</string>
   <string name="sim_pin_toggle">Lås SIM-kort</string>
   <string name="sim_pins_dont_match">"PIN-koder stemmer ikke overens"</string>
   <string name="sim_reenter_new">Gjenta PIN</string>
@@ -2232,7 +2270,9 @@ Muligens ugyldig PIN."</string>
   <string name="sms_over_ims_on">Aktiver SMS over IMS</string>
   <string name="sms_received_sound_dialog_title">Velg SMS mottat tone</string>
   <string name="sms_received_sound_title">SMS mottat lyd</string>
-  <string name="sort_order_alpha">Sorter</string>
+  <string name="sms_summary">Velg abonnnement for sending av SMS</string>
+  <string name="sms_title">SMS</string>
+  <string name="sort_order_alpha">Sorter etter navn</string>
   <string name="sort_order_size">Sorter etter størrelse</string>
   <string name="sound_category_call_ringtone_vibrate_title">Ringetone for anrop &amp; vibrering</string>
   <string name="sound_category_calls_and_notification_title">Ringetone &amp; varsler</string>
@@ -2256,6 +2296,7 @@ Muligens ugyldig PIN."</string>
   <string name="status_bar_settings">Statusbar</string>
   <string name="status_bt_address">Bluetooth-adresse</string>
   <string name="status_data_state">Tilstand Mobilnettverket</string>
+  <string name="status_esn_number">ESN</string>
   <string name="status_icc_id">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
@@ -2289,6 +2330,10 @@ Muligens ugyldig PIN."</string>
   <string name="storageuse_settings_title">Lagringsforbruk</string>
   <string name="strict_mode">Streng modus aktivert</string>
   <string name="strict_mode_summary">Flash skjermen, når programmer gjør lange operasjoner på hovedtråden</string>
+   <string name="subscription_01_summary">Sett valg for SUB1-nettverksinnstillinger</string>
+  <string name="subscription_01_title">SUB 1</string>
+  <string name="subscription_02_summary">Sett innstillinger for SUB2-nettverksinnstillinger</string>
+  <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Velg en nettoperatør</string>
   <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Sjekk program for virus før installasjon</string>
@@ -2313,7 +2358,8 @@ Muligens ugyldig PIN."</string>
   <string name="sync_item_title">Synkroniser %s</string>
   <string name="sync_menu_sync_cancel">Avbryt synk</string>
   <string name="sync_menu_sync_now">Synk nå</string>
-  <string name="sync_one_time_sync">"Trykk for å synkronisere nå %1$s "</string>
+  <string name="sync_one_time_sync">"Trykk for å synkronisere nå
+%1$s "</string>
   <string name="sync_plug">"Velkommen til Google synk - En Google-måte å synke data for å tillate tilgang til dine kontakter, avtaler, og mer fra hvor enn du er. "</string>
   <string name="sync_settings">Kontoer og synkronisering</string>
   <string name="sync_wifi_label">WiFi Synk-innstillinger</string>
@@ -2360,6 +2406,8 @@ Muligens ugyldig PIN."</string>
   <string name="title_virus_update_yes">Auto-oppdatering for virusdefinisjoner er på</string>
   <string name="title_virus_yes">Ingen virus detektert</string>
   <string name="toast_qucik_scan_list_empty">Alt ser bra ut, du trenger ikke rydde!</string>
+  <string name="toast_shortcut_install">Snarvei lagt til</string>
+  <string name="toast_shortcut_uninstall">Snarvei fjernet</string>
   <string name="total_size">%s totalt</string>
   <string name="total_size_label">Totalt</string>
   <string name="track_frame_time">Profiler GPU-tegning</string>
@@ -2627,6 +2675,7 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="virus_scanner_scan">Trykk for å skanne</string>
   <string name="virus_scanner_scanning">Skanner…</string>
   <string name="virus_scanner_select_Cancel">Avbryt</string>
+  <string name="virus_scanner_select_OK">OK</string>
   <string name="virus_scanner_select_lib">Velg virusdefinisjoner</string>
   <string name="virus_scanner_select_multi">Velging av mer enn et sett med definisjoner vil gjøre installasjon og skanning tregere.</string>
   <string name="virus_scanner_select_single">Bruk bare definisjoner fra en trygg kilde.</string>
@@ -2645,6 +2694,8 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="voice_input_output_settings">Stemme input og output</string>
   <string name="voice_input_output_settings_title">Stemme input og output-innstillinger</string>
   <string name="voice_search_settings_title">Stemmesøking</string>
+  <string name="voice_summary">Velg abonnement for stemmeanrop</string>
+  <string name="voice_title">Voice/USSD/MMI</string>
   <string name="volume_alarm_description">Alarmer</string>
   <string name="volume_alarm_mute">Gjør alarmer lydløse</string>
   <string name="volume_bluetooth_description">Bluetooth lydstyrke</string>
@@ -2791,6 +2842,9 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="wifi_p2p_disconnect_title">Avbryt forbindelse?</string>
   <string name="wifi_p2p_failed_connect_message">"Kunne ikke koble til."</string>
   <string name="wifi_p2p_failed_rename_message">Kunne ikke gi enhet nytt navn.</string>
+  <string name="wifi_p2p_menu_advanced">Avansert</string>
+  <string name="wifi_p2p_menu_create_group">Lag gruppe</string>
+  <string name="wifi_p2p_menu_remove_group">Fjern gruuppe</string>
   <string name="wifi_p2p_menu_rename">Gi nytt navn til enhet</string>
   <string name="wifi_p2p_menu_search">Søk</string>
   <string name="wifi_p2p_menu_searching">Søker…</string>
