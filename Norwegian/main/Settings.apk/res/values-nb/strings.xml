@@ -11,8 +11,9 @@
   <string name="accelerometer_title">Auto-Roter skjerm</string>
   <string name="access_control_app_entry_multiple">Åpne %s</string>
   <string name="access_control_app_entry_single">Åpne valgte program</string>
-  <string name="access_control_need_password">%s er beskyttet med passord</string>
-  <string name="access_control_need_to_unlock">Skriv inn passord for å låse</string>
+  <string name="access_control_need_password">"%s har blitt beskyttet
+"</string>
+  <string name="access_control_need_to_unlock">Passord kreves</string>
   <string name="access_control_no_back_footer">Trykk på [icon] for å avslutte</string>
   <string name="access_control_password_title">Passord</string>
   <string name="access_control_recording_intro_header">Tegn opplåsningsmønster</string>
@@ -21,13 +22,14 @@
   <string name="accessibility_long_press_timeout_title">Trykk &amp; hold forsinkelse</string>
   <string name="accessibility_menu_item_settings">Innstillinger</string>
   <string name="accessibility_no_services_installed">Ingen tjenester installert</string>
-  <string name="accessibility_screen_magnification_title">Forstørrelses-bevegelser</string>
+  <string name="accessibility_power_button_ends_call_title">Strømknappen avslutter anrop</string>
   <string name="accessibility_script_injection_allowed">Tillatt</string>
   <string name="accessibility_script_injection_button_allow">Tillat</string>
   <string name="accessibility_script_injection_button_disallow">"Ikke tillat"</string>
   <string name="accessibility_script_injection_disallowed">Ikke tillatt</string>
   <string name="accessibility_script_injection_security_warning_summary">Vil du at programmer skal installere scripts fra Google, som gjør deres web-innhold mer tilgjengelig?</string>
-  <string name="accessibility_service_default_description">Ingen beskrivelse forutsatt.</string>
+  <string name="accessibility_script_injection_title">Forbedre webtilgjengelighet</string>
+  <string name="accessibility_service_default_description">Ingen beskrivelse gitt.</string>
   <string name="accessibility_service_disable_warning_summary">Trykk på OK vil stoppe %1$s</string>
   <string name="accessibility_service_disable_warning_title">Stoppp %1$s?</string>
   <string name="accessibility_service_no_apps_message">Talkback gir tale-feedback for å hjelpe blinde og svaktsynte brukere. Vil du installere det gratis fra Google Play?</string>
@@ -44,8 +46,7 @@
   <string name="accessibility_sync_enabled">Synk aktivert</string>
   <string name="accessibility_sync_error">Synk feil.</string>
   <string name="accessibility_system_title">System</string>
-  <string name="accessibility_toggle_script_injection_preference_title">Forbedre tilgjengelighet</string>
-  <string name="accessibility_toggle_speak_password_preference_title">Si passord høyt</string>
+ <string name="accessibility_toggle_large_text_title">Stor tekst</string>
   <string name="account_settings">Kontoer</string>
   <string name="account_sync_settings_title">Synk-innstillinger</string>
   <string name="act_action_accept_accept">Bruk</string>
@@ -75,6 +76,8 @@
   <string name="active_device_admin_msg">Enhetsadministrator</string>
   <string name="active_input_method_subtypes">Aktive input-metoder</string>
   <string name="activity_picker_label">Velg aktivitet</string>
+  <string name="activity_title_create_shortcut">Legg til snarvei</string>
+  <string name="activity_title_settings">Settings</string>
   <string name="adb_warning_message">USB-feilretting er kun beregnet til utviklingsformål. Bruk den for å kopiere data mellom din datamaskin og din enhet, installere programmer på din enhet uten beskjed, og lese loggdata.</string>
   <string name="adb_warning_title">Tillat USB feilretting?</string>
   <string name="add_account_label">Legg til konto</string>
@@ -153,7 +156,6 @@
   <string name="app_factory_reset">Avinstaller oppdateringer</string>
   <string name="app_factory_reset_dlg_text">Ønsker du å avinstallere alle oppdateringer til dette Android-programmet?</string>
   <string name="app_factory_reset_dlg_title">Avinstaller oppdateringer</string>
-  <string name="app_floating_window_dlg">Tillat\"%1$s\" å vise popup-vindu?</string>
   <string name="app_floating_window_dlg_disable">"Å deaktivere %1$s's popup-vindu innstillinger vil stoppe med tvang. Er du sikker på at du vil deaktivere?"</string>
   <string name="app_floating_window_dlg_enable">"Å aktivere %1$s's popup-vindu innstillinger krever at programmet restarter. Er du sikker på at du vil aktivere?"</string>
   <string name="app_forward_locked">Programmet er kopibeskyttet</string>
@@ -198,13 +200,12 @@
   <string name="auto_start_title">Autokjøring-kontroll</string>
   <string name="auto_startup_application_manage">Auto-start</string>
   <string name="auto_startup_count">%d programmer har i øyeblikket lov til å auto-starte</string>
-  <string name="auto_startup_dialog_msg">"MIUI vil tillate program-autokjøring uten å spørre. Programmet kan øke strømforbruket eller databruk. Vil du tillate autokjøring？"</string>
+  <string name="auto_startup_dialog_msg">"MIUI vil tillate program-autokjøring uten å spørre. Programmet kan øke strømforbruket eller databruk.Vil du
+ tillate autokjøring？"</string>
   <string name="automatic_brightness">Automatisk lysstyrke</string>
   <string name="available_size">%s tilgjengelig</string>
   <string name="awake">Enhets oppetid</string>
   <string name="back_key">Tilbake-knapp</string>
-  <string name="back_long_press">Langt Trykk på Tilbake-knapp</string>
-  <string name="back_long_press_timeout">Forsinkelse</string>
   <string name="background_data">Bakgrunnsdata</string>
   <string name="background_data_dialog_message">Deaktivering bakgrunnsdata forlenger batteriets levetid, og senker databruk. Noen programmer kan fortsatt bruke bakgrunnsdataforbindelsen.</string>
   <string name="background_data_dialog_title">Deaktiver bakgrunnsdata?</string>
@@ -363,14 +364,27 @@
   <string name="bluetooth_dock_settings_headset">Som høyttalertelefon</string>
   <string name="bluetooth_dock_settings_remember">Husk innstillinger</string>
   <string name="bluetooth_dock_settings_title">Bruk dock til audio</string>
+  <string name="bluetooth_dun_acceptance_dialog_text">%1$s vil bruke DUN. Gi tilgang til %2$s?</string>
+  <string name="bluetooth_dun_connection_permission_request">Dun-tilkoblingsforespørsel</string>
+  <string name="bluetooth_dun_profile_summary_connected">Koblet til DUN-server</string>
+  <string name="bluetooth_dun_profile_summary_not_connected">Ikke tilkoblet DUN-server</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Bruk for Dial-up-nettverkstilgang</string>
+  <string name="bluetooth_dun_remember_choice">"Ikke spørr igjen"</string>
+  <string name="bluetooth_dun_request">DUN-forespørsel</string>
   <string name="bluetooth_empty_list_bluetooth_off">For å se enheter, må du slå på Bluetooth.</string>
   <string name="bluetooth_enable">Aktiver Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN inneholder bogstaver eller symboler</string>
   <string name="bluetooth_enter_passkey_msg">"For å parre med:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Skriv inn enhetens adgangsnøkkel:"</string>
   <string name="bluetooth_enter_passkey_other_device">Du kan også være nødt til å skrive inn dette passordet på den andre enheten.</string>
   <string name="bluetooth_enter_pin_msg">"For å parre med:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Skriv inn enhetens PIN-kode:"</string>
+  <string name="bluetooth_enter_pin_msg_hs">"
+Tast PIN for å parre med \"%1$s\". [Høy sikkerhet aktivert: Trenger 16-tegnsnøkkel]"</string>
   <string name="bluetooth_enter_pin_other_device">Du kan også være nødt til å skrive inn denne PIN-koden på den andre enheten.</string>
   <string name="bluetooth_error_title">Obs</string>
+  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s vil ha tilgang til dine filer og mapper. Gi tilgang til %2$s?</string>
+  <string name="bluetooth_ftp_connection_permission_request">Ftp-tilkoblingsforespørsel</string>
+  <string name="bluetooth_ftp_remember_choice">"Ikke spørr igjen"</string>
+  <string name="bluetooth_ftp_request">Ftp-forespørsel</string>
   <string name="bluetooth_headset_profile_summary_connected">Koblet til telefonlyd</string>
   <string name="bluetooth_headset_profile_summary_use_for">Brukes til telefonlyd</string>
   <string name="bluetooth_hid_profile_summary_connected">Koblet til input-enhet</string>
@@ -380,6 +394,10 @@
   <string name="bluetooth_is_discoverable_always">Synlig for alle Bluetooth-enheter i nærheten </string>
   <string name="bluetooth_lock_voice_dialing">Lås stemmeanrop</string>
   <string name="bluetooth_lock_voice_dialing_summary">Forby bruken av ​​Bluetooth-dialer, når skjermen er låst</string>
+  <string name="bluetooth_map_connection_permission_request">Karttilkoblingsforespørsel</string>
+  <string name="bluetooth_mas_acceptance_dialog_text">%1$s vil ha tilgang til dine meldinger. Gi tilgang til %2$s?</string>
+  <string name="bluetooth_mas_remember_choice">"Ikke spørr igjen"</string>
+  <string name="bluetooth_mas_request">Meldingtilgangsforespørsel</string>
   <string name="bluetooth_menu_advanced">Avansert</string>
   <string name="bluetooth_name_not_set">Ingen navn angitt, bruker kontonavn</string>
   <string name="bluetooth_no_devices_found">​​Ingen Bluetooth-enheter ble funnet i nærheten.</string>
