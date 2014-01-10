@@ -1499,7 +1499,7 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="optimize_tips_cache">iconCache-filer er generert av prosesser som bare krever dem midlertidig (f.eks miniatyrer).</string>
   <string name="optimize_tips_cache_content">Midlertidige filer laget av programmer og prosesser (f.eks miniatyrer).</string>
   <string name="optimize_tips_cache_title">Cache</string>
-  <string name="optimize_tips_residual">"iconRester er filer (f.eks videoer, bakgrunnsbilder, musikk osv.) som har blitt lastet ned på enhetens SD-kortet av programmer som siden har blitt avinstallert. Som noen av disse filene likevel kan være til nytte for deg, anbefaler vi at du bruker Avansert-funksjonen når du rydder gjenværende filer."</string
+  <string name="optimize_tips_residual">"iconRester er filer (f.eks videoer, bakgrunnsbilder, musikk osv.) som har blitt lastet ned på enhetens SD-kortet av programmer som siden har blitt avinstallert. Som noen av disse filene likevel kan være til nytte for deg, anbefaler vi at du bruker Avansert-funksjonen når du rydder gjenværende filer."</string>
   <string name="optimize_tips_residual_content">Resteinnhold laget av programmer som senere har blitt avinstallert. Noen filer kan fortsatt kreves, vi anbefaler at du bruker avansert oppryddning-funksjonen for å fjerne disse filene.</string>
   <string name="optimize_tips_residual_title">Resteinnhold</string>
   <string name="optimize_tips_title">Hjelp</string>
