@@ -204,7 +204,7 @@
   <string name="card_title_in_call">I samtale</string>
   <string name="card_title_in_progress">Gjeldende anrop</string>
   <string name="card_title_incoming_barred">Innkommende anrop utelukket</string>
-  <string name="card_title_incoming_call">Innkommende anrop</string
+  <string name="card_title_incoming_call">Innkommende anrop</string>
   <string name="card_title_multipartycall">Flerpersonsanrop</string>
   <string name="card_title_my_phone_number">Mitt nummer er %s</string>
   <string name="card_title_on_hold">På vent</string>
@@ -431,7 +431,7 @@
   <string name="enforce_proximity_title_miui">Tvungen avstandssensor</string>
   <string name="enter_pin2_text">PIN2-kode</string>
   <string name="enterName">Skriv navn:</string>
-  <string name="enterNumber">Skriv telefonnummer:</string
+  <string name="enterNumber">Skriv telefonnummer:</string>
   <string name="enter_pin2_text_miui">PIN2</string>
   <string name="enter_pin_text">SIM PIN:</string>
   <string name="entertainment_news_settings">Underholdningsnyheter</string>
@@ -541,7 +541,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="label_available">tilgjengelige nettverk</string>
   <string name="label_cdp">SIM bedrift opplåsning PIN</string>
   <string name="label_ndp">SIM nettverk opplåsing PIN</string>
-  <string name="label_nsdp">SIM nettverkdel opplåsning PIN</stringg>
+  <string name="label_nsdp">SIM nettverkdel opplåsning PIN</string>
   <string name="label_puk">Skriv PUK</string>
   <string name="label_puk2_code">Tast PUK2-kode</string>
   <string name="label_puk2_code_miui">Tast PUK2 kode</string>
@@ -599,7 +599,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="missed_call_notify_twice_miui">2 ganger</string>
   <string name="mmiCancelled">MMI-nummer annullert</string>
   <string name="mmiStarted">MMI-nummer er startet</string>
-  <string name="mobile_network_setting">Innstillinger for mobilnettverk</string
+  <string name="mobile_network_setting">Innstillinger for mobilnettverk</string>
   <string name="mobile_networks">Innstillinger for mobilnettverk</string>
   <string name="mobile_networks_miui">Innstillinger for mobilnettverk</string>
   <string name="multi_category_disable">Flere kategorier er deaktivert</string>
