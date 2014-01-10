@@ -17,13 +17,13 @@
   <string name="default_search_domain">.google.com</string>
   <string name="device_settings_category_title">Fjern snarveier</string>
   <string name="google_app_label">Google Søking</string>
-  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="google_search_base">https://www.google.no/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Google Søkeresultater</string>
   <string name="google_search_hint">Google Søking</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google Søking</string>
-  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="google_suggest_base">https://www.google.no/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="menu_help">Hjelp</string>
   <string name="menu_settings">Søkeinnstillinger</string>
   <string name="remove_from_history">Fjern fra søkehistorikk</string>

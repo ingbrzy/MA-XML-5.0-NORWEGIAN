@@ -21,20 +21,13 @@
         <item>Mellom</item>
         <item>Nærme</item>
     </string-array>
-    <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Kinesisk (GBK)</item>
-        <item>Kinesisk (Big5)</item>
-        <item>Japansk (ISO-2022-JP)</item>
-        <item>Japansk (SHIFT_JIS)</item>
-        <item>Japansk (EUC-JP)</item>
-        <item>Koreansk (EUC-KR)</item>
-    </string-array>    
-    <string-array name="pref_images_preload_choices">
-        <item>Aldri</item>
-        <item>Smart</item>
-        <item>Alltid</item>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Aldri</item>
@@ -46,9 +39,39 @@
         <item>Kun på Wi-Fi</item>
         <item>Alltid</item>
     </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Aldrir</item>
+        <item>Kun på Wi-Fi</item>
+        <item>Alltid</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>https://www.google.no/</item>
+        <item>Twitter</item>
+        <item>http://twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://www.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://no.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://www.ebay.com/</item>
+        <item>VG</item>
+        <item>http://www.vg.no/</item>
+        <item>Aftenposten</item>
+        <item>http://www.aftenposten.no/</item>
+        <item>ESPN</item>
+        <item>http://espn.com/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.com/</item>
+        <item>Yr</item>
+        <item>http://www.yr.no/</item>
+        <item>NRK</item>
+        <item>http://www.nrk.no/</item>
+    </string-array>
+
     <string-array name="pref_ua_choices">
         <item>Android</item>
-        <item>Normal PC</item>
+        <item>PC</item>
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
@@ -59,6 +82,21 @@
     <string-array name="pref_fling_on_border_choices">
         <item>Side frem/tilbake</item>
         <item>Skift fane</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Aldri</item>
+        <item>Bare på Wi-Fi</item>
+        <item>Alltid</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Kinesisk (GBK)</item>
+        <item>Kinesisk (Big5)</item>
+        <item>Japansk (ISO-2022-JP)</item>
+        <item>Japansk (SHIFT_JIS)</item>
+        <item>Japansk (EUC-JP)</item>
+        <item>Koreansk (EUC-KR)</item>
     </string-array>
     <string-array name="menu_theme_setting">
         <item>Hvit</item>
