@@ -185,6 +185,7 @@
   <string name="response_maybe">Kanskje</string>
   <string name="response_no">Nei</string>
   <string name="response_yes">Ja</string>
+  <string name="rest_day_indication"/>
   <string name="save_label">Utfør</string>
   <string name="saving_event">hendelsen er lagret.</string>
   <string name="saving_event_with_guest">Oppdateringene er sendt.</string>

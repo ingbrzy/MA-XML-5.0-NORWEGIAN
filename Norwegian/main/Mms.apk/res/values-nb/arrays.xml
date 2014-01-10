@@ -21,9 +21,8 @@
         <item>Notat</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Viser mottatt tid</item>
-        <item>"Viser sendt tid 
-        (servers tidsstempel, kan være upresist)"</item>
+        <item>Tid mottatt</item>
+        <item>Tid sent</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Via SMS-melding</item>

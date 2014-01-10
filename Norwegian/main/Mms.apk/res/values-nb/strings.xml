@@ -3,6 +3,7 @@
   <string name="activity_not_found">Kunne ikke finne program for å åpne vedlegget</string>
   <string name="activity_not_found_uri">Kunne ikke finne program for åpning av objekt</string>
   <string name="addBlackList">Legg i svarteliste</string>
+  <string name="add_attachment">Legg til</string>
   <string name="add_bookmark">Favoritter</string>
   <string name="add_contact">Kontakt</string>
   <string name="add_festival">Festival</string>

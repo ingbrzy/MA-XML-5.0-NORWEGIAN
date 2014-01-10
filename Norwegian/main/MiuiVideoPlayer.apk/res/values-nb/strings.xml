@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_app_name">MiPlayer</string>
+  <string name="about_developer_label">Utvikler</string>
+  <string name="about_developer_name">MIUI</string>
   <string name="about_title">Om</string>
   <string name="about_version">V4.0</string>
+  <string name="about_version_label">Versjon:</string>
   <string name="adjust_position_next_media_notice">Neste</string>
   <string name="adjust_position_prev_media_notice">Forrige</string>
   <string name="airkan_control_device_des">Du kan styre avspillingen via knappen i bunnen</string>
@@ -12,7 +15,7 @@
   <string name="app_name">MiVideo</string>
   <string name="buffering">Leser inn i buffer...</string>
   <string name="buffering_video_netplay_label_v5">Leser inn i buffer...</string>
-  <string name="episode_prefix">" episode "</string>
+  <string name="episode_prefix">"episode "</string>
   <string name="loading_video_netplay_label">Laster, vennligst vent...</string>
   <string name="loading_video_netplay_label_v5">Laster stream, vennligst vent...</string>
   <string name="menu_item_about_label">Om</string>

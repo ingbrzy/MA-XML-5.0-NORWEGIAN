@@ -66,11 +66,9 @@
   <string name="delete_playlist_menu">Slett</string>
   <string name="delete_song_desc">Er du sikker på du vil slette %s ?</string>
   <string name="deselect_all">Opphev alle valg</string>
-  <string name="dirac_disabled">Dirac er deaktivert</string>
-  <string name="dirac_enabled">Dirac er aktivert</string>
-  <string name="dirac_mode_earbuds">Xiaomi-ørepropper</string>
+  <string name="dirac_mode_earbuds">Xiaomi-hodetelefoner</string>
   <string name="dirac_mode_general">Generell modus</string>
-  <string name="dirac_mode_in_ear">Xiaomi-øretelefoner</string>
+  <string name="dirac_mode_in_ear">Xiaomi øretelefon</string>
   <string name="dirac_mode_off">Dirac av</string>
   <string name="dirac_mode_piston_100">Xiaomi-stempel hodetelefoner</string>
   <string name="disconnect">Koble fra</string>
@@ -88,8 +86,7 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-  <string name="edit_playlist_menu">Rediger</string>
-  <string name="empty_edit_hint">Sanginformasjon utilgjengelig</string>
+   <string name="empty_edit_hint">Sanginformasjon utilgjengelig</string>
   <string name="empty_track_list">Ingen sang-liste</string>
   <string name="emptyplaylist">Valgte spilleliste er tom.</string>
   <string name="enabled">Aktivert</string>
@@ -224,9 +221,7 @@
   <string name="normal_quality">Normal kvalitet</string>
   <string name="not_login">Logg inn</string>
   <string name="not_selected">Vennligst velg en sang</string>
-  <string name="notification_artist_album">"%2$s
-%1$s"</string>
-  <string name="online_music">Online Musikk</string>
+  <string name="notification_artist_album">"%2$s %1$s"</string>
   <string name="online_search_hint">Søk etter online musikk</string>
   <string name="online_title">Online</string>
   <string name="other_settings">Annet</string>
@@ -250,7 +245,6 @@
   <string name="playlist_favorite">Favoritter</string>
   <string name="playlist_frequently_played">Ofte spilt av</string>
   <string name="playlist_my_ktv">Min KTV</string>
-  <string name="playlist_new">Opprett ny spilleliste</string>
   <string name="playlist_recently_added">Sist lagt til</string>
   <string name="playlist_recently_played">Sist spilt av</string>
   <string name="playlist_renamed_message">spilleliste gitt nytt navn.</string>
@@ -285,8 +279,7 @@
   <string name="scanning_nosdcard">Skanner USB-lagring…</string>
   <string name="screen_bright_wake">Skjerm holdes på</string>
   <string name="screen_bright_wake_summary">Baklys forblir på når innstillingen er aktivert</string>
-  <string name="sdcard_busy_message">"Beklager, SD-kortet er opptatt.
-	  Kontroller kortstatus."</string>
+  <string name="sdcard_busy_message">"Beklager, SD-kortet er opptatt."</string>
   <string name="sdcard_busy_message_nosdcard">Beklager, USB-lagring er opptatt.</string>
   <string name="sdcard_error_message">Det oppsto en feil med SD-kortet.</string>
   <string name="sdcard_error_message_nosdcard">Det oppsto en feil med USB-lagringen.</string>
