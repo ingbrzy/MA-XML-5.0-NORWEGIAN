@@ -10,13 +10,13 @@
   <string name="accelerometer_summary_on">Skift orientering automatisk, når du roterer telefonen</string>
   <string name="accelerometer_title">Auto-Roter skjerm</string>
   <string name="access_control_app_entry_multiple">Åpne %s</string>
-  <string name="access_control_app_entry_single">Åpne valgte program</string>
+  <string name="access_control_app_entry_single">Åpne program</string>
   <string name="access_control_need_password">"%s har blitt beskyttet
 "</string>
-  <string name="access_control_need_to_unlock">Passord kreves</string>
+  <string name="access_control_need_to_unlock">Passord kreves:</string>
   <string name="access_control_no_back_footer">Trykk på [icon] for å avslutte</string>
   <string name="access_control_password_title">Passord</string>
-  <string name="access_control_recording_intro_header">Tegn opplåsningsmønster</string>
+  <string name="access_control_recording_intro_header">Tegn opplåsningsmønster:</string>
   <string name="access_control_reset_by_account">Logg inn på Xiaomi-konto for å nullstille ditt passord</string>
   <string name="accessibility_enable">Tilgjengelighet</string>
   <string name="accessibility_long_press_timeout_title">Trykk &amp; hold forsinkelse</string>
@@ -923,13 +923,13 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="error_name_empty">Feltet Navn kan ikke være tomt</string>
   <string name="error_title">Obs</string>
   <string name="examination_score_100">Skanning ikke nødvendig, alt ser bra ut!</string>
-  <string name="examination_score_60_0">Uff! Du burde optimalisere telefonen din.</string>
+  <string name="examination_score_60_0">Du burde optimalisere telefonen din.</string>
   <string name="examination_score_80_100">Noen elementer kan bli optimalisert.</string>
   <string name="examination_score_80_60">Noen elemeneter kan bli optimalisert.</string>
   <string name="examination_score_has_virus">Vi har detektert noen mistenkelige programmer!</string>
   <string name="external_code_size_label">SD-kort Program</string>
   <string name="external_data_size_label">SD-kort Data</string>
-  <string name="factory_reset_summary">Du kan slette personlige data ved å nullstille telefonen, eller velge å slette de installerte programmer og formatere SD-kortet for å gjenopprette fabriksinnstillinger</string>
+  <string name="factory_reset_summary">"Slett all data fra telefonen din sin interne lagring"</string>
   <string name="failed_to_open_app_settings_toast">Åpning av innstillinger for %1$s mislyktes</string>
   <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
   <string name="fancy_icon_power_center">com.miui.powercenter</string>
@@ -1086,7 +1086,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="immediately_destroy_activities_summary">Stopp hver aktivitet, så snart brukeren forlater den</string>
   <string name="ims_reg_required_off">Deaktiver IMS registrering nødvendig</string>
   <string name="ims_reg_required_on">Aktiver IMS registrering nødvendig</string>
-  <string name="incoming_call_vibrate_abbreviation">Anrop</string>
+  <string name="incoming_call_vibrate_abbreviation">"Anrop "</string>
   <string name="incoming_call_volume_title">Ringetone</string>
   <string name="input_method">Inputmetode</string>
   <string name="input_method_selector">Inputmetode velger</string>
@@ -1116,7 +1116,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="internal_format">Formater Intern lagring</string>
   <string name="internal_format_summary">Formatering av den interne lagringen vil slette alle filer, som musikk og bilder</string>
   <string name="internal_media_format_button_text">Slett intern lagring</string>
-  <string name="internal_media_format_desc">Sletting av den interne lagringen vil slette alle filer, som musikk og bilder</string>
+  <string name="internal_media_format_desc">Slett all intern lagring? Du vil miste &lt;b&gt;alle&lt;/b&gt; lagret data, og din telefon vil restarte!</string>
   <string name="internal_media_format_final_desc">"Sletting av intern lagring vil slette alle filer! Du kan ikke angre denne handlingen. Telefonen restarter etter sletting av data!"</string>
   <string name="internal_media_format_title">Slett intern lagring</string>
   <string name="internal_memory">Intern lagring</string>
@@ -1277,8 +1277,7 @@ Klar for å starte? Trykk på Neste."</string>
 
 Du er i øyeblikket logget inn på følgende kontoer:
 "</string>
-  <string name="master_clear_all">"Er du sikker på du vil slette alle data og vende tilbake til fabrikkinnstillinger?
-Obs: handlingen kan ikke angres."</string>
+  <string name="master_clear_all">Slett all data fra telefonens interne lagring? Du kan ikke reversere denne handlingen."</string>
   <string name="master_clear_button_text">Nullstil telefon</string>
   <string name="master_clear_confirm_title">Nullstil?</string>
   <string name="master_clear_desc">"Dette vil slette all data fra din telefons "&lt;b&gt;internlager&lt;/b&gt;", inkludert:
@@ -1289,24 +1288,21 @@ Obs: handlingen kan ikke angres."</string>
   <string name="master_clear_desc_also_erases_external">&lt;li&gt;Musikk&lt;/li&gt;"
 "&lt;li&gt;Bilder&lt;/li&gt;"
 "&lt;li&gt;Annen brukerdata&lt;/li&gt;</string>
-  <string name="master_clear_desc_erase_external_storage">"For å slette musikk, bilder og andre brukerdata, må "</string>
-  <string name="master_clear_erase_application_progress">Sletting av programmer utføres</string>
+  <string name="master_clear_desc_erase_external_storage">For å slette musikk, bilder og andre brukerdata, må "&lt;b&gt;USB-lagring&lt;/b&gt; bli slettet.</string>
+  <string name="master_clear_erase_application_progress">Sletter programmer…</string>
   <string name="master_clear_failed">"Ingen nullstilling ble utført, fordi systemets tjeneste ikke er tilgjengelig."</string>
   <string name="master_clear_final_button_text">Slett alt</string>
   <string name="master_clear_final_desc">Slett alle dine personlige opplysninger og eventuelle nedlastede programmer? Det er umulig at angre denne handlingen!</string>
   <string name="master_clear_gesture_explanation">Du må tegne ditt opplåsningsmønster for å bekrefte en telefonreset</string>
   <string name="master_clear_gesture_prompt">Tegn ditt opplåsningsmønster</string>
-  <string name="master_clear_personal_data">"Er du sikker på at du vile slette personlige data? 
-Obs: denne handling kan ikke angres"</string>
-  <string name="master_clear_personal_data_application">"Er du sikker på du vil slette dine personlige data og installerede Programmer?
-Obs: denne handling kan ikke angres."</string>
-  <string name="master_clear_personal_data_sdcard">"Er du sikker på du vil slette dine personlige data og formatere SD-kort?
-Obs: denne handling kan ikke angres!"</string>
+  <string name="master_clear_personal_data">"Slett alle dine personlige opplysninger? Du kan ikke reversere denne handlingen!"</string>
+  <string name="master_clear_personal_data_application">"Slett alle dine personlige opplysninger og installerte programmer? Du kan ikke reversere denne handligen!"</string>
+  <string name="master_clear_personal_data_sdcard">"Slett alle dine personlige opplysninger og innhold? Du kan ikke reversere denne handlingen!"</string>
   <string name="master_clear_summary">Sletter alle data på telefonen</string>
   <string name="master_clear_title">Fabrikknullstilling</string>
   <string name="media_button">Medie Knapp</string>
   <string name="media_format_button_text">Formater SD-kort</string>
-  <string name="media_format_desc">Slett alle SD-kort? Du mister </string>
+  <string name="media_format_desc">Slett alle SD-kort? Du mister &lt;b&gt;alle&lt;/b&gt; lagrede data!</string>
   <string name="media_format_final_button_text">Slett alt</string>
   <string name="media_format_final_desc">Formater SD-kort, og slette alle dine medier? Handlingen kan ikke angres!</string>
   <string name="media_format_gesture_explanation">Du må tegne ditt opplåsningsmønster for å bekrefte en SD-kort-formatering</string>
@@ -1431,7 +1427,7 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="no_services">Ingen aktive tjenester</string>
   <string name="noise_suppression">Støydemping</string>
   <string name="normal_date_format">Regionalt (%s)</string>
-  <string name="notification_pulse_title">LED Varsler</string>
+  <string name="notification_pulse_title">LED-varsler</string>
   <string name="notification_sound_dialog_title">Velg Meldingstone</string>
   <string name="notification_sound_title">Standard varsel</string>
   <string name="notification_vibrate_abbreviation">"Varsler "</string>
@@ -1501,7 +1497,7 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="optimize_tips_residual_title">Resteinnhold</string>
   <string name="optimize_tips_title">Hjelp</string>
   <string name="optimize_title_ad">Reklamefiler</string>
-  <string name="optimize_title_apk">Pakker</string>
+  <string name="optimize_title_apk">Programmer</string>
   <string name="optimize_title_cache">Cache</string>
   <string name="optimize_title_residual">Rester</string>
   <string name="optimizing">Optimaliserer</string>
@@ -1598,7 +1594,7 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="perm_hips_security_prompt_next">Neste</string>
   <string name="perm_hips_security_prompt_reject">Avvis (%d)</string>
   <string name="perm_hips_security_prompt_remember">Husk mitt valg</string>
-  <string name="perm_hips_security_prompt_root_caption">Viktig Advarsel</string>
+  <string name="perm_hips_security_prompt_root_caption">Viktig advarsel</string>
   <string name="perm_hips_security_prompt_root_step1">Ønsker du å gi %1$s ROOT-tillatelse?</string>
   <string name="perm_hips_security_prompt_root_step2">ROOT-tillatelse kan medføre at systemet blir ustabilt</string>
   <string name="perm_hips_security_prompt_root_step3">Dine personlige data, som kontoer, passord og meldinger kan bli kompromiteret</string>
@@ -1654,12 +1650,15 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="perm_su_desc">Overvåk %1$d programmer for ROOT-tillatelser</string>
   <string name="perm_su_desc1">Håndter ROOT-tillatelser</string>
   <string name="perm_su_disabled">ROOT-tillatelse er deaktivert</string>
-  <string name="perm_su_disabled_desc">Avgivelse av ROOT-tillatelser til 3.part programmer kan medføre at systemet blir ustabilt, tap av personlige data, system eller hardwareskade. Bruk med omhu.</string>
+  <string name="perm_su_disabled_desc">Å gi ROOT-tillatelser til tredjepartsprogrammer kan medføre at systemet blir ustabilt, tap av personlige data, system eller maskinvareskade. Bruk med omhu.</string>
   <string name="perm_su_disabled_in_stable">ROOT er ikke tilgjengelig i MIUI Stable</string>
-  <string name="perm_su_disabled_in_stable_desc">Avgivelse av ROOT tillatelser til 3.part programmer kan medføre at systemet blir ustabilt, tap av personlige data, system eller hardwareskade. Skift til MIUI development versjon for å aktivere ROOT-tillatelser.</string>
+  <string name="perm_su_disabled_in_stable_desc">"Å gi ROOT-tillatelser til tredjepartsprogrammer kan medføre at systemet blir ustabilt, tap av personlige data, system eller maskinvareskade.
+
+ Skift til MIUI-utviklerversjon for å aktivere ROOT-tillatelser."</string>
   <string name="perm_su_disabled_in_stable_download">Last ned MIUI</string>
-  <string name="perm_su_enable_content">Aktivering vil gi programmer lov til å spørre om ROOT-tillatelser. Obs: Programmer med disse tillatelser kan medføre at systemet blir ustabilt, mv. Vil du aktivere?</string>
-  <string name="perm_su_enable_dialog">%1$s forsøker å få ROOT-tillatelse, som er deaktivert som standard for å sikre systemets sikkerhet.</string>
+  <string name="perm_su_enable_content">"Aktivering vil gi programmer lov til å spørre om ROOT-tillatelser. 
+ Obs: Programmer med disse tillatelser kan medføre at systemet blir ustabilt, tap av personlige data og system- og maskinvareskade. Vil du fortsette aktivering av funksjonen?"</string>
+  <string name="perm_su_enable_dialog">%1$s forsøker å få ROOT-tillatelse, som er deaktivert som standard for å sikre systemets sikkerhet. Hvis du vil aktivere det, vennligst gå til innstillinger i Tillatelseshåndtering.</string>
   <string name="perm_su_enable_summary">Programmer kan få root tillatelse</string>
   <string name="perm_su_enable_title">ROOT-tillatelse</string>
   <string name="perm_su_switch">ROOT-tillatelse</string>
@@ -1667,7 +1666,7 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="perm_summary_enabled">På</string>
   <string name="perm_sysopt_boost_auto_start">Autostart tillatelser</string>
   <string name="perm_sysopt_boost_auto_start_group">Autostart</string>
-  <string name="perm_sysopt_boost_auto_start_summary">Tillat denne prosessen å starte automatisk</string>
+  <string name="perm_sysopt_boost_auto_start_summary">Tillat automatisk start</string>
   <string name="perm_sysopt_boost_boot">Boot</string>
   <string name="perm_sysopt_boost_receiver">Bakgrunn</string>
   <string name="perm_system_app">Systemprogrammer (%d)</string>
@@ -1676,9 +1675,9 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="perm_update">Softwareoppgradering</string>
   <string name="perm_user_app">Nedlastede programmer (%d)</string>
   <string name="perm_version">Versjon: %1$s</string>
-  <string name="permission_detail_info">Vis info om tillatelser</string>
-  <string name="permission_detail_info_summary">Alle tillatelser: Sikre %1$d，Private %2$d，Andre %3$d</string>
-  <string name="permission_manage">Tillatelseshåndtering</string>
+  <string name="permission_detail_info">Tillatelsedetaljer</string>
+  <string name="permission_detail_info_summary">Tillatelser: Sikre %1$d，Private %2$d，Andre %3$d</string>
+  <string name="permission_manage">Behandle tillatelser</string>
   <string name="permission_manage_summary">Auto start, privatliv, sikker tillatelseshåndtering</string>
   <string name="permission_manage_title">%s detaljer om tillatelser</string>
   <string name="permission_mgr">Tillatelser</string>
@@ -1713,7 +1712,7 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="power_cell">Mobilsignal</string>
   <string name="power_center_battery_full">Batteriet er fulladet</string>
   <string name="power_center_charge_time">Oppladning vil fullføres innen %1$s</string>
-  <string name="power_center_consume_rank">Strømforbruk</string>
+  <string name="power_center_consume_rank">Batteribruk</string>
   <string name="power_center_consume_time">%1$s igjen</string>
   <string name="power_center_custom_summary_default">Optimaliser innstillinger, spar batteri</string>
   <string name="power_center_custom_title">Spare batteri</string>
@@ -1735,7 +1734,7 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="power_chooser_smart_summary">Lagre gjeldende innstillinger, tøm prosesser på låseskjermen</string>
   <string name="power_chooser_smart_title">Standardmodus</string>
   <string name="power_chooser_standby_summary">Deaktiver internettfunksjoner</string>
-  <string name="power_chooser_standby_title">Maratonmodus</string>
+  <string name="power_chooser_standby_title">Ytelsesmodus</string>
   <string name="power_chooser_title">Spar batteri</string>
   <string name="power_chooser_user_define_summary">Lag en egendefinert konfigurasjon for batteri</string>
   <string name="power_chooser_user_define_title">Legg til egendefinert profil</string>
@@ -1752,7 +1751,7 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="power_customizer_save">Lagre</string>
   <string name="power_customizer_sleep_mode">Sov</string>
   <string name="power_customizer_smart_mode">Standard</string>
-  <string name="power_customizer_standby_mode">Maraton</string>
+  <string name="power_customizer_standby_mode">Ytelse</string>
   <string name="power_customizer_user_define_mode">Profilnavn:</string>
   <string name="power_customizer_user_define_name">Egendefinert</string>
   <string name="power_customizer_user_define_summary">Brukerdefinerte innstillinger</string>
@@ -1825,11 +1824,11 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="power_new_choose_mode">Velg modus</string>
   <string name="power_perm_logs_empty">Ingen logger</string>
   <string name="power_phone">Taleanrop</string>
-  <string name="power_save_choose_mode">Velg en profil</string>
-  <string name="power_save_choose_recovery_mode">Velg gjenopprettningsmodus</string>
-  <string name="power_save_low_battery_auto_save_title">Spar strøm når batterinivået er lavt</string>
-  <string name="power_save_low_battery_option_recovery_title">Når batteriet forbedres, bytt modus</string>
-  <string name="power_save_low_battery_option_summary">Når batteriet er over lavterskelen vil enheten gå til bake til sist brukte profil</string>
+  <string name="power_save_choose_mode">Strømsparingsprofil</string>
+  <string name="power_save_choose_recovery_mode">Gjenopprett strømprofil</string>
+  <string name="power_save_low_battery_auto_save_title">Spar batteri når lavt</string>
+  <string name="power_save_low_battery_option_recovery_title">Når batteriet er ladet, bytt til</string>
+  <string name="power_save_low_battery_option_summary">Når batteriet er over lavterskelen vil enheten gå tilbake til sist brukte profil</string>
   <string name="power_save_low_battery_option_title">Når batteriet er lavt bytt til</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
   <string name="power_save_low_battery_percentage_forty">40%</string>
@@ -1838,15 +1837,15 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="power_save_low_battery_percentage_twenty">20%</string>
   <string name="power_save_low_battery_seekbar_title">Batteriet er lavt når resterende strøm er mindre enn: %1$d%%</string>
   <string name="power_save_low_battery_title">Spar strøm når batterinivået er lavt</string>
-  <string name="power_save_on_time_auto_save_title">Planlagte</string>
+  <string name="power_save_on_time_auto_save_title">Aktiver tidsplan</string>
   <string name="power_save_on_time_default_time">00:00</string>
-  <string name="power_save_on_time_end_time_summary">Ende</string>
+  <string name="power_save_on_time_end_time_summary">Ender</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
-  <string name="power_save_on_time_goout_title">Gjenopprett til</string>
-  <string name="power_save_on_time_option_recovery_title">Planlagte tid nådd, bytt modus</string>
-  <string name="power_save_on_time_option_summary">På enden av denne perioden vil enheten bytte til sist brukte profil</string>
-  <string name="power_save_on_time_option_title">I løp av denne perioden</string>
-  <string name="power_save_on_time_start_time_summary">Start</string>
+  <string name="power_save_on_time_goout_title">Gjenopprett profil til</string>
+  <string name="power_save_on_time_option_recovery_title">Planlagt tid slutt, bytt profil</string>
+  <string name="power_save_on_time_option_summary">Når tidsplanen er slutt vil den mest bruket profilen bli aktivert</string>
+  <string name="power_save_on_time_option_title">Strømsparingsprofil</string>
+  <string name="power_save_on_time_start_time_summary">Starter</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Planlagte</string>
   <string name="power_screen">Skjerm</string>
@@ -1862,7 +1861,7 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="power_usage_sort_title">Vis batteribruk</string>
   <string name="power_usage_summary">Hva har brukt batteriet</string>
   <string name="power_usage_summary_title">Batteri</string>
-  <string name="power_used_hours">timer</string>
+  <string name="power_used_hours">"timer "</string>
   <string name="power_used_hours_test">8</string>
   <string name="power_used_mins">minutter</string>
   <string name="power_used_mins_test">23</string>
@@ -1883,11 +1882,11 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="preferred_application_warning_replace">Bytt</string>
   <string name="preferred_application_warning_title">Bytt standard %s</string>
   <string name="preferred_application_warning_use_system">Bruk standard %s</string>
-  <string name="preferred_launcher_title">Foretrukket Launcher</string>
-  <string name="preferred_launcher_warning_message">Erstatning av standard Launcher kan medføre økt ressursbruk. Er du sikker på du vil fortsette?</string>
-  <string name="preferred_launcher_warning_replace">Erstatt Launcher</string>
-  <string name="preferred_launcher_warning_title">Erstatter standard Launcher</string>
-  <string name="preferred_launcher_warning_use_system">Fjern standard Launcher</string>
+  <string name="preferred_launcher_title">Foretrukket launcher</string>
+  <string name="preferred_launcher_warning_message">Bytting av standard launcher kan medføre økt ressursbruk, redusere hastighet, og kan sette ditt telefoninnhold i fare</string>
+  <string name="preferred_launcher_warning_replace">Bytt</string>
+  <string name="preferred_launcher_warning_title">Bytte standard launcher</string>
+  <string name="preferred_launcher_warning_use_system">Bruk standard Launcher</string>
   <string name="preferred_media_app_summary">Velg Musikkspiller</string>
   <string name="privacy_mode_enable_sum">Skjul anropslister, meldinger og andre data når i Privatmodus</string>
   <string name="privacy_mode_enable_title">Aktiver Privatmodus</string>
@@ -1895,9 +1894,9 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="privacy_relative">Privat relatert</string>
   <string name="privacy_settings">Backup &amp; nullstilling</string>
   <string name="privacy_settings_title">Backup &amp; nullstilling</string>
-  <string name="private_sms_need_to_unlock">Vennligst skriv inn privat SMS-passord</string>
-  <string name="private_sms_recording_intro_header">Tegn mønster for å opprette passord</string>
-  <string name="private_sms_reset_by_account">Logg inn på Xiaomi-konto for å nullstille privat SMS-passord</string>
+  <string name="private_sms_need_to_unlock">Passord kreves:</string>
+  <string name="private_sms_recording_intro_header">Tegn mønste:</string>
+  <string name="private_sms_reset_by_account">Logg inn på Xiaomi-konto for å nullstille passord</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_list_empty_hints">Ingen cachede prosesser.</string>
   <string name="process_manage_title">Tøm %1$d prosesser, frigjør %2$s av minnet</string>
@@ -2085,9 +2084,9 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="screen_on_proximity_sensor_title">Unngå misbruk</string>
   <string name="screen_saturation">Fargemetning</string>
   <string name="screen_saturation_adjust">Still fargemetning</string>
-  <string name="screen_timeout">Slå av skjerm</string>
+  <string name="screen_timeout">Søv</string>
   <string name="screen_timeout_summary">Etter %1$s uten aktivitet</string>
-  <string name="screen_timeout_title">Skjerm timeout</string>
+  <string name="screen_timeout_title">Sovemodus</string>
   <string name="screensaver_activate_on_dock_title">Start også når dokket</string>
   <string name="screensaver_component_title">Valgt Candy</string>
   <string name="screensaver_settings_summary_off">Deaktivert</string>
@@ -2178,7 +2177,7 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="service_restarting">Restart</string>
   <string name="service_started_by_app">Startet av program.</string>
   <string name="service_stop">Stopp</string>
-  <string name="service_stop_description">Denne service ble startet av dens program. Avslutning kan få programmet til å feile.</string>
+  <string name="service_stop_description">Programmer har startet en kjørende tjeneste. Stopping av denne kan føre til feil.</string>
   <string name="set_data_subscription_progress">Sett dataabonnement som er i fremgang</string>
   <string name="set_dds_error">Feil under setting av dataabonnement.</string>
   <string name="set_dds_failed">Feil under setting av dataabonnement. Error in set data subscription. Rydd opp alle eksisterende datatilkoblinger og prøv på nytt.</string>
@@ -2225,8 +2224,7 @@ følg trinnene for å fullføre installasjonen"</string>
   <string name="sim_bad_pin">Ugyldig PIN</string>
   <string name="sim_change_failed">"Kan ikke endre PIN.
 Muligens ugyldig PIN."</string>
-  <string name="sim_change_failed_enable_sim_lock">Kan ikke endre SIM/RUIM PIN.
- Aktiver SIM/RUIM Lås.</string>
+  <string name="sim_change_failed_enable_sim_lock">Aktiver SIM-lås for å endre PIN.</string>
   <string name="sim_change_pin">SIM PIN</string>
   <string name="sim_change_succeeded">SIM PIN-kode endret med suksess</string>
   <string name="sim_disable_sim_lock">Lås SIM-kort</string>
@@ -2499,7 +2497,7 @@ Forsøk gjenstående :"</string>
   <string name="unlock_set_unlock_pattern_title">Mønster</string>
   <string name="unlock_set_unlock_pin_summary">Medium til høy sikkerhet</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
-  <string name="unlock_set_unlock_summary">Vennligst aktiver passord for å innstille beskyttelse med passord</string>
+  <string name="unlock_set_unlock_summary">Vennligst aktiver skjermlås.</string>
   <string name="unmount_inform_text">SD-kortet vil bli avmontert.</string>
   <string name="untitled_apn">Ikke angitt</string>
   <string name="upload_debug_log_summary">Hjelp Xiaomi med å forbedre sine produkter og tjenester ved å sende anonyme diagnose og bruksdata</string>
@@ -2776,9 +2774,9 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="wifi_config_info">WiFi konfig</string>
   <string name="wifi_connect">Koble til</string>
   <string name="wifi_context_menu_change_password">Skift passord</string>
-  <string name="wifi_context_menu_change_wapi_certificate">Skift WAPI Sertifikat</string>
-  <string name="wifi_context_menu_connect">Koble til WiFi-nettverk</string>
-  <string name="wifi_context_menu_forget">Glem nettverk</string>
+  <string name="wifi_context_menu_change_wapi_certificate">Skift WAPI-sertifikat</string>
+  <string name="wifi_context_menu_connect">Koble til</string>
+  <string name="wifi_context_menu_forget">Glem</string>
   <string name="wifi_disabled_generic">Handicappede</string>
   <string name="wifi_disabled_help">Nettverket ble droppet på grunn av dårlig forbindelse. Slå av denne handlingen fra Innstillinger&gt;WiFi-skjerm, Avansert menupunkt.</string>
   <string name="wifi_disabled_network_failure">Droppet dårlig internettforbindelse</string>
@@ -2942,7 +2940,7 @@ Trykk "&lt;b&gt;Tilbake&lt;/b&gt; for å koble til et annet Wi-Fi-nettverk.</str
   <string name="wifi_share_turn_off">WI-Fi-deling av</string>
   <string name="wifi_share_turn_on">WI-Fi-deling på</string>
   <string name="wifi_share_upload">Del</string>
-  <string name="wifi_share_upload_finish">Deling lykkes!</string>
+  <string name="wifi_share_upload_finish">Deling vellykket!</string>
   <string name="wifi_share_uploading">Deler offentlig Wi-Fi nettverk</string>
   <string name="wifi_show_advanced">Vis avanserte innstillinger</string>
   <string name="wifi_show_password">Vis passord</string>
