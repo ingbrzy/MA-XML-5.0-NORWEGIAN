@@ -721,13 +721,10 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="debug_layout_summary">Vis klippgrenser, marger, etc.</string>
   <string name="debug_log">Brukeropplevelsesprogram</string>
   <string name="debug_monitoring_category">Overvåking</string>
-  <string name="deep_clean_tips_cache_content">"Noen programmer kan bruke cache-filer for å laste ned ekstra ressurser. Vær forsiktig når du rydder opp disse filene."</string>
   <string name="deep_clean_tips_cache_content">"Noen programmer kan bruke cache-filer for å laste ned ekstra ressurser (f.eks. sangtekster, musikk, bilder osv.) Vær forsiktig med å rydde opp disse filene."</string>
-  <string name="deep_clean_tips_cache_title">Cachede filer</string>
   <string name="deep_clean_tips_cache_title">Cachede filer</string>
   <string name="deep_clean_tips_large_file_content">Store filer (10MB+) kan ta opp plass på din enhet.</string>
   <string name="deep_clean_tips_large_file_title">Store filer</string>
-  <string name="deep_clean_tips_residual_content">"Restefiler lastet ned til ditt SD-kort av programmer som senere har blitt avinstallert"</string>
   <string name="deep_clean_tips_residual_content">"Restefiler lastet ned til SD-kortet av programmer som siden har blitt avinstallert"</string>
   <string name="deep_clean_tips_residual_title">Restefiler</string>
   <string name="deep_clean_title_cache">Cache</string>
