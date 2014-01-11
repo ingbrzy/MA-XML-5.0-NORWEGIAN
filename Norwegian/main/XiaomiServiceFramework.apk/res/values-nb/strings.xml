@@ -213,15 +213,15 @@ brukt %s | gjenværende %s"</string>
   <string name="other_settings">Andre innstillinger</string>
   <string name="password">Passord</string>
   <string name="prev">Tilbake</string>
-  <string name="process_result">Resultat:</string>
+  <string name="process_result">Synkdetaljer:</string>
   <string name="quick_login_step2_title">Innloggingssikkerhet</string>
-  <string name="quick_login_title">"Godkjendelse påkrevd. Vennligst skriv inn ditt passord"</string>
+  <string name="quick_login_title">Passord</string>
   <string name="reg_by_email_failure">Registrering mislyktes: %1$s</string>
   <string name="reg_failed">Registrering mislyktes</string>
   <string name="reg_success">Registrering fullført</string>
-  <string name="reg_success_summary">Ditt telefonnummer %1$s er allerede koblet til MiLock hvor du kan bruke det til å logge inn og gjenopprette passord.</string>
-  <string name="reg_type_email">Registrer via epost</string>
-  <string name="reg_type_phone">Registrer via telefon (anbefalt)</string>
+  <string name="reg_success_summary">%1$s har blitt koblet til din konto. Du kan bruke den for å logge inn og få gjenopprette ditt passord.</string>
+  <string name="reg_type_email">Registrering via epost</string>
+  <string name="reg_type_phone">Registrering via telefon (anbefalt)</string>
   <string name="reging">Registerer, vennligst vent…</string>
   <string name="relogin">Logg inn</string>
   <string name="remove_account_notice">Hva vil du gjøre med de tidligere synkroniserte meldinger, kontakter, anropslister og notater på din telefon?</string>
@@ -234,18 +234,18 @@ brukt %s | gjenværende %s"</string>
   <string name="send_sms_for_sync_title">Synk-tjeneste ikke aktivert</string>
   <string name="service_error">Tjenestefeil</string>
   <string name="show_password">Vis passord</string>
-  <string name="sim_changed_notification_content">SIM -kort ikke aktivert, vennligst aktiver</string>
+  <string name="sim_changed_notification_content">SIM-kort er ikke aktivert</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Hopp over innlogging</string>
   <string name="skip_login_u">&lt;u&gt;Hopp over innlogging&lt;/u&gt;</string>
   <string name="skip_setup_account_msg">Med din Xiaomi-konto, kan du synkronisere og sikkerhetskopiere SMS, kontakter, bilder, notater, etc. Fortsett og still inn senere?</string>
-  <string name="skip_setup_account_title">Hopp over konto innstillinger</string>
+  <string name="skip_setup_account_title">Hopp over oppsett</string>
   <string name="start_micloud">Start</string>
-  <string name="sub_alert_notif_dspt" formatted="false">"Du har lagt til %s telefonkontakter, %s SMSer, %s bilder, %s av notater og andre data.
+  <string name="sub_alert_notif_dspt" formatted="false">"Du har %s lokale telefonkontakter, %s SMSer, %s bilder, %s av notater og annen data er ikke synkronisert.
 
 Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent borte. Vi anbefaler at du aktiverer synkronisering for å sikre dataene dine"</string>
   <string name="sub_alert_notif_title">Hovedsynkroniseringstjeneste har ikke blitt aktivert</string>
-  <string name="sync_dspt">Bruk Xiaomi-konto til å synkronisere data</string>
+  <string name="sync_dspt">Aktiver synkronisering</string>
   <string name="sync_off">Av</string>
   <string name="sync_on">På</string>
   <string name="sync_sub_dspt">En SMS må sendes for å aktivere tjenesten</string>
@@ -254,24 +254,26 @@ Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent bort
   <string name="title_voucher">Fyll på ved bruk av MiCredit-kupong</string>
   <string name="trust_device">Stol på enhet</string>
   <string name="unactivated_user">Ikke aktivert</string>
-  <string name="unbind">De-autoriser</string>
+  <string name="unbind">Frakoble</string>
   <string name="update_contacts">Oppdater kontakter</string>
-  <string name="update_contacts_description">Oppdater dine telefonkontakter og annen informasjon</string>
+  <string name="update_contacts_description">"Sina Weibo will bruke din Xiaomi-konto for å synkronisere kontaktinfo på tvers av platformer"</string>
   <string name="updated_contacts">Oppdatert %s kontakter</string>
-  <string name="updated_nothing">Ingenting oppdatert!</string>
-  <string name="user_agreement_p1">"Ved å logge inn, aksepterer du "</string>
-  <string name="user_agreement_p2">Xiaomis tjenestevilkår</string>
-  <string name="user_agreement_p3"> og </string>
+  <string name="updated_nothing">Ingen elementer å synkronisere</string>
+  <string name="user_agreement_p1">"Ved å logge inn, aksepterer du Xiaomis
+  "</string>
+  <string name="user_agreement_p2">Tjenestevilkår</string>
+  <string name="user_agreement_p3">" og "</string>
   <string name="user_agreement_p4">Sikkerhetspolitikk</string>
-  <string name="user_agreement_p5">"Ved registrering, aksepterer du "</string>
+  <string name="user_agreement_p5">"Ved registrering, aksepterer
+  du "</string>
   <string name="vcode">Bekreftelseskode</string>
   <string name="vcode_notification_title">Din innloggingsbekreftelse er ufullstendig</string>
-  <string name="vcode_prompt_long">Vennligst skriv bekreftelseskoden generert via Xiaomi sikkerhetskode</string>
+  <string name="vcode_prompt_long">Vennligst skriv bekreftelseskoden generert av Xiaomi sikkerhetskode</string>
   <string name="wipe_data_dialog_msg">%s vil ikke bli synket (denne dataen vil bli tapt hvis du forsetter).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Noen elementer har ikke blitt synket."</string>
-  <string name="wrong_captcha">Ugyldig captcha-kode8</string>
-  <string name="wrong_vcode">Ugyldig Vkode</string>
+  <string name="wrong_captcha">Feil captcha-kode</string>
+  <string name="wrong_vcode">Feil vkode</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
 </resources>
