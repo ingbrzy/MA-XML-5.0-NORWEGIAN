@@ -605,7 +605,7 @@ for å legge til kontakt til favoritter:
 • Sikkerhetskopier dine kontakter sikkert. "</string>
   <string name="no_contact_details">ingen ytterlige opplysninger på denne kontaktpersonen</string>
   <string name="no_contact_in_other_phone">Ingen kontakter detektert</string>
-  <string name="no_contacts_dialog_message">"Dine kontakter kan være lagret på ditt SIM-kort. Prøv å importere kontakter fra ditt SIM-kort til din telefons interne lager og prøv igjen."</string>
+  <string name="no_contacts_dialog_message">"Kontakter kan være lagret på ditt SIM-kort. Prøv å importere kontakter fra ditt SIM-kort til din telefonens interne lager og prøv igjen."</string>
   <string name="no_contacts_dialog_title">Kunne ikke finne kontakter</string>
   <string name="no_contacts_selected">Ingen kontakter funnet.</string>
   <string name="no_sdcard_message">Ingen lagring funnet.</string>
