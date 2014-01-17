@@ -98,6 +98,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="callrecordview_item_op_time_short_incoming">"Inngående:"</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Utgående:"</string>
   <string name="callrecordview_menu_add_call_note">Legg til anropsnotat</string>
+  <string name="callrecordview_menu_batch_delete">Gruppeslett</string>
   <string name="callrecordview_menu_delete">Slett anrop</string>
   <string name="callrecordview_menu_delete_accepted">Slett svarte anrop fra anropsliste</string>
   <string name="callrecordview_menu_delete_all">Slett alle anrop</string>
@@ -210,6 +211,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="deleteConfirmation">Denne kontakt vil bli slettet</string>
   <string name="deleteConfirmationDetail">Slett \"%s\"?</string>
   <string name="deleteConfirmation_title">Slett</string>
+  <string name="delete_call_log_selected_title">Slett valgte anropslogg?</string>
   <string name="delete_call_log_title">Velg anropsliste til sletting</string>
   <string name="delete_contact_calllog_title">Slett anropslister?</string>
   <string name="delete_dial_input">Slett</string>
@@ -1037,7 +1039,8 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="toast_copy_done">Kopiering fullført</string>
   <string name="toast_copying">Kopierer, vennligst vent...</string>
   <string name="toast_displaying_all_contacts">Viser alle kontakter</string>
-  <string name="toast_finish_delete_call_log">anropsliste(r) er blitt slettet</string>
+  <string name="toast_finish_delete_call_log">Anropslogg slettet</string>
+  <string name="toast_finish_delete_selected_call_log">Valgte anropslogg slettet</string>
   <string name="toast_for_failed_saving_nickname">Kunne ikke lagre kallenavn!</string>
   <string name="toast_for_saving_nickname">Kallenavn lagret</string>
   <string name="toast_join_with_empty_contact">Vennligst tast inn navnet på kontaktpersonen før fletning med en annen kontakt.</string>
