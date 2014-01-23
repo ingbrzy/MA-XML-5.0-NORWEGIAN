@@ -43,18 +43,50 @@
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d valgt</item>
         <item quantity="one">%1$d valgt</item>
+    </plurals>   
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d favoritter</item>
+        <item quantity="one">%1$d favoritt</item>
     </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d nylige kontakter</item>
+        <item quantity="one">1 nylig kontakt</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d kontakter</item>
+        <item quantity="one">%1$d kontakt</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d nummere</item>
+        <item quantity="one">%1$d nummer</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d kontakt e-poster</item>
+        <item quantity="one">1 contact kontakt e-post</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d favoritter</item>
+        <item quantity="one">%1$d favoritt</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d nylige kontakter</item>
+        <item quantity="one">%1$d nylig kontakt</item>
+      </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">" %1$d  lagt til"</item>
+        <item quantity="other">" %1$d  kontakter lagt til"</item>
         <item quantity="one">%1$d kontakter lagt til</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d kontakter importert</item>
+        <item quantity="one">%1$d kontakt importert</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d personer</item>
         <item quantity="one">1 person</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">" %1$d elementer valgt"</item>
-        <item quantity="zero">%1$d elementer valgt</item>
-        <item quantity="one">%1$d element valgt</item>
+        <item quantity="other">" %1$d valgt"</item>
+        <item quantity="zero">%1$d valgt</item>
+        <item quantity="one">%1$d valgt</item>
     </plurals>
 </resources>

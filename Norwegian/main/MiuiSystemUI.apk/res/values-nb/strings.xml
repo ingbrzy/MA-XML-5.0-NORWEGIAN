@@ -26,7 +26,7 @@
   <string name="accessibility_no_phone">Ingen telefon.</string>
   <string name="accessibility_no_wifi">Ingen Wi-Fi.</string>
   <string name="accessibility_no_wimax">Ingen WiMAX.</string>
-  <string name="accessibility_notifications_button">Notifikasjoner.</string>
+  <string name="accessibility_notifications_button">Varsler.</string>
   <string name="accessibility_phone_one_bar">Telefon en stolpe.</string>
   <string name="accessibility_phone_signal_full">Telefonsignal fullt.</string>
   <string name="accessibility_phone_three_bars">Telefon tre stolper.</string>
@@ -158,10 +158,12 @@
   <string name="notification_otg_trackball_out">Trackball frakoblet</string>
   <string name="notification_otg_unknow_in">OTG-enhet tilkoblet</string>
   <string name="notification_otg_unknow_out">OTG-enhet frakoblet</string>
-  <string name="notifications_off_text">Trykk her for å slå notifikationer av igjen.</string>
-  <string name="notifications_off_title">Notifikasjoner av</string>
+  <string name="notifications_off_text">Trykk her for å slå varsler på igjen.</string>
+  <string name="notifications_off_title">Varsler av</string>
+  <string name="oldman_airplane_mode_text">Fly</string>
+  <string name="oldman_incall_text">i anrop</string>
   <string name="recent_apps_key">Seneste programmer-knappen</string>
-  <string name="recent_apps_key_show">Vis seneste rogrammer-knappen</string>
+  <string name="recent_apps_key_show">Vis seneste programmer-knappen</string>
   <string name="return_to_incall_screen">Trykk for å gå tilbake til anrop</string>
   <string name="screen_button_custom">Rediger knapp-posisjoner</string>
   <string name="screen_button_disabled_message">Funksjonene til de nedereste knappene er deaktivert. De kan aktiveres ved å trykke på \"Hjem\" og \"Av\"</string>
@@ -225,7 +227,7 @@
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
   <string name="status_bar_settings_auto_rotation">Auto-roter skjerm</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
-  <string name="status_bar_settings_notifications">Notifikasjoner</string>
+  <string name="status_bar_settings_notifications">Varsler</string>
   <string name="status_bar_settings_settings_button">Inbstillinger</string>
   <string name="status_bar_settings_signal_meter_disconnected">Ingen Internett-forbindelse</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi tilkoblet</string>
@@ -249,7 +251,7 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi-hotspot</string>
   <string name="status_bar_use_physical_keyboard">Bruk fysisk tastatur</string>
-  <string name="tab_notifications_lable">Notifikasjoner</string>
+  <string name="tab_notifications_lable">Varsler</string>
   <string name="tab_toggles_lable">Brytere</string>
   <string name="title_usb_accessory">USB-tilbehør</string>
   <string name="toast_rotation_locked">Skjerm låst til landskapsmodus</string>

@@ -99,6 +99,8 @@
   <string name="settings_weather_title">Innstillinger</string>
   <string name="share_aqi_content">"\#MIUI-vær#
 Dagens %1$s's luftkvalitet: %2$s, %3$s. %4$s %5$s."</string>
+  <string name="share_button_text">Del</string>
+  <string name="share_choice_titile">Del værinfo</string>
   <string name="share_content">\#MIUI-vær#</string>
   <string name="share_qq">Del via Tencent Weibo</string>
   <string name="share_sina">Del via Sina Weibo</string>

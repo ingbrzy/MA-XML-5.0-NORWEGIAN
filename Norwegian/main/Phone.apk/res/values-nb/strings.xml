@@ -92,7 +92,7 @@
   <string name="auto_record_scenario_title_miui">Auto-opptak</string>
   <string name="auto_record_unknown_miui">Ukjente nummere</string>
   <string name="auto_record_whitelist_miui">Sett utvalgte numre</string>
-  <string name="auto_record_whitelist_no_item_miui">Trykk på knappen under for å legge til i listen over numre som skal auto opptages</string>
+  <string name="auto_record_whitelist_no_item_miui">Trykk på knappen under for å legge til i listen over nummere som skal tas opp automatisk</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d numre</string>
   <string name="auto_record_yellowpage_miui">Gule sider</string>

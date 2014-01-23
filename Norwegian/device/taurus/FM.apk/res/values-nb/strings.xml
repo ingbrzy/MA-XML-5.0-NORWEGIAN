@@ -141,6 +141,7 @@
   <string name="toast_channel_searched">Skannet %1$d stasjoner.</string>
   <string name="toast_delete_station">%sMHz er slettet.</string>
   <string name="toast_edit_station">Endringer lagret</string>
+  <string name="toast_fm_error_startfailed">Opptak feilet, et annet program bruker kanskje opptaksfunksjonen. Vennligst sjekk og prøv igjen.</string>
   <string name="toast_fm_not_stated">FM ikke oppgitt</string>
   <string name="toast_fm_recorder_internal_error">FM-opptaksfeil!</string>
   <string name="toast_fm_recorder_storage_full">Lagring full, kan ikke ta opp!</string>
