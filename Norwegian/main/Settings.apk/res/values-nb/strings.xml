@@ -2,7 +2,7 @@
 <resources>
   <string name="about_settings">Om telefonen</string>
   <string name="about_settings_summary">Vis juridisk informasjon, status, programvareversjon</string>
-  <string name="ac_enable_title">Aktiver adgangsbegrensninger</string>
+  <string name="ac_enable_title">Aktiver tilgangsbegrensninger</string>
   <string name="ac_privacy_mode_sum">Skriv inn passord for Passordkontroll for å deaktivere Privat Tilstand</string>
   <string name="ac_privacy_mode_title">Privat modus</string>
   <string name="ac_set_apps_title">Skjul Programmer</string>
@@ -524,7 +524,6 @@ Tast PIN for å parre med \"%1$s\". [Høy sikkerhet aktivert: Trenger 16-tegnsn�
   <string name="carrier_enabled">APN aktiver/deaktiver</string>
   <string name="carrier_enabled_summaryOff">APN deaktivert</string>
   <string name="carrier_enabled_summaryOn">APN aktivert</string>
-  <string name="category_key_settings">key_settings</string>
   <string name="cdma_security_settings_summary">Velg Min plassering, opplåsning av skjermen, lås lagring for legitimasjonsopplysninger</string>
   <string name="cell_broadcast_settings">Celle-utsendinger</string>
   <string name="cell_broadcast_settings_summary">Velg typen av viktige beskjeder som skal vises.</string>
@@ -926,7 +925,8 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="failed_to_open_app_settings_toast">Åpning av innstillinger for %1$s mislyktes</string>
   <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
   <string name="fancy_icon_power_center">com.miui.powercenter</string>
-  <string name="fcc_equipment_id">Equipment-ID</string>
+  <string name="fancy_icon_antispam">com.miui.antispam.AntiSpam</string>
+  <string name="fcc_equipment_id">Utstyr-ID</string>
   <string name="filter">Filter</string>
   <string name="filter_apps_all">Alle</string>
   <string name="filter_apps_cached">Cachet</string>
@@ -1150,6 +1150,23 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="list_sub_view_item_install">Installer</string>
   <string name="list_sub_view_item_lock">Låst</string>
   <string name="list_sub_view_item_unlock">Låst opp</string>
+  <string name="memory_suffix">GB</string>
+  <string name="memory_used_suffix">Brukt</string>
+  <string name="memory_available_suffix">Tilgjengelig</string>
+  <string name="scanning_prefix">Skanner: %s</string>
+  <string name="cleanning_prefix">Rydder: %s</string>
+  <string name="scanning_start_hints">Forbereder skanningsmotor</string>
+  <string name="pref_category_title_auto_update_cleanup_db">Database-oppryddning oppdateringsinnstillinger</string>
+  <string name="pref_title_auto_update_cleanup_db">Auto-oppdater</string>
+  <string name="pref_summary_auto_update_cleanup_db">Oppdater den：%s</string>
+  <string name="pref_title_manual_check_cleanup_db_update">Oppdater nå</string>
+  <string name="msg_cleanup_db_update_checking">Sjekker...</string>
+  <string name="msg_update_error_code_success">Oppdatering vellykket</string>
+  <string name="msg_update_error_code_no_newer_db">Nyeste, oppdatering kreves ikke</string>
+  <string name="msg_update_error_code_already_running">Oppdaterer</string>
+  <string name="msg_update_error_code_network_error">Nettverksfeil, prøv igjen senere!</string>
+  <string name="msg_update_error_code_unknown_error">Ukjent feil, prøv igjen!</string>
+  <string name="msg_cleanup_db_update_time_unknown">Oppdater den: ukjent</string>
   <string name="list_sub_view_item_view">Detaljer</string>
   <string name="local_backup_password_summary_change">Velg for å endre eller fjerne passord for desktop full backup</string>
   <string name="local_backup_password_summary_none">"Desktop full backup er i øyeblikket ikke beskyttet."</string>
@@ -1752,6 +1769,7 @@ prøv følgende:
   <string name="power_dialog_vibration_title">Vibrer</string>
   <string name="power_idle">Telefon på tomgang</string>
   <string name="power_mgr">Strøm</string>
+  <string name="quick_cleanup">Rydd opp</string>
   <string name="power_mode">Strøminnstillinger</string>
   <string name="power_mode_airplane_mode">Flymodus</string>
   <string name="power_mode_auto_clean_memery_lock_screen">Låseskjerm etter %1$d min</string>
@@ -2360,7 +2378,15 @@ Forsøk gjenstående :"</string>
   <string name="title_virus_yes">Ingen virus detektert</string>
   <string name="toast_qucik_scan_list_empty">Alt ser bra ut, du trenger ikke rydde!</string>
   <string name="toast_shortcut_install">Snarvei lagt til</string>
-  <string name="toast_shortcut_uninstall">Snarvei fjernet</string>
+  <string name="toast_shortcut_uninstall">Snarvei fjernet</string>  
+  <string name="menu_item_notification_title">Vis i varselskygge</string>
+  <string name="menu_item_notification_garbage_text">%s</string>
+  <string name="menu_item_notification_garbage_text_error">Feil</string>
+  <string name="menu_item_notification_power_text">Strøm</string>
+  <string name="menu_item_notification_antispam_text_normal">Spam</string>
+  <string name="menu_item_notification_antispam_text_avail">Spam</string>
+  <string name="button_text_view_power">Vis strøm</string>
+  <string name="notification_title_firewall_blocked">Blokkert</string>
   <string name="total_size">%s totalt</string>
   <string name="total_size_label">Totalt</string>
   <string name="track_frame_time">Profiler GPU-tegning</string>

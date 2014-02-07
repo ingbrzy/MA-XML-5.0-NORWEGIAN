@@ -73,6 +73,7 @@
   <string name="do_not_check">Velg IKKE -&gt;</string>
   <string name="does_not_repeat">Én gang</string>
   <string name="done">Tilbake</string>
+  <string name="today_no_events">Ingen agenda i dag</string>
   <string name="edit_event_all_day_label">Hele dagen</string>
   <string name="edit_event_calendar_label">Kalender</string>
   <string name="edit_event_from_label">Fra</string>
