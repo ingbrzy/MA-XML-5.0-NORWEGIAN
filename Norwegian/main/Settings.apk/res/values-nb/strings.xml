@@ -2370,6 +2370,8 @@ Forsøk gjenstående :"</string>
   <string name="title_mms_yes">Meldingfilter aktivert</string>
   <string name="title_permission_no">Tillatelsesmonitor av</string>
   <string name="title_permission_yes">Tillatelsemonitor på</string>
+  <string name="title_show_notification_no">Ikke vis i varselskygge</string>
+  <string name="title_show_notification_yes">Vis i varselskygge</string>
   <string name="title_usb_no">USB-feilsøking på</string>
   <string name="title_usb_yes">USB-feilsøking av</string>
   <string name="title_virus_no">Virus detektert</string>
@@ -2588,6 +2590,7 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="virus_scan_app_uninstall">Fjern (% d)</string>
   <string name="virus_scan_app_waiting">Venter…</string>
   <string name="virus_scan_can_use_wifi">Bruk online definisjoner for å skanne</string>
+   <string name="virus_scan_clean_dialog_message">Rydder opp...</string>
   <string name="virus_scan_clear">Rydd opp</string>
   <string name="virus_scan_dangerous">Risk</string>
   <string name="virus_scan_description">"Dette programmet er en stor risiko for telefonen sin sikkerhet."</string>
