@@ -491,11 +491,11 @@ Tast PIN for å parre med \"%1$s\". [Høy sikkerhet aktivert: Trenger 16-tegnsn�
   <string name="button_text_quick_scan">Start skann</string>
   <string name="button_text_security">Sikkerhet</string>
   <string name="button_text_view">Vis</string>
-  <string name="cache_garbage">Cache filer</string>
+  <string name="cache_garbage">Cache</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_list_empty_hints">Ingen cachede filer.</string>
   <string name="cache_manage_title">Tøm %1$d cachede fil(er), lagringsplass ledig %2$s</string>
-  <string name="cache_manager_actionbar_title">System cache</string>
+  <string name="cache_manager_actionbar_title">Cache</string>
   <string name="cache_size_label">Cache</string>
   <string name="cached">Cachet bakgrunnsprosess</string>
   <string name="call_log_tab_title">Anropslogg</string>
@@ -1666,7 +1666,7 @@ prøv følgende:
   <string name="permission_manage">Behandle tillatelser</string>
   <string name="permission_manage_summary">Auto start, privatliv, sikker tillatelseshåndtering</string>
   <string name="permission_manage_title">%s detaljer om tillatelser</string>
-  <string name="permission_mgr">Tillatelser</string>
+  <string name="permission_mgr">Tillatelse</string>
   <string name="permissions_label">Tillatelser</string>
   <string name="personal_data_section_title">Personlige data</string>
   <string name="phone_call_noise_suppression">Anropstøydemping</string>
@@ -1881,7 +1881,7 @@ prøv følgende:
   <string name="process_kernel_label">Android OS</string>
   <string name="process_list_empty_hints">Ingen cachede prosesser.</string>
   <string name="process_manage_title">Tøm %1$d prosesser, frigjør %2$s av minnet</string>
-  <string name="process_manager_actionbar_title">Minne bruke</string>
+  <string name="process_manager_actionbar_title">Minne</string>
   <string name="process_mediaserver_label">Medieserver</string>
   <string name="process_provider_in_use_description">Leverandør %1$s er i bruk.</string>
   <string name="process_service_in_use_description">Tjeneste %1$s er i bruk.</string>
@@ -1990,8 +1990,8 @@ prøv følgende:
   <string name="read_only">"(Kun lesetilgang)"</string>
   <string name="really_remove_account_message">Fjerning av denne kontoen vil slette alle meldinger, kontakter og andre data fra telefonen!</string>
   <string name="really_remove_account_title">Fjern konto?</string>
-  <string name="realtime_protection">Beskyttelse</string>
-  <string name="realtime_protection_title">Beskyttelse</string>
+  <string name="realtime_protection">System</string>
+  <string name="realtime_protection_title">System</string>
   <string name="recognizer_settings_summary">"Innstillinger for '%s'"</string>
   <string name="recognizer_settings_title">Stemmesøking</string>
   <string name="recognizer_title">Stemmegjenkjenner</string>
@@ -2590,7 +2590,7 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="virus_scan_app_uninstall">Fjern (% d)</string>
   <string name="virus_scan_app_waiting">Venter…</string>
   <string name="virus_scan_can_use_wifi">Bruk online definisjoner for å skanne</string>
-   <string name="virus_scan_clean_dialog_message">Rydder opp...</string>
+  <string name="virus_scan_clean_dialog_message">Rydder opp...</string>
   <string name="virus_scan_clear">Rydd opp</string>
   <string name="virus_scan_dangerous">Risk</string>
   <string name="virus_scan_description">"Dette programmet er en stor risiko for telefonen sin sikkerhet."</string>
