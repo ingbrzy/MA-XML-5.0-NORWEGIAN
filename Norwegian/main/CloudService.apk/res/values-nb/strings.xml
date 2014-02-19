@@ -6,6 +6,7 @@
   <string name="pref_summary_sync_display_photo_on_wifi_only">Synk bilder via Wi-Fi for å unngå eksta datakostnader</string>
   <string name="pref_title_sync_contacts_title">Synk kontakt</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Bruk Wi-Fi for å vise bilder</string>
+  <string name="pref_title_sync_my_profile_title">Synk min profil</string>
   <string name="sub_sync_item_sms_summary">Synk meldinger via Wi-Fi for å unggå ekstra datakostnader</string>
   <string name="sub_sync_item_sms_title_wifi_only">Bruk Wi-Fi for å synkronisere meldinger</string>
   <string name="sync_item_sms_summary">Meldinger vil bli synkronisert automatisk</string>

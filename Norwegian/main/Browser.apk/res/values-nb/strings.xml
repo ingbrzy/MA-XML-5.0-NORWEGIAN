@@ -458,7 +458,7 @@
   <string name="pref_security_save_form_data">Husk skjemadata</string>
   <string name="pref_security_save_form_data_summary">Husk data jeg skriver inn i skjemaer for senere bruk</string>
   <string name="pref_security_show_security_warning">Vis Sikkerhetsadvarsler</string>
-  <string name="pref_security_show_security_warning_summary">"Vis advarsel, hvis det er et problem med sikkerheten på et nettsted"</string>
+  <string name="pref_security_show_security_warning_summary">"Vis advarsel, hvis det er et problem med sikkerhetssertifikatet til et nettsted"</string>
   <string name="pref_set_homepage_to">satt til</string>
   <string name="pref_setting_title">Sideinnstillinger</string>
   <string name="pref_text_zoom">Tekstskalering</string>

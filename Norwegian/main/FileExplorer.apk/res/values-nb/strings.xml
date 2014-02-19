@@ -69,7 +69,6 @@
   <string name="delete_failed">Sletting mislyktes</string>
   <string name="delete_file">Er du sikker på at du vil slette filen?</string>
   <string name="delete_files">Er du sikker på at du vil slette %1$d filer?</string>
-  <string name="delete_files_and_folders">Er du sikker på at du vil slette %1$d filer og %2$d mapper?</string>
   <string name="delete_folder">Er du sikker på at du vil slette?</string>
   <string name="delete_folders">Er du sikker på at du vil slette %1$d mapper?</string>
   <string name="des_running_trans">Det er fortsatt %1$d filer som skal overføres</string>
@@ -190,7 +189,7 @@ Søppelelementer"</string>
   <string name="operation_decompressing">Dekomprimerer...</string>
   <string name="operation_delete">Slett</string>
   <string name="operation_delete_confirm_message">Slett?</string>
-  <string name="operation_delete_confirm_message_folder">"Sletting av mappen vil også slette filer inni."</string>
+  <string name="operation_delete_confirm_message_folder">"Alt mappeinnehold vil  bli slettet"</string>
   <string name="operation_deleting">Sletter...</string>
   <string name="operation_deleting_detail">Sletter filer (%1$d/%2$d)</string>
   <string name="operation_download_link">Generer nedlastingslink</string>
@@ -269,8 +268,6 @@ Søppelelementer"</string>
   <string name="trash_box_link">For å tømme papirkurven, vennligst gå til</string>
   <string name="trash_box_message1">"Du kan slette unødigvendige filer for å frigjøre plass</string>
   <string name="trash_box_message2">"Du kan slette unødigvendige filer eller tømme papirkurven for å frigjøre plass</string>
-  <string name="ui_bar_txt_download_progress">%1$d resterende fil(er) å laste ned</string>
-  <string name="ui_bar_txt_upload_progress">%1$d resterende fil(er) å laste opp</string>
   <string name="ui_filechange_btn_download">Last ned filer</string>
   <string name="ui_filechange_btn_upload">Last opp filer</string>
   <string name="ui_main_menu_option_sign_in">Logg inn</string>

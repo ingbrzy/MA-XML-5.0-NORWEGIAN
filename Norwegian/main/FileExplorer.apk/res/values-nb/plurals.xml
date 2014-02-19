@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Slett %1$d filer</item>
+        <item quantity="one">Slett 1 fil</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" og %1$d mapper?"</item>
+        <item quantity="one">" og 1 mappe?"</item>
+    </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d elementer</item>
         <item quantity="one">1 element</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d resterende filer å laste ned</item>
+        <item quantity="one">1 resterende fil å laste ned</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d resterende filer å laste opp</item>
+        <item quantity="one">1 resterende fil å laste opp</item>
     </plurals>
 </resources>
