@@ -77,6 +77,7 @@ Vennligst sjekk ditt sproingsnummer"</string>
   <string name="navigation_search_positioning">Finner...</string>
   <string name="navigation_search_positioning_failed">Kunne ikke finne by</string>
   <string name="network_unavaliable">Nettverk utilgjengelig, vennligst sjekk nettverksinnstillingene</string>
+  <string name="no_more_result">Ingen flere resultater</string>
   <string name="order_empty_hint">Ingen ordre</string>
   <string name="order_id">Ordre-ref: %s</string>
   <string name="order_merchant_title">Mine ordre - %s</string>

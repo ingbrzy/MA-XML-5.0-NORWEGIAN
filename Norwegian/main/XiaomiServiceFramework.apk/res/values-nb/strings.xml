@@ -64,7 +64,7 @@
   <string name="check_phone_io_error">Nettverksfeil</string>
   <string name="checking_account">Verifiserer konto...</string>
   <string name="checking_input">Sjekker input...</string>
-  <string name="cloud_messaging">MiCloud-meldinger</string>
+  <string name="cloud_messaging">Sky-meldinger</string>
   <string name="cmcc_data_sync_notice">Bruk Xiaomi-kontoen til å synkronisere meldinger, kontakter og andre data. I mellomtiden, nyt Xiaomi cloud-tjenester.</string>
   <string name="cmcc_micloud_dspt">Cloud-tjenester inkluderer mobilsynk, enhetsplassering og andre funksjoner. Du kan også administrere dine data online til enhver tid!</string>
   <string name="completed">Fullført</string>
@@ -116,11 +116,12 @@
   <string name="input_vcode_prompt">Vennligst skriv aktiveringskode</string>
   <string name="int_phone_user_notice">Når du registrerer deg med et nummer utenfor Kina, skriv inn landskode, f.eks 47xxxxxxxxx</string>
   <string name="internet_comm">Meldingstjenester</string>
-  <string name="internet_message">MiCloud-meldinger</string>
+  <string name="internet_message">Sky-meldinger</string>
   <string name="login">Logg inn</string>
   <string name="login_failed">Innlogging mislyktes</string>
   <string name="login_instead_reg">Logg inn med dette telefonnummeret</string>
   <string name="login_notice">Logger inn...</string>
+  <string name="logout_failed">Utlogging feilet</string>
   <string name="master_alert_notif_dspt" formatted="false">"I løpet av denne perioden har du lagt til %s navn, telefonkontakter, %s SMSer, %s bilder, %s av notater og andre data.
 
 Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent borte. Vi anbefaler at du aktiverer synkronisering for å sikre dataene dine"</string>

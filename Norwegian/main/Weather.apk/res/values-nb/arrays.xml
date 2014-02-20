@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_item">
+        <item>Tekstmelding</item>
+        <item>E-post</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_json_key">
+        <item>wind1</item>
+        <item>紫外线指数</item>
+        <item>穿衣指数</item>
+        <item>舒适度指数</item>
+        <item>洗车指数</item>
+        <item>晾晒指数</item>
+        <item>晨练指数</item>
+        <item>旅游指数</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Vindhastighet:</item>
+        <item>UV-indeks:　</item>
+        <item>Klær:</item>
+        <item>Komfort:</item>
+        <item>Bilvask:</item>
+        <item>Tørke-indeks:</item>
+        <item>AM-terning:</item>
+        <item>Fritid:</item>
+    </string-array>
+    <string-array name="weather_image">
+        <item>Klart</item>
+        <item>Overskyet</item>
+        <item>Disig</item>
+        <item>Tåkete</item>
+        <item>Sterke regnstormer</item>
+        <item>Regnstorm</item>
+        <item>Tungt regnfall</item>
+        <item>Tordenvær</item>
+        <item>Skyr</item>
+        <item>Tungt regnfall</item>
+        <item>Regn</item>
+        <item>Duskregn</item>
+        <item>Sludd</item>
+        <item>Kraftig snøstorm</item>
+        <item>Flekker av snøfall</item>
+        <item>Tungt snøfall</item>
+        <item>Snøfall</item>
+        <item>Lett snøfall</item>
+        <item>Sterk sandstorm</item>
+        <item>Sandstorm</item>
+        <item>Svake sandstormer</item>
+        <item>Sandstorm</item>
+        <item>Hagl</item>
+        <item>Støv</item>
+        <item>Disig</item>
+    </string-array>
+    <string-array name="weather_details_key">
+        <item>Utilgjengelig</item>
+        <item>Passende</item>
+        <item>Bra</item>
+        <item>Unngå om mulig</item>
+        <item>Ikke anbefalt</item>
+        <item>Ideelt</item>
+        <item>Moderat</item>
+        <item>Svak</item>
+        <item>Medium</item>
+        <item>Sterk</item>
+        <item>Veldig sterkt</item>
+        <item>Kjølig</item>
+        <item>Komfortabelt</item>
+        <item>Veldig varmt</item>
+        <item>Varmt</item>
+        <item>Varm</item>
+        <item>Kjølig</item>
+        <item>Kjøligere</item>
+        <item>Kaldt</item>
+        <item>Fryser</item>
+        <item>Høy</item>
+        <item>Middel</item>
+        <item>Lav</item>
+        <item>Klar himmel</item>
+        <item>Overskyet</item>
+        <item>Regn</item>
+        <item>Sandstorm</item>
+        <item>Snø</item>
+        <item>Ganske passende</item>
+        <item>Passende forhold</item>
+        <item>Overskyet</item>
+        <item>Ikke helt ideelt</item>
+        <item>Ideelle forhold</item>
+        <item>Dårlig forhold</item>
+        <item>Vanlige forhold</item>
+    </string-array>
+    <string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>"Det regner tungt. Husk paraply!"</item>
+        <item>"Det regner tungt. Husk paraply!"</item>
+        <item>"Det regner tungt. Husk paraply!"</item>
+        <item>"Hvis du skal ut, husk å ta med en paraply!"</item>
+        <item>"Hvis du skal ut, husk å ta med en paraply!"</item>
+        <item>"Hvis du skal ut, husk å ta med en paraply!"</item>
+        <item>"Det kommer til å regne i dag. Husk å ta med en paraply"</item>
+        <item>"Det duskregner ute. Husk å ta med en paraply!"</item>
+        <item>"Det er en blanding av regn og snå ute. Husk å ta med en paraply!"</item>
+        <item>"Det snør tungt. Husk å pakke deg inn!"</item>
+        <item>"Det kommer til å snø i dag. Husk å pakke deg inn!"</item>
+        <item>"Det kommer til å snø mye. Husk å pakke deg inn!"</item>
+        <item>"Det snør mye. Husk å pakke deg inn!"</item>
+        <item>"Det er et lett snøfall. Husk å ha bruke lue og skjerf."</item>
+        <item>"Det er en veldig sterk sandstorm. Husk å bruke munnbind."</item>
+        <item>"Det regner ganske mye. Husk å ta med en paraply."</item>
+        <item>"Det er veldig sterk sandstorm der ute. Husk å bruke munnbind"</item>
+        <item>"Det er veldig sterk sandstorm der ute. Husk å bruke munnbind"</item>
+        <item>"Det er ikke hver dag du ser hagl! Gå forsiktig!"</item>
+    </string-array>
+    <string-array name="weather_sms_content">
+        <item>Husk å bruke solkrem.</item>
+        <item>Det vil være overskyet i dag.</item>
+        <item>Været vil bli verre. Prøv å holde deg innendørs.</item>
+        <item>Kjør forsiktig :)</item>
+        <item>"Det regner tungt. Husk å ta med en paraply!"</item>
+        <item>"Det regner tungt. Husk å ta med en paraply!"</item>
+        <item>"Det regner tungt. Husk å ta med en paraply!"</item>
+        <item>Ta med en paraply!</item>
+        <item>Ta med en paraply!</item>
+        <item>Ta med en paraply! :)</item>
+        <item>Ta med en paraply!</item>
+        <item>"Det duskregner utenfor, ta med paraply!"</item>
+        <item>"Det er en blanding av regn og snø utenfor. Husk å ta med en paraply!"</item>
+        <item>"Det snør tungt!"</item>
+        <item>Det vil snø i dag. Husk å ta med lue og skjerf.</item>
+        <item>"Det snør tungt. Husk å pakke opp!"</item>
+        <item>"Det snør ganske mye. Husk å bruke lue og skjerf!"</item>
+        <item>"Det snør! Husk å bruke lue og skjerf!"</item>
+        <item>"Det er en veldig sterk sandstorm som pågår der ute. Husk å bruke munnbind."</item>
+        <item>"Det er en veldig sterk sandstorm som pågår der ute. Husk å bruke munnbind."</item>
+        <item>"Det er en veldig sterk sandstorm som pågår der ute. Husk å bruke munnbind."</item>
+        <item>"Det er en veldig sterk sandstorm som pågår der ute. Husk å bruke munnbind."</item>
+        <item>"Det er ikke hver dag du ser hagl! Gå forsiktig!"</item>
+        <item>Luftkvaliteten er dårlig. Husk å ha på deg en maske.</item>
+        <item>Luftkvaliteten er dårlig. Prøv å holde seg innendørs.</item>
+    </string-array>
+    <string-array name="weather_sms_addons">
+        <item>"Dagens værmelding for @: $."</item>
+        <item>Lav~høy: %.</item>
+        <item>Husk å ta med en paraply!</item>
+        <item></item>
+        <item>"Hvis du tørker klær ute, må du huske å ta dem in senere! :)"</item>
+        <item>"Hvis mulig, ikke kjør."</item>
+        <item>Kjør forsiktig!</item>
+        <item>"Vær forsiktig der ute, det er glatt."</item>
+        <item></item>
+        <item>Vær forsiktig utendørs.</item>
+        <item>"Du burde ikke gå ut om du ikke må."</item>
+        <item>Ha på deg solkrem og solbriller.</item>
+        <item>Ha på deg solkrem og solbriller.</item>
+        <item>"Det blåser ute. Husk å ha på deg jakke."</item>
+        <item>Luftkvaliteten er dårlig. Husk å ta på maske.</item>
+        <item>Husk å ta med jakke.</item>
+        <item>Husk å ta på deg maske :)</item>
+        <item>Husk å ta med hansker og lue.</item>
+        <item>"Det er varmt ute!"</item>
+        <item>"Det er varmt ute!"</item>
+        <item>Pakke deg inn!</item>
+        <item>En kald økt kommer…</item>
+        <item>Pakke deg inn!</item>
+        <item>Ha på deg ørevarmere om du har dem! :)</item>
+        <item>Ta en løpetur!</item>
+        <item>Ta en løpetur og få deg litt sol! :)</item>
+        <item>"Det er en fin dag for å tørke klær!"</item>
+        <item>"Det blir kjølig. Husk å ha på deg en jakke!"</item>
+    </string-array>
+    <string-array name="weather_info_uv">
+        <item>0</item>
+        <item>Utilgjengelig</item>
+        <item>6</item>
+        <item>Bruk solkrem og ha på deg lue og solbriller når du er utendørs.</item>
+        <item>7</item>
+        <item>Bruk solkrem og ha på deg lue og solbriller når du er utendørs.</item>
+        <item>8</item>
+        <item>Bruk solkrem og ha på deg lue og solbriller når du er utendørs.</item>
+        <item>9</item>
+        <item>Unngå sol hvis det er mulig. Bruk solkrem hvis du må ut!</item>
+        <item>10</item>
+        <item>Unngå sol hvis det er mulig. Bruk solkrem hvis du må ut!<</item>
+    </string-array>
+    <string-array name="weather_info_dress">
+        <item>0</item>
+        <item>Utilgjengelig</item>
+        <item>11</item>
+        <item>Tynn jakke</item>
+        <item>12</item>
+        <item>Tynn jakke</item>
+        <item>13</item>
+        <item>Sommerklær</item>
+        <item>14</item>
+        <item>Sommerklær</item>
+        <item>15</item>
+        <item>Tynn jakke</item>
+        <item>16</item>
+        <item>Husk å ha med deg ekstra lag!</item>
+        <item>17</item>
+        <item>Ta med jakke!</item>
+        <item>18</item>
+        <item>Pakk deg sammen!</item>
+        <item>19</item>
+        <item>Pakke deg samme !</item>
+    </string-array>
+    <string-array name="weather_info_msport">
+        <item>0</item>
+        <item>Utilgjengelig</item>
+        <item>1</item>
+        <item>"Det er en fin dag for morgentrening!"</item>
+        <item>2</item>
+        <item>Ha med deg ekstra lag!</item>
+        <item>3</item>
+        <item>Været er ikke ideelt; ha med deg ekstra lag!</item>
+        <item>4</item>
+        <item>Tren innendørs!</item>
+    </string-array>
+    <string-array name="weather_info_comfort">
+        <item>0</item>
+        <item>Utilgjengelig</item>
+        <item>20</item>
+        <item>Temperaturen vil være stabil</item>
+        <item>21</item>
+        <item>Kjølig og komfortabl</item>
+        <item>22</item>
+        <item>Temperaturen vil vøre livlig</item>
+        <item>23</item>
+        <item>Klar himmel og ukomfortable temperaturer</item>
+        <item>24</item>
+        <item>Varmt og fuktig! :(</item>
+    </string-array>
+    <string-array name="weather_info_wcar">
+        <item>0</item>
+        <item>Utilgjenglig</item>
+        <item>1</item>
+        <item>"Det er en bra dag for bilvask!"</item>
+        <item>2</item>
+        <item>"Det er en bra dag for bilvask!"</item>
+        <item>3</item>
+        <item>"Det kommer til å regne! Vent med å vaske bilen din"</item>
+        <item>25</item>
+        <item>"Det kommer til å regne! Vent med å vaske bilen din."</item>
+        <item>26</item>
+        <item>"Det er en sandstorm i værmeldingen! Vent med å vaske bilen din."</item>
+        <item>27</item>
+        <item>"Det kommer til å snø. Vent med å vaske bilen din."</item>
+        <item>4</item>
+        <item>Vent med å vaske bilen din.</item>
+    </string-array>
+    <string-array name="weather_info_hung">
+        <item>0</item>
+        <item>Utilgjenglig</item>
+        <item>28</item>
+        <item>Heng dine klær til tørk i ettermiddag.</item>
+        <item>29</item>
+        <item>Heng dine klær til tørk når som helst.</item>
+        <item>30</item>
+        <item>"Det er overskyet, men med høy temperatur, så klærene dine vil fortsatt tørke."</item>
+        <item>1</item>
+        <item>"Det er en fin dag til å tørke klær."</item>
+        <item>3</item>
+        <item>Det vil regne periodisk gjennom dagen.</item>
+        <item>5</item>
+        <item>Bra tørkeforhold.</item>
+        <item>4</item>
+        <item>Tørk klærene dine inne.</item>
+        <item>31</item>
+        <item>Tørk klærene dine inne.</item>
+    </string-array>
+    <string-array name="weather_info_travel">
+        <item>0</item>
+        <item>Utilgjengelig</item>
+        <item>32</item>
+        <item>Klart og solfylt med gode temperaturer.</item>
+        <item>2</item>
+        <item>Milde og stabile temperaturer.</item>
+        <item>1</item>
+        <item>Milde og stabile temperatur.</item>
+        <item>3</item>
+        <item>"Dagens vær vil være livlig."</item>
+        <item>33</item>
+        <item>"Dagens vær vil være livlig."</item>
+        <item>34</item>
+        <item>Klar himmel, mild vind.</item>
+    </string-array>
+    <string-array name="weather_info_fl">
+        <item></item>
+        <item>Ha på deg lag!</item>
+        <item>Kuling</item>
+        <item>Komfortabelt</item>
+        <item>暂缺</item>
+        <item>Utilgjengelig</item>
+    </string-array>
+</resources>

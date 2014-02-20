@@ -4,10 +4,10 @@
   <string name="act_aqi_pm10_title">PM10</string>
   <string name="act_aqi_pm25_title">PM2.5</string>
   <string name="act_aqi_so2_title">SO2</string>
-  <string name="act_city_find_gps_error">Velg en by manuelt i menylisten.</string>
-  <string name="act_find_city_hint">Søk</string>
+  <string name="act_city_find_gps_error">Velg en by manuelt fra menylisten.</string>
+  <string name="act_find_city_hint">Skriv plassering</string>
   <string name="act_find_city_hot_title">Populære byer</string>
-  <string name="act_find_city_null_data">Ingen resultater.</string>
+  <string name="act_find_city_null_data">"Fant ingenting"</string>
   <string name="act_find_city_title">Legg til lokasjon</string>
   <string name="act_init_dialog_finish">Global værinfo har blitt lagt til.</string>
   <string name="act_set_city_find_side">Lokaliserer by...</string>
@@ -20,7 +20,7 @@
   <string name="act_weather_cycle_low_temp">lav</string>
   <string name="act_weather_cycle_update">Oppdaterer…</string>
   <string name="act_weather_find_city_connect_net">Sjekk din nettverksforbindelse og prøv igjen.</string>
-  <string name="act_weather_find_city_search_online">Finn by online</string>
+  <string name="act_weather_find_city_search_online">"Trykk for å søke "</string>
   <string name="act_weather_find_city_searching">Søker…</string>
   <string name="act_weather_main_aqi_index">Luftkvalitet: %s</string>
   <string name="act_weather_main_data_null">Ingen værdata, trykk for å oppdaterere</string>
@@ -28,8 +28,8 @@
   <string name="act_weather_range_title">Omliggende værmelding</string>
   <string name="act_weather_update_time">%s oppdatert</string>
   <string name="add_city">Legg til lokasjon</string>
-  <string name="alert_message_delete">Slett valgte %d element(er)?</string>
-  <string name="alert_provider_message">Du må aktivere lokasjonstilgang via ditt mobilnettverk.</string>
+  <string name="alert_message_delete">Slett valgte %d plasseringer?</string>
+  <string name="alert_provider_message">Du må aktivere lokasjonstilgang via din nettverksoperatør</string>
   <string name="alert_provider_title">Lokasjonsvarsel</string>
   <string name="alert_title_delete">Slett</string>
   <string name="app_love_font_lng">%s</string>
@@ -38,12 +38,12 @@
   <string name="app_name">Vær</string>
   <string name="app_nohave_net">Ingen nettverk detektert</string>
   <string name="app_unquiet_net">Dårlig nettverksforbindelse</string>
-  <string name="aqi_details_dangerous">Perspner med hjerte- eller lungesykdommer, eldre voksne og barn burde unngå all fysisk aktivitet utendørs. Alle andre bør unngå langvarig eller kraftig anstrengelse.</string>
-  <string name="aqi_details_fine">Uvanlig sensitive personer bør vurdere å redusere langvarig eller kraftig anstrengelse.</string>
+  <string name="aqi_details_dangerous">Unngå lang eller tung anstrengelse</string>
+  <string name="aqi_details_fine">Personer med forhåndseksisterende medisinske tilstander bør redusere langvarig eller kraftig anstrengelse.</string>
   <string name="aqi_details_good">Været er egnet til å gå ut.</string>
-  <string name="aqi_details_hazardous">Unngå all fysisk aktivitet utendørs, folk med hjerte- eller lungesykdommer, eldre voksne, og barn bør holde seg innendørs og holde aktivitetsnivået lavt.</string>
+  <string name="aqi_details_hazardous">Hold deg inne og reduser ditt aktivtetsnivå</string>
   <string name="aqi_details_light_pollution">Personer med hjerte- eller lungesykdommer, eldre voksne, og barn bør redusere langvarig eller kraftig anstrengelse.</string>
-  <string name="aqi_details_unhealthy">Personer med hjerte- eller lungesykdommer, eldre voksne, og barn bør unngå langvarig eller kraftig anstrengelse, alle andre bør redusere langvarig eller kraftig anstrengelse.</string>
+  <string name="aqi_details_unhealthy">Unngå lang eller tunge anstrengelse</string>
   <string name="aqi_quality_index_dangerous">farlig</string>
   <string name="aqi_quality_index_good">god</string>
   <string name="aqi_quality_index_hazardous">risikabel</string>
@@ -55,8 +55,8 @@
   <string name="button_not_allow">Nekt</string>
   <string name="cancel">Avbryt</string>
   <string name="enable_gps">GPS</string>
-  <string name="enable_notification">Åpne lokasjonsvarsel</string>
-  <string name="enable_notification_city">Har åpnet %s værvarsel, systemvarsel vil bli sendt når uventet vær som regn, snø og temperaturendringer skjer.</string>
+  <string name="enable_notification">Lokasjonsvarsel</string>
+  <string name="enable_notification_city">Værvarsler har blitt aktivert for %s</string>
   <string name="enable_notification_summary">Varsle meg hvis været endres</string>
   <string name="first_start_network_toast_text">Bruk nettverk for å hente værinformasjon.</string>
   <string name="format_date_md">M/d kk:mm</string>
@@ -70,7 +70,7 @@
   <string name="location_management">Lokasjoner</string>
   <string name="location_notification">Værvarslinger</string>
   <string name="menu_about">Om</string>
-  <string name="menu_add">Legg til by</string>
+  <string name="menu_add">Legg til plassering</string>
   <string name="menu_around">Nærliggende</string>
   <string name="menu_delete">Slett</string>
   <string name="menu_location">Lokasjoner</string>
@@ -92,34 +92,34 @@
   <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
   <string name="settings_weather_about">Om</string>
   <string name="settings_weather_animation">Væranimasjon</string>
-  <string name="settings_weather_play_ani_summary">Spill animasjon i hovedgrensesnitt</string>
+  <string name="settings_weather_play_ani_summary">Spill væranimasjon i hovedgrensesnitt</string>
   <string name="settings_weather_play_ani_title">Spill animasjon</string>
   <string name="settings_weather_pre_title">Vær</string>
   <string name="settings_weather_preview">Forhåndsvis væranimasjon</string>
   <string name="settings_weather_title">Innstillinger</string>
-  <string name="share_aqi_content">"\#MIUI-vær#
-Dagens %1$s's luftkvalitet: %2$s, %3$s. %4$s %5$s."</string>
+  <string name="share_aqi_content">"\#MIUI AQI#
+Luftkvalitetsindeksen i %1$s er %2$s, %3$s. %4$s %5$s."</string>
   <string name="share_button_text">Del</string>
-  <string name="share_choice_titile">Del værinfo</string>
-  <string name="share_content">\#MIUI-vær#</string>
+  <string name="share_choice_titile">Fullfør handling ved bruk av</string>
+  <string name="share_content">MIUI-vær</string>
   <string name="share_qq">Del via Tencent Weibo</string>
   <string name="share_sina">Del via Sina Weibo</string>
-  <string name="share_weather_content">"\#MIUI-vær#
-Dagens %1$s's vær er %2$s, %3$s, %4$s. %5$s."</string>
-  <string name="share_weather_title">Del verdata</string>
+  <string name="share_weather_content">"MIUI-værmelding
+Været i %1$s er %2$s, %3$s, %4$s. %5$s."</string>
+  <string name="share_weather_title">Del værdata</string>
   <string name="sina_share_fail">Sending feilet!</string>
   <string name="sina_share_pendding">Sender...</string>
   <string name="sina_share_success">Delt!</string>
   <string name="sina_token_expired_warning">Weibo-kontoen er utløpt, vennligst bind på nytt</string>
   <string name="sina_token_invalid_warning">Weibo-kontoen er ugyldig, vennligst bind på nytt</string>
-  <string name="sms_notification">Del via SMS</string>
-  <string name="tip_weather">MIUI-værvarsel</string>
+  <string name="sms_notification">Deling</string>
+  <string name="tip_weather">Værvarsel</string>
   <string name="tip_weather_info_content_1">Ta med lag!</string>
   <string name="tip_weather_info_title_1">%1$s forventet temperaturendring %2$d grader</string>
-  <string name="tip_weather_info_title_2">%1$s temperatur i dag er forventet %2$s</string>
+  <string name="tip_weather_info_title_2">"%1$s sin temperatur er forventet %2$s"</string>
   <string name="trend_weather_today">I dag</string>
   <string name="trend_weather_tomorrow">I morgen</string>
-  <string name="weather_notification">Værvarsel</string>
+  <string name="weather_notification">Værvarseler</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>

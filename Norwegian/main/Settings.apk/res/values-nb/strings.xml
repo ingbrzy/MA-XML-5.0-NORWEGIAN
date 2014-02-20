@@ -1148,8 +1148,8 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="link_speed_label">Link Hastighet:</string>
   <string name="list_sub_view_item_clean">Rydd</string>
   <string name="list_sub_view_item_install">Installer</string>
-  <string name="list_sub_view_item_lock">Låst</string>
-  <string name="list_sub_view_item_unlock">Låst opp</string>
+  <string name="list_sub_view_item_lock">Alltid klart</string>
+  <string name="list_sub_view_item_unlock">Alltid klart</string>
   <string name="memory_suffix">GB</string>
   <string name="memory_used_suffix">Brukt</string>
   <string name="memory_available_suffix">Tilgjengelig</string>
