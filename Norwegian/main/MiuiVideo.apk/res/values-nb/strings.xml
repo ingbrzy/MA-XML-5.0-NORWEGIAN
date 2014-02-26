@@ -130,7 +130,7 @@
   <string name="in_download_notification">%d videos cacher</string>
   <string name="in_pause">Pauset</string>
   <string name="in_waiting">Venter</string>
-  <string name="jni_invalid_param">Ugyldige parametere/string>
+  <string name="jni_invalid_param">Ugyldige parametere</string>
   <string name="jni_no_media_source">Ingen mediakilde</string>
   <string name="jni_res_connect_error">"Kunne ikke koble til nettverk"</string>
   <string name="jni_res_json_parse_error">Analysefeil</string>
