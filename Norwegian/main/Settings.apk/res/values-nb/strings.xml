@@ -484,8 +484,11 @@ Tast PIN for å parre med \"%1$s\". [Høy sikkerhet aktivert: Trenger 16-tegnsn�
   <string name="button_start_optimize">Sjekk</string>
   <string name="button_text_a_key_clean_up">Rydd opp</string>
   <string name="button_text_a_key_optimize">Optimaliser nå</string>
+  <string name="button_text_a_key_uninstall">Avinstalller</string>
   <string name="button_text_cancel">Avbryt</string>
   <string name="button_text_delete">Slett</string>
+  <string name="uninstall_confirm_title">Avinstaller disse programmene</string>
+  <string name="button_text_uninstall">Avinstaller</string>
   <string name="button_text_done">Ferdig</string>
   <string name="button_text_fix">Fiks</string>
   <string name="button_text_quick_scan">Start skann</string>
@@ -632,7 +635,7 @@ Du kan finne mer passende dataforbruk kontroll i innstillingene til rådighet in
   <string name="data_usage_app_settings">Vis app-innstillinger</string>
   <string name="data_usage_auto_sync_off_dialog">"Dette vil spare på data- og batteriforbruk, men du må synkronisere hver konto manuelt. Og du vil ikke motta beskjeder når det kommer oppdateringer."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Deaktiver auto synk av data?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Enhver endring du gjør på dine kontoer på internett, vil automatisk bli synkronisert til din telefon. 
+  <string name="data_usage_auto_sync_on_dialog">"Enhver endring du gjør på dine kontoer på internett, vil automatisk bli synkronisert til din telefon.
 Noen kontoer vil også automatisk synkronisere hver endring du gjør på telefonen til internett. En Google konto fungerer på denne måten.
 For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå til Innstillinger &gt; Kontoer."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Aktiver auto synk av data?</string>
@@ -722,6 +725,12 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="deep_clean_tips_residual_title">Restefiler</string>
   <string name="deep_clean_title_cache">Cache</string>
   <string name="deep_clean_title_large_file">Store filer</string>
+  <string name="deep_clean_title_uninstall_apps">Prgorammer</string>
+  <string name="deep_clean_summary_install_apps_today">%1$s|brukt i dag</string>
+  <string name="deep_clean_summary_install_apps_interval">%1$s|brukt for %2$d dager siden</string>
+  <string name="deep_clean_summary_install_apps_new">%s|aldri brukt</string>
+  <string name="deep_clean_summary_install_apps_virus">%s|virus detektert</string>
+  <string name="deep_clean_summary_install_apps_risk">%s|risk detektert</string>
   <string name="deep_clean_title_residual">Rester</string>
   <string name="deep_cleaning">Avansert</string>
   <string name="default_date_format">dd/MM/yyyy</string>
@@ -892,7 +901,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="enable_traces_summary_num">%1$d spor aktivert</string>
   <string name="enable_traces_title">Aktiver spor</string>
   <string name="enforce_read_external_confirm_message">"Når USB-lagring er beskyttet, må programmer spørre om lesetilgang fra  ekstern lagring.
-  
+
   Noen programmer virker muligens ikke før de blir oppdatert av udviklerne."</string>
   <string name="enforce_read_external_confirm_title">Beskytt USB-lagring?</string>
   <string name="enforce_read_external_summary">Programmer skal spørre om tillatelse for å lese USB-lagring</string>
@@ -1150,6 +1159,10 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="list_sub_view_item_install">Installer</string>
   <string name="list_sub_view_item_lock">Alltid klart</string>
   <string name="list_sub_view_item_unlock">Alltid klart</string>
+  <string name="list_sub_view_item_view_detail">Detaljer</string>
+  <string name="list_sub_view_item_view_file">Fil</string>
+  <string name="list_sub_view_item_uninstall">Avinstaller</string>
+  <string name="list_sub_view_item_backup_uninstall">Ta backup og avinstaller</string>
   <string name="memory_suffix">GB</string>
   <string name="memory_used_suffix">Brukt</string>
   <string name="memory_available_suffix">Tilgjengelig</string>
@@ -1160,6 +1173,10 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="pref_title_auto_update_cleanup_db">Auto-oppdater</string>
   <string name="pref_summary_auto_update_cleanup_db">Oppdater den：%s</string>
   <string name="pref_title_manual_check_cleanup_db_update">Oppdater nå</string>
+  <string name="pref_category_title_garbage_cleanup_check">Oppryddningsinnstilinger</string>
+  <string name="pref_title_garbage_cleanup_check_time">Forkast alarm</string>
+  <string name="pref_summary_garbage_cleanup_check_time">Varsle meg når søppeldunken når en hvis størrelse</string>
+  <string name="pref_title_garbage_cleanup_check_size">Søppelalarm-størrelse</string>
   <string name="msg_cleanup_db_update_checking">Sjekker...</string>
   <string name="msg_update_error_code_success">Oppdatering vellykket</string>
   <string name="msg_update_error_code_no_newer_db">Nyeste, oppdatering kreves ikke</string>
@@ -1167,10 +1184,35 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="msg_update_error_code_network_error">Nettverksfeil, prøv igjen senere!</string>
   <string name="msg_update_error_code_unknown_error">Ukjent feil, prøv igjen!</string>
   <string name="msg_cleanup_db_update_time_unknown">Oppdater den: ukjent</string>
+  <string name="toast_application_no_residual_on_sdcard">"Dette programmet har ingen filer lagret på ditt SD-kort"</string>
+  <string name="applications_sort_type_title">Sorter</string>
+  <string name="applications_sort_type_item_time">Ofte brukte</string>
+  <string name="applications_sort_type_item_size">Størrelse</string>
+  <string name="dialog_title_uninstall_apps">Avinstaller</string>
+  <string name="dialog_title_backup_and_uninstall_apps">Ta backup og avinstaller</string>
+  <string name="dialog_msg_uninstall_apps">Avinstaller disse programmene?</string>
+  <string name="dialog_msg_backup_and_uninstall_apps">Bekreft for å ta backup og avinstallere programmene</string>
+  <string name="button_text_uninstall_apps">Avinstaller</string>
+  <string name="button_text_backup_and_uninstall_apps">Ta backup og avinstaller</string>
+  <string name="toast_backup_is_running">Backup kjører allerede. Vent ett minutt eller to, så prøv igjen.</string>
+  <string name="toast_backup_uninstall_failed">Kunne ikke ta backup av %d programmer. Vent ett minutt eller to, så prøv igjen,</string>
+  <string name="toast_backup_uninstall_success">Backup og avinstallering fullført</string>
+  <string name="notification_title_of_garbage_cleanup">Søppel-alarm</string>
+  <string name="notification_summary_of_garbage_cleanup">Jøss! Søppelkassen din er over %s. Vurder å tømme den.</string>
+  <string name="item_garbage_time_daily">Daglig</string>
+  <string name="item_garbage_time_3d">Hver 3 dag</string>
+  <string name="item_garbage_time_7d">Hver 7 dag</string>
+  <string name="item_garbage_time_never">Aldri</string>
+  <string name="item_garbage_size_100m">100M</string>
+  <string name="item_garbage_size_300m">300M</string>
+  <string name="item_garbage_size_500m">500M</string>
+  <string name="item_garbage_size_1000m">1G</string>
+  <string name="item_title_garbage_time">Alarm-tid</string>
+  <string name="item_title_garbage_size">Alarm-størrelse</string>
   <string name="list_sub_view_item_view">Detaljer</string>
   <string name="local_backup_password_summary_change">Velg for å endre eller fjerne passord for desktop full backup</string>
-  <string name="local_backup_password_summary_none">"Desktop full backup er i øyeblikket ikke beskyttet."</string>
-  <string name="local_backup_password_title">Desktop backup passord</string>
+  <string name="local_backup_password_summary_none">"Full backup av skriveborde er i øyeblikket ikke beskyttet."</string>
+  <string name="local_backup_password_title">Skrivebord backup passord</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"Nytt passord og bekreftelse stemmer ikke overens"</string>
   <string name="local_backup_password_toast_success">Nytt backup-passord satt</string>
   <string name="local_backup_password_toast_validation_failure">Feil ved innstilling av passord</string>
@@ -1364,7 +1406,7 @@ Velg din datamaskins operativsystem:"</string>
   <string name="msd_install">Reinstaller driveren</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Neste</string>
-  <string name="msd_install_retry_linux">"Hvis din datamaskin ikke gjenkjenner enheten, 
+  <string name="msd_install_retry_linux">"Hvis din datamaskin ikke gjenkjenner enheten,
 Prøv følgende:
 1) Bruk kommandoprompt, sudo aptitude install mtpfs libfuse-dev libmad0-dev
 2) Opprett mappe: mkdir /media/mtp
@@ -1468,8 +1510,10 @@ prøv følgende:
   <string name="optimize_done">"Ok, du er klar!"</string>
   <string name="optimize_large_file_header_left">Store filer: %d</string>
   <string name="optimize_large_file_list_empty_content">Ingen store filler funnet.</string>
+  <string name="optimize_installed_apps_list_empty_content">Ingen programmer funnet</string>
   <string name="optimize_now">Start</string>
   <string name="optimize_residual_header_left">Rester: %d</string>
+  <string name="optimize_installed_apps_header_left">Nedlastede programmer: %d</string>
   <string name="optimize_residual_list_empty_content">Ingen rester funnet.</string>
   <string name="optimize_tips_ad">iconReklamefiler er bilder, tekst og andre reklame-relatert data som tredjeparts-tjenestetilbydere lagret på din telefon.</string>
   <string name="optimize_tips_ad_content">Bilder, tekst og annen reklame-relatert data via tredjeparts-tilbydere lagret på din telefon.</string>
@@ -1505,7 +1549,7 @@ prøv følgende:
   <string name="perm_app_title">Håndter programtilatelser</string>
   <string name="perm_auto_start">Håndter autokjøring av programmer</string>
   <string name="perm_auto_start_desc">Aktiver eller deaktiver autokjør program-funksjonen</string>
-  <string name="perm_canceling">Avbryter...</string>
+  <string name="perm_canceling">Avbryter…</string>
   <string name="perm_check">Sjekk</string>
   <string name="perm_clean">Rens</string>
   <string name="perm_configuration">Innstillinger</string>
@@ -1602,7 +1646,7 @@ prøv følgende:
   <string name="perm_hips_wifi_network_desc">WiFi Nettverk</string>
   <string name="perm_hips_wifi_network_hint">%1$s program er tillatt adgang til internett gjennom WiFi nettverket</string>
   <string name="perm_invalid_input">Ugyldig input</string>
-  <string name="perm_loading">Laster inn...</string>
+  <string name="perm_loading">Laster inn…</string>
   <string name="perm_log">Logger</string>
   <string name="perm_log_clear_content">Alle logger vil bli slettet. Vil du aktivere?</string>
   <string name="perm_log_clear_title">Tøm logger</string>
@@ -1611,7 +1655,7 @@ prøv følgende:
   <string name="perm_mian_name">Tillatelser</string>
   <string name="perm_monitored_app">Overvåkede programmer (%1$d)</string>
   <string name="perm_notice">Sikkerhetsbeskjed</string>
-  <string name="perm_operating">Behandler...</string>
+  <string name="perm_operating">Behandler…</string>
   <string name="perm_optimize">Optimaliser</string>
   <string name="perm_privacy_app_count">%1$d tillatelser</string>
   <string name="perm_privacy_app_finish">Ferdig</string>
@@ -1623,13 +1667,13 @@ prøv følgende:
   <string name="perm_privacy_app_trust_dialog_content">MIUI vil ikke spørre om bekreftelse ved noen som helst sikkerhetsrelaterte operasjoner fra dette programmet.</string>
   <string name="perm_privacy_app_trust_dialog_title">Betro dette programmet</string>
   <string name="perm_privacy_app_trust_summary">Betrodd</string>
-  <string name="perm_privacy_app_trust_summary_off">MIUI vil overvåke dette programmet</string>
-  <string name="perm_privacy_app_trust_summary_on">MIUI vil overvåke dette programmet</string>
+  <string name="perm_privacy_app_trust_summary_off">"Varsle meg når dette programmet ber om tillatelse til å utføre en handling"</string>
+  <string name="perm_privacy_app_trust_summary_on">"Automatisk gi tillatelse til dette programmets forespørsler"</string>
   <string name="perm_privacy_app_uninstall">Avinstaller</string>
   <string name="perm_privacy_count">"Tillatte: %1$d |  Avvist: %2$d"</string>
   <string name="perm_root_manage_empty">Ingen programmer med ROOT-tillatelse</string>
-  <string name="perm_service_disabled">Tjeneste er deaktivert</string>
-  <string name="perm_service_enabled">Tjeneste er aktivert</string>
+  <string name="perm_service_disabled">Tjeneste deaktivert</string>
+  <string name="perm_service_enabled">Tjeneste aktivert</string>
   <string name="perm_shortcut">Kontekst meny</string>
   <string name="perm_show_system_app">Vis Systemprogrammer</string>
   <string name="perm_su">Håndter ROOT-tillatelser</string>
@@ -1642,9 +1686,9 @@ prøv følgende:
 
  Skift til MIUI-utviklerversjon for å aktivere ROOT-tillatelser."</string>
   <string name="perm_su_disabled_in_stable_download">Last ned MIUI</string>
-  <string name="perm_su_enable_content">"Aktivering vil gi programmer lov til å spørre om ROOT-tillatelser. 
+  <string name="perm_su_enable_content">"Aktivering vil gi programmer lov til å spørre om ROOT-tillatelser.
  Obs: Programmer med disse tillatelser kan medføre at systemet blir ustabilt, tap av personlige data og system- og maskinvareskade. Vil du fortsette aktivering av funksjonen?"</string>
-  <string name="perm_su_enable_dialog">%1$s forsøker å få ROOT-tillatelse, som er deaktivert som standard for å sikre systemets sikkerhet. Hvis du vil aktivere det, vennligst gå til innstillinger i Tillatelseshåndtering.</string>
+  <string name="perm_su_enable_dialog">%1$s forsøker å få ROOT-tillatelse, som er deaktivert som standard for å sikre systemets sikkerhet.</string>
   <string name="perm_su_enable_summary">Programmer kan få root tillatelse</string>
   <string name="perm_su_enable_title">ROOT-tillatelse</string>
   <string name="perm_su_switch">ROOT-tillatelse</string>
@@ -1715,15 +1759,15 @@ prøv følgende:
   <string name="power_chooser_check_box_title">Spare batteri</string>
   <string name="power_chooser_mine_summary">Lagre opprinnelige systeminnstillingenr</string>
   <string name="power_chooser_mine_title">Egendefinert</string>
-  <string name="power_chooser_sleep_summary">Deaktiver alle funksjoner (telefon, meldinger, internett) bortsett fra alarmklokke</string>
+  <string name="power_chooser_sleep_summary">Deaktiver alle nettverksfunksjoner (anrop, meldinger, Wi-Fi og mobildata) bortsett fra alarmklokke</string>
   <string name="power_chooser_sleep_title">Sov</string>
-  <string name="power_chooser_smart_summary">Lagre gjeldende innstillinger, tøm prosesser på låseskjermen</string>
+  <string name="power_chooser_smart_summary">Tøm prosesser kjørende i bakgrunnen på låseskjermen</string>
   <string name="power_chooser_smart_title">Standardmodus</string>
-  <string name="power_chooser_standby_summary">Deaktiver internettfunksjoner</string>
+  <string name="power_chooser_standby_summary">Deaktiver Wi-Fi og mobildata-tilkobling</string>
   <string name="power_chooser_standby_title">Ytelsesmodus</string>
   <string name="power_chooser_title">Spar batteri</string>
   <string name="power_chooser_user_define_summary">Lag en egendefinert konfigurasjon for batteri</string>
-  <string name="power_chooser_user_define_title">Legg til egendefinert profil</string>
+  <string name="power_chooser_user_define_title">Legg til profil</string>
   <string name="power_consume_other">Andre</string>
   <string name="power_consume_rank_hardware">Hardware</string>
   <string name="power_consume_rank_software">Programmer</string>
@@ -1754,12 +1798,13 @@ prøv følgende:
   <string name="power_dialog_delete_dialog_cannot_delete_default">"Kan ikke slette: du bruker denne profilen."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Kan ikke slette: Enheten er satt til å bytte til denne profilen når batterinivået er lavt,
   Du må endre denne konfigurasjonen før du kan slette denne profilen."</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Kunne ikke slette, enheten din er satt til å bytte til denne konfigurasjonen når batteriet er bedre. Du må kanskje endre dine batteri-innstillinger før du kan slette denne modusen.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Kunne ikke slette:
+Enheten din er satt til å bytte til denne konfigurasjonen når batteriet er bedre. Du må kanskje endre dine batteri-innstillinger før du kan slette denne modusen."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Kunne ikke slette, enheten din er satt til å bytte til denne konfigurasjonen når tiden er opptil den planlagte perioden. Du må kanskje endre batteri-innstillingene dine før du kan slette denne modusen.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Kan ikke slette: Enheten er planlagt å bytte til denne profilen,
   Du må endre denne konfigurasjonen før du kan slette denne profilen."</string>
-  <string name="power_dialog_delete_dialog_delete">"Slett egendefinert profil og tilhørende innstillingsdata? Du kan ikke reversere denne handlingen!"</string>
-  <string name="power_dialog_delete_dialog_title">Slett egendefinert profil</string>
+  <string name="power_dialog_delete_dialog_delete">Slett denne batteri-konfigurasjonenn</string>
+  <string name="power_dialog_delete_dialog_title">Slett profil</string>
   <string name="power_dialog_ok">OK</string>
   <string name="power_dialog_screen_brightness_automatic">Still lysstyrke automatisk</string>
   <string name="power_dialog_screen_brightness_automatic_off">Lysstyrken på skjermen vil forbli konstant i alle omgivelser</string>
@@ -1795,8 +1840,8 @@ prøv følgende:
   <string name="power_mode_select_desc">Velg modusen som oppfyller dine individuelle krav</string>
   <string name="power_mode_select_title">Strømmodus</string>
   <string name="power_mode_sleep">Sov</string>
-  <string name="power_mode_sleep_in_minutes">Sov etter %1$d minutter med inaktivitet</string>
-  <string name="power_mode_sleep_in_seconds">Sov etter %1$d sekunder med inaktivitet</string>
+  <string name="power_mode_sleep_in_minutes">Etter %1$d minutter med inaktivitet</string>
+  <string name="power_mode_sleep_in_seconds">Etter %1$d sekunder med inaktivitet</string>
   <string name="power_mode_sleep_never">Aldri</string>
   <string name="power_mode_switch_off">Av</string>
   <string name="power_mode_switch_on">På</string>
@@ -1805,7 +1850,7 @@ prøv følgende:
   <string name="power_mode_touch_with_vibration">Vibrasjon ved trykk</string>
   <string name="power_mode_vibration">Vibrasjon</string>
   <string name="power_mode_vibration_no">Vibrasjon deaktivert</string>
-  <string name="power_mode_vibration_silence">Vibrer når ringing er dempet</string>
+  <string name="power_mode_vibration_silence">Når ringing er dempet</string>
   <string name="power_mode_vibration_yes">Vibrasjon aktivert</string>
   <string name="power_mode_wifi">Wi-Fi</string>
   <string name="power_new_choose_mode">Velg modus</string>
@@ -2380,7 +2425,7 @@ Forsøk gjenstående :"</string>
   <string name="title_virus_yes">Ingen virus detektert</string>
   <string name="toast_qucik_scan_list_empty">Alt ser bra ut, du trenger ikke rydde!</string>
   <string name="toast_shortcut_install">Snarvei lagt til</string>
-  <string name="toast_shortcut_uninstall">Snarvei fjernet</string>  
+  <string name="toast_shortcut_uninstall">Snarvei fjernet</string>
   <string name="menu_item_notification_title">Vis i varselskygge</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Feil</string>

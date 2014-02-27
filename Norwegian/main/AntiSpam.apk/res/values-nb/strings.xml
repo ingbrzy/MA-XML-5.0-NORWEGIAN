@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Firewall</string>
-  <string name="bl_block_info" formatted="false">Blokkert: Nummer %d, detaljer %d</string>
+  <string name="app_name">Blokkeringsliste</string>
+  <string name="bl_block_info" formatted="false">Blokkert: %d nummer | %d meldinger</string>
   <string name="bl_no_blacklist">Svarteliste tom</string>
   <string name="bl_no_block_call">Alle blokkerte samtaler vil bli logget her</string>
   <string name="bl_no_block_sms">Alle blokkerte SMS-er vil bli logget her</string>
@@ -32,8 +32,8 @@
   <string name="fw_blocked">Blokkering er PÅ</string>
   <string name="fw_blocked_count" formatted="false">Mottatt: %d anrop og %d meldinger</string>
   <string name="log_count">(%d)</string>
-  <string name="marked_by_others">%d folk markerte den som</string>
-  <string name="marked_by_user">markert av bruker</string>
+  <string name="marked_by_others">"%d andre brukere markerte den som "</string>
+  <string name="marked_by_user">"Du markerte den som"</string>
   <string name="menu_add">Legg til</string>
   <string name="menu_add_into_contact">Legg til eksisterende kontakt</string>
   <string name="menu_add_new_contact">Ny kontakt</string>
@@ -65,10 +65,10 @@
   <string name="st_block_unknown_sms">Blokker alle ukjente meldinger</string>
   <string name="st_call_group">Ring</string>
   <string name="st_common_setting_group">Rask visning</string>
-  <string name="st_filter_keywords_setting_summary1">Meldinger fra ukjente kontakter vil bli blokkert.</string>
-  <string name="st_filter_keywords_setting_summary2">Legg til flere søkeord avgrenset med komma.</string>
+  <string name="st_filter_keywords_setting_summary1">Meldinger fra ukjente nummere som inneholder følgende ord vil bli blokkert.</string>
+  <string name="st_filter_keywords_setting_summary2">Du kan avgrense nøkkel ved å bruke et komma</string>
   <string name="st_filter_keywords_setting_title">Sett filter-nøkkelord</string>
-  <string name="st_filter_keywords_title">Filtrer nøkkelord for meldinger</string>
+  <string name="st_filter_keywords_title">Nøkkelord-filter</string>
   <string name="st_filter_sms_button">Filtrer spam-meldinger</string>
   <string name="st_mute_all">Demp anrop og meldinger</string>
   <string name="st_mute_block">Demp anrop og blokker meldinger</string>
@@ -84,5 +84,5 @@
   <string name="tab_title">Vakt</string>
   <string name="toast_keyword_blank">Nøkkelord er blankt</string>
   <string name="toast_keyword_exist">Nøkkelordet %s eksisterer allerede</string>
-  <string name="toast_keyword_invalid">Ugyldig nøkkelord</string>
+  <string name="toast_keyword_invalid">Nøkkelordet du oppga er ugyldig</string>
 </resources>

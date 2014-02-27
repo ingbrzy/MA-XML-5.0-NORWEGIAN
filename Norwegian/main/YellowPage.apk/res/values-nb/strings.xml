@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+   <string name="sina_share_pendding">Sender…</string>
+  <string name="sina_share_success">Sendt</string>
+  <string name="sina_share_fail">Kunne ikke sende</string>
+  <string name="sina_token_expired_warning">Weibo-konto er utløpt: Vennligst koble til på nytt</string>
+  <string name="sina_token_invalid_warning">Weibo account er ugyldig: Vennligst koble til på nytt</string>
   <string name="about_smart_antispam_summary">Om Smart Antispam ukjent nummerdeteksjon</string>
   <string name="about_telephone_fraud">Om telefonsvindel</string>
   <string name="agree">Samtykk</string>
@@ -122,7 +127,7 @@ Vennligst sjekk ditt sproingsnummer"</string>
   <string name="recharge_select_money_title">Vennligst velg oppgyllingsverdi</string>
   <string name="recharge_status_description">Status:</string>
   <string name="recharge_title">Oppfylling</string>
-  <string name="recharge_user_confirm_summary">"Du vil bli belastet %1$s for RMB%2$s 
+  <string name="recharge_user_confirm_summary">"Du vil bli belastet %1$s for RMB%2$s
 
   Total beløp: RMB%3$s"</string>
   <string name="recharge_user_confirm_title">Bekreft</string>

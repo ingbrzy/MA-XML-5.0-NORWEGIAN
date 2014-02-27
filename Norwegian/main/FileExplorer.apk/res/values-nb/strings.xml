@@ -29,6 +29,8 @@
   <string name="category_document">Dokumenter</string>
   <string name="category_favorite">Favoritter</string>
   <string name="category_log">Logg</string>
+  <string name="category_mirouter">MiRouter</string>
+  <string name="colon">": "</string>
   <string name="category_music">Musikk</string>
   <string name="category_other">Andre</string>
   <string name="category_picture">Bilder</string>
