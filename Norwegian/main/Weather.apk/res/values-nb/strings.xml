@@ -36,7 +36,7 @@
   <string name="app_love_sms_title">Meldingsinnhold</string>
   <string name="app_love_view_title">Forhåndsvis</string>
   <string name="app_name">Vær</string>
-  <string name="app_nohave_net">Ingen nettverk detektert</string>
+  <string name="network_unavailable">Ingen nettverk detektert</string>
   <string name="app_unquiet_net">Dårlig nettverksforbindelse</string>
   <string name="aqi_details_dangerous">Unngå lang eller tung anstrengelse</string>
   <string name="aqi_details_fine">Personer med forhåndseksisterende medisinske tilstander bør redusere langvarig eller kraftig anstrengelse.</string>
@@ -119,6 +119,7 @@ Været i %1$s er %2$s, %3$s, %4$s. %5$s."</string>
   <string name="tip_weather_info_title_2">"%1$s sin temperatur er forventet %2$s"</string>
   <string name="trend_weather_today">I dag</string>
   <string name="trend_weather_tomorrow">I morgen</string>
+  <string name="weather_data_unreachable">"Kunne ikke hente værdata, Vennligst prøv igjen senere."</string>
   <string name="weather_notification">Værvarseler</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>

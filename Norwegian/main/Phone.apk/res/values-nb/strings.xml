@@ -148,6 +148,7 @@
   <string name="call_record_notification_message_miui">Trykk for å vise %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Opptak er stoppet pga SD-kortet er avmontert.</string>
   <string name="call_record_notification_message_start_failed">Opptaksenhet er i bruk av et annet program.</string>
+  <string name="call_record_error_access">Kan ikke ta opp mens du er i gjestemodus</string>
   <string name="call_record_notification_title_error_miui">Feil ved opptak av anrop</string>
   <string name="call_record_notification_title_miui">Opptak av anrop fullført</string>
   <string name="call_record_path_name_of_sdcard_miui">SD kort</string>

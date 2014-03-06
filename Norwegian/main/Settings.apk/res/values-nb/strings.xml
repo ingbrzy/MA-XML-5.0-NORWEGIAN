@@ -1209,6 +1209,9 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="item_garbage_size_1000m">1G</string>
   <string name="item_title_garbage_time">Alarm-tid</string>
   <string name="item_title_garbage_size">Alarm-størrelse</string>
+  <string name="menu_item_force_stop">Lukk</string>
+  <string name="menu_item_uninstall">Avinstaller</string>
+  <string name="menu_item_app_details">Detaljer</string>
   <string name="list_sub_view_item_view">Detaljer</string>
   <string name="local_backup_password_summary_change">Velg for å endre eller fjerne passord for desktop full backup</string>
   <string name="local_backup_password_summary_none">"Full backup av skriveborde er i øyeblikket ikke beskyttet."</string>

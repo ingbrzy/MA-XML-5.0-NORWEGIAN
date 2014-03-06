@@ -228,6 +228,7 @@
   <string name="offline_select_better_source">Har blitt endret til tilgjengelige cache-kilde</string>
   <string name="offline_setting">Offline media</string>
   <string name="ok">OK</string>
+  <string name="online_video">Online</string>
   <string name="open_camera">Kamera</string>
   <string name="other_setting">Andre</string>
   <string name="others">Andre</string>
@@ -273,6 +274,7 @@
   <string name="sina">Sina</string>
   <string name="souhu">Souhu</string>
   <string name="special_subject">Spesialer</string>
+  <string name="start_time">Starter</string>
   <string name="start_download">Start caching</string>
   <string name="subchannel_all">Alle</string>
   <string name="success_add_myfavorite">Stjernemerkede</string>

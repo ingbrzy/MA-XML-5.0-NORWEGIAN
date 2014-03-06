@@ -26,9 +26,11 @@
   <string name="error_mediadb_new_record">Kan ikke lagre opptaket</string>
   <string name="error_sdcard_access">Kan ikke få adgang til SD-kort</string>
   <string name="fm_record">FM opptak (%d)</string>
+  <string name="cloud_record">Tar opp i skyen(%d)</string>
   <string name="hour">%d time(r)</string>
   <string name="insert_sd_card">Sett inn SD-kort</string>
   <string name="low_battery_error">Det er mindre enn 5% batteri igjen. For å hindre at opptaket ikke ble borte, er det blitt stoppet og lagret.</string>
+  <string name="access_error">Kan ikke ta opp mens du er i gjestemodus</string>
   <string name="low_battery_message_title">Lavt batteri</string>
   <string name="low_battery_warning">Uventet avslutning kan medføre tap av opptak, det anbefales at man kun tar opp med fullt oppladet batteri.</string>
   <string name="mark_now">(Nåværende)</string>
@@ -38,6 +40,7 @@
   <string name="message_file_size_error">Opptaket har nådd maksimal lengde som støttes for %s</string>
   <string name="minute">%d minutt</string>
   <string name="no_file">Ingen opptak</string>
+  <string name="loading_recording">Laster opptak</string>
   <string name="notification_playback">Avspiller...</string>
   <string name="notification_recording">opptaker</string>
   <string name="notification_stopped">opptak stoppet</string>
@@ -56,7 +59,12 @@
   <string name="preference_scenes">Innstillinger for scene</string>
   <string name="preference_silent_mode">Stille-modus opptak</string>
   <string name="preference_silent_mode_summary">Sett for å aktivere lydløs opptaket</string>
-  <string name="record_list">opptak</string>
+  <string name="record_list">Opptak</string>
+  <string name="record_list_fm">FM-opptak</string>
+  <string name="record_list_call">Anrop-opptak</string>
+  <string name="record_list_cloud">Sky-opptak</string>
+  <string name="record_list_cloud_fm">Sky FM-opptak</string>
+  <string name="record_list_cloud_call">Sky anrop-opptak</string>
   <string name="record_loading">Laster inn opptak, vennligst vent.</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Velg opptak</string>
@@ -81,7 +89,25 @@
   <string name="storage_is_full">Minne er fullt</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">Program: %1$ sin maksimalt støttet opptakstid %2$s</string>
-  <string name="toast_uninstall_fileexplorer">Fileutforsker ikke innstallert!</string>
+  <string name="toast_uninstall_fileexplorer">Fileutforsker ikke installert!</string>
+  <string name="record_download">Last ned fra Mi Cloud</string>
+  <string name="record_download_msg">Opptak kan bare bli spilt etter at de er ferdig nedlastet.</string>
+  <string name="record_download_msg_reload">Dette opptaket eksisterer ikke</string>
+  <string name="record_download_complete">Ferdig</string>
+  <string name="record_download_paused">Pauset</string>
+  <string name="record_download_failed">Feilet</string>
+  <string name="record_download_progress">%d%%</string>
+  <string name="record_download_activity">Opptak-nedlaster</string>
+  <string name="retry">Prøv igjen</string>
+  <string name="start">Fortsett</string>
+  <string name="record_download_manager">Nedlastingshåndterer</string>
+  <string name="record_downloading_notification">Laster ned\u2026</string>
+  <string name="record_downloading_notification_count">%d laster ned</string>
+  <string name="record_downloading_notification_complete">Nedlasting ferdig</string>
+  <string name="sync_records">Synk med Mi Cloud</string>
+  <string name="sync_only_in_wifi">Bruk bare Wi-Fi for å synke</string>
+  <string name="sync_only_in_wifi_summary">Opptaker vil bruke din mobildata-tilkobling for å laste ned eller laste opp opptak når dette valget er skrudd av</string>
+  <string name="sync_only_in_wifi_alert">Å skru av dette valget kan øke ditt mobildata-bruk (dette kan koste deg penger).</string>
   <string name="unknown_caller">Ukjent</string>
   <string name="view_list_of_recordings">Vis opptak</string>
 </resources>

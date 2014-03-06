@@ -306,6 +306,7 @@
   <string name="sort_by_album">Album</string>
   <string name="sort_by_artist">Artister</string>
   <string name="sort_by_track">Sanger</string>
+  <string name="source_from">Hentet fra: %1$s</string>
   <string name="start_to_download_album">Last ned albumcover til dine sanger</string>
   <string name="start_to_download_avatar">Last ned artistavatarer til din musikk</string>
   <string name="streamloadingtext">Kobler til %s</string>
