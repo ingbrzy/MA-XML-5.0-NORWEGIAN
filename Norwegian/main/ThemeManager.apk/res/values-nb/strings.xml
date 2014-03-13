@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-   <string name="account_info">Min konto</string>
+  <string name="account_info">Min konto</string>
   <string name="account_unactivated">Konto ikke akativert.</string>
   <string name="all_resources">Alle</string>
   <string name="all_ringtone_resource">Alle</string>
   <string name="app_name">Temaer</string>
   <string name="apply_font_btn_exclude">Bruk uten skrifttype</string>
   <string name="apply_font_btn_reboot">Bruk og restart</string>
-  <string name="apply_font_tip">Temaet inbeholder skrifttype, restart er påkrevd.</string>
+  <string name="apply_font_tip">"Restart for å bruke dette temaet sin skrifttype."</string>
   <string name="apply_lockscreen_paper_tips">Nuværende låseskjerm støtter ikke endring av bakgrunnsbilde, det nye bakgrunnsbilde vil derfor muligens ikke kunne vises.</string>
   <string name="apply_theme_no_select_message">Velg elementer.</string>
   <string name="apply_theme_with_ringtones">Bruk theme med ringetoner</string>
@@ -51,7 +51,7 @@
   <string name="mi_wallpaper">Bakgrunn</string>
   <string name="online_no_network">Kunne ikke koble til nettverk</string>
   <string name="online_search_hint">Søk etter online elementer</string>
-  <string name="payment_info">MiCredits</string>
+  <string name="payment_info">Mi Credits</string>
   <string name="purchased_list">Liste over kjøp</string>
   <string name="resource_account_abnormal_state">Kontofeil, vennligst prøv igjen.</string>
   <string name="resource_account_current">Konto: %1$s</string>
@@ -200,13 +200,13 @@
   <string name="resource_update">Oppdater</string>
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Venter på nedlastning...</string>
-  <string name="restore_default_theme_alert">Temaet kan være ulovlig kopiert. Vennligst gå på tema markedet for at kjøpe eller laste ned på nytt.</string>
+  <string name="restore_default_theme_alert">Bruk Tema-programmet for å kjøpe eller laste ned på nytt.</string>
   <string name="sdcard_not_mounted_dialog_message">"SD-kort ikke tilgjengelig, vennligst sett inn ett nå."</string>
   <string name="sdcard_not_mounted_dialog_title">SD-kort ikke detektert</string>
   <string name="selected_resource_file_invalid">Valgte fil er ugyldig.</string>
   <string name="settings">Innstillinger</string>
   <string name="short_ringtone_resource">Kort</string>
-   <string name="theme_batch_has_update_text">%1$d temaer har en nye versjon tilgjengelig</string>
+   <string name="theme_batch_has_update_text">Oppdateringer tilgjengelig for %1$d temaer.</string>
   <string name="theme_batch_update_all">Oppdater alle</string>
   <string name="theme_batch_update_dlg_content">Vil du oppdatere nå?</string>
   <string name="theme_batch_update_dlg_content_single">Oppdater nå?</string>
@@ -237,14 +237,14 @@
   <string name="theme_component_title_ringtone">Ringetone</string>
   <string name="theme_component_title_statusbar">Statusmenu</string>
   <string name="theme_component_title_wallpaper">Skrivebord</string>
-  <string name="theme_current_using_has_update">Gjeldende tema har blitt oppdatert, klikk her for å bruke</string>
+  <string name="theme_current_using_has_update">"Det er en oppdatering for temaet du bruker"</string>
   <string name="theme_description_title_customized">Tilpasset</string>
   <string name="theme_description_title_default">Standard</string>
   <string name="theme_immediately_apply_tip">Dette temaet er oppdatert, bruk nå</string>
   <string name="theme_import_activity_label">Oppgrader Tema</string>
   <string name="theme_import_from_sdcard">Importer fra SD kort</string>
   <string name="theme_name">%1$s</string>
-  <string name="theme_select_others">Andre</string>
+  <string name="theme_select_others">Utforsk</string>
   <string name="third_party_pickers_activity_title">Sett %1$s</string>
   <string name="title_component">Miks</string>
   <string name="title_local">Lokal</string>

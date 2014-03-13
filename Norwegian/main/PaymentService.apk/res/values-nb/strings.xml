@@ -201,9 +201,10 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Glemt mønsterpassord&lt;/u&gt;</string>
   <string name="login">Logg inn</string>
   <string name="memu_refresh">Last på nytt</string>
-  <string name="mibi_license_message">Trykk OK hvis du er enig i betingelsene beskrevet i %1$s.</string>
+  <string name="mibi_license_message">"Du er i ferd med å bruke Mi Credit, som er en tjeneste tilbudt av Xiaomi Inc. Før du bruker denne tjenesten, må du godkjenne vilkår for bruk oppgitt i %1$s.</string>
   <string name="mibi_license_message_span">MiCredit-betingelser</string>
-  <string name="mibi_license_title">Brukeravtale</string>
+  <string name="btn_agree">Godkjenn</string>
+  <string name="mibi_license_title">Betingelser og vilkår</string>
   <string name="mili_center">MiCredit</string>
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">Oppfylling feilet</string>
@@ -213,8 +214,6 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="msg_picker_hint_1_2">Oppfylling via SMS er kanskje dyrere: &lt;font color=red&gt;￥ %1$d = %2$d MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Teleselskapet tar en avgift på %1$s yuan per oppfylling</string>
-  <string name="msg_picker_hint_3_1">3.</string>
-  <string name="msg_picker_hint_3_2">Maks månedlig oppfylling: %1$s yuan</string>
   <string name="msg_progress_hint_2_1">Din nettverksleverandør har blitt kontaktet!</string>
   <string name="msg_progress_hint_2_2">Du vil motta en bekreftelse på tekstmelding innen kort tid.</string>
   <string name="msg_send_no_net_error">"Kunne ikke sende melding: kan ikke koble til nettverksleverandøren."</string>
@@ -252,8 +251,6 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="prepaid_picker_hint_2_1">2.</string>
   <string name="prepaid_picker_hint_2_2_a">"Valgt pålydende verdi må stemme med verdien på kontantkortet. Å velge en annen verdi vil annullere kortet. Denne handlingen kan ikke angres."</string>
   <string name="prepaid_picker_hint_2_2_b">Hvis pålydende verdi på kontantkortet ikke er &lt;font color=red&gt;￥%1$s&lt;/font&gt;, vil kortet bli annullert. Xiaomi er ikke ansvarlige for pengetap på grunn av brukerfeil.</string>
-  <string name="prepaid_picker_title_default">Velg beløp</string>
-  <string name="prepaid_picker_title_selected">beløp</string>
   <string name="progress_bankcall_card_creating">Genererer ordre…</string>
   <string name="progress_bankcall_card_querying">Sjekker kontotype…</string>
   <string name="progress_creating">Henter ordreinfo…</string>
@@ -266,6 +263,8 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="progress_msg_creating">Genererer oppfyllingsordre...</string>
   <string name="progress_paytool_creating">Genererer %1$s ordre...</string>
   <string name="progress_paytool_installing">Installerer %1$s mobilsikkerhetstillegg…</string>
+  <string name="prepaid_grid_carrier_hint">Velg operatør</string>
+  <string name="prepaid_grid_denomination_hint">Velg beløp</string>
   <string name="progress_prepaid_creating">Genererer ordre…</string>
   <string name="progress_querying">Prosesserer...</string>
   <string name="progress_submit_hint">Oppfylling vil bli reflektert i din kontobalanse innen 3 minutter.</string>
@@ -301,6 +300,8 @@ Vi vil sjekke igjen innen to arbeidsdager."</string>
   <string name="recharge_prepaid_title">Kontantkort</string>
   <string name="recharge_push_notification_prime_title">%1$d la til %2$s MiCredits til kontoen din</string>
   <string name="recharge_push_notification_sub_title">Oppfylling fullført.</string>
+  <string name="giftcard_expire_notification_prime_title">Jøss! Din promoteringskode er i ferd med å utløpe …</string>
+  <string name="giftcard_expire_notification_sub_title">Ditt Mi Credit gavekort utløper den%1$s</string>
   <string name="recharge_record_empty">Ingen oppfyllingshistorikk.</string>
   <string name="recharge_tenpay_title">Tenpay</string>
   <string name="recharge_voucher_title">MiCredit-kort</string>

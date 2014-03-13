@@ -230,7 +230,7 @@
   <string name="mx_count_dspt">Siden aktivering, har MIUI sendt %1$d Cloud-melding(r) for deg (%2$s)</string>
   <string name="mx_current_status">Aktuell status: Online</string>
   <string name="mx_dspt">Send meldinger via internett mellom MIUI, aktiver for å sende via operatør når mislykket</string>
-  <string name="mx_enable">Aktiver Cloud-meldinger</string>
+  <string name="mx_enable">Cloud-meldinger</string>
   <string name="mx_enable_int_popup_msg">Cloud-meldinger gjør det mulig å sende meldinger mellom MIUI-brukere. For å aktivere, vil en internasjonal SMS bli sent. Operatøren sine meldingspriser kan gjelde.</string>
   <string name="mx_enable_popup_msg">Cloud-meldinger tillater deg å sende meldinger via MIUI. En normal SMS kreves for å aktivere tjenesten. Vil du aktivere nå?</string>
   <string name="mx_int_warning_notice">En internasjonal SMS vil bli sendt for å aktivere Cloud-meldinger, normale telepriser kan gjelde</string>
@@ -242,7 +242,7 @@
   <string name="mx_warning_notice">En SMS vil bli sendt for å aktivere cloud-meldinger. Operatørkostnad vil muligens påløpe</string>
   <string name="need_download">Venter på synk...</string>
   <string name="new_message">Ny melding</string>
-  <string name="new_message_arrived">Ny melding mottatt</string>
+  <string name="new_message_arrived">Du har en ny melding</string>
   <string name="new_phrase">Ny setning</string>
   <string name="new_phrase_hint">Skriv inn ny setning</string>
   <string name="nickname_placeholder">Kallenavn</string>
@@ -290,7 +290,7 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi.”</string>
   <string name="pref_summary_notification_body_enabled">Forhåndsvis meldinger på låseskjermen, og statuslinjen</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Forhåndsvisning av meldinger deaktivert når adgangskontroll er aktivert</string>
   <string name="pref_summary_off_system_mms_priority">Andre programmer vil muligens motta MMS-meldingen før system MMS app</string>
-  <string name="pref_summary_on_system_mms_priority">System MMS-program vil prioriteres til mottagelse av MMS-meldinger</string>
+  <string name="pref_summary_on_system_mms_priority">"Sett MIUI sitt meldings-program som standard program for å sende og motta MMS"/string>
   <string name="pref_summary_show_recent_contacts">Vis liste med nylig brukte kontakter når det skrives nye meldinger</string>
   <string name="pref_summary_wake_up_screen">Vekk skjerm når meldinger mottas</string>
   <string name="pref_system_title">System</string>
@@ -442,7 +442,7 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi.”</string>
   <string name="to_send_wrapper">Sendes: %s</string>
   <string name="toast_description_required">Tilbakemelding kreves for å sende</string>
   <string name="toast_feedback_finish">Din rapport vil bli sendt automatisk når du kobler til et Wi-Fi-nettverk</string>
-  <string name="toast_feedback_max">Bare 3 rapporter kan bli sendt per dag</string>
+  <string name="toast_feedback_max">"Du kan ikke sende mer en 3 rapporter om dagen"</string>
   <string name="toast_feedback_start">Sender tilbakemeldingdata…</string>
   <string name="too_many_attachments">Max %1$s vedlegg. Kun de første %2$s vil bli lagt til.</string>
   <string name="too_many_recipients">Denne melding har for mange mottakere (%1$s). - MAX %2$s mottakere!</string>

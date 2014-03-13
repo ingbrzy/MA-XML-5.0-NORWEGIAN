@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="editing_mode_entries">
-        <item>Rydd opp hjemskjerm</item>
-        <item>Legg til widgeter</item>
-        <item>Endre bakgrunnsbilde</item>
-        <item>Skjermoverganger</item>
+        <item>Flytt programmer</item>
+        <item>Widgeter</item>
+        <item>Bakgrunnsbilde</item>
+        <item>Effekter</item>
      </string-array>
     <string-array name="transformation_entries">
-        <item>Klassisk</item>
-        <item>Klassisk (Ingen overskyd)</item>
+        <item>Overskli</item>
+        <item>Skli</item>
         <item>Kryssfade</item>
         <item>Rundkast</item>
         <item>Side</item>

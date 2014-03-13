@@ -384,6 +384,11 @@
         <item>Video</item>
         <item>E-post</item>
     </string-array>
+     <string-array name="network_speed_slow_summary">
+        <item>Nettverket er tregt på grunn av for mye trafikk</item>
+        <item>Nettverket er tregt på grunn av lav signalstyrke</item>
+        <item>Flytter…</item>
+    </string-array>
     <string-array name="score_descriptions">
         <item>Blokkeringsliste er av</item>
         <item>Tillatelseshåndtering er av</item>

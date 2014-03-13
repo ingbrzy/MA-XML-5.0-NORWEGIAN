@@ -117,7 +117,8 @@
   <string name="fullscreen_to_play">Fullskjerm</string>
   <string name="funshion">Funshion</string>
   <string name="gong_count_dlna">%d DLNA</string>
-  <string name="gong_count_xiang">%d elementere</string>
+  <string name="visit_postfix">| nylig besøkende</string>
+  <string name="gong_count_xiang">%d videoer</string>
   <string name="good">OK</string>
   <string name="have_no_cameravideo">Ingen videoer</string>
   <string name="have_no_offlinemedia">Tom</string>

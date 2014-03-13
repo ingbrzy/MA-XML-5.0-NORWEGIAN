@@ -481,7 +481,7 @@
   <string name="v5_date_picker_label_year" />
   <string name="v5_date_time_picker_dialog_title">Sett påminnelsestid</string>
   <string name="v5_deselect_all">Avmerk alle</string>
-  <string name="v5_edit_mode_title_empty">Velg elementer</string>
+  <string name="v5_edit_mode_title_empty">0 valgt</string>
   <string name="v5_icon_menu_bar_more_item_label">Mer</string>
   <string name="v5_select_all">Velg alle</string>
   <string name="v5_time_picker_label_hour">Time</string>
