@@ -290,7 +290,7 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi.”</string>
   <string name="pref_summary_notification_body_enabled">Forhåndsvis meldinger på låseskjermen, og statuslinjen</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Forhåndsvisning av meldinger deaktivert når adgangskontroll er aktivert</string>
   <string name="pref_summary_off_system_mms_priority">Andre programmer vil muligens motta MMS-meldingen før system MMS app</string>
-  <string name="pref_summary_on_system_mms_priority">"Sett MIUI sitt meldings-program som standard program for å sende og motta MMS"/string>
+  <string name="pref_summary_on_system_mms_priority">"Sett MIUI sitt meldings-program som standard program for å sende og motta MMS"</string>
   <string name="pref_summary_show_recent_contacts">Vis liste med nylig brukte kontakter når det skrives nye meldinger</string>
   <string name="pref_summary_wake_up_screen">Vekk skjerm når meldinger mottas</string>
   <string name="pref_system_title">System</string>
