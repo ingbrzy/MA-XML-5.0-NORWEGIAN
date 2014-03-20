@@ -29,17 +29,12 @@
   <string name="Dashboard_Perm_SU_Switch">ROOT Tillatelse</string>
   <string name="Dashboard_Su_Enable_Content">Aktivering vil give programmer tilgang  be om ROOT Tillatelser. Fortsett?</string>
   <string name="Dashboard_Su_Enable_Title">ROOT Tillatelse</string>
-  <string name="Generic_Canceling">Avbryter..</string>
-  <string name="Generic_Check">Check</string>
-  <string name="Generic_Clean">Rens</string>
   <string name="HIPS_Action_Accept">Tillat</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Tillat&lt;/font&gt;</string>
-  <string name="HIPS_Action_Accept_Count">Tillat: %1$d</string>
   <string name="HIPS_Action_Prompt">Spørr</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Spørg&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Avvis</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Avvis&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject_Count">Avvis: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Privat sikkerhet</string>
   <string name="HIPS_Group_Expense">sikkerhet</string>
   <string name="HIPS_Group_Internet">Internet-tilgang</string>
@@ -231,5 +226,4 @@
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Bakgrunn</string>
-  <string name="app_name">LBE Guard</string>
 </resources>
