@@ -55,6 +55,8 @@
   <string name="clear_history">Tøm historikk</string>
   <string name="clear_offline">Tøm offline mediacache</string>
   <string name="clear_offline_summary">Tøm cachede videoer</string>
+  <string name="receive_ad_notify">Varsel/push for melding</string>
+  <string name="receive_ad_notify_summary">Etter aktivering vil du motta varlser for de seneste og mest populære videoene</string>
   <string name="clear_playhistory">Tøm spillerhistorikk</string>
   <string name="clear_playhistory_tip">Videospiller-historikk vil bli slettet.</string>
   <string name="clearplayhistory">Tøm historikk</string>
@@ -279,6 +281,7 @@
   <string name="start_download">Start caching</string>
   <string name="subchannel_all">Alle</string>
   <string name="success_add_myfavorite">Stjernemerkede</string>
+  <string name="success_add_waitfornewset">følg suksess</string>
   <string name="success_cancel_myfavorite">Ikke stjernemerkede</string>
   <string name="success_cancel_waitfornewset">Følging avsluttet</string>
   <string name="success_to_cancel_myfavorite">Avbrutt</string>

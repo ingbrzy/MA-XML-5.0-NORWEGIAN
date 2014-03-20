@@ -91,7 +91,7 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Siste fane</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Sveip opp for å lukke</string>
   <string name="browserFrameFileErrorLabel">Filproblem</string>
-  <string name="browserFrameFormResubmitLabel"/>
+  <string name="browserFrameFormResubmitLabel" />
   <string name="browserFrameFormResubmitMessage">Siden du prøver å vise inneholder data som allerede er sendt (\" POSTDATA \ "). Hvis du sender dataene igjen, vil hver handling skjemaet på siden gjennomførte (som et søk eller et nettkjøp) bliv gjentattt. "</string>
   <string name="browserFrameNetworkErrorLabel">Forbindelsesproblem</string>
   <string name="browser_bookmarks_page_bookmarks_text">Bokmerker</string>
@@ -548,7 +548,7 @@
   <string name="share_page">Del side</string>
   <string name="shortcut_bookmark">Bokmerke</string>
   <string name="shortcut_bookmark_title">Velg et bokmerke</string>
-  <string name="sign_in_to" formatted="false">Logg inn på %s1 \"%s2\"</string>
+  <string formatted="false" name="sign_in_to">Logg inn på %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Kunne ikke lagre til offline lesning."</string>
   <string name="snapshot_go_live">Gå Live</string>
   <string name="ssl_continue">Fortsett</string>

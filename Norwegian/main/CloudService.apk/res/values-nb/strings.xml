@@ -6,11 +6,11 @@
   <string name="find_device_noise_title">Finn enhetslyd</string>
   <string name="sync_item_calllog_title">Synk anropslogger</string>
   <string name="sync_item_calllog_summary">Synk logg over anrop sendt og mottatt på denne telefonen</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Forhindrer databruk (dette kan spare deg penger)</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Reduserer databruk</string>
   <string name="pref_title_sync_contacts_title">Synk kontakt</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Bruk Wi-Fi for å vise bilder</string>
   <string name="pref_title_sync_my_profile_title">Synk min profil</string>
-  <string name="sub_sync_item_sms_summary">Forhindrer databruk (dette kan spare deg penger)</string>
+  <string name="sub_sync_item_sms_summary">Reduserer databruk</string>
   <string name="sub_sync_item_sms_title_wifi_only">Synk av MMS: Bare Wi-Fi</string>
   <string name="sync_item_sms_summary">Synkroniser tekstmeldinger mellom enheter</string>
   <string name="sync_item_sms_title">Synk meldinger</string>

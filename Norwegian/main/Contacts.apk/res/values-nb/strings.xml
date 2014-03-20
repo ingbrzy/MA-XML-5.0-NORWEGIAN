@@ -762,7 +762,6 @@ for å legge til kontakt til favoritter:
 	  
  Trykk på flette-ikonet i bunnen for å starte."</string>
   <string name="resource_account_abnormal_state">Kontofeil, vennligst prøv igjen senere.</string>
-  <string name="resource_account_current">Konto: %1$s</string>
   <string name="resource_account_fail_to_add">Kunne ikke legge til konto!</string>
   <string name="resource_account_login">Logg in</string>
   <string name="resource_account_login_before_action">Vennligst logg inn på din Xiaomi-konto</string>
