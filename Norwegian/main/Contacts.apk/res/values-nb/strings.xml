@@ -4,7 +4,8 @@
   <string name="account_container_title">Fra følgende konto</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">Kun telefon (usynkroniserede)</string>
-  <string name="account_sim">Kun SIM, usynkroniserede</string>
+  <string name="account_sim">SIM-kort</string>
+  <string name="account_sim2">SIM-kort %d</string>
   <string name="account_type_format">%1$s kontakt</string>
   <string name="account_unactivated">Konto ikke aktivert.</string>
   <string name="actionIncomingCall">Innkommende anrop</string>
@@ -107,6 +108,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="callrecordview_menu_delete_missed">Slett ubesvarte anrop</string>
   <string name="callrecordview_menu_delete_new">Tøm anropsloggen for nye kontakter</string>
   <string name="callrecordview_menu_delete_one">Fjern denne fra anropslogg</string>
+  <string name="callrecordview_menu_delete_sim">Fjern %s anropslogger</string>
   <string name="callrecordview_menu_delete_stranger">Rydd ukjente nummere</string>
   <string name="callrecordview_menu_edit_call_note">Endre anropsnotat</string>
   <string name="callrecordview_menu_paste">Lim inn</string>
@@ -117,6 +119,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="callrecordview_menu_show_called">Vis utgående anrop</string>
   <string name="callrecordview_menu_show_missed">Vis kun ubesvarte anrop</string>
   <string name="callrecordview_menu_show_new">Nye kontakter</string>
+  <string name="callrecordview_menu_show_sim">%s anrop</string>
   <string name="callrecordview_menu_show_stranger">Vis kun ukjente anrop</string>
   <string name="callrecordview_menu_show_title">Velg type anropslogg som skal vises</string>
   <string name="cancel_confirmation_dialog_message">Ønsker du å forkaste dine endringer?</string>
@@ -346,6 +349,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Tast inn persons navn"</string>
   <string name="eventLabelsGroup">Hendelse</string>
+  <string name="eventTypeCustom">Egendefinert</string>
   <string name="event_edit_field_hint_text">Dato</string>
   <string name="export_sim_contact_finish">Eksport til SIM-kort fullført</string>
   <string name="export_sim_contact_finish_failure">SIM-lagring er full, fullført: %1$d gjennstående: %2$d</string>
@@ -353,16 +357,17 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="export_sim_contacts_dialog_message">Ditt SIM-kort kan lagre %d kontakter, er du sikker på du vil fortsette?</string>
   <string name="export_to_sdcard">Eksporter til SD-kort</string>
   <string name="export_to_sim">Eksporter til SIM-kort</string>
+  <string name="export_to_sim2">Eksporter til SIM-kort 2</string>
   <string name="export_to_sim_title">Eksporterer til SIM-kort…</string>
   <string name="export_vcard_description">Eksporter vCard til SD-kort</string>
   <string name="exporting_contact_failed_message">"Kunne ikke eksportere kontaktopplysninger.
  Årsak: \"%s\" "</string>
   <string name="exporting_contact_failed_title">"Kunne ikke eksportere kontakt data"</string>
-  <string name="exporting_contact_list_message">Dine kontakt data blir eksportert til: %s.</string>
+  <string name="exporting_contact_list_message">Eksporterer til %s.</string>
   <string name="exporting_contact_list_progress" formatted="false">%s av %s kontakter</string>
   <string name="exporting_contact_list_title" formatted="false">Eksporterer kontakt data</string>
   <string name="exporting_vcard_canceled_title">Eksportering av %s ble avbrutt</string>
-  <string name="exporting_vcard_finished_title">Ferdig med eksportering av %s</string>
+  <string name="exporting_vcard_finished_title">Eksport av %s fullført.</string>
   <string name="external_profile_title">Min %1$s profil</string>
   <string name="fail_reason_could_not_initialize_exporter">Kunne ikke initialisere eksporten: \"%s\"</string>
   <string name="fail_reason_could_not_open_file" formatted="false">Kunne ikke åpne \"%s\":%s</string>
@@ -422,13 +427,15 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="ic_menu_done">Ferdig</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
+  <string name="imei_invalid">Ugyldig IMEI</string>
   <string name="import_all_sim_entries_miui">Importer alle kontakter</string>
   <string name="import_all_vcard_string">Importer alle vCard filer</string>
   <string name="import_contact_card_button">Importer kontakt</string>
   <string name="import_failure_no_vcard_file">Ingen vCard fil funnet.</string>
   <string name="import_from_other_phone">Importer fra annen telefon</string>
   <string name="import_from_sdcard">Importer fra lager</string>
-  <string name="import_from_sim">Importer fra SIM kort</string>
+  <string name="import_from_sim">Importer fra SIM-kort</string>
+  <string name="import_from_sim2">Importer fra SIM-kort 2</string>
   <string name="import_multiple_vcard_string">Importer flere vCard filer</string>
   <string name="import_name">Navn</string>
   <string name="import_one_vcard_string">Importer en vCard fil</string>
@@ -679,7 +686,8 @@ for å legge til kontakt til favoritter:
   <string name="pref_key_photo_word_title">Bilder til alle</string>
   <string name="pref_key_rebuild_t9_index_message">Gjenoppbygg indeks for å løse søkefeil</string>
   <string name="pref_key_rebuild_t9_index_title">Gjenoppbygg indeksdata</string>
-  <string name="pref_key_sim_manage">SIM-håndtering</string>
+  <string name="pref_key_sim_manage">Håndter SIM-kort</string>
+  <string name="pref_key_sim_manage2">Håndter SIM-kort 2</string>
   <string name="pref_summary_import_from_account">Importer kontakter fra Google og andre mail kontoer til min Xiaomi konto</string>
   <string name="pref_title_account_import">Importer fra konto</string>
   <string name="pref_title_import_from_account">Importer fra Xiaomi Account</string>
@@ -960,8 +968,9 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="sim_card_no_free_space_title">SIM-kort fullt</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Avvelg alle</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Velg alle</string>
-  <string name="sim_contact_existing">Kontakt eksisterer allerede</string>
+  <string name="sim_contact_existing">SIM-kontakt eksisterer allerede</string>
   <string name="sim_contact_invalid">Ugyldig SIM-kontakt</string>
+  <string name="sim_contact_number_missing">SIM kontaktnummer mangler.</string>
   <string name="sim_contact_search_error">Det oppstod en feil under søkning av SIM kort kontakter</string>
   <string name="sim_contacts">SIM Kontakter</string>
   <string name="sim_error_anr_full">Lagringsplass for nummer er fullt!</string>

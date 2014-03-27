@@ -6,7 +6,7 @@
         <item quantity="two">Avinstaller %s og 1 annet program?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$ programmer avinstallert</item>
+        <item quantity="other">%1$d programmer avinstallert</item>
         <item quantity="one">Program avinstallert</item>
     </plurals>
     <plurals name="uninstall_result_failed">

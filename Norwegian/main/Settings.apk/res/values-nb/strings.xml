@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Settings_title_anti_spam">Antispam-innstillinger</string>
+  <string name="Settings_title_anti_virus">Antivirus-innstillinger</string>
+  <string name="Settings_title_garbage_cleanup">Innstilllinger for søppeltømming</string>
+  <string name="Settings_title_network_assistants">Inntillinger for nettverksassistent</string>
+  <string name="Settings_title_power_center">Innstillinger for strømhåndtering</string>
   <string name="about_settings">Om telefonen</string>
   <string name="about_settings_summary">Vis juridisk informasjon, status, programvareversjon</string>
   <string name="ac_enable_title">Aktiver tilgangsbegrensninger</string>
@@ -102,8 +107,8 @@
   <string name="allow_mock_location">Tillat falske posisjoner</string>
   <string name="allow_mock_location_summary">Tillat falske posisjoner</string>
   <string name="always_allow_bind_appwidgets_text">"Du har valgt å tillate dette programmet å opprette widgeter og få adgang til deres data."</string>
-  <string name="android_beam_disabled_summary">Ikke tilgjengelig, da NFC er avslått</string>
-  <string name="android_beam_explained">"Når denne funksjonen er slått på, kan du stråle programinnhold til en annen NFC-kompatibel enhet ved å holde enhetene tett på hverandre. For eksempel kan du sende nettsider, YouTube videoer, kontakter, og mer. Bare før enhetene sammen (typisk rygg mot rygg), og trykk deretter på skjermen. Applikasjonen avgjør, hva som blir strålet."</string>
+  <string name="android_beam_disabled_summary">Skru på NFC nå</string>
+  <string name="android_beam_explained">"Du kan sende nettsider, en video, eller annet innhold fra din skjerm til en annen enhet, ved å holde enhetene sammen (typisk bakside-til-bakside).</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">NFC-innholdsdeling deaktivert</string>
   <string name="android_beam_on_summary">NFC-innholdsdeling aktivert</string>
@@ -506,7 +511,7 @@ Tast PIN for å parre med \"%1$s\". [Høy sikkerhet aktivert: Trenger 16-tegnsn�
   <string name="call_settings_title">Anropsinnstillinger</string>
   <string name="calllog">Anropslogg</string>
   <string name="camera_key_action_app_title">Åpne program</string>
-  <string name="camera_key_action_category_title">Bruk av kamera er ikke tilatt.</string>
+  <string name="camera_key_action_category_title">"Kan ikke bruke kamera"</string>
   <string name="camera_key_action_none_title">Ingen handling</string>
   <string name="camera_key_action_setting_title">MI-knapp</string>
   <string name="camera_key_action_shortcut_call">Ring opp</string>
@@ -772,6 +777,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="device_status_activity_title">status</string>
   <string name="device_status_summary">Batteristatus, nivå, etc.</string>
   <string name="dialog_title_font_size">Skriftstørrelse</string>
+  <string name="dialog_title_load_cleanup_engine_error">Feil</string>
   <string name="dirac_control">MI-lyd</string>
   <string name="dirac_mode_earbuds">Xiaomi-ørepropper</string>
   <string name="dirac_mode_general">Generelt</string>
@@ -818,7 +824,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="dndm_repeated_call_summary_none">Demp gjentatte anrop fra samme nummer</string>
   <string name="dndm_special_call_setting_group">Exceptions</string>
   <string name="dndm_summary">Når stillemodus er aktivert vil anrop og meldinger som kommer mens telefonen er låst vil bli brakt til taushet.</string>
-  <string name="dndm_twelve_hour_time_format">a h:mm</string>
+  <string name="dndm_twelve_hour_time_format">h:mm a</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Tillate anrop fra unntakene</string>
   <string name="dndm_vip_call_setting_title">Unntaksinnstillinger</string>
@@ -1036,6 +1042,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="gadget_toggle_bluetooth">Oppdaterer Bluetooth-innstillinger</string>
   <string name="gadget_toggle_wifi">Oppdatering av WiFi-innstilling</string>
   <string name="game_controller_settings_category">Spill-kontroller</string>
+  <string name="garbage_white_list_empty_content">Godkjenningsliste er tom</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="haptic_feedback_enable_title">Haptisk feedback</string>
@@ -1172,7 +1179,9 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="scanning_start_hints">Blir klart…</string>
   <string name="pref_category_title_cleanup_white_list">Forkast oppryddningshviteliste</string>
   <string name="pref_title_cleanup_white_list">Forkast oppryddningshviteliste</string>
+  <string name="pref_title_expand_cache_group">Utvid cache-gruppene</string>
   <string name="pref_summary_cleanup_white_list">Ignorer søppel i hvitelisten</string>
+  <string name="pref_summary_expand_cache_group">Grupper i hurtigcachen listen vil utvides som standard</string>
   <string name="pref_category_title_auto_update_cleanup_db">Database-oppryddning oppdateringsinnstillinger</string>
   <string name="pref_title_auto_update_cleanup_db">Auto-oppdater</string>
   <string name="pref_summary_auto_update_cleanup_db">Oppdater：%s</string>
@@ -1194,6 +1203,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="applications_sort_type_item_size">Størrelse</string>
   <string name="dialog_title_uninstall_apps">Avinstaller</string>
   <string name="dialog_title_backup_and_uninstall_apps">Ta backup og avinstaller</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Søppeltømmingsmotor har blitt ødelagt, vennligst installer på nytt!</string>
   <string name="dialog_msg_uninstall_apps">Avinstaller disse programmene?</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Backup og avinstaller programmer</string>
   <string name="button_text_uninstall_apps">Avinstaller</string>
@@ -1235,7 +1245,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="lock_intro_message">"Beskytt din telefon mot uautoriseret bruk ved å opprette et personlig skjermopplåsningsmønster. Dra fingeren for å binde sammen minst fire prikker i vilkårlig rekkefølge på det neste skjermbilde.
 
 Klar for å starte? Trykk på Neste."</string>
-  <string name="lock_screen_unlock_show">Deaktiver sveipskjerm</string>
+  <string name="lock_screen_unlock_show">Hopp over sveipskjerm</string>
   <string name="lock_screen_unlock_show_summary">Gå direkte til hjermskjerm eller passordinput fra oppvåkning</string>
   <string name="lock_settings_common_title">Skjermlås-innstillinger</string>
   <string name="lock_settings_picker_settings">Velg skjermlås</string>
@@ -1476,21 +1486,21 @@ prøv følgende:
   <string name="oem_radio_info_label">OEM-spesifikke Info / Innstillinger</string>
   <string name="only_when_charging">Bare under lading</string>
   <string name="onscreen_keyboard_settings_summary">Skjermtastatur innstillinger</string>
-  <string name="open_wifi_connect_summary">Trykk for å håndtere</string>
-  <string name="open_wifi_connect_title">Koble til åpent nettverk %1$s</string>
-  <string name="free_wifi_summary">Gratis WLAN, delvis forsyntav %1$s</string>
+  <string name="open_wifi_connect_summary">Trykk for vise detaljer.</string>
+  <string name="open_wifi_connect_title">Koble til %1$s</string>
+  <string name="free_wifi_summary">Trykk for å koble til %1$s.</string>
   <string name="free_wifi_connect_title">WLAN tilgjengelig</string>
-  <string name="free_wifi_connect_summary">Denne gratis WLAN-tilkoblingen er delvis forsynt av %1$s. Trykk for å koble til.</string>
-  <string name="free_wifi_connect_dialog_title">Gratis WLAN tilgjengelig</string>
-  <string name="free_wifi_connect_dialog_summary">Dette gratis WLANet %1$s er delvis forsynt av %2$s.</string>
+  <string name="free_wifi_connect_summary">Trykk for å koble til %1$s.</string>
+  <string name="free_wifi_connect_dialog_title">WLAN tilgjengelig</string>
+  <string name="free_wifi_connect_dialog_summary">%1$s tilbudt av %2$s.</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_wifi_connect">Koble til</string>
-  <string name="free_wifi_connecting">Kobler til...</string>
+  <string name="free_wifi_connecting">Kobler til…</string>
   <string name="free_wifi_connected">Koblet til gratis WLAN</string>
-  <string name="free_wifi_connect_fail">"Kan ikke koble til nettverk"</string>
-  <string name="free_wifi_connect_fail2">Kunne ikke logge inn. Vent et minutt eller to og prøv igjen.</string>
+  <string name="free_wifi_connect_fail">"Kan ikke koble til nettverk. Vennligst sjekk din dataforbinelde og prøv igjen"</string>
+  <string name="free_wifi_connect_fail2">"Kunne ikke logge inn. Vent et minutt eller to og prøv igjen."</string>
   <string name="free_wifi_login_again">Logg inn igjen</string>
-  <string name="free_wifi_connected_count">%1$s bruker tilkoblet</string>
+  <string name="free_wifi_connected_count">%1$s bruker(e) tilkoblet</string>
   <string name="free_wifi_speed_title">Treig forbindelse?</string>
   <string name="free_wifi_connected_time">Tid online: %1$s</string>
   <string name="free_wifi_confirm">Bekreft</string>
@@ -1924,20 +1934,20 @@ Enheten din er satt til å bytte til denne konfigurasjonen når batteriet er bed
   <string name="preference_change_password_title">Skift passord</string>
   <string name="preferred_app_settings">Standard program-innstillinger</string>
   <string name="preferred_app_settings_default">Standard</string>
-  <string name="preferred_app_settings_reset">Gjenopprett standarder</string>
+  <string name="preferred_app_settings_reset">Gjenopprett standard programmer?</string>
   <string name="preferred_app_settings_reset_message">Er du sikker på at du vil gjenopprette standard programinnstillinger</string>
-  <string name="preferred_application_title">Foretrukket %s</string>
+  <string name="preferred_application_title">Standard %s</string>
   <string name="preferred_application_warning_message">Bytting av din standard %1$s kan øke strømforbruket, redusere hastighet, og kan sette telefoninnholdet i fare. Anbefalt er standard %2$s.</string>
   <string name="preferred_application_warning_replace">Bytt</string>
   <string name="preferred_application_warning_title">Bytt standard %s</string>
   <string name="preferred_application_warning_use_system">Bruk standard %s</string>
-  <string name="preferred_launcher_title">Foretrukket launcher</string>
+  <string name="preferred_launcher_title">Standard launcher</string>
   <string name="preferred_launcher_warning_message">Bytting av standard launcher kan medføre økt ressursbruk, redusere hastighet, og kan sette ditt telefoninnhold i fare</string>
   <string name="preferred_launcher_warning_replace">Bytt</string>
   <string name="preferred_launcher_warning_title">Bytte standard launcher</string>
   <string name="preferred_launcher_warning_use_system">Bruk standard Launcher</string>
   <string name="preferred_media_app_summary">Velg Musikkspiller</string>
-  <string name="privacy_mode_enable_sum">Skjul anropslister, meldinger og andre data når i Privatmodus</string>
+  <string name="privacy_mode_enable_sum">Skjul anropslister, notater, bilder, og innkommende anrop</string>
   <string name="privacy_mode_enable_title">Aktiver Privatmodus</string>
   <string name="privacy_protect_title">Adgangsbegrensing</string>
   <string name="privacy_relative">Privat relatert</string>
@@ -2446,6 +2456,7 @@ Forsøk gjenstående :"</string>
   <string name="title_virus_update_no">Auto-oppdatering for virusdefinisjoner er av</string>
   <string name="title_virus_update_yes">Auto-oppdatering for virusdefinisjoner er på</string>
   <string name="title_virus_yes">Ingen virus detektert</string>
+  <string name="toast_garbage_cleanup_success">Oppryddingen var vellykket</string>
   <string name="toast_qucik_scan_list_empty">Alt ser bra ut, du trenger ikke rydde!</string>
   <string name="toast_shortcut_install">Snarvei lagt til</string>
   <string name="toast_shortcut_uninstall">Snarvei fjernet</string>
@@ -2713,7 +2724,7 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="virus_scan_virus_title">%d virus detektert!</string>
   <string name="virus_scan_viruslib_version">Virusdefinisjon versjon: %s</string>
   <string name="virus_scanner_auto_update">Oppdater automatisk</string>
-  <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
+  <string name="virus_scanner_date_formater">MMM dd yyyy</string>
   <string name="virus_scanner_lib_already_latest">Du bruker allerede de seneste definisjonene. :)</string>
   <string name="virus_scanner_lib_update_failed">Oppdatering feilet.</string>
   <string name="virus_scanner_lib_update_success">Virusdefinisjoner har blitt oppdatert automatisk. ^_^</string>
@@ -2754,7 +2765,7 @@ Legg til et ord ved å trykke på Legg til (+) knappen."</string>
   <string name="volume_notification_description">Varsler</string>
   <string name="volume_notification_mute">Gjør varsler lydløse</string>
   <string name="volume_restore">Gjenopprett lydstyrke</string>
-  <string name="volume_restore_alert">Alle lydstyrkeinnstillinger vil bli satt til standard, er du sikker?</string>
+  <string name="volume_restore_alert">"Dine gjeldende innstillinger for volumnivå vil bli slettet"</string>
   <string name="volume_ring_description">Ringetone og varslingslydstyrke</string>
   <string name="volume_ring_mute">Gjør ringetone og varsler lydløse</string>
   <string name="volume_system_description">Systemlydstyrke, for kameralukker, låseskjerm og andre systemvarsler</string>
