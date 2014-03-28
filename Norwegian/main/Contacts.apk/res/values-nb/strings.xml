@@ -518,6 +518,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="menu_call">Ring opp</string>
   <string name="menu_callNumber">Ring til %s</string>
   <string name="menu_call_ip_number">Ring til IP-telefon (Ring til %s)</string>
+  <string name="menu_dial_ip_number">Ring til IP-telefon</string>
   <string name="menu_clear_frequents">Rydd ofte kontaktede</string>
   <string name="menu_contacts_filter">Visning av kontakter</string>
   <string name="menu_copy">Kopier</string>
