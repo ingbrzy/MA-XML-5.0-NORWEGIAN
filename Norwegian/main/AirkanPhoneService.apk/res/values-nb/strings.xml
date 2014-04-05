@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rcs_app_name">Tjeneste for ekstern kontroll</string>
+    <string name="rcs_phoneact_name">Ekstern kontroll av telefon-styring</string>
+    <string name="rcs_service_start">Tjeneste for ekstern kontroll av telefon-styring startet.</string>
+    <string name="app_name">Airkan-telefon</string>
+    <string name="phoneact_name">Airkan-telefonstrying</string>
+    <string name="mdnssdact_name">mDNSSD-lytterstyring</string>
+    <string name="service_start">Airkan-telefontjeneste startet.</string>
+    <string name="listenservice_start">mDNSSD-lyttertjeneste startet.</string>
+</resources>

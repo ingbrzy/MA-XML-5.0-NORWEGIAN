@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
++<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-   <string name="sina_share_pendding">Sender…</string>
+  <string name="sina_share_pendding">Sender…</string>
   <string name="sina_share_success">Sendt</string>
   <string name="sina_share_fail">Kunne ikke sende</string>
   <string name="sina_token_expired_warning">Weibo-konto er utløpt: Vennligst koble til på nytt</string>
@@ -156,8 +156,17 @@ Vennligst sjekk ditt sproingsnummer"</string>
   <string name="express_address_region">Region</string>
   <string name="express_address_deleted">Addresse slettet</string>
   <string name="downloading">Laster ned…</string>
-  <string name="download_completed">Nedlastning fullført！</string>
-  <string name="recharge_select_money_title">Vennligst velg oppgyllingsverdi</string>
+  <string name="download_completed">Nedlastning fullført！Mappe for SD-kort: %s</string>
+  <string name="download_failed">Nedlastning feilet</string>
+  <string name="download_failed_storage">Nedlastning feilet, vennligst sjekk ditt SD-kort</string>
+  <string name="download_failed_network">Nedlastning feilet, vennligst sjekk dine nettverksinnstillinger</string>
+  <string name="download_failed_gone">"Nedlastning feilet, filen eksisterer ikke"</string>
+  <string name="download_failed_server">Nedlastning feilet, vennligst prøv igjen senere</string>
+  <string name="download_failed_cannot_resume">Nedlastning feilet, vennligst prøv igjen senere</string>
+  <string name="download_failed_file_exists">Filen eksisterer allerede</string>
+  <string name="download_failed_space">Nedlastning feilet, ikke nok plass</string>
+  <string name="download_failed_blocked">Nedlastning feilet, kan ikke koble til nettverk</string>
+  <string name="recharge_select_money_title">Vennligst velg oppFyllingsverdi</string>
   <string name="recharge_status_description">Status:</string>
   <string name="recharge_title">Oppfylling</string>
   <string name="recharge_user_confirm_summary">"Du vil bli belastet %1$s for RMB%2$s

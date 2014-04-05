@@ -110,4 +110,5 @@
   <string name="sync_only_in_wifi_alert">Å skru av dette valget kan øke ditt mobildata-bruk (dette kan koste deg penger).</string>
   <string name="unknown_caller">Ukjent</string>
   <string name="view_list_of_recordings">Vis opptak</string>
+  <string name="toast_file_is_downloading">Denne filen er under nedlastning, vennligst vent</string>
 </resources>

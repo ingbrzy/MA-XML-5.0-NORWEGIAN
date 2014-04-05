@@ -269,6 +269,7 @@
   <string name="request_fail">Spørring feilet!</string>
   <string name="requesting">Spørr…</string>
   <string name="retry">Prøv igjen</string>
+  <string name="no_music_to_play">Ingen musikk å spille av</string>
   <string name="ringtone_menu">Bruk som ringetone</string>
   <string name="ringtone_not_support">Ringetone-format ikke støttet</string>
   <string name="ringtone_set">\"%s\" Bruk som ringetone.</string>

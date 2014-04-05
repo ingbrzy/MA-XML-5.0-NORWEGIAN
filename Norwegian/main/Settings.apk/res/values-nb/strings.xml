@@ -1503,7 +1503,7 @@ prøv følgende:
   <string name="free_wifi_connected_count">%1$s bruker(e) tilkoblet</string>
   <string name="free_wifi_speed_title">Treig forbindelse?</string>
   <string name="free_wifi_connected_time">Tid online: %1$s</string>
-  <string name="free_wifi_confirm">Bekreft</string>
+  <string name="free_wifi_confirm">Jeg vet</string>
   <string name="opt_accept_whitelist">Aksepter anrop fra nummer på unntakslisten</string>
   <string name="opt_cancel_desc">Avbryt</string>
   <string name="opt_clean_garbage">Tømt %dMB</string>

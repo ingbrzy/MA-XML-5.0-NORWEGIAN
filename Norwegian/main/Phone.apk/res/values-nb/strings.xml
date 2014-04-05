@@ -35,7 +35,7 @@
   <string name="answer_and_hangup_miui">Avvis og send beskjeder</string>
   <string name="answer_features_setting_category_miui">Svarinnstillinger</string>
   <string name="answer_miui">Besvar</string>
-  <string name="answer_state_setting_summary">Innstillinger for snu for lydløs, sensor, osv.</string>
+  <string name="answer_state_setting_summary">Ekstra valg for innkommende anrop</string>
   <string name="answer_state_setting_title">Innkommende anrop</string>
   <string name="answer_state_setting_title_miui">Innkommende anrop</string>
   <string name="answer_widget_dialog_title_miui">Velg din svar retning</string>
@@ -72,19 +72,19 @@
   <string name="auto_answer_scenario_enteries_headset_only_miui">Kun når headset er tilkoblet</string>
   <string name="auto_answer_scenario_title_miui">Scenarie for auto svar</string>
   <string name="auto_answer_setting_title_miui">Auto svar-innstillinger</string>
-  <string name="auto_answer_summary_delay">(forsinkelse:%ss)</string>
-  <string name="auto_answer_summary_not_enabled">Ikke aktivert</string>
+  <string name="auto_answer_summary_delay">" (forsinkelse: %s sekunder)"</string>
+  <string name="auto_answer_summary_not_enabled">Deaktivert</string>
   <string name="auto_country_code_miui">Legg til automatisk landskode</string>
-  <string name="auto_country_code_sum_miui">Legg til automatisk landskoden før telefonnummeret for kjente kontakter, nummeret med landskoden vil bli ringt opp direkte.</string>
+  <string name="auto_country_code_sum_miui">Legg til automatisk landskoden før telefonnummeret for kontakter, nummeret med landskoden vil bli ringt opp direkte.</string>
   <string name="auto_ip_add_exception_numbers_miui">Legg til nummere</string>
   <string name="auto_ip_exception_miui">"Nummere som ikke behøver IP-prefiks"</string>
   <string name="auto_ip_exception_summary_miui">%d totalt</string>
   <string name="auto_ip_exception_summary_more_miui">,... %d totalt</string>
   <string name="auto_ip_no_exceptions_miui">"Venligst Legg til nummere som ikke behøver IP-prefiks"</string>
-  <string name="auto_ip_remove_exception_numbers_confirm_miui">Er du sikker på at du vil slette disse %d nummerne?</string>
+  <string name="auto_ip_remove_exception_numbers_confirm_miui">%d nummer vil bli slettet.</string>
   <string name="auto_ip_setting_miui">Automatisk IP-innstillinger</string>
   <string name="auto_ip_summary_not_enabled">Ikke aktivert</string>
-  <string name="auto_ip_support_local_numbers">Støtter lokale numre</string>
+  <string name="auto_ip_support_local_numbers">Alltid bruk IP-prefiks</string>
   <string name="auto_record_call_summary_miui">Start automatisk opptak av anrop når forbundet, lagres i MIUI/sound_recorder/call_rec på SD-kortet</string>
   <string name="auto_record_call_title_miui">Ta opp automatisk</string>
   <string name="auto_record_scenario_enteries_always_miui">Auto-opptak for alle nummere</string>
@@ -95,7 +95,7 @@
   <string name="auto_record_whitelist_no_item_miui">Trykk på knappen under for å legge til i listen over nummere som skal tas opp automatisk</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d numre</string>
-  <string name="auto_record_yellowpage_miui">Gule sider</string>
+  <string name="auto_record_yellowpage_miui">Oppslag</string>
   <string name="auto_redial_pref_summary_miui">Ring automatisk opp igjen hvis nummeret er opptatt.</string>
   <string name="auto_redial_pref_title_miui">Auto tilbakering</string>
   <string name="auto_retry_mode_summary">Aktiver automatisk tilbakeringmodus</string>
@@ -152,10 +152,10 @@
   <string name="call_record_notification_title_error_miui">Feil ved opptak av anrop</string>
   <string name="call_record_notification_title_miui">Opptak av anrop fullført</string>
   <string name="call_record_path_name_of_sdcard_miui">SD kort</string>
-  <string name="call_record_sd_error_miui">SD kort adgangsfeil!</string>
+  <string name="call_record_sd_error_miui">"Kan ikke få tilgang til SD-kort"</string>
   <string name="call_record_sd_space_low_miui">SD kort har lite ledig plass igjen, vennligst prøv igjen etter litt plass er frigjort</string>
-  <string name="call_record_setting_miui">Opptak av anrop</string>
-  <string name="call_record_unknown_error">En ukjent feil skjedde under opptak!</string>
+  <string name="call_record_setting_miui">Ta opp anrop</string>
+  <string name="call_record_unknown_error">En ukjent feil oppsto.!</string>
   <string name="call_recording_notification_summary_miui">Vis varsel i statuslinje når opptak er slutt</string>
   <string name="call_recording_notification_title_miui">Notifikasjon ved opptak</string>
   <string name="call_recording_prompt_miui">Åpen anropsopptak</string>
@@ -169,7 +169,7 @@
   <string name="call_waiting_tone_title_miui">Ringetone for ventende anrop</string>
   <string name="call_waiting_tone_twice_and_vibrate_miui">Spill av tone og vibrer to ganger</string>
   <string name="call_waiting_tone_twice_only_miui">Spill av tone for ventende anrop kun to ganger</string>
-  <string name="caller_id_sum_miui">Vis/Skjul mitt nummer for utgående anrop (hvis støttet av nettverk)</string>
+  <string name="caller_id_sum_miui">Vis/Skjul mitt nummer for utgående anrop (hvis støttet av operatør)</string>
   <string name="caller_id_title_miui">Vis Nummer</string>
   <string name="caller_manage_header">Telefonmøte %s</string>
   <string name="caller_manage_manage_done_text_miui">Tilbake til anrop</string>
@@ -252,8 +252,8 @@
   <string name="command_error_illegal_sim_or_me_miui">Kunne ikke registrere på nettverk pga feil SIM/ME.</string>
   <string name="command_error_invalid_response_miui">Ugyldig nettverksrespons, prøv igjen senere.</string>
   <string name="command_error_no_subscription_miui">Kunne ikke finne CDMA abonnement fra spesifisert plassering.</string>
-  <string name="command_error_op_denied_before_reg_miui">Denne handling er ikke tillatt, før enheten registreres på nettverket.</string>
-  <string name="command_error_op_denied_during_call_miui">Denne handling er ikke tillatt under anrop, prøv igjen etter avsluttet anrop.</string>
+  <string name="command_error_op_denied_before_reg_miui">Handlingen er ikke tillatt, før enheten registreres på nettverket.</string>
+  <string name="command_error_op_denied_during_call_miui">Handlingen er ikke tillatt under anrop, prøv igjen etter avsluttet anrop.</string>
   <string name="command_error_password_incorrect_miui">Din adgangskode var feil, prøv igjen.</string>
   <string name="command_error_radio_not_available_miui">Celleradio ikke tilgjengelig (ikke startet eller nullstiller), prøv igjen senere.</string>
   <string name="command_error_sim_absent_miui">ICC kort ikke til stede.</string>
@@ -267,7 +267,7 @@
   <string name="confirmPin2Label">Bekreft ny PIN2-kode</string>
   <string name="confirmPinLabel">Bekreft ny PIN-kode</string>
   <string name="confirm_delete_message_title_miui">Du vil slette brukerdefinert attribut beskjeder.</string>
-  <string name="confirm_delete_sim_entry_miui">Bekreft sletting av de %d valgte kontakter fra SIM kortet?</string>
+  <string name="confirm_delete_sim_entry_miui">%d kontakter på SIM-kortet vil bli slettet.</string>
   <string name="confirm_no_countrycode_for_custom_location_miui">Vennligst tast inn nummer uten landskode.</string>
   <string name="confirm_pin2_hint_miui">Bekreft ny PIN2</string>
   <string name="confirm_pin_hint_miui">Bekreft PIN</string>
@@ -296,7 +296,7 @@
   <string name="crystaltalk_title_miui">NICAM innstilling</string>
   <string name="current_areacode_miui">Nåværende områdekode</string>
   <string name="current_areacode_sum_miui">Områdekode for nåværende plassering, eller roaming kode. F.eks. 010</string>
-  <string name="current_areacode_sum_set_miui">Områdenummer: %s</string>
+  <string name="current_areacode_sum_set_miui">Gjeldende områdenummer: %s</string>
   <string name="cursorError">Pekerfeil oppsto</string>
   <string name="custom_location_location_hint_miui">Navn</string>
   <string name="custom_location_location_no_item_miui">"Trykk 'Legg til' nedenfor for å legge til brukerdefinert områdenummer"</string>
@@ -471,7 +471,7 @@ Kontakt din leverandør hvis problemet fortsetter."</string>
 Bytt til den nye leverandøren alikevel?"</string>
   <string name="general_news_settings">Generelle nyheter</string>
   <string name="get_pin2">Tast inn PIN2-kode</string>
-  <string name="get_smsc_address_error_miui">Kunne ikke få sms senter nummer, prøv igjen senere.</string>
+  <string name="get_smsc_address_error_miui">"Kan ikke koble til nettverket. Sjekk dataforbindelsen og prøv igjen."</string>
   <string name="get_smsc_address_timeout_miui">Time-out ved forespørsel på sms senter nummer, prøv igjen senere.</string>
   <string name="goPrivate">gjør privat</string>
   <string name="go_private_miui">Gå privat</string>
@@ -490,7 +490,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="import_all_sim_entries_miui">Importer alle kontakter</string>
   <string name="import_all_sim_entry_miui">Importer alle</string>
   <string name="import_selected_sim_entries_miui">Importer valgte kontakter</string>
-  <string name="import_sim_entries_finish">Importerte SIM kontakter</string>
+  <string name="import_sim_entries_finish">SIM-kontakter importert</string>
   <string name="import_sim_entry_miui">Importer</string>
   <string name="importingSimContacts">Importerer SIM-kontakter</string>
   <string name="importing_sim_contacts_miui">Importerer SIM kontakter</string>
@@ -633,7 +633,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="no_wifi_available_title">Ingen Wi-FI-forbindelse</string>
   <string name="not_a_valid_port">Portnummeret må være mellom 1000 og 65534</string>
   <string name="not_allowed">SIM-kortet ditt tillater ikke tilkobling til dette nettverket.</string>
-  <string name="not_connected_miui">Ikke tilkoblet</string>
+  <string name="not_connected_miui">"Koblet ikke til"</string>
   <string name="not_voice_capable">Stemmeanrop støttes ikke</string>
   <string name="notification_action_end_call">Legg på</string>
   <string name="notification_incoming_call">Innkommende anrop</string>
@@ -739,7 +739,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="pin2_invalid">Faste anropsnummer: feil PIN.</string>
   <string name="pin2_invalid_or_name_is_too_long">Fast anropsnummer er ikke oppdatert: Du har tastet inn en feil PIN2-kode eller navnet er for langt.</string>
   <string name="pin2_lock_warning_miui">"Bemærk vennligst at PIN2 relaterede funksjoner vil bli låst hvis forsøket mislykkes igjen!"</string>
-  <string name="pin2_locked_message_miui">Ugyldig PIN2, relatert funksjonalitet er låst. Vennligst nullstill PIN2 med PUK2.</string>
+  <string name="pin2_locked_message_miui">Prøv igjen: PIN2-en du skrev er ikke korrekt</string>
   <string name="pin2_or_fdn_invalid">"Fast anropsnummer er ikke oppdatert: PIN2 feil, eller nummeret blev avvist."</string>
   <string name="pin2_unblocked">PIN2 avblokkert!</string>
   <string name="pin_attempts_miui">Du har %d forsøk igjen</string>
@@ -1047,7 +1047,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="tty_mode_option_title_miui">TTY modus</string>
   <string name="turn_off_auto_select_confirm_message_miui">Signalet og nettverket kan bli utilgjengelig, er du sikker på at du vil slå funktionen av?</string>
   <string name="turn_off_auto_select_title_miui">Slå automatisk valg av nettverk av</string>
-  <string name="turn_off_auto_select_warning_message_miui">Med denne handling vil det manuellt valgte nettverk blive brukt og vil ikke bytte automatisk</string>
+  <string name="turn_off_auto_select_warning_message_miui">"Bruk bare det nettverekt du har valgt manuelt"</string>
   <string name="turn_off_miui">Slå av</string>
   <string name="turnover_mute_summary_miui">Snu for lydløs mens telefonen er plassert vannrett</string>
   <string name="turnover_mute_title_miui">Snu for lydløs</string>
