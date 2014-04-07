@@ -27,6 +27,7 @@
   <string name="sim_card_detection_status_absent">SIM-kort ikke funnet!</string>
   <string name="traffic_protection_label">Datatrafikkovervåking</string>
   <string name="traffic_protection_summary">Datatrafikkovervåking vil gi deg beskjed når din dataplan har nådd sin grense.</string>
+  <!-- traffic_protection_text_hint need to be checked ? original : Set data usage limit for %s -->
   <string name="traffic_protection_text_hint">Vennligst tast inn din datagrense.</string>
   <string name="traffic_protection_unknown">Vet ikke. Vennligst oppgi senere.</string>
   <string name="use_data">Aktiver data</string>

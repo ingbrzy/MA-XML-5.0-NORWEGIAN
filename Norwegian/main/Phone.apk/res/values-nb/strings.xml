@@ -390,7 +390,7 @@
   <string name="emergency_call_area_code_edit_dialog_button_miui">Ring opp</string>
   <string name="emergency_call_area_code_edit_dialog_hint_miui">f.eks.: 112</string>
   <string name="emergency_enable_radio_dialog_message">Slår på radio...</string>
-  <string name="emergency_enable_radio_dialog_retry">Området er ute av drift. Prøver igjen ...</string>
+  <string name="emergency_enable_radio_dialog_retry">Området er ute av drift. Prøver igjen...</string>
   <string name="emergency_enable_radio_dialog_title">Nødanrop</string>
   <string name="empty_alert">%s skal utfylles. Feltet kan ikke være tomt.</string>
   <string name="empty_networks_list">Det ble ikke funnet noe nettverk.</string>
@@ -511,7 +511,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="incall_error_supp_service_unknown">Tjenesten støttes ikke.</string>
   <string name="incall_screen_background_summary_miui">"Bruk låseskjermsbakgrunn når det ikke er angitt et kontaktbilde"</string>
   <string name="incall_screen_background_title_miui">Bakgrunn ved anrop</string>
-  <string name="incall_status_dialed_mmi">Starter MMI-sekvens ...</string>
+  <string name="incall_status_dialed_mmi">Starter MMI-sekvens...</string>
   <string name="information">Informasjon</string>
   <string name="international_disable">Internasjonale nyheter er deaktivert</string>
   <string name="international_enable">Internasjonale nyheter er aktivert</string>
@@ -561,7 +561,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="list_language_dtitle">Språk</string>
   <string name="list_language_summary">Velg nyhetssprog</string>
   <string name="list_language_title">Språk</string>
-  <string name="load_networks_progress">Søker ...</string>
+  <string name="load_networks_progress">Søker...</string>
   <string name="local_disable">Lokale nyheter er deaktivert</string>
   <string name="local_enable">Lokale nyheter er aktivert</string>
   <string name="local_weather_disable">Lokalt vær er deaktivert</string>
@@ -809,13 +809,13 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="rc_unlock_failed">RUIM Erhverv opplåsingsforespørsel mislykket.</string>
   <string name="rc_unlock_success">UIM-bedrift ble opplåst</string>
   <string name="readingSimContacts">Leser SIM kort informasjon, vennligst vent...</string>
-  <string name="reading_settings">Leser innstillinger ...</string>
+  <string name="reading_settings">Leser innstillinger...</string>
   <string name="regional_disable">Regionale nyheter er deaktivert</string>
   <string name="regional_enable">Regionale nyheter er aktivert</string>
-  <string name="register_automatically">Automatisk registrering ...</string>
+  <string name="register_automatically">Automatisk registrering...</string>
   <string name="register_network_failed_message_miui">"Kan ikke registrere på valgte nettverk, vil du velge foretrukket nettverk automatisk?"</string>
   <string name="register_network_failed_title_miui">Tjeneste ikke tilgjengelig</string>
-  <string name="register_on_network">Registrerer på %s ...</string>
+  <string name="register_on_network">Registrerer på %s...</string>
   <string name="registration_done">Registrert på nettverket.</string>
   <string name="registration_status_checking_status">Sjekker status...</string>
   <string name="registration_status_done">Mottar anrop</string>
@@ -919,7 +919,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="settings_label">Innstillinger for nettverk</string>
   <string name="simContacts_airplaneMode">Slå av flymodus for å importere kontaktpersoner fra SIM-kortet.</string>
   <string name="simContacts_empty">Det er ingen kontakter på ditt SIM-kort.</string>
-  <string name="simContacts_emptyLoading">Leser fra SIM-kort ...</string>
+  <string name="simContacts_emptyLoading">Leser fra SIM-kort...</string>
   <string name="simContacts_title">Velg kontakter, som skal importeres</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Opphev valg av alle</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Velg alle</string>
@@ -1057,11 +1057,11 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="unlock_failed">Forespørsel om opplåsing av nettverk mislyktes.</string>
   <string name="unlock_success">Opplåsing av nettverk var velykket.</string>
   <string name="updating_fdn_contact">Oppdaterer fast anropsnummer...</string>
-  <string name="updating_settings">Oppdaterer innstillinger ...</string>
+  <string name="updating_settings">Oppdaterer innstillinger...</string>
   <string name="updating_title">Innstillinger for anrop</string>
   <string name="username">Brukernavn</string>
   <string name="username_title">Brukernavn</string>
-  <string name="ussdRunning">USSD-kode kjører ...</string>
+  <string name="ussdRunning">USSD-kode kjører...</string>
   <string name="vibrate_on_ring_title">Vibrer ved anrop</string>
   <string name="vm_change_failed">"Nummeret til voicemail ble ikke endret. Kontakt din leverandør, hvis problemet vedvarer."</string>
   <string name="vm_changed">Voicemailnummeret ble endret.</string>

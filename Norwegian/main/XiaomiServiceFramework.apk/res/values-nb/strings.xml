@@ -106,7 +106,7 @@
   <string name="find_device_notice_p3">for å lokalisere den, låse den, eller slette data</string>
   <string name="find_device_success_title">Finn enhet aktivert</string>
   <string name="find_password_on_web_msg">Vennligst besøk account.xiaomi.com for å få ditt passord</string>
-  <string name="forget_password">Glemt passord?</string>
+  <string name="forget_password"><u>Glemt passord?</u></string>
   <string name="get_back_pwd">Gjenopprett kontopassord</string>
   <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
   <string name="i_know">OK</string>

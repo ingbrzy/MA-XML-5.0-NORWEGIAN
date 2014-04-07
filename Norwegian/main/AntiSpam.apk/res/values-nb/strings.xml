@@ -32,8 +32,11 @@
   <string name="fw_blocked">Blokkering er PÅ</string>
   <string name="fw_blocked_count" formatted="false">Mottatt: %d anrop og %d meldinger</string>
   <string name="log_count">(%d)</string>
+  <!-- to be translated
+  <string name="tab_block_log_unKnowNumber">Unknown number</string>
+  -->
   <string name="marked_by_others">"%d andre brukere markerte den som "</string>
-  <string name="marked_by_user">"Du markerte den som"</string>
+  <string name="marked_by_user">"Du markerte den som "</string>
   <string name="menu_add">Legg til</string>
   <string name="menu_add_into_contact">Legg til eksisterende kontakt</string>
   <string name="menu_add_new_contact">Ny kontakt</string>

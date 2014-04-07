@@ -92,6 +92,12 @@
         <item quantity="other">%d sanger med topp-karakterer</item>
         <item quantity="one">%d sang med topp-karakter</item>
     </plurals>
+<!-- need to be translated
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d days remaining</item>
+        <item quantity="one">%d day remaining</item>
+    </plurals>
+-->
     <plurals name="Nvip_expired_remind">
         <item quantity="other">Din høykvalitetsmusikk-tilgang er i ferd med å utløpe (%d dager gjenstår)</item>
     </plurals>

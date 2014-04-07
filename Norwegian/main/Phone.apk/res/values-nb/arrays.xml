@@ -5,6 +5,7 @@
         <item>Skjul nummer</item>
         <item>Vis nummer</item>
     </string-array>
+ <!-- preferred_network_mode_choices not sure if should be included  here ? not all phones have same arrays -->
     <string-array name="preferred_network_mode_choices">
         <item>LTE / CDMA</item>
         <item>EvDo</item>

@@ -23,7 +23,7 @@
   <string name="complete">Ferdig!</string>
   <string name="confirm">Bekreft</string>
   <string name="connect_confirm">%1$s ber om tilkobling</string>
-  <string name="connecting">Kobler til</string>
+  <string name="connecting">Kobler til...</string>
   <string name="continue_to_send">Fortsett å sende</string>
   <string name="defalut_nameofnewfile">Ny mappe</string>
   <string name="delete">Slett</string>
@@ -60,7 +60,7 @@
   <string name="file_share_download_complete">Delt fil mottatt!</string>
   <string name="file_share_upload_complete">Delt fil lastet opp!</string>
   <string name="file_upload">Last opp filer</string>
-  <string name="file_uploading">Laster opp fil</string>
+  <string name="file_uploading">Laster opp fil...</string>
   <string name="fill_download_paused">Nedlastning pauset</string>
   <string name="fill_upload_paused">Opplastning pauset</string>
   <string name="finish">Fullført</string>
@@ -179,8 +179,7 @@
   <string name="share_item_not_found">Fil eksisterer ikke for deling</string>
   <string name="share_message">%1$s fildeling</string>
   <string name="share_msg_model">"Jeg har delt filer med deg
-[Last ned] %1$s
-på [ %1$s ]"</string>
+på : %1$s"</string>
   <string name="share_text">MIUI V5 støtter filoverføring uten å bruke mobildata. De som ikke bruker MIUI V5 vennligst last ned: %1$s</string>
   <string name="shortmessage">Kort melding</string>
   <string name="start">Start</string>
@@ -203,7 +202,7 @@ på [ %1$s ]"</string>
   <string name="use_start">Start nå</string>
   <string name="video">Video</string>
   <string name="voice_assist_match">Rask auto matching</string>
-  <string name="voice_match">Rask matching</string>
+  <string name="voice_match">Rask matching...</string>
   <string name="wait_for_upload">Venter på at opplastning blir ferdig</string>
   <string name="wait_for_upload_to_download">Venter på at nedlastning blir ferdig, nedlastning vil automatisk bli lastet ned, vennligst vent.</string>
   <string name="wait_for_upload_to_restore">Venter på at gjenoppretting lastes opp til MiDrive, vennligst vent</string>

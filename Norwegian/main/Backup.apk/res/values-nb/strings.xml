@@ -24,14 +24,14 @@
   <string name="backup_data">Backup data</string>
   <string name="backup_delete">Slett backup</string>
   <string name="backup_empty">Ingen backups funnet!</string>
-  <string name="backup_empty_info">Backup dine data, innstillinger og programmer</string>
+  <string name="backup_empty_info">" Backup dine data, innstillinger og programmer"</string>
   <string name="backup_error">Backup-feil</string>
   <string name="backup_failed">Backup mislyktes, vennligst prøv igjen</string>
   <string name="backup_file_error">Det var et problem med backup\'en, handlingen var ugyldig.</string>
   <string name="backup_finished">Backup fullført</string>
   <string name="backup_hint">Unngå restart når backup kjører</string>
   <string name="backup_items_app_tailer">" Apps"</string>
-  <string name="backup_items_sysdata_tailer">" System Data "</string>
+  <string name="backup_items_sysdata_tailer">" System Data, "</string>
   <string name="backup_new">Ny backup</string>
   <string name="backup_progress">Backup igang...</string>
   <string name="backup_recently">" (siste)"</string>
@@ -175,7 +175,7 @@ for å avbryte gjenoppretting"</string>
   <string name="note_title">Notater</string>
   <string name="nothing_searched">Ingen søkeresultater</string>
   <string name="progress_backup_hint">Tar backup...</string>
-  <string name="progress_restore_hint">gjenoppretter data...</string>
+  <string name="progress_restore_hint">Gjenoppretter data...</string>
   <string name="prompt_reading">Leser...</string>
   <string name="prompt_sending">Sender...</string>
   <string name="prompt_writing">Skriver...</string>

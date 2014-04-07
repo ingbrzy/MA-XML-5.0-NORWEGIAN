@@ -85,7 +85,7 @@ Vennligst sjekk ditt sproingsnummer"</string>
   <string name="no_more_result">Ingen flere resultater</string>
   <string name="order_empty_hint">Ingen ordre</string>
   <string name="order_id">Ordre-ref: %s</string>
-  <string name="order_merchant_title">Mine ordre - %s</string>
+  <string name="order_merchant_title">Mine ordre</string>
   <string name="order_price">%s</string>
   <string name="order_status">%s</string>
   <string name="packages_no_package">Ingen brukbar datapakke tilgjengelig</string>

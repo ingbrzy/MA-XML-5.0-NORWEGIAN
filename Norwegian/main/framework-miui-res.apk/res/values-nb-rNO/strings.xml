@@ -267,7 +267,7 @@
   <string name="err_resource_leak">Beklager, men %1$s har stoppet på grunn av en ressurs lekkasje.</string>
   <string name="error_forbidden">Det er problemer med din konto. Synk er deaktivert.</string>
   <string name="error_not_acceptable">Det oppstod en serverfeil. Synk er deaktivert.</string>
-  <string name="error_title">Synk feil for %s</string>
+  <string name="error_title">Synk feil</string>
   <string name="error_unauthorized">For mange feilforsøk ved kontovalidering. Synk er deaktivert.</string>
   <string name="every_day">Hver dag</string>
   <string name="experimental_validate">Valider</string>

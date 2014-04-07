@@ -122,7 +122,7 @@
   <string name="huangli_good_type"/>
   <string name="jump_date">Gå</string>
   <string name="jump_date_full">Gå til dato</string>
-  <string name="loading">Laster ...</string>
+  <string name="loading">Laster...</string>
   <string name="local_calendar_display_name">Lokal kalender</string>
   <string name="local_owner_account_name">Lokal konto</string>
   <string name="lunar_date">Månedato</string>
