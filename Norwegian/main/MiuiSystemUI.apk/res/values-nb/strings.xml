@@ -239,7 +239,7 @@
   <string name="status_bar_toggle_auto_brightness">Auto-lysstyrke</string>
   <string name="status_bar_toggle_bluetooth">BT</string>
   <string name="status_bar_toggle_data">Data</string>
-   <string name="status_bar_toggle_divider">Mer</string>
+  <string name="status_bar_toggle_divider">Mer</string>
   <string name="status_bar_toggle_drive_mode">Kjør</string>
   <string name="status_bar_toggle_power_high">Ytelse</string>
   <string name="status_bar_toggle_power_low">Strømsparende</string>

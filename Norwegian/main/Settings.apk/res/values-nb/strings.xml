@@ -2379,7 +2379,7 @@ Forsøk gjenstående :"</string>
   <string name="storageuse_settings_title">Lagringsforbruk</string>
   <string name="strict_mode">Streng modus aktivert</string>
   <string name="strict_mode_summary">Flash skjermen, når programmer gjør lange operasjoner på hovedtråden</string>
-   <string name="subscription_01_summary">Sett valg for SUB1-nettverksinnstillinger</string>
+  <string name="subscription_01_summary">Sett valg for SUB1-nettverksinnstillinger</string>
   <string name="subscription_01_title">SUB 1</string>
   <string name="subscription_02_summary">Sett innstillinger for SUB2-nettverksinnstillinger</string>
   <string name="subscription_02_title">SUB 2</string>

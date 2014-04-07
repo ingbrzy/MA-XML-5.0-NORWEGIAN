@@ -543,7 +543,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="menu_new_group_action_bar">Ny</string>
   <string name="menu_not_redirect_calls_to_vm">anrop ikke sendt til voicemail</string>
   <string name="menu_redirect_calls_to_vm">Alle anrop til voicemail</string>
-   <string name="menu_removeStar">Fjern fra favoritter</string>
+  <string name="menu_removeStar">Fjern fra favoritter</string>
   <string name="menu_search">Søk</string>
   <string name="menu_select_all">Velg alle</string>
   <string name="menu_select_none">Fravelg alle</string>
@@ -1110,7 +1110,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="yellowpage_navigation_network_location_enable">Aktiver nå</string>
   <string name="yellowpage_navigation_network_location_enable_later">Aktiver senere</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Katalogen tilbyr tjenester i henhold til din by og aktivering av WLAN &amp; mobilnettverk lokasjonstjenester kan forbedre kvaliteten til tjenestene.</string>
- <string name="yellowpage_navigation_network_location_not_enabled_title">Aktiver nettverkslokasjon tjeneste.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Aktiver nettverkslokasjon tjeneste.</string>
   <string name="yellowpage_navigation_no_content">Ingen søkeresultater</string>
   <string name="yellowpage_navigation_search_city_name_hint">Søk med by</string>
   <string name="yellowpage_navigation_search_hint">Søk</string>

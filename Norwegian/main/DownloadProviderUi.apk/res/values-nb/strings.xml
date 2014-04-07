@@ -61,7 +61,7 @@
   <string name="pref_summary_max_bytes_limit_format">Vis pop-up hvis filstørrelse overskrider %s</string>
   <string name="pref_summary_no_limit_popup">Nedlastningstørrelse er ubegrenset</string>
   <string name="pref_title_enable_max_bytes_popup">Beskjed om filstørrelse</string>
-   <string name="preferences_title">Innstillinger</string>
+  <string name="preferences_title">Innstillinger</string>
   <string name="remove_download">Fjern</string>
   <string name="restart_download">Restart</string>
   <string name="resume_download">Fortsett</string>

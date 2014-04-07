@@ -47,7 +47,8 @@
   <string name="lockscreen_wallpaper">Låseskjerm</string>
   <string name="lockstyle_personal_settings">Tilpasning</string>
   <string name="long_ringtone_resource">Lang (&gt;5sek)</string>
-  <string name="maml_component_customization_title">Komponent-innstillinger</string>  <string name="menu_refresh">Oppdater</string>
+  <string name="maml_component_customization_title">Komponent-innstillinger</string>
+  <string name="menu_refresh">Oppdater</string>
   <string name="mi_wallpaper">Bakgrunn</string>
   <string name="online_no_network">Kunne ikke koble til nettverk</string>
   <string name="online_search_hint">Søk etter online elementer</string>
@@ -76,7 +77,7 @@
   <string name="resource_comment_average_score">Gjennomsnittlig</string>
   <string name="resource_comment_bad_comments">Negativ</string>
   <string name="resource_comment_current_version">Gjeldende versjon</string>
-  <string name="resource_comment_date">%1$02d-%2$02d</string> 
+  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Legg til kommentarer</string>
   <string name="resource_comment_edit_comment_waiting">Sjekker om brukt før</string>
   <string name="resource_comment_edit_text_default">Skriv kommentar</string>
@@ -206,7 +207,7 @@
   <string name="selected_resource_file_invalid">Valgte fil er ugyldig.</string>
   <string name="settings">Innstillinger</string>
   <string name="short_ringtone_resource">Kort</string>
-   <string name="theme_batch_has_update_text">Oppdateringer tilgjengelig for %1$d temaer.</string>
+  <string name="theme_batch_has_update_text">Oppdateringer tilgjengelig for %1$d temaer.</string>
   <string name="theme_batch_update_all">Oppdater alle</string>
   <string name="theme_batch_update_dlg_content">Vil du oppdatere nå?</string>
   <string name="theme_batch_update_dlg_content_single">Oppdater nå?</string>
