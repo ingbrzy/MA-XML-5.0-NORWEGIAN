@@ -94,7 +94,7 @@
   <string name="legal_workday_invalidate_message">(Data utløpt. Oppdater i innstillinger)</string>
   <string name="legal_workday_message">(Alarm av under ferie)</string>
   <string name="loading">Laster inn...</string>
-  <string name="loading_resource_detail_info">Laster inn...</string>
+  <string name="loading_resource_detail_info">Laster inn ...</string>
   <string name="loading_ringtone">Laster inn ringetone...</string>
   <string name="menu_add_worldclock">Legg til tidssone</string>
   <string name="menu_alarmclock_edit">Rediger alarm</string>
@@ -112,7 +112,7 @@
   <string name="online_no_network">Kunne ikke koble til nettverk</string>
   <string name="online_search_hint">Søk etter online-elementer</string>
   <string name="pause">Pause</string>
-  <string name="processing">Behandler...</string>
+  <string name="processing">Behandler ...</string>
   <string name="remind_ringtone">Ringetone</string>
   <string name="reset">Nullstill</string>
   <string name="resource_alarm_default">Alarm</string>

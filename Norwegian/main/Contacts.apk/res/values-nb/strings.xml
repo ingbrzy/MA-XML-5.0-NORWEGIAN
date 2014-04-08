@@ -219,7 +219,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="delete_contact_calllog_title">Slett anropslogger?</string>
   <string name="delete_dial_input">Slett</string>
   <string name="delete_duplicate">Flett</string>
-  <string name="delete_duplicate_message">"Fletter... "</string>
+  <string name="delete_duplicate_message">"Fletter ... "</string>
   <string name="delete_group_dialog_message">"Er du sikker på du vil slette gruppen '%1$s'? (Selve kontaktene vil ikke bli slettet .)"</string>
   <string name="delete_group_dialog_title">Slett gruppe</string>
   <string name="delete_selected_sim_entry_miui">Slett valgte kontakter?</string>
@@ -300,7 +300,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="dialerIconLabel">Nylige</string>
   <string name="dialerKeyboardHintText">Bruk tastaturet for å taste nummer</string>
   <string name="dialer_addAnotherCall">Legg til anrop</string>
-  <string name="dialer_empty_text_loading">Laster...</string>
+  <string name="dialer_empty_text_loading">Laster ...</string>
   <string name="dialer_empty_text_no_call_log">Ingen anrop</string>
   <string name="dialer_empty_text_no_search_result">Ingen kontakter funnet</string>
   <string name="dialer_returnToInCallScreen">Gå tilbake til gjeldende anrop</string>
@@ -486,7 +486,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="list_filter_all_accounts">Alle kontakter</string>
   <string name="list_filter_all_starred">Stjernemerkerte</string>
   <string name="list_filter_custom">brukerdefinert</string>
-  <string name="list_filter_customize">Tilpass...</string>
+  <string name="list_filter_customize">Tilpass ...</string>
   <string name="list_filter_phones">Alle kontakter med telefonnumre</string>
   <string name="list_filter_single">Kontakt</string>
   <string name="loading">Laster inn...</string>
@@ -922,7 +922,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="ringLabelsGroup">Ringetone</string>
   <string name="save_photo_progress">Lagrer bilde...</string>
   <string name="savingContact">Lagrer kontakt…</string>
-  <string name="savingDisplayGroups">Lagrer visningsinnstillinger...</string>
+  <string name="savingDisplayGroups">Lagrer visningsinnstillinger ...</string>
   <string name="scan">Skann enhet</string>
   <string name="scan_duplicate_message">Kontakter med nøyaktig de samme dataene: %1$d</string>
   <string name="scan_merge">Søker etter dupliserte kontakter…</string>
@@ -933,7 +933,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
 "</string>
   <string name="sdcard_not_mounted_dialog_title">SD-kort ikke detektert</string>
   <string name="searchHint">Søk i kontakter</string>
-  <string name="search_results_searching">Søker...</string>
+  <string name="search_results_searching">Søker ...</string>
   <string name="search_settings_description">Navn på dine kontakter</string>
   <string name="searching_vcard_message">Søker etter vCard data på SD-kort</string>
   <string name="select_all">Velg alle</string>
@@ -1086,8 +1086,8 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="viewContactTitle">Kontakt detaljer</string>
   <string name="view_updates_from_group">Vis oppdateringer</string>
   <string name="voicemail">voicemail</string>
-  <string name="voicemail_buffering">Laster inn i buffer...</string>
-  <string name="voicemail_fetching_content">Henter voicemail...</string>
+  <string name="voicemail_buffering">Laster inn i buffer ...</string>
+  <string name="voicemail_fetching_content">Henter voicemail ...</string>
   <string name="voicemail_fetching_timout">"Kunne ikke hente voicemail."</string>
   <string name="voicemail_playback_error">"Kunne ikke spille voicemail."</string>
   <string name="voicemail_speed_faster">hurtig hastighet</string>

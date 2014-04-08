@@ -30,7 +30,7 @@
   <string name="install_failed_system_incompatible">Dette programmet er ikke kompatibelt med MIUI ROM!</string>
   <string name="install_failed_verify_failed">Pakken kunne ikke bekreftes, og kan derfor ikke installeres.</string>
   <string name="install_failed_verify_timeout">Det oppsto timeout under forsøk på å bekrefte denne pakken. Prøv å installere den igjen senere.</string>
-  <string name="installing">Installerer...</string>
+  <string name="installing">Installerer ...</string>
   <string name="launch">Åpne</string>
   <string name="lift_ban">Fjern bannlysning</string>
   <string name="low_risk_perms">Lavrisiko-tillatelser</string>
@@ -68,7 +68,7 @@
   <string name="uninstall_failed_retained_app_msg">applikasjon fra operatør kan ikke avinstalleres</string>
   <string name="uninstall_update_text">Programmet erstattes med fabriksversjonen.</string>
   <string name="uninstall_update_title">Avinstaller oppdatering</string>
-  <string name="uninstalling">Avinstallerer...</string>
+  <string name="uninstalling">Avinstallerer ...</string>
   <string name="unknown">Ukjent</string>
   <string name="unknown_apps_dlg_text">Din telefon er av sikkerhetsgrunder innstilt til å blokkere installasjon av applikasjoner som ikke kommer fra Android Play Store.</string>
   <string name="unknown_apps_dlg_title">Installasjonen er blokkert</string>

@@ -212,7 +212,7 @@
   <string name="theme_batch_update_dlg_content">Vil du oppdatere nå?</string>
   <string name="theme_batch_update_dlg_content_single">Oppdater nå?</string>
   <string name="theme_batch_update_dlg_title">Oppdater</string>
-  <string name="theme_batch_updating_text">%1$d temaer blir oppdatert...</string>
+  <string name="theme_batch_updating_text">%1$d temaer blir oppdatert ...</string>
   <string name="theme_changed_failed_message">Setting mislykkets.</string>
   <string name="theme_changed_message">Tema satt!</string>
   <string name="theme_changing_dialog_title">Setter tema...</string>
@@ -254,7 +254,7 @@
   <string name="to_activate_the_account">Vennligst aktiver din Xiaomi-konto</string>
   <string name="wallpaper_crop">Beskjær</string>
   <string name="wallpaper_decoded_error">Kunne ikke avkode</string>
-  <string name="wallpaper_loading_text">Laster...</string>
+  <string name="wallpaper_loading_text">Laster ...</string>
   <string name="wallpaper_set_as_both">Sett begge</string>
   <string name="wallpaper_set_as_destop">Sett på skrivebord</string>
   <string name="wallpaper_set_as_lockscreen">Sett på låseskjerm</string>

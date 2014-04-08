@@ -53,7 +53,7 @@
   <string name="download_title">Filoverføring</string>
   <string name="empty_file_notification_sent">Bluetooth: Ekstern avviste tom fil %1$s</string>
   <string name="enabling_progress_content">Aktiverer Bluetooth...</string>
-  <string name="enabling_progress_title">Vent...</string>
+  <string name="enabling_progress_title">Vent ...</string>
   <string name="ftp_acceptance_dialog_header">Telefonmappetilgang</string>
   <string name="ftp_acceptance_dialog_title">%1$s vil ha tilgang til mappene på din telefon. Gi tilgang til %2$s?</string>
   <string name="ftp_acceptance_timeout_message">Det oppsto et tidsavbrudd under aksepteringen av tilkobling med %1$s</string>
