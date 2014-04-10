@@ -117,9 +117,7 @@ Vil du motta filen?"</string>
   <string name="permlab_bluetoothShareManager">Tilgang til download håndtering.</string>
   <string name="permlab_bluetoothWhitelist">Godkjenn Bluetooth enhetstilgang.</string>
   <string name="permlab_handoverStatus">Motta BT-overføringsmeldinger.</string>
-  <string name="process"/>
   <string name="share_prepare">Forbereder Bluetooth-deling</string>
-  <string name="sharedUserId"/>
   <string name="start_server">Start TCP server</string>
   <string name="status_bpp_aborted_by_printer">Feil ved utskrift, avbrutt av printeren</string>
   <string name="status_bpp_canceled_by_user">Utskrift avbrutt av bruker</string>
