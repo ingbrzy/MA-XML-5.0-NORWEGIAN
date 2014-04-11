@@ -2,8 +2,7 @@
 <resources>
   <string name="about_device">Om</string>
   <string name="active_xiaomi_account">Aktiv</string>
- <!-- active_xiaomi_account_msg need to be checked, original : "To activate your Xiaomi Account, go to https://account.xiaomi.com/pass/serviceLogin" -->
-  <string name="active_xiaomi_account_msg">"Gå til MIUI-forumet for å aktivere Xiaomi-kontoen:"</string>
+  <string name="active_xiaomi_account_msg">For å aktivere din Xiaomi-konto, besok https://account.xiaomi.com/pass/serviceLogin</string>
   <string name="active_xiaomi_account_title">Aktiver Xiaomi-konto</string>
   <string name="app_name">Systemoppdatering</string>
   <string name="apply_buddy_update_info_message">Trykk Bruk, telefonen vil restarte for å installere oppdateringer</string>
