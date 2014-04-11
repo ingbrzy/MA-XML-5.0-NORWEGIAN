@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Jinshan Sikkerhetsvakt</string>
+  <string name="app_name">com.securitycore.miui_t</string>
   <string name="hello_world">Hallo Verden!</string>
   <string name="menu_settings">Innstillinger</string>
   <string name="title_activity_main">Hovedaktivitet</string>

@@ -47,7 +47,7 @@
   <string name="aqi_quality_index_dangerous">farlig</string>
   <string name="aqi_quality_index_good">god</string>
   <string name="aqi_quality_index_hazardous">risikabel</string>
-  <string name="aqi_quality_index_light_pollution">lett forurensing</string>
+  <string name="aqi_quality_index_light_pollution">vær forsiktig</string>
   <string name="aqi_quality_index_moderate">moderat</string>
   <string name="aqi_quality_index_pure">utmerket</string>
   <string name="aqi_quality_index_unhealthy">helsefralig</string>

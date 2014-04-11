@@ -272,8 +272,6 @@ venner."</string>
   <string name="menu_item_sort_name_desc">Via navn (Z-A)</string>
   <string name="menu_item_sort_size_asc">Størrelse stigende</string>
   <string name="menu_item_sort_size_desc">Størrelse fallende</string>
-  <string name="menu_item_sort_visit_asc">Frekvens stigende</string>
-  <string name="menu_item_sort_visit_desc">Frekvens fallende</string>
   <string name="menu_view_contact">Vis kontakt</string>
   <string name="message_no_delete_access">Adgang nektet. Kan ikke slette fil eller mappe: %s</string>
   <string name="message_no_delete_access_with_count">Kan ikke slette %d fil(er) eller mappe(r). Hver sikker på at de eksisterer og at du har tilgang til dem.</string>
@@ -468,6 +466,7 @@ venner."</string>
   <string name="tencent_qzonepic">Qzone</string>
   <string name="there_is_no_image">Det finnes ingen bilde.</string>
   <string name="tieba">Tie Ba</string>
+  <string name="yellow_page">Katalog</string>
   <string name="time">Tidspunkt</string>
   <string name="time_line_view">Tidslinjevisning</string>
   <string name="times">Tidspunkter</string>
