@@ -15,7 +15,8 @@
 Brukt"</string>
     <string name="main_traffic_remian_text">"%s
 Gjenværende"</string>
-    <string name="main_traffic_overlimit_text">%s over</string>
+    <string name="main_traffic_overlimit_text">"%s 
+over"</string>
     <string name="main_traffic_used_only">Brukt: %s</string>
     <string name="main_alert_message_no_mobile_package">"Mobildatagrense er ikke satt"</string>
     <string name="main_alert_message_no_imsi">Ingen SIM-kort detektert</string>
@@ -70,7 +71,7 @@ Gjenværende"</string>
     <string name="pref_check_network_diagnostics">Sjekk om dataforbindelsen din fungerer normalt</string>
     <string name="pref_category_title_other">Ekstra innstillinger</string>
     <string name="pref_title_update_notification">Vis databrukvarsler</string>
-    <string name="pref_title_traffic_speed_state">Vis nettverkshastighet/string>
+    <string name="pref_title_traffic_speed_state">Vis nettverkshastighet</string>
     <string name="pref_show_mobile_traffic">Når du låser opp telefonen din, vis databrukstatistikk for den perioden enheten din har blitt låst (må være mer lenger enn 5 minutter)</string>
     <string name="pref_title_mobile_traffic">Vis databruk når låst</string>
     <string name="pref_title_declaration">Viktig erklæring</string>
