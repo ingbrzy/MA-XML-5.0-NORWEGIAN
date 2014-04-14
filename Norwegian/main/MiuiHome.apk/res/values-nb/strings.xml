@@ -269,4 +269,10 @@ Vennligst åpne programmet på nytt for å oppdatere ressurser."</string>
   <string name="widget_favorite_contacts_style">Skift</string>
   <string name="widget_gadget_player">Musikk</string>
   <string name="widget_global_search">Globalt søk</string>
+ <!-- to be translated :
+  <string name="apply_as_lock_wallpaper">Apply</string>
+  <string name="apply_as_lock_wallpaper_message">Apply this wallpaper to your lock screen too?</string>
+  <string name="lock_screen_failed_message">Failed to apply</string>
+  <string name="lock_screen_success_message">Applied</string>
+ -->
 </resources>

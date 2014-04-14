@@ -333,4 +333,7 @@ Vi vil sjekke igjen innen to arbeidsdager."</string>
   <string name="voucher_error_password">Ugyldig verdikode!</string>
   <string name="voucher_error_password_empty">Kode tom.</string>
   <string name="voucher_input_password_prompt">Skriv kode</string>
+ <!-- to be translated
+  <string name="password_forget">forgot?</string>
+ -->
 </resources>

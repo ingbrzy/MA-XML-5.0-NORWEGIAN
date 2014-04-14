@@ -33,4 +33,26 @@
   <string name="wifi_recommended_title">Fil for stor</string>
   <string name="wifi_required_body" formatted="false">"Du må bruke WiFi for å fullføre denne %s nedlastingen. Trykk %s for å starte denne nedlasting neste gang du er tilkoblet et trådløst netverk."</string>
   <string name="wifi_required_title">Nedlastingen er for stor for telefonnettet</string>
+ <!-- to be translated : many usnused strings above..
+  <string name="permdesc_downloadManager">Allows the app to access the download manager and to use it to download files. Malicious apps can use this to disrupt downloads and access private information.</string>
+  <string name="permdesc_downloadManagerAdvanced">"Allows the app to access the download manager's advanced functions. Malicious apps can use this to disrupt downloads and access private information."</string>
+  <string name="permdesc_downloadCompletedIntent">Allows the app to send notifications about completed downloads. Malicious apps can use this to confuse other apps that download files.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">"Allows the app to download files to the download cache, which can't be automatically deleted when the download manager needs more space."</string>
+  <string name="permdesc_downloadWithoutNotification">Allows the app to download files through the download manager without any notification being shown to the user.</string>
+  <string name="permlab_accessAllDownloads">Access all system downloads</string>
+  <string name="permdesc_accessAllDownloads">Allows the app to view and modify all downloads initiated by any app on the system.</string>
+  <string name="download_unknown_title"><Untitled></string>
+  <string name="notification_filename_extras">" and %d more"</string>
+  <string name="notification_download_complete">Download complete.</string>
+  <string name="notification_download_failed">Download unsuccessful.</string>
+  <string name="notification_need_wifi_for_size">Download size requires WLAN.</string>
+  <string name="notification_paused_in_background">Paused in background.</string>
+  <string name="wifi_recommended_body" formatted="false">"About to download via the operator nextwork：
+
+ %s（%s）
+
+ Downloading the file may result in higher traffic costs."</string>
+  <string name="button_cancel_download">Cancel</string>
+  <string name="task_already_exist">Task already exists</string>
+ -->
 </resources>

@@ -174,4 +174,7 @@ Over %2$s brukere har oppdatert til MIUI %3$s"</string>
   <string name="wifi_not_available_body">"Det er best å laste ned MIUI-oppdateringer over en Wi-Fi-tilkobling, siden disse filene pleier å være store og bruker mye mobildata."</string>
   <string name="wifi_not_available_title">"Du er ikke tilkoblet Wi-Fi"</string>
   <string name="worst_update">Verste update</string>
+ <!-- to be translated :
+  <string name="share_update_content_unsign">"I've updated MIUI to %1$s! For the detailed changelog, go to %2$s"</string>
+ -->
 </resources>

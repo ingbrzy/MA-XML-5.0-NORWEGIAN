@@ -10,7 +10,6 @@
   <string name="alert_title_new_station">Ny Station</string>
   <string name="alert_title_save_station">Lagre Kanal - %s</string>
   <string name="app_name">FM Radio</string>
-  <string name="aud_output_mode">Lydutgangsmodus</string>
   <string name="audio_db_album_name">FM-opptak</string>
   <string name="audio_db_artist_name">Mine FM-opptak</string>
   <string name="audio_db_playlist_name">FM-opptak</string>
@@ -69,7 +68,6 @@
   <string name="menu_record_stop">Stop opptak</string>
   <string name="menu_rename_list">Endre navn på liste</string>
   <string name="menu_reorder_list">Arranger liste</string>
-  <string name="menu_save_station">Lagre kanal</string>
   <string name="menu_save_station_list">Lagre stasjon i liste</string>
   <string name="menu_save_station_presets">Legg til i forhåndsstilte stasjoner</string>
   <string name="menu_scan_for_preset">Skann for forhåndsinnstillinger</string>
@@ -90,7 +88,6 @@
   <string name="msg_searching">Søker etter kanaler for at lage en forhåndsinnstilt liste</string>
   <string name="msg_searching_title">Auto-Sett kanaler</string>
   <string name="msg_seeking">Søker etter FM-kanaler</string>
-  <string name="msg_unable_start_fm_title">Kunne ikke starte FM</string>
   <string name="msg_weak_searching">Søker transmitable frekvenser</string>
   <string name="new_frequency">Ny frekvens</string>
   <string name="next_station">Neste stasjon</string>
@@ -107,18 +104,14 @@
   <string name="record_fail">Opptak mislyktes</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Trykk for å vise fil %s</string>
-  <string name="record_sucess">Opptak fullført</string>
   <string name="regional_band">Regionsbånd vil fjerne alle lagrede kanaler</string>
-  <string name="revert_to_fac">Nullstil til fabrikksinnstillinger</string>
   <string name="search_dialog_title">Søk etter kanaler</string>
-  <string name="sel_audio_output">Vælg Lyd Output</string>
   <string name="sel_band_menu">Velg regionsbånd</string>
   <string name="set">Sett</string>
   <string name="set_rmmsi_delta">Konfigurer RMSSI Delta</string>
   <string name="set_sigth">Konfigurer Signal Th</string>
   <string name="settings_menu">Innstillinger</string>
   <string name="settings_revert_confirm_msg">Dette vil slette alle innstillinger, inkludert forhåndsinnstillinger</string>
-  <string name="settings_revert_confirm_title">Bekræft nulstilling af indstillinger</string>
   <string name="settings_revert_defaults_title">Nulstil til fabriksstandarder</string>
   <string name="spaceIsLow_content">Ditt SD-kort er nesten fullt. Senk kvalitetsinnstillingen, eller frigjør plass på kortet.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
@@ -154,4 +147,15 @@
   <string name="toast_sleep_mode_exit">Hvilemodus avbrutt.</string>
   <string name="transmit_msg_string">Sender på:</string>
   <string name="type_rd" />
+ <!-- to be translated : 
+  <string name="record_error_file_removed">Recording deleted: unknown error</string>
+  <string name="turn_on_fm">Turn on FM</string>
+  <string name="turn_off_fm">Turn off FM</string>
+  <string name="turn_on_speaker_phone">Turn on speaker phone</string>
+  <string name="turn_off_speaker_phone">Turn off speaker phone</string>
+  <string name="view_stations_list">View stations list</string>
+  <string name="reduce_af">Reduce frequency</string>
+  <string name="toast_fm_recorder_access_error">"Can't record while you're in Guest mode"</string>
+  <string name="msg_fm_starting">Starting…</string>
+ -->
 </resources>

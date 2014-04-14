@@ -304,4 +304,13 @@
   <string name="user_guide_for_notification">Ny varsel, trekk statuslinjen ned for å se detaljer</string>
   <string name="user_guide_for_toggle">På og av knappene kan rulles sidelengs</string>
   <string name="user_guide_for_toggle_list">Klikk her for å redigere på og av knappene</string>
+ <!-- to be translated :
+  <string name="status_bar_toggle_brightness">Brightness</string>
+  <string name="status_bar_toggle_flight_mode">Airplane</string>
+  <string name="status_bar_toggle_network_type">Network</string>
+  <string name="status_bar_toggle_shutdown">Power</string>
+  <string name="status_bar_toggle_sync">Sync</string>
+  <string name="status_bar_toggle_shutdown">Power</string>
+  <string name="status_bar_toggle_sync">Sync</string>
+ -->
 </resources>

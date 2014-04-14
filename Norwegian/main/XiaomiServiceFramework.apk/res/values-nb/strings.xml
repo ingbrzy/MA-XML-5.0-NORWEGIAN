@@ -277,4 +277,7 @@ Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent bort
   <string name="wrong_vcode">Feil vkode</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+ <!-- to be translated :
+  <string name="micloud_upgrade_space">Upgrade space</string>
+ -->
 </resources>
