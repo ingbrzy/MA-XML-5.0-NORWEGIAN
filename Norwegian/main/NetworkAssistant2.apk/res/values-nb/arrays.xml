@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>I går</item>
+        <item>I dag</item>
+        <item>Denne måneden</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>I går (Data)</item>
+        <item>I dag (Data)</item>
+        <item>Denne måneden (Data)</item>
+        <item>I går WLAN</item>
+        <item>I dag WLAN</item>
+        <item>Denne måneden WLAN</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>I går (Data)</item>
+        <item>I dag (Data)</item>
+        <item>Denne måneden (Data)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sek</item>
+        <item>4 sek</item>
+        <item>5 sek</item>
+        <item>6 sek</item>
+        <item>7 sek</item>
+        <item>8 sek</item>
+        <item>9 sek</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Databruk</item>
+        <item>WLAN-bruk</item>
+        <item>Total bruk</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Hent meldingsmal automatisk</item>
+        <item>Sett meldingsmal automatisk</item>
+    </string-array>
+</resources>

@@ -281,10 +281,10 @@
   <string name="menu_share_url">Del</string>
   <string name="menu_theme_setting">Temainnstillinger</string>
   <string name="menu_view_download">Nedlastninger</string>
-  <string name="miui_quicksearch_enable_pref_summary">Skru på rask søk</string>
-  <string name="miui_quicksearch_enable_pref_title">Raskt søk-varslinger</string>
-  <string name="miui_search_notification_message">Åpne rask søk</string>
-  <string name="miui_search_notification_title">Rask søk</string>
+  <string name="miui_quicksearch_enable_pref_summary">Vis nettleseren sitt søkefelt i varselskyggen.</string>
+  <string name="miui_quicksearch_enable_pref_title">Søkefelt i varselskygge</string>
+  <string name="miui_search_notification_message">Trykk for å åpne søkefelt.</string>
+  <string name="miui_search_notification_title">Nettleser søkefelt</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">USB-lagring kreves for å modifisere.</string>
   <string name="move_to_up_folder">Gå et nivå opp</string>
   <string name="multi_select_title"> %1$s valgte elementer</string>
@@ -463,8 +463,8 @@
   <string name="pref_setting_title">Sideinnstillinger</string>
   <string name="pref_text_zoom">Tekstskalering</string>
   <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_string">Brukeragent streng</string>
-  <string name="pref_ua_title">Brukeragent håndtering</string>
+  <string name="pref_ua_string">Brukeragent</string>
+  <string name="pref_ua_title">Brukeragent</string>
   <string name="pref_use_instant_search">Google øyeblikkelig søk</string>
   <string name="pref_use_instant_search_summary">Bruk Google øyeblikkelig søk, for å vise resultater mens du skriver (dette kan øke datakostnadene).</string>
   <string name="pref_video_preload_dialogtitle">Video forhåndslaster...</string>

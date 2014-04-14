@@ -267,9 +267,7 @@ Søppelelementer"</string>
   <string name="trans_task_delete_confirm_message">Er du sikker på at du vil slette de valgte %1$d oppgaver?</string>
   <string name="transing">Overfører...</string>
   <string name="trash_box_capacity">Papirkurv %1$s</string>
-  
-  <!-- trash_box_link need to be checked ?! original : To empty your recycle bin, visit <b>pan.xiaomi.com.</b> -->
-  <string name="trash_box_link">For å tømme papirkurven, vennligst gå til</string>
+  <string name="trash_box_link">For å tømme papirkurven, besøk <b>pan.xiaomi.com.</b></string>
   <string name="trash_box_message1">"Du kan slette unødigvendige filer for å frigjøre plass</string>
   <string name="trash_box_message2">"Du kan slette unødigvendige filer eller tømme papirkurven for å frigjøre plass</string>
   <string name="ui_filechange_btn_download">Last ned filer</string>

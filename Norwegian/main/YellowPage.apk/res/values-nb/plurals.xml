@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!-- need to be translated 
     <plurals name="all_numbers_count">
-        <item quantity="other">%d entries</item>
-        <item quantity="one">1 entry</item>
+        <item quantity="other">%d innlegg</item>
+        <item quantity="one">1 innlegg</item>
     </plurals>
- -->
 </resources>
