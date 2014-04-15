@@ -120,7 +120,6 @@
   <string name="share_sina">Post på Sina weibo</string>
   <string name="share_update">Del systemoppdateringsinfo</string>
   <string name="share_update_content_sign">"Jeg har oppdatert MIUI til %1$s! For detaljert endringslogg, gå til http://miuiandroid.com/"</string>
-  <string name="share_update_content_unsign" formatted="false">"Jeg har oppdatert MIUI til %s! Jeg var den %2$s personen som oppdaterte. For detaljert endringslogg, gå til http://miuiandroid.com/"</string>
   <string name="sign_in_add_account">Vennligst aktiver din Xiaomi-konto</string>
   <string name="sign_in_add_account_helper">Motta Mi-poeng når du oppretter en Xiaomi-konto</string>
   <string name="sign_in_info">"Din oppdateringsrang er %1$s
