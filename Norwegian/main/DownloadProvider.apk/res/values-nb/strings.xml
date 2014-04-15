@@ -40,7 +40,7 @@
   <string name="permdesc_downloadWithoutNotification">Gir appen tilgang til å laste ned filer gjennom nedlastningshåndtereren uten at noen varsler blir vist til brukeren.</string>
   <string name="permlab_accessAllDownloads">Få tilgang til alle systemnedlastinger</string>
   <string name="permdesc_accessAllDownloads">Gir appen tilgang til å se og endre alle nedlastinger startet av en hvilken som helst app i systemet.</string>
-  <string name="download_unknown_title"><Untitled></string>
+  <string name="download_unknown_title">Untitled</string>
   <string name="notification_filename_extras">" og %d flere"</string>
   <string name="notification_download_complete">Nedlasting fullført.</string>
   <string name="notification_download_failed">Nedlasting feilet.</string>
