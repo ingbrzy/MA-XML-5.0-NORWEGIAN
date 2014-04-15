@@ -15,11 +15,9 @@
   <string name="debug_tool_start_button">Start</string>
   <string name="provider_label">Kalender</string>
   <string name="upgrade_msg">Oppgraderer kalenderen.</string>
- <!-- to be translated :
-  <string name="holiday_update_title">Work days data need connect network and update</string>
-  <string name="holiday_update_summary">Click check updates</string>
-  <string name="holiday_data_updating">Updating...</string>
-  <string name="holiday_data_update_failed">Check for update errors and please try again later.</string>
-  <string name="holiday_data_update_succeed">Check for completed update</string>
- -->
+  <string name="holiday_update_title">Data om arbeidsdager trenger å bli oppdatert over nettverket</string>
+  <string name="holiday_update_summary">Se etter oppdateringer</string>
+  <string name="holiday_data_updating">Oppdaterer...</string>
+  <string name="holiday_data_update_failed">Sjekk for oppdateringsfeil og prøv igjen senere.</string>
+  <string name="holiday_data_update_succeed">Oppdatering fullført</string>
 </resources>

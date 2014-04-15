@@ -497,7 +497,5 @@ venner."</string>
   <string name="widget_type_shuffle">Bland alle bilder</string>
   <string name="width">Bredde</string>
   <string name="yes">Ja</string>
- <!-- to be translated :
-  <string name="share_album_space_full">Not enough space in this album</string>
- -->
+  <string name="share_album_space_full">Det er ikke mer plass i dette albumet</string>
 </resources>

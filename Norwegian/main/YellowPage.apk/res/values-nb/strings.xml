@@ -199,13 +199,11 @@ Vennligst sjekk ditt sproingsnummer"</string>
   <string name="notify_connect_every_time">Spør om nettverkstillatelse hver gang</string>
   <string name="do_not_remind_me">"Ikke påminn meg"</string>
   <string name="recharge_phone_number_empty">Telefonnummer du skrev burde ikke være tomt</string>
- <!-- to be translated :
-  <string name="nearby_yellow_page_title">Nearby</string>
-  <string name="nearby_no_yellow_page">No result nearby</string>
+  <string name="nearby_yellow_page_title">I nærheten</string>
+  <string name="nearby_no_yellow_page">Ingen resultater i nærheten</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
-  <string name="balance_inquiry_send_sms_fail_hint">"Failed to send SMS. Check your SIM card's status."</string>
-  <string name="recharge_unknown_number">Unknown</string>
-  <string name="recharge_my_phone_number">My number</string>
-  <string name="locating_fail">Failed to locate, please check location service or try again</string>
- -->
+  <string name="balance_inquiry_send_sms_fail_hint">"Kunne ikke sende SMS. Sjekk SIM-kortets status."</string>
+  <string name="recharge_unknown_number">Ukjent</string>
+  <string name="recharge_my_phone_number">Mitt nummer</string>
+  <string name="locating_fail">Kunne ikke finne plassering, vennligst sjekk plasseringstjeneste eller prøv igjen</string>
 </resources>

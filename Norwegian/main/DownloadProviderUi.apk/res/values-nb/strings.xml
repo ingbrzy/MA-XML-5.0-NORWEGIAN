@@ -75,8 +75,6 @@
   <string name="xunlei_brand">Drevet av Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_switch">Xunlei-nedlastningsmotor</string>
- <!-- to be translated :
-  <string name="delete_downloads_records">Delete downloads</string>
-  <string name="confirm_delete_downloads_message">%d selected downloads will be removed!</string>
- -->
+  <string name="delete_downloads_records">Slett nedlastinger</string>
+  <string name="confirm_delete_downloads_message">%d valgte nedlastinger vil bli slettet!</string>
 </resources>
