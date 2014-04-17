@@ -8,7 +8,7 @@
   <string name="add_folder">Legg til mappe</string>
   <string name="add_new_bookmark">Legg til Bokmerke</string>
   <string name="add_quicklink_to_popular">Legg på startside</string>
-   <string name="added_to_bookmarks">Lagt til i bokmerkene.</string>
+  <string name="added_to_bookmarks">Lagt til i bokmerkene.</string>
   <string name="alert_tips">Siden du prøver å besøke kan være en sikkerhetsrisiko, vil du fortsette?</string>
   <string name="allow">Tillat</string>
   <string name="already_in_top_level">Bokmerke er allerede på øverste nivå</string>
@@ -403,7 +403,7 @@
   <string name="new_incognito_tab">Ny inkognitofane</string>
   <string name="open_all_in_new_window">Åpne alle i nye faner</string>
   <string name="contextmenu_openlink_newwindow">Åpne i ny fane</string>
-  <string name="contextmenu_openlink_newwindow_background">Åpne i bakgrunnnsfane/string>
+  <string name="contextmenu_openlink_newwindow_background">Åpne i bakgrunnnsfane</string>
   <string name="pref_content_open_in_background_summary">Åpne ny fane bak den gjeldende fanen</string>
   <string name="too_many_windows_dialog_title">Fanegrense nådd</string>
   <string name="too_many_windows_dialog_message">"Nettleseren kan ikke åpne en ny fane før du lukker den forrige fanen"</string>
