@@ -273,7 +273,7 @@
   <string name="pref_exit_on_closing_last_tab_enabled_title">Avslutt ved lukking av siste fane</string>
   <string name="pref_extras_reset_default_summary">Tilbakestill standardinnstillinger</string>
   <string name="pref_extras_title">Avansert</string>
-  <string name="pref_extras_website_settings">Nettside-innstillinger</string>
+  <string name="pref_extras_website_settings">Innstillinger for nettsted</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Tilbakestill til standard nedlastningsmappe-innstillinger</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Tilbakestill standard</string>
   <string name="pref_file_download_save_modify_default_path">Endre nedlastningsmappe</string>
@@ -286,7 +286,6 @@
   <string name="pref_general_autofill_title">Autofyll</string>
   <string name="pref_general_exit_setting_title">Lukk innstillinger</string>
   <string name="pref_general_setting_title">Innstillinger</string>
-   <string name="pref_extras_website_settings">Nettsted-data</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Dette nettstedet kan få tilgang til posisjonen din. Du kan endre dette på siden Innstillinger > Avansert > Nettsted-data.</string>
   <string name="pref_data_preload_summary">: La nettleseren forhåndsinnlaste sannsynlige søkeresultater i bakgrunnen</string>
   <string name="pref_link_prefetch_summary">: La nettleseren forhåndsinnlaste koblede nettsider i bakgrunnen</string>
