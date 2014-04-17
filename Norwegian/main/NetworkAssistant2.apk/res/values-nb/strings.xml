@@ -20,6 +20,8 @@ over"</string>
     <string name="main_traffic_used_only">Brukt: %s</string>
     <string name="main_alert_message_no_mobile_package">"Mobildatagrense er ikke satt"</string>
     <string name="main_alert_message_no_imsi">Ingen SIM-kort detektert</string>
+    <string name="main_alert_message_slot_no_data_connection">"Dette SIM-kort-sporet støtter ikke
+en mobildataforbindelse"</string>
     <string name="firewall_activity_lable">Begrens databruk etter app</string>
     <string name="firewall_applist">Apper</string>
     <string name="firewall_rule_group_title_mobile">Data</string>

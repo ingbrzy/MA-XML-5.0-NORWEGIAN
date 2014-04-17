@@ -50,7 +50,8 @@
   <string name="aqi_quality_index_light_pollution">vær forsiktig</string>
   <string name="aqi_quality_index_moderate">moderat</string>
   <string name="aqi_quality_index_pure">utmerket</string>
-  <string name="aqi_quality_index_unhealthy">helsefralig</string>
+  <string name="aqi_quality_index_unhealthy">helsefarlig</string>
+  <string name="aqi_quality_index_break">Yikes!</string>
   <string name="button_allow">Tillatt</string>
   <string name="button_not_allow">Nekt</string>
   <string name="cancel">Avbryt</string>

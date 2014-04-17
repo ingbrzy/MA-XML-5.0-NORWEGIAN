@@ -40,7 +40,8 @@
   <string name="editmode_menu_share">Del</string>
   <string name="empty_share_history">Tom delingshistorikks</string>
   <string name="error_bad_file">Korrupt fil</string>
-  <string name="error_connect_service">Kunne ikke koble til å overføringstjeneste.</string>
+  <string name="error_connect_service">"Kunne ikke koble til å overføringstjeneste."</string>
+  <string name="file_not_exist">fil eksisterer ikke</string>
   <string name="error_download">Nedlastning feilet</string>
   <string name="error_general">Generell feil skjedde</string>
   <string name="error_info_cant_send_folder">Advarsel! Mapper kan ikke bli sendt!</string>
@@ -141,7 +142,8 @@
   <string name="save_to_kuaipan">Lagre til MiDrive</string>
   <string name="scan_2d_code">Skann 2D-kode</string>
   <string name="scan_file">Bla igjennom filer</string>
-  <string name="scan_tip">Vennligst sørg for at mottakeren har aktivert tilkobling og kan motta fil(er)</string>
+  <string name="scan_tip">"Vennligst sørg for at mottakeren har aktivert tilkobling
+ og kan motta fil(er)."</string>
   <string name="scan_title">Vennligst fokus på 2D-koden</string>
   <string name="scanning">Skanner...</string>
   <string name="sdcard_invalid">Ingen SD-kort tilgjengelig!</string>
