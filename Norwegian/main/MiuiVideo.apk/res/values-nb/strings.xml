@@ -89,6 +89,7 @@
   <string name="director_colon">"Regissør: "</string>
   <string name="disk_volume">Flyttbar lagring</string>
   <string name="dlna_list_name">DLNA-enhet</string>
+  <string name="check_network">kan ikke koble til nettverket, vennligst sjekk nettverket</string>
   <string name="dlna_name">Delt enhet</string>
   <string name="download_add_success">Nedlastningoppgave ble lagt til</string>
   <string name="download_delete">fjern oppgave</string>
