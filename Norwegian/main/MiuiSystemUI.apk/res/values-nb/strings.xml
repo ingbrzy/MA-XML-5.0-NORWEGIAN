@@ -107,7 +107,6 @@
   <string name="ext_media_unmountable_notification_title">USB-lagring er skadet</string>
   <string name="filter_item_description">Du kan sette varslingstype i \"Innstillinger-Statusbar innstillinger-tilpasset varsel\" </string>
   <string name="filter_item_preview_image">Forhåndsvis</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Plasseringlåst til GPS</string>
   <string name="gps_notification_searching_text">Søker etter GPS</string>
   <string name="headset_custom">Personliggjør</string>
