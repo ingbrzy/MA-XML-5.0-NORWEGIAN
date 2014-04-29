@@ -474,9 +474,14 @@ Tast PIN for å parre med \"%1$s\". [Høy sikkerhet aktivert: Trenger 16-tegnsn�
   <string name="bluetooth_visibility_timeout_summary">Velg hvor lang tid enheten vil kunne registreres</string>
   <string name="breathing_light_color_menu_title">Lysfarge</string>
   <string name="breathing_light_color_summary">LED farge ved mottalse av varsler</string>
-  <string name="breathing_light_color_title">" LED farge"</string>
   <string name="breathing_light_freq_summary">LED pause mellom blink</string>
   <string name="breathing_light_freq_title">" LED frekvens </string>
+  <string name="incoming_call_breathing_light_color_title">Lysfarge for anrop</string>
+  <string name="notification_breathing_light_color_title">Lysfarge for varsler</string>
+  <string name="mms_breathing_light_color_title">Lysfarge for meldinger</string>
+  <string name="incoming_call_breathing_light_freq_title">LED-frekvens for anrop</string>
+  <string name="notification_breathing_light_freq_title">LED-frekvens for varsler</string>
+  <string name="mms_breathing_light_freq_title">LED-frekvens for meldinger</string>
   <string name="brightness">Lysstyrke</string>
   <string name="brightness_auto_adjust_off">Manuell lysstyrke kan justeres etter ønske ved å flytte knappen. Lysstyrken vil forbli den samme i alle omgivelser.</string>
   <string name="brightness_auto_adjust_on">Auto lysstyrke-effekten kan justeres ved å flytte knappen. Lysstyrke effekten vil variere iht justeringen og omgivelserne.</string>
@@ -1085,7 +1090,6 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="immediately_destroy_activities_summary">Stopp hver aktivitet, så snart brukeren forlater den</string>
   <string name="ims_reg_required_off">Deaktiver IMS registrering nødvendig</string>
   <string name="ims_reg_required_on">Aktiver IMS registrering nødvendig</string>
-  <string name="incoming_call_vibrate_abbreviation">"Anrop "</string>
   <string name="incoming_call_volume_title">Ringetone</string>
   <string name="input_method">Inputmetode</string>
   <string name="input_method_selector">Inputmetode velger</string>
@@ -1404,7 +1408,6 @@ Du er i øyeblikket logget inn på følgende kontoer:
   <string name="miui_screensaver_title">Skjermsparer</string>
   <string name="miui_screensaver_usage">Når aktivert, vil bilder i skjermspareralbumet bli vist gjentatte ganger 5 sekouder etter at skjermen skrus av.</string>
   <string name="mms_log_tab_title">Meldingslogg</string>
-  <string name="mms_vibrate_abbreviation">"Meldinger "</string>
   <string name="model_number">Modell:</string>
   <string name="move_app">Flytt</string>
   <string name="move_app_failed_dlg_text">Kunne ikke flytte program. %1$s</string>
@@ -1478,7 +1481,6 @@ prøv følgende:
   <string name="notification_pulse_title">LED-varsler</string>
   <string name="notification_sound_dialog_title">Velg varsellyd</string>
   <string name="notification_sound_title">Standard varsel</string>
-  <string name="notification_vibrate_abbreviation">"Varsler "</string>
   <string name="notification_volume_title">Varsel</string>
   <string name="nsd_quick_toggle_summary">Tillat programmer på andre enheter å gjenkjenne denne enheten</string>
   <string name="nsd_quick_toggle_title">Nettverkstjeneste søking</string>
@@ -3136,4 +3138,8 @@ Trykk "&lt;b&gt;Tilbake&lt;/b&gt; for å koble til et annet Wi-Fi-nettverk.</str
   <string name="perm_support_hints">Drevet av LBE</string>
   <string name="pref_category_title_securitycenter_settings">Innstillinger for Sikkerhetsenter</string>
   <string name="pref_category_title_module_settings">Innstillinger for vær funksjonelle modul</string>
+  <string name="preferred_sms_warning_message">Bruk av \"%1$s\" kan forårsake høyere datakostnader eller kompromittere ditt personvern.</string>
+  <string name="preferred_sms_warning_use_system">Bruk system</string>
+  <string name="preferred_sms_settings">Dette programmet vil bli satt som standard for mottak og sending av SMS-meldinger.</string>
+  <string name="preferred_sms_title">Standard app for SMS-meldinger</string>
 </resources>

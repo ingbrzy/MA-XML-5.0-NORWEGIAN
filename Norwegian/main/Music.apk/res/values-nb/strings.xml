@@ -340,4 +340,11 @@
   <string name="vip_recommend_title">Høyere kvalitet-musikk</string>
   <string name="where_is_barcode">"Hvor er QR-koden?"</string>
   <string name="xiaomi_account_setting">Xiaomi-konto</string>
+  <string name="click_to_play_all">Klikk for å spille alle</string>
+  <string name="collect_topic_success">Album lagt til i favoritter</string>
+  <string name="collect_bill_success">Regning lagt til i favoritter</string>
+  <string name="collect_fm_success">Lagt til i favoritter</string>
+  <string name="uncollect_success">Fjernet fra favoitter</string>
+  <string name="load_recommend_in_process">Laster…</string>
+  <string name="load_recommend_failed">Liste ble ikke lastet</string>
 </resources>

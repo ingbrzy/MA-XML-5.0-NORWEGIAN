@@ -242,7 +242,8 @@
   <string name="delete_topic_dialog_title">Vil du fjerne "%s"？</string>
   <string name="add_topic_success">Fjerning av "%s" var vellykket</string>
   <string name="delete_topic_success">Du ble avmeldt "%s"</string>
-  <string name="calendar_server_error">Nettverksfeil</string>
+  <string name="calendar_server_error">Serverfeil</string>
+  <string name="calendar_network_error">Nettverksfeil</string>
   <string name="label_recent_events">Siste hendelser</string>
   <string name="no_local_calendar">Ingen lokal kalender</string>
   <string name="no_network">Det er ingen internettilkobling tilgjengelig</string>
