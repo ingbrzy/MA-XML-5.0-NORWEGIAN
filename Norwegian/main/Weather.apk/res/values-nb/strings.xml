@@ -6,7 +6,7 @@
   <string name="act_aqi_so2_title">SO2</string>
   <string name="act_city_find_gps_error">Velg en by manuelt fra menylisten.</string>
   <string name="act_find_city_hint">Skriv plassering</string>
-  <string name="act_find_city_hot_title">Populære byer</string>
+  <string name="act_find_city_hot_title">Legg til</string>
   <string name="act_find_city_null_data">"Fant ingenting"</string>
   <string name="act_find_city_title">Legg til lokasjon</string>
   <string name="act_init_dialog_finish">Global værinfo har blitt lagt til.</string>
@@ -126,4 +126,13 @@ Været i %1$s er %2$s, %3$s, %4$s. %5$s."</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
   <string name="widget_loading">Ingen værdata</string>
+  <string name="location_tag">Finn plassering</string>
+  <string name="act_weather_find_city_no_result">Ingen resultater</string>
+  <string name="act_weather_find_city_added">By lagt til</string>
+  <string name="act_weather_find_city_net_no_good">"Kan ikke koble til nettverket"</string>
+  <string name="act_weather_find_city_click_retry">Trykk for å forsøke igjen</string>
+  <string name="button_abandon">Forkast endringer</string>
+  <string name="act_weather_cycle_no_forcast">Ukjent</string>
+  <string name="edit_city">Endre</string>
+  <string name="gps_hint">Gjeldende plassering</string>
 </resources>

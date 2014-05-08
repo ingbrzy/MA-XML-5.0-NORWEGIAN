@@ -3142,4 +3142,17 @@ Trykk "&lt;b&gt;Tilbake&lt;/b&gt; for å koble til et annet Wi-Fi-nettverk.</str
   <string name="preferred_sms_warning_use_system">Bruk system</string>
   <string name="preferred_sms_settings">Dette programmet vil bli satt som standard for mottak og sending av SMS-meldinger.</string>
   <string name="preferred_sms_title">Standard app for SMS-meldinger</string>
+  <string name="dirac_mode_general_earbuds">Generelle ørepropper</string>
+  <string name="dirac_mode_general_inear">Generelle i-øre</string>
+  <string name="dirac_mode_piston_2">Xiaomi stempel-2</string>
+  <string name="dirac_mode_piston_2">Xiaomi stempel-1</string>
+  <string name="dirac_mode_piston_youth">Xiaomi stempel for ungdom</string>
+  <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista og nyere versjoner av Windows, 
+vil %1$s dukke opp automatisk som en USB-masselagringsenhet"</string>
+  <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s vil dukke opp som en USB-masselagringsenhet
+når tilkoblet til din datamaskin."</string>
+  <string name="msd_pc_system_install_finish_summary_xp">"Etter at du har installert denne driveren
+vil %1$s dukke opp som en USB-masselagringsenhet når tilkoblet en datamaskin."</string>
+  <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista og nyere versjoner av Windows,
+vil musikkspilleren %1$s automatisk dukke på din datamaskin"</string>
 </resources>

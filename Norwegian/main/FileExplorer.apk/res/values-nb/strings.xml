@@ -302,4 +302,8 @@ Søppelelementer"</string>
   <string name="wifi_state">WiFi Status</string>
   <string name="xiaomi_account">Xiaomi-konto</string>
   <string name="yes">Ja</string>
+  <string name="delete_folder">Slett denne mappen?</string>
+  <string name="delete_folders">Slett %1$d?</string>
+  <string name="delete_file">Slett denne filen?</string>
+  <string name="delete_files">Slett %1$d filer?</string>
 </resources>
