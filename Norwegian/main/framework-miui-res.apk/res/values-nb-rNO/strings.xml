@@ -276,5 +276,19 @@
   <string name="yellow_page_sms_sending">Sender…</string>
   <string name="yellow_page_unable_send_sms">Kunne ikke sende SMS-melding!</string>
   <string name="yesterday">I går</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="sync_data_merge_warning_desc">%s data på din telefon vil bli flettet med skydata. Denne handlingen kan ikke reverseres, så vær forsiktig!</string>
+  <string name="sync_data_recover_warning_title">Advarsel om datagjenoppretting</string>
+  <string name="sync_data_recover_warning_desc">%s data på din telefon vil bli gjenopprettet fra skyen, vennligst vær forsiktig!</string>
+  <string name="sync_data_merge_warning_ok">Flett</string>
+  <string name="sync_data_merge_warning_cancel">Avbryt</string>
+  <string name="sync_data_recover_warning_ok">Gjenopprett</string>
+  <string name="sync_data_recover_warning_cancel">Avbryt</string>
+  <string name="sync_data_contact">kontact</string>
+  <string name="sync_data_mms">SMS</string>
+  <string name="sync_data_cloud_album">Skyalbum</string>
+  <string name="sync_data_call_log">anropslogger</string>
+  <string name="sync_data_notes">notaters</string>
+  <string name="sync_data_msg_seperate">, </string>
+  <string name="sync_data_loading">Henter informasjon fra server</string>
+  <string name="sync_data_merge_warning_title">Advarsel om fletting av data</string>
 </resources>

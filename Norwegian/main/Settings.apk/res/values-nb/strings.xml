@@ -3144,6 +3144,7 @@ Trykk "&lt;b&gt;Tilbake&lt;/b&gt; for å koble til et annet Wi-Fi-nettverk.</str
   <string name="preferred_sms_title">Standard app for SMS-meldinger</string>
   <string name="dirac_mode_general_earbuds">Generelle ørepropper</string>
   <string name="dirac_mode_general_inear">Generelle i-øre</string>
+  <string name="dirac_mode_piston_1">Xiaomi stempel-1</string>
   <string name="dirac_mode_piston_2">Xiaomi stempel-2</string>
   <string name="dirac_mode_piston_youth">Xiaomi stempel for ungdom</string>
   <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista og nyere versjoner av Windows, 

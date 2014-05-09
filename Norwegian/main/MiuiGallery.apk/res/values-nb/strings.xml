@@ -59,6 +59,7 @@
   <string name="big_screen_alertdialog_title">Projekteringsenhet</string>
   <string name="bigscreen_slide_exit">Avbryt presentasjon</string>
   <string name="bigscreen_slide_fail_cause_loading">Vennligst start presentasjon etter bildet er lastet.</string>
+  <string name="bigscreen_video_quit">Trykk for å avbryte avspilling av video</string>
   <string name="browse_category">Bla gjennom bilder</string>
   <string name="by_email">E-post</string>
   <string name="by_others">Av andre</string>
@@ -110,6 +111,7 @@ venner."</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Er du sikker på at du vil slette %s valgte filer?</string>
   <string name="confirm_delete_album" formatted="false">Er du sikker på du vil slette %s albumer (inklusiv %s elementer)?</string>
+  <string name="confirm_delete_home_merge_item">Slett %s bilde(r) i lokalt og i skyen?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s bilder fra %s album, bekreft sletting?</string>
   <string name="confirm_delete_pictures">%s bilder</string>
   <string name="confirm_delete_system_album">%s er et system album, er du sikker på at du vil slette?</string>
@@ -147,11 +149,13 @@ venner."</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="deny">Avvis</string>
   <string name="description">Beskrivelse</string>
+  <string name="deselect_all">Avvelg alle</string>
   <string name="details">Detaljer</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_sharer">Delt av</string>
   <string name="details_title">%1$d av %2$d elementer:</string>
+  <string name="device_model">Enhet</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Dokumenter</string>
   <string name="done">Ferdig</string>
@@ -166,15 +170,19 @@ venner."</string>
   <string name="edited_photo_bucket_name">Redigert</string>
   <string name="email_picker_title">Legg til delt e-post</string>
   <string name="enable_cloud_for_sharing">Aktiver MiCloud album for å vise delte bilder.</string>
+  <string name="error_forbidden">Det er problemer med din konto: Synk deaktivert.</string>
   <string name="enter_email_hint">"Legg til epost-adresse "</string>
   <string name="error_album_not_exist">"Album eksisterer ikke."</string>
   <string name="error_cloud_not_active">MiCloud-album ikke i bruk</string>
   <string name="error_invalid_link">Linken er ugyldig eller utløpt, vennligst spør album-eieren om å lage en ny link.</string>
+  <string name="error_not_acceptable">Serverfeil: Synk deaktivert.</string>
   <string name="error_repeat_apply">Dette albumet er allerede delt med deg</string>
   <string name="error_share_with_creator">Du er allerede et medlem av dette albumet</string>
   <string name="error_should_not_select_image">Advarsel: velg ikke en bildefil.</string>
   <string name="error_should_not_select_video">Advarsel: velg ikke en videofil.</string>
   <string name="error_socket_timeout">Nettverk-timeout, vennligst prøv igjen senere</string>
+  <string name="error_title">Feil med synk</string>
+  <string name="error_unauthorized">For mange forsøk på innlogging: Synk deaktivert.</string>
   <string name="error_unknown_host">Vertsnavn ukjent, vennligst sjekk nettverkstilkoblingen!!</string>
   <string name="exit">Lukk</string>
   <string name="exit_share">Lukk album</string>
@@ -189,6 +197,7 @@ venner."</string>
   <string name="facetan">Ansiktsfarge</string>
   <string name="fail_hint">Operasjon feilet.</string>
   <string name="fail_init_gallery_db_helper">Galleri lukket pga database innlastningsfeil; disken kan være full.</string>
+  <string name="fail_to_download_n_items">Kunne ikke laste ned %s</string>
   <string name="fail_to_pick_email">Ingen gyldige e-poster valgt</string>
   <string name="fail_to_sync_album">Klarte ikke å synkronisere albumet til server. Vennligst sjekk nettverkstilkoblingen!</string>
   <string name="file_not_exist_message">Fil eksisterer ikke.</string>
@@ -224,6 +233,9 @@ venner."</string>
   <string name="height">Høyde</string>
   <string name="highlight">Høydepunkter</string>
   <string name="home_my_captured_items">Bilder i alt</string>
+  <string name="home_page_tab_cloud">Sky</string>
+  <string name="home_page_tab_local">Lokal</string>
+  <string name="home_page_tab_photo">Bilde</string>
   <string name="how_many_pics">%d Bilder</string>
   <string name="how_many_sub_folders">%d Mapper</string>
   <string name="how_many_videos">%d Videoer</string>
@@ -284,6 +296,7 @@ venner."</string>
   <string name="mishop_saved_folder_display_name">MiShop Lagret</string>
   <string name="miui_capture_screen_folder_display_name">Skjermbilder</string>
   <string name="model">Model</string>
+  <string name="modified_time">Tid endret</string>
   <string name="more">Mer</string>
   <string name="move">Flytt</string>
   <string name="move_to_cloud_album">Flytt til Cloud</string>
@@ -334,6 +347,7 @@ venner."</string>
   <string name="photo_page_save_uri_image_fail">Kunne ikke lagre bilde.</string>
   <string name="photo_page_save_uri_image_ok">Lagre bilder til kamera bilder mappe.</string>
   <string name="photo_saved">Bilde lagret til %s</string>
+  <string name="photo_size">Størrelse</string>
   <string name="photoeditor_name">Bilde Studie</string>
   <string name="photos">Bilde(r)</string>
   <string name="pick_too_many_recipients">For mange mottakere</string>
@@ -459,7 +473,8 @@ venner."</string>
   <string name="tab_all_text">Satt på alle</string>
   <string name="tab_lockscreen_text">Låseskjerm </string>
   <string name="tab_wallpaper_text">Skrivebord</string>
-  <string name="tags">Tags</string>
+  <string name="tags">Tagger</string>
+  <string name="taken_time">Tid tatt</string>
   <string name="temperature">Varme</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
@@ -496,6 +511,7 @@ venner."</string>
   <string name="widget_type_photo">Velg et bilde</string>
   <string name="widget_type_shuffle">Bland alle bilder</string>
   <string name="width">Bredde</string>
+  <string name="yellow_page">Katalog</string>
   <string name="yes">Ja</string>
   <string name="share_album_space_full">Det er ikke mer plass i dette albumet</string>
 </resources>
