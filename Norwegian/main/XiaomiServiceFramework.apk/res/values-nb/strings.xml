@@ -51,8 +51,6 @@
   <string name="activate_popup_title_manual">Aktivering av SIM-kort</string>
   <string name="activate_popup_title_new_sim_card">Aktivering av nytt SIM-kort</string>
   <string name="activate_popup_title_register_account">Opprett konto</string>
-  <string name="activate_phone_failed_notif_title">Kan ikke aktivere MiCloud-tjeneste</string>
-  <string name="activate_phone_failed_notif_title_msim">Kunne ikke starte MiCloud for SIM %s</string>
   <string name="activate_phone_send_sms_fail">Kunne ikke sende aktiverings-SMS, kunne ikke åpne synktjeneste</string>
   <string name="activate_phone_send_sms_failed_notif">Kunne ikke sende aktiverings-SMS</string>
   <string name="activate_phone_server_error">Serverfeil，kunne ikke åpne synktjeneste</string>
