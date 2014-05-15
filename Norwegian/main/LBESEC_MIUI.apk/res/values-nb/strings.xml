@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Dashboard_App">Apps</string>
+  <string name="Dashboard_App">Apper</string>
   <string name="Dashboard_HIPS_Disable_Content">"Deaktivering vil stoppe MIUI fra å overvåke forespørsler og ikke lengere beskytte din sikkerhet og personvern. Er du sikker på at du vil deaktivere?"</string>
   <string name="Dashboard_HIPS_Disable_Title">Tillatelsesmonitor</string>
   <string name="Dashboard_Log">Logg</string>
@@ -220,6 +220,9 @@
   <string name="Su_Unavailable">ROOT Tillatelse er deaktivert i MIUI stable versjoner. Vennligst installer en utvikler versjon for at aktivere ROOT Tillatelser.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart Tillatelse</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
-  <string name="SysOpt_Boost_Boot">Boot</string>
+  <string name="SysOpt_Boost_Boot">Oppstart</string>
   <string name="SysOpt_Boost_Receiver">Bakgrunn</string>
+  <string name="HIPS_Perm_DisableKeyguard">Lås opp skjerm</string>
+  <string name="HIPS_Perm_DisableKeyguard_Desc">Lås opp skjerm</string>
+  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s apper kan låse opp skjerm</string>
 </resources>

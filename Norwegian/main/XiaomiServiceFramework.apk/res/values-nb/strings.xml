@@ -350,4 +350,5 @@ Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent bort
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
   <string name="micloud_upgrade_space">Oppgrader lagringsplass</string>
+  <string name="find_device_notice_p4">Hver gang SIM-kortet endres, kan en registrerings-SMS bli sendt for å holde styr på telefonen</string>
 </resources>

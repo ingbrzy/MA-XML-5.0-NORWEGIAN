@@ -3147,7 +3147,7 @@ Trykk "&lt;b&gt;Tilbake&lt;/b&gt; for å koble til et annet Wi-Fi-nettverk.</str
   <string name="dirac_mode_piston_1">Xiaomi stempel-1</string>
   <string name="dirac_mode_piston_2">Xiaomi stempel-2</string>
   <string name="dirac_mode_piston_youth">Xiaomi stempel for ungdom</string>
-  <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista og nyere versjoner av Windows, 
+  <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista og nyere versjoner av Windows,
 vil %1$s dukke opp automatisk som en USB-masselagringsenhet"</string>
   <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s vil dukke opp som en USB-masselagringsenhet
 når tilkoblet til din datamaskin."</string>
@@ -3155,4 +3155,7 @@ når tilkoblet til din datamaskin."</string>
 vil %1$s dukke opp som en USB-masselagringsenhet når tilkoblet en datamaskin."</string>
   <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista og nyere versjoner av Windows,
 vil musikkspilleren %1$s automatisk dukke på din datamaskin"</string>
+  <string name="dialog_title_auto_start_tips">OM auto start</string>
+  <string name="dialog_message_auto_start_tips">Noen sikkerhetsapper kan ved en feil si at MIUI har hindret dem i å starte. For å sjekke tillatelsene som har blitt gitt til individuelle apper, gå til Innstillinger > Programmer.</string>
+  <string name="button_text_known">Jeg vet</string>
 </resources>

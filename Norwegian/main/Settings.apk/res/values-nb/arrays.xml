@@ -137,7 +137,7 @@
         <item>Blokkert</item>
         <item>Unngår midlertidig dårlig forbindelse</item>
     </string-array>
-    
+
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI heksadesimal</item>
@@ -366,13 +366,13 @@
         <item>Åpne Voice Assistant (Xiaomi)</item>
         <item>Åpne Google Nå</item>
         <item>Lukk gjeldende program</item>
-    </string-array>   
+    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Ansiktsopplåsning</item>
         <item>Mønster</item>
         <item>Numerisk passord</item>
         <item>Blandet passord</item>
-    </string-array>  
+    </string-array>
     <string-array name="preferred_app_entries">
         <item>Hjemmeskjerm</item>
         <item>Telefon</item>
@@ -488,5 +488,9 @@ vil datamaskinen åpne og lese telefondata automatisk"</item>
     <string-array name="startup_hips_action">
         <item>Tillat</item>
         <item>Avvis</item>
+    </string-array>
+    <string-array name="perm_disable_keyguard_action">
+         <item>Tillat</item>
+         <item>Avvis</item>
     </string-array>
 </resources>
