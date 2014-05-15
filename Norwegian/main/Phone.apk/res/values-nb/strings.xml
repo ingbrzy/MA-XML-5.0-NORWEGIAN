@@ -1107,4 +1107,5 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="xdivert_sub_absent">Begge abonnementene burde aktiveres for å behandle X-avledning</string>
   <string name="xdivert_summary">Innstillinger for CFNRc</string>
   <string name="xdivert_title">X-Avledning</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_miui">4G foretrukket</string>
 </resources>
