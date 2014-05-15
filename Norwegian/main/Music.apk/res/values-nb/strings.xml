@@ -143,7 +143,7 @@
   <string name="higher_quality_music">Høykvalitetsmusikk</string>
   <string name="higher_quality_music_summary">Lytt til og last ned musikk med høyere kvalitet</string>
   <string name="hot_artists">Hotte artister</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">Jeg vet</string>
   <string name="id3_edit">Rediger ID3-informasjon</string>
   <string name="id3_edit_failed">Kunne ikke redigere ID3-informasjon</string>
   <string name="id3_modify_confirm_check">Bekreft ID3-endringer?</string>
@@ -249,7 +249,7 @@
   <string name="playlist_renamed_message">spilleliste gitt nytt navn.</string>
   <string name="playlists_title">Spillelister</string>
   <string name="powered_by">Drevet av</string>
-  <string name="project_device">Xiaomi MiBox</string>
+  <string name="select_device">Velg enhet</string>
   <string name="project_device_mobile">Mobil enhet</string>
   <string name="queue">Nåværende spilleliste</string>
   <string name="quit_player">Avslutt</string>
@@ -357,4 +357,6 @@
   <string name="sync_disable_toast">Du kan alltid aktivere synk senere i Innstillinger > Kontoer > Mi Cloud</string>
   <string name="login_and_enable">Sign in and sync</string>
   <string name="sync_enable_toast">Du kan endre denne innstillingen i Innstillinger > Kontoer > Mi Cloud</string>
+  <string name="volume_alert_playback_alert_title">Volume-varsel</string>
+  <string name="volume_alert_playback_message">For å forhindre mulig hørselskade, ikke hør på musikk med høyt volum i lengre perioder.</string>
 </resources>

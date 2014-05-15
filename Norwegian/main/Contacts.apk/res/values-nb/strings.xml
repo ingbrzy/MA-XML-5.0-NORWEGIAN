@@ -25,8 +25,8 @@
   <string name="add_organization">Legg til organisasjon</string>
   <string name="add_to_my_contacts">Legg til i mine kontakter</string>
   <string name="add_wait">Legg til pause</string>
-  <string name="add_xiaomi_account_dialog_btn">Bruk Xiaomi konto</string>
-  <string name="add_xiaomi_account_dialog_msg">For den beste brukeropplevelsen, vennligst vurder å bruke din Xiaomi kontoen til å synkronisere og sikkerhetskopiere kontaktene dine og administrere kontaktene dine fra en PC.</string>
+  <string name="add_xiaomi_account_dialog_btn">Bruk Mi-konto</string>
+  <string name="add_xiaomi_account_dialog_msg">For den beste brukeropplevelsen, vennligst vurder å bruke din Mi-konto til å synkronisere og sikkerhetskopiere kontaktene dine og administrere kontaktene dine fra en PC.</string>
   <string name="add_xiaomi_account_dialog_title">Velg synk konto</string>
   <string name="aggregation_suggestion_edit_dialog_message">Skift til redigering av den valgte kontakten? Opplysninger, du har tastet inn inntil videre vil bli kopiert.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Rediger valgte kontakter</string>
@@ -314,7 +314,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="dialog_voicemail_airplane_mode_message">for å ringe til voicemail, slå av flymodus først.</string>
   <string name="dialog_voicemail_not_ready_message">for å sette opp voicemail, gå til Meny &gt; Innstillinger.</string>
   <string name="directory_search_label">Bibliotek</string>
-  <string name="dirty_contacts_notification_description">%d endringer har ikke blitt synkronisert med din Xiaomi-konto.</string>
+  <string name="dirty_contacts_notification_description">%d endringer har ikke blitt synkronisert med din Mi-konto.</string>
   <string name="dirty_contacts_notification_message">(Du kan deaktivere påminnelsen i innstillingene)</string>
   <string name="dirty_contacts_notification_title">Synkroniser kontakter?</string>
   <string name="display_all_contacts">Alle kontaktpersoner</string>
@@ -446,13 +446,13 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="import_to_xiaomi_account_confirm">Importer</string>
   <string name="import_to_xiaomi_account_progress_finish">Import fullført</string>
   <string name="import_to_xiaomi_account_progress_message">Importerer...</string>
-  <string name="import_to_xiaomi_account_progress_title">Importer kontakter til Xiaomi konto</string>
+  <string name="import_to_xiaomi_account_progress_title">Importer kontakter til Mi-konto</string>
   <string name="import_to_xiaomi_account_title">Vil du importere følgende kontakter til din Xiaomi konto?</string>
   <string name="import_vcard_description">Importer kontakter fra SIM kort</string>
   <string name="import_weibo_dialog_title">Importer Sina weibo kontakter</string>
   <string name="import_weibo_error_no_matched_contacts">Ferdig med å oppdatere kontakter: ingen matchede kontakter</string>
   <string name="import_weibo_error_no_network">Ferdig med å oppdatere kontakter: nettverksproblemer</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Ferdig med å oppdatere kontakter: ingen telefonnummer funnet i Xiaomi-kontoen</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Ferdig med å oppdatere kontakter: ingen telefonnummer funnet i Mi-kontoen</string>
   <string name="import_weibo_error_unknown">Ferdig med å oppdatere kontakter: ukjent feil</string>
   <string name="import_weibo_error_user_cancel">Ferdig med å oppdatere kontakter: brukeren avbrutte</string>
   <string name="import_weibo_fetch_followers">Henter Sina Weibo følgere…</string>
@@ -584,7 +584,7 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="nickname_picker_nickname_column">Tittel</string>
   <string name="noAccounts">for å opprette grupper, må du ha en konto</string>
   <string name="noContactHelpTextAccountsInfo">Synk Google, Exchange kontakter.</string>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Gjenopp data sikkerhetskopiert på Xiaomi konto og MiTalk</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Gjenopprett kontaktdata ved bruk av Mi Konto</string>
   <string name="noContacts">Ingen kontakter</string>
   <string name="noContactsHelpText">"Du har ingen kontakter å vise.
 
@@ -689,9 +689,9 @@ for å legge til kontakt til favoritter:
   <string name="pref_key_rebuild_t9_index_title">Gjenoppbygg indeksdata</string>
   <string name="pref_key_sim_manage">Håndter SIM-kort</string>
   <string name="pref_key_sim_manage2">Håndter SIM-kort 2</string>
-  <string name="pref_summary_import_from_account">Importer kontakter fra Google og andre mail kontoer til min Xiaomi konto</string>
+  <string name="pref_summary_import_from_account">Importer kontakter fra Google og andre mail kontoer til min Mi-konto</string>
   <string name="pref_title_account_import">Importer fra konto</string>
-  <string name="pref_title_import_from_account">Importer fra Xiaomi Account</string>
+  <string name="pref_title_import_from_account">Importer fra Mi-konto</string>
   <string name="preference_auto_ip_summary_disable">Ikke aktivert</string>
   <string name="preference_auto_ip_summary_on">"Leverandørs IP prefiks: %s"</string>
   <string name="preference_auto_ip_title">Automatisk IP</string>
@@ -768,7 +768,7 @@ for å legge til kontakt til favoritter:
   <string name="removePhoto">Fjern bilde</string>
   <string name="remove_blacklist">Fjern blokkering</string>
   <string name="remove_duplicate">"MIUI hjelper deg med å finne og flette dupliserte kontakter.
-	  
+
  Trykk på flette-ikonet i bunnen for å starte."</string>
   <string name="resource_account_abnormal_state">Kontofeil, vennligst prøv igjen senere.</string>
   <string name="resource_account_fail_to_add">Kunne ikke legge til konto!</string>

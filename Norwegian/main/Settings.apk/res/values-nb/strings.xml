@@ -3158,4 +3158,5 @@ vil musikkspilleren %1$s automatisk dukke på din datamaskin"</string>
   <string name="dialog_title_auto_start_tips">OM auto start</string>
   <string name="dialog_message_auto_start_tips">Noen sikkerhetsapper kan ved en feil si at MIUI har hindret dem i å starte. For å sjekke tillatelsene som har blitt gitt til individuelle apper, gå til Innstillinger > Programmer.</string>
   <string name="button_text_known">Jeg vet</string>
+  <string name="translation_contributors_title">Bidragsytere</string>
 </resources>

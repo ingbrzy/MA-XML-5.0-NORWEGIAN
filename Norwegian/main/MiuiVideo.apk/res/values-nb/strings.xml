@@ -33,6 +33,11 @@
   <string name="browse_devices">Utforsk enheter</string>
   <string name="browse_folder">Utforsker</string>
   <string name="btnplayerforecast">Værvarsel</string>
+  <string name="btnplayerfavorite">Favorittmerk</string>
+  <string name="btnplayerfullscreen">full</string>
+  <string name="btnplayerdefault">standard</string>
+  <string name="makeappointment">lag avtale</string>
+  <string name="cancelappointment">avbryt avtale</string>
   <string name="btnplayerselect">Velg kanal</string>
   <string name="buffering">Leser inn i buffer...</string>
   <string name="buffering_video_netplay_label_v5">Leser inn i buffer...</string>
@@ -93,11 +98,13 @@
   <string name="dlna_name">Delt enhet</string>
   <string name="download_add_success">Nedlastningoppgave ble lagt til</string>
   <string name="download_delete">fjern oppgave</string>
+  <string name="download_add_sucess">oppgave lagt til</string>
   <string name="download_fail">Caching feilet</string>
   <string name="download_file_fail">Lokal filtilgang feilet, det kan være lite plass på SD-kortet</string>
   <string name="download_finish">Caching ferdig</string>
- <string name="download_geturl_fail">Henting av URL feilet, vennligst sjekk nettverket og prøv igjen..</string>
-  <string name="download_is_in_tasklist">Has been in caching list</string>
+  <string name="click_to_list">klikk for å vise detaljer</string>
+  <string name="download_geturl_fail">Henting av URL feilet, vennligst sjekk nettverket og prøv igjen..</string>
+  <string name="download_is_in_tasklist">Har vært i cacheliste</string>
   <string name="download_is_success">Har blitt cachet</string>
   <string name="end_live_status">Kringkastingen er avsluttet</string>
   <string name="episode_prefix">"episode "</string>

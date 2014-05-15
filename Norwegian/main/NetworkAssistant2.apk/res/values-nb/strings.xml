@@ -15,7 +15,7 @@
 Brukt"</string>
     <string name="main_traffic_remian_text">"%s
 Gjenværende"</string>
-    <string name="main_traffic_overlimit_text">"%s 
+    <string name="main_traffic_overlimit_text">"%s
 over"</string>
     <string name="main_traffic_used_only">Brukt: %s</string>
     <string name="main_alert_message_no_mobile_package">"Mobildatagrense er ikke satt"</string>
@@ -40,7 +40,7 @@ en mobildataforbindelse"</string>
     <string name="sorted_button">Sorter etter</string>
     <string name="app_detail">Detalker</string>
     <string name="app_version">Versjon</string>
-    <string name="app_mobile">DATA</string>
+    <string name="app_mobile">Mobildata</string>
     <string name="app_wifi">WLAN</string>
     <string name="traffic_none">Ingen</string>
     <string name="sorted_dialog_title">Sorter etter</string>
@@ -150,7 +150,7 @@ en mobildataforbindelse"</string>
     <string name="data_usage_warning_body">Trykk for å vise databruksdetaljer</string>
     <string name="data_usage_mobile_limit_title">Mobildata har blitt deaktivert</string>
     <string name="data_usage_limit_body">Trykk for å aktivere mobildata</string>
-    <string name="data_usage_disabled_dialog">"Du har nådd din grense for databruk. 
+    <string name="data_usage_disabled_dialog">"Du har nådd din grense for databruk.
 
 Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for overbruk."</string>
     <string name="data_usage_disabled_dialog_enable">Aktiver data</string>
