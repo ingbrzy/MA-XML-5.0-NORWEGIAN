@@ -206,7 +206,9 @@
   <string name="move_to_up_folder">Gå et nivå opp</string>
   <string name="name">Navn</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi-tilkobling funnet, vil du koble til??</string>
-  <string name="network_show_wifi_setting_tip_dialog_notshow">Lagre</string>
+  <string name="dont_remind_again">Husk mitt valg</string>
+  <string name="use_cellular_network_alert_title">Nettverksvarsel</string>
+  <string name="use_cellular_network_alert_message">Wi-Fi ikke tilgjengelig, bruk mobilnettverk?</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi-nettverk tilgjengelig</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_title">"Hvis du bruker mobildata for å få tilgang til internettet, vil MIUI varsle deg hvis et tilgjengelig Wi-Fi-nettverk er i nærheten"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Lokal Wi-Fi-tilkobling tilgjengelig</string>
@@ -243,7 +245,7 @@
   <string name="pref_content_autofit_summary">Formater nettsider til å passe på skjermen</string>
   <string name="pref_content_block_float_popups">Blokker svevende pop-ups</string>
   <string name="pref_content_block_popups">Blokker pop-ups</string>
-  <string name="pref_content_cloud_speedup">Aktiver sky hastighetsøkning</string>
+  <string name="pref_content_cloud_speedup">Last innhold raskere ved å bruke proxy-servere</string>
   <string name="pref_content_javascript">Aktiver JavaScript</string>
   <string name="pref_content_load_page">Åpne sider i oversikt</string>
   <string name="pref_content_load_page_summary">Vis oversikt over nylige åpnede sider</string>
@@ -443,6 +445,7 @@
   <string name="share_link">Del link</string>
   <string formatted="false" name="sign_in_to">Logg inn på %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Kunne ikke lagre til offline lesning."</string>
+ <string name="snapshot_successed">Lagring for offline lesning fulllført</string>
   <string name="snapshot_go_live">Gå Live</string>
   <string name="ssl_certificate">Sikkerhetsertifikat</string>
   <string name="ssl_certificate_is_valid">Dette sertifikat er ugyldig.</string>
@@ -590,4 +593,6 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
   <string name="webview_last_month">Sist måned</string>
   <string name="webview_older">Eldre</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
+  <string name="date_picker_dialog_other_button_label">Andre</string>
+  <string name="copy_to_clipboard_failure_message">Kunne ikke kopiere til utklippstavlen</string>
 </resources>

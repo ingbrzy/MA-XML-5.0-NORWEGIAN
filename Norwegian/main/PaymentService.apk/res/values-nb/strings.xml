@@ -4,7 +4,7 @@
 %1$s"</string>
   <string name="app_name">Betalingstjeneste</string>
   <string name="balance">Balanse: %1$s MiCredits</string>
-  <string name="balance_giftcard_payment">%1$s MiCredits（%2$s-MiCredit gavekort）</string>
+  <string name="balance_giftcard_payment">%1$s MiCredits</string>
   <string name="balance_no_giftcard_payment">%1$s MiCredits (kan ikke bruke MiCredit-gavekort på denne ordren)</string>
   <string name="balance_payment">%1$s MiCredits</string>
   <string name="bankcall_bank_account">Bankkort:</string>
@@ -58,6 +58,9 @@
   <string name="button_next">Neste</string>
   <string name="button_pay">Bekreft</string>
   <string name="button_recharge">Fyll på</string>
+  <string name="button_bind_phone">Bind nå</string>
+  <string name="button_count_down_reget">Henter verifiseringskoden(%1$s)</string>
+  <string name="button_reget">Henter verifiseringskoden</string>
   <string name="button_recharge_pay">Bekreft</string>
   <string name="button_retry">Prøv igjen</string>
   <string name="cancel">Avbryt</string>
@@ -93,7 +96,7 @@ Vennligst sjekk din lokalte dato og prøv igjen."</string>
   <string name="error_common_summary">Systemfeil. Vennligst prøv igjen.</string>
   <string name="error_common_title">Systemfeil</string>
   <string name="error_expired_summary">Orderen din har gått ut på date</string>
-  <string name="error_frozen_summary">"Kontoen din er låst. 
+  <string name="error_frozen_summary">"Kontoen din er låst.
 Vennligst kontakt Xiaomi kundeservice."</string>
   <string name="error_frozen_title">Konto låst</string>
   <string name="error_giftcard_summary">"Kan ikke hente gavekortinfo."</string>
@@ -144,8 +147,8 @@ Vent fem minutte og prøv igjen."</string>
 Hvis du trenger videre support vennligst ring kundeservice：4006125880"</string>
   <string name="hfb_goods_name">Navn：</string>
   <string name="hfb_goods_price_value_format">%1$s(Ikke inkludert nettverkskostnader)</string>
-  <string name="hfb_hint">"1. China Mobile, China Mobile e-markedsføring betalingskonto. 
-2. 10658008 er China Mobiles SMS-betalingskundesenter nummer. 
+  <string name="hfb_hint">"1. China Mobile, China Mobile e-markedsføring betalingskonto.
+2. 10658008 er China Mobiles SMS-betalingskundesenter nummer.
 3. Denne tjenesten støtter M-Zone, Shenzhouxing-merker for brukere av China Mobiles kommunikasjonstarif. Gratis prøve: du kan få tilbakebetalt kostnadene unntatt nettverkskostnader.
 4. I noen provinser, kan "gave" og "returnering" av anrop ikke bli brukt til å kjøpe  varer, sånn som Bejing og Heliongjiang.
 5. China Mobile Communications Kundeservice telefon: 400 612 5880 (direkte samtaler, gratis langdistanse samtaler), 125,880 (mobiltelefon bare 0,3 yuan / min).
@@ -175,6 +178,14 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="hfb_upgrade_download_fail">Kunne ikke laste ned oppdatering, vennligst prøv igjen senere</string>
   <string name="hfb_upgrade_download_sucess">Ny versjon lastet ned!</string>
   <string name="label_balance">Balanse:</string>
+  <string name="label_giftcard">Gavekort:</string>
+  <string name="title_bind_phone">Binder mobiltelefon nr.</string>
+  <string name="summary_bind_phone">For å ivareta sikkerheten til kontoen din, vennligst fullfør utbetaling etter binding av mobiltelefon nr.</string>
+  <string name="button_sms_code">Bekreft</string>
+  <string name="title_sms_code">Vennligst skriv din verifiseringskode</string>
+  <string name="summary_sms_code">For å ivareta sikkerheten til kontoen din, vennligst skriv verifiseringskoden mottatt på telefon %1$s，så fullfør betaling</string>
+  <string name="sms_code_hint">Verifiseringskode for mobiltelefon</string>
+  <string name="sms_code_error">Feil verifiseringskode for mobiltelefon, vennligst hent ny</string>
   <string name="label_order_name">Produkt:</string>
   <string name="label_order_price">Pris:</string>
   <string name="lockpassword_choose_your_pattern_header">Velg ditt mønster</string>
@@ -276,10 +287,10 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="progress_success_recharge_summary">Kontobalanse: %1$s MiCredits.</string>
   <string name="progress_success_recharge_title">%1$s MiCredit oppfylling fullført</string>
   <string name="progress_voucher_creating">Legger til MiCredit til din konto, vennligst vent...</string>
-  <string name="progress_warning_check">"Betalingen har ikke nådd kontoen din enda. 
+  <string name="progress_warning_check">"Betalingen har ikke nådd kontoen din enda.
 Vi vil sjekke igjen innen to arbeidsdager."</string>
-  <string name="progress_warning_contact_server">"Betalingen har fortsatt ikke nådd kontoen din. 
-1. Vennligst kontakter vårt Shenzhou kundeservicesenter：%1$s 
+  <string name="progress_warning_contact_server">"Betalingen har fortsatt ikke nådd kontoen din.
+1. Vennligst kontakter vårt Shenzhou kundeservicesenter：%1$s
 2. Når spurt, gi serienummeret: %2$s."</string>
   <string name="progress_warning_waiting">"Betalingen har ikke nådd kontoen din enda."</string>
   <string name="recharge_alipay_title">Alipay</string>
@@ -334,4 +345,7 @@ Vi vil sjekke igjen innen to arbeidsdager."</string>
   <string name="voucher_error_password_empty">Kode tom.</string>
   <string name="voucher_input_password_prompt">Skriv kode</string>
   <string name="password_forget">glemt?</string>
+  <string name="partner_giftcard_payment">%1$sMiCredits（Bare for %2$s）</string>
+  <string name="prepaid_error_not_choose_carrier">Ingen operatør valgt.</string>
+  <string name="prepaid_card_order_info">%1$s oppfyllingskort: RMB %2$s</string>
 </resources>

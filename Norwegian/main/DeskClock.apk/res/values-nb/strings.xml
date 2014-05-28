@@ -90,6 +90,7 @@
   <string name="timer_continue">Fortsett</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_message">%1$d minutter</string>
+  <string name="timer_message_with_seconds">%1$d sekunder</string>
   <string name="timer_message_with_hour">%1$d timer og %2$d minutter</string>
   <string name="timer_start_alarm">Start nedtelling</string>
   <string name="timer_title">Nedtelling</string>

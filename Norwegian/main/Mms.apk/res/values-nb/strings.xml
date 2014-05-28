@@ -77,6 +77,7 @@
   <string name="context_menu_browse_web">Web</string>
   <string name="context_menu_call">Ring til</string>
   <string name="context_menu_contact">Kontakt: %1$s</string>
+  <string name="context_menu_add_calendar">Vis i kalender</string>
   <string name="context_menu_copy">Kopier</string>
   <string name="context_menu_copy_notice">Tekst er kopiert til utklippstavla</string>
   <string name="context_menu_new_contact">Ny Kontakt</string>
