@@ -324,7 +324,7 @@ venner."</string>
   <string name="no_storage_disable_cloud_albums">Cloud-album er deaktivert; prøv igjen etter eksternt lager er tilgjengelig.</string>
   <string name="no_such_item">"Kunne ikke finne element."</string>
   <string name="no_thumbnail">Ingen miniaturer</string>
-  <string name="sync_in_progress_message">Synkronisering pågår...</string
+  <string name="sync_in_progress_message">Synkronisering pågår...</string>
   <string name="none_picture">Ingen bilder funnet i Galleri</string>
   <string name="not_auto_create_recent_album">Auto-opprett ikke favoritt album(er)</string>
   <string name="not_show_hidden_albums">Vis ikke skjulte albumer</string>
