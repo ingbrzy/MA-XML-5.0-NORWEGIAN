@@ -63,6 +63,8 @@
   <string name="browse_category">Bla gjennom bilder</string>
   <string name="by_email">E-post</string>
   <string name="by_others">Av andre</string>
+  <string name="alert_init_merged_title">Alle dine bilder. Endelig sammen.</string>
+  <string name="alert_init_merged_message">"Nå, vil bilder fra din enhetet og bilder du har lagret i Mi Cloud vil bli vist sammen.</string>
   <string name="by_sms">SMS</string>
   <string name="camera_connected">Kamera tilkoblet.</string>
   <string name="camera_disconnected">Kamera ikke tilkoblet.</string>
@@ -91,6 +93,7 @@
   <string name="cloud_be_shared_guide_title">Dette albumet ble delt av en venn</string>
   <string name="cloud_camera_display_name">Usortert</string>
   <string name="cloud_gallery_no_pictures">Ingen bilder på MiCloud</string>
+  <string name="click_to_add_picture">Trykk for å legge til bilder</string>
   <string name="cloud_gallery_recyclebin_full">Papirkurv er fyllt, vennligst tøm den på i.xiaomi.com.</string>
   <string name="cloud_gallery_space_full">Opplastning mislyktes, cloud-galleri plass fyllt</string>
   <string name="cloud_media_set_set">Cloud-album</string>
@@ -176,6 +179,10 @@ venner."</string>
   <string name="error_cloud_not_active">MiCloud-album ikke i bruk</string>
   <string name="error_invalid_link">Linken er ugyldig eller utløpt, vennligst spør album-eieren om å lage en ny link.</string>
   <string name="error_not_acceptable">Serverfeil: Synk deaktivert.</string>
+  <string name="long_press_to_refocus">Fortsett å trykke for å fokusere på nytt</string>
+  <string name="ubifocus_data_missing">Noe data er tapt</string>
+  <string name="ubifocus_map_error">Noe data er feil</string>
+  <string name="ubifocus_refocus_fail_tip">Kan ikke foksuere på nytt på grunn av tapt eller feil data</string>
   <string name="error_repeat_apply">Dette albumet er allerede delt med deg</string>
   <string name="error_share_with_creator">Du er allerede et medlem av dette albumet</string>
   <string name="error_should_not_select_image">Advarsel: velg ikke en bildefil.</string>
@@ -317,6 +324,7 @@ venner."</string>
   <string name="no_storage_disable_cloud_albums">Cloud-album er deaktivert; prøv igjen etter eksternt lager er tilgjengelig.</string>
   <string name="no_such_item">"Kunne ikke finne element."</string>
   <string name="no_thumbnail">Ingen miniaturer</string>
+  <string name="sync_in_progress_message">Synkronisering pågår...</string
   <string name="none_picture">Ingen bilder funnet i Galleri</string>
   <string name="not_auto_create_recent_album">Auto-opprett ikke favoritt album(er)</string>
   <string name="not_show_hidden_albums">Vis ikke skjulte albumer</string>
@@ -338,6 +346,9 @@ venner."</string>
   <string name="operation_too_often">Operasjon overstiger frekvensgrense, prøv igjen etter 1 minutt.</string>
   <string name="operation_unset_as_screensaver">Avbryt skjermsparer</string>
   <string name="orientation">Orientering</string>
+  <string name="local_time">(Lokal)</string>
+  <string name="photo_page_detail_show_in_the_map">Vis meg denne plasseringen på kartet/string>
+  <string name="start_slide_show">Start lysbildevisning</string>
   <string name="other_category">Andre innstillinger</string>
   <string name="owner_album_subtitle">Delt med %1$s medlemmer</string>
   <string name="path">Sti</string>
@@ -355,7 +366,7 @@ venner."</string>
   <string name="picker_no_album_selected">Ingen album valgt</string>
   <string name="picker_no_items_selected">Ingen elementer valgt</string>
   <string name="picker_select_album_title_empty">Velg et album</string>
-  <string name="picker_tab_camera">Kamera</string>
+  <string name="picker_tab_photo">Bilde</string>
   <string name="posterize">Posteriser</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Forbereder sletting av bildedata.</string>

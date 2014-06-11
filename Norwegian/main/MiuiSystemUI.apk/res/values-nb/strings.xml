@@ -27,6 +27,7 @@
   <string name="accessibility_no_wifi">Ingen Wi-Fi.</string>
   <string name="accessibility_no_wimax">Ingen WiMAX.</string>
   <string name="accessibility_notifications_button">Varsler.</string>
+  <string name="accessibility_phone_four_bars">Telefon fire stolper.</string>
   <string name="accessibility_phone_one_bar">Telefon en stolpe.</string>
   <string name="accessibility_phone_signal_full">Telefonsignal fullt.</string>
   <string name="accessibility_phone_three_bars">Telefon tre stolper.</string>

@@ -752,6 +752,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="dev_settings_warning_message">Disse innstillinger er ment til utviklingsbruk. De kan i verste fall skade din telefon og dine programmer.</string>
   <string name="dev_settings_warning_title">Tillat utviklingsinnstillinger?</string>
   <string name="development_enable">Aktiver utviklingsinnstillinger</string>
+  <string name="development_settings_not_available">Utviklerainnstillingene er ikke tilgjengelige for denne brukeren</string>
   <string name="development_settings_summary">Angi utviklingsinnstillinger</string>
   <string name="development_settings_title">Utviklingsinnstillinger</string>
   <string name="device_additional_status">Ekstra statusinfo</string>
@@ -762,8 +763,9 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="device_admin_title">Enhetsadministration</string>
   <string name="device_admin_warning">Aktivering av denne administratoren vil tillate %1$s å utføre følgende handlinger:</string>
   <string name="device_cpu">CPU</string>
-  <string name="device_cpu2_info">Dual-Core</string>
-  <string name="device_cpu4_info">Quad-Core</string>
+  <string name="device_cpu2_info">2-kjerner</string>
+  <string name="device_cpu4_info">4-kjerner</string>
+  <string name="device_cpu8_info">"8-kjerner"</string>
   <string name="device_edit_title">Endre enhetensnavn</string>
   <string name="device_info_default">Ukjent</string>
   <string name="device_info_label">Enhetsinfo</string>
@@ -1448,6 +1450,7 @@ prøv følgende:
   <string name="msd_install_status_undo">Installer driver</string>
   <string name="msd_install_succeed">Driver installert</string>
   <string name="msd_install_windows_xp_step_2_1">Følg stegene i installasjonsguiden for å fullføre installasjonen.</string>
+  
   <string name="multi_sim_settings_summary">Sett opp Multi-SIM-innstillinger for tale, data og SMS</string>
   <string name="multi_sim_settings_title">Multi-SIM-innstillinger</string>
   <string name="multi_touch_points_category_title">Multi-touch punkter</string>
@@ -1502,6 +1505,7 @@ prøv følgende:
   <string name="free_wifi_connect_fail">"Kan ikke koble til nettverk. Vennligst sjekk din dataforbinelde og prøv igjen"</string>
   <string name="free_wifi_connect_fail2">"Kunne ikke logge inn. Vent et minutt eller to og prøv igjen."</string>
   <string name="free_wifi_login_again">Logg inn igjen</string>
+  <string name="free_wifi_manage_summary">Trykk for å vise %1$s.</string>
   <string name="free_wifi_connected_count">%1$s bruker(e) tilkoblet</string>
   <string name="free_wifi_speed_title">Treig forbindelse?</string>
   <string name="free_wifi_connected_time">Tid online: %1$s</string>
@@ -3159,4 +3163,10 @@ vil musikkspilleren %1$s automatisk dukke på din datamaskin"</string>
   <string name="dialog_message_auto_start_tips">Noen sikkerhetsapper kan ved en feil si at MIUI har hindret dem i å starte. For å sjekke tillatelsene som har blitt gitt til individuelle apper, gå til Innstillinger > Programmer.</string>
   <string name="button_text_known">Jeg vet</string>
   <string name="translation_contributors_title">Bidragsytere</string>
+  <string name="app_feedback">Rapporter feil</string>
+  <string name="app_backup">Sikkerhetskopi</string>
+  <string name="google_backup_section_title">Google sikkertskopi &amp; gjenoppretting</string>
+  <string name="system_backup_section_title">Sikkerhetskopi</string>
+  <string name="local_backup_section_title">Lokale sikkerhetskopier</string>
+  <string name="local_backup_section_summary">Ta sikkerhetskopi av systeminnstillinger, kontoer og apper</string>
 </resources>

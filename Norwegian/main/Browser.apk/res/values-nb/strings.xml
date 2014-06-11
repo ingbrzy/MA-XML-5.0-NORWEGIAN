@@ -595,4 +595,11 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
   <string name="date_picker_dialog_other_button_label">Andre</string>
   <string name="copy_to_clipboard_failure_message">Kunne ikke kopiere til utklippstavlen</string>
+  <string name="miuichromium_error_page_title">"Kunne ikke finne denne siden"</string>
+  <string name="miuichromium_error_page_reason_network">Vis lenke-URL</string>
+  <string name="miuichromium_error_page_mobile">Mobilt nettverk</string>
+  <string name="miuichromium_error_page_wlan">WLAN-innstillinger</string>
+  <string name="miuichromium_error_page_reason_server">"Denne nettleseren kan ikke laste denne siden"</string>
+  <string name="miuichromium_error_page_reload">Last på nytt</string>
+  <string name="miuichromium_error_page_url">Vis side-URL</string>
 </resources>

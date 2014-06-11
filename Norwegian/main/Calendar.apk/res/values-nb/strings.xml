@@ -86,7 +86,7 @@
   <string name="email_picker_label">Epost til</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Tom hendelse ikke opprettet.</string>
-  <string name="event_account">Kalenderkonto</string>
+  <string name="event_account">Konto</string>
   <string name="event_all_day_label">Hele dagen</string>
   <string name="event_create">Ny hendelse</string>
   <string name="event_delete">Slett hendelse</string>
@@ -101,6 +101,10 @@
   <string name="event_info_when">"Når: "</string>
   <string name="event_info_where">"Hvor: "</string>
   <string name="event_lunar_month"/>
+  <string name="online_reminder_slider_text">Aktiver varsling</string>
+  <string name="online_reminder_minutes_text">Tidspåminnelse</string>
+  <string name="online_reminder_change_text">Endre påminnelse</string>
+  <string name="view_all_matches">Vis alle matcher</string>
   <string name="event_show_more">Vis</string>
   <string name="event_view">Vis hendelse</string>
   <string name="every_weekday">Hverdager (man.-fre.)</string>
@@ -256,4 +260,5 @@
   <string name="pref_title_notification_remind">Varselpåminnelse</string>
   <string name="pref_title_alert_remind">Pop-up påminnelse</string>
   <string name="pref_title_alarm_remind">Alarm påminnelse</string>
+  <string name="pref_error_no_ringtone_select">Ingen valgt</string>
 </resources>
