@@ -43,7 +43,7 @@
   <string name="editing_set_transition_effect_tips">Velg skjermovergangeffekt</string>
   <string name="editing_set_wallpaper_tips">Velg bakgrunn</string>
   <string name="editing_tips">Endre hjemskjerm</string>
-  <string name="emptyplaylist">Spilleliste er tom</string>
+  <string name="emptyplaylist">Trykk for å legge til sanger</string>
   <string name="encryption">Kryptering</string>
   <string name="failed_to_delete_temporary">Feil ved sletning, prøv igjen.</string>
   <string name="failed_to_drop">Flyttning mislyktes</string>
@@ -151,7 +151,7 @@
   <string name="pref_render_in_truecolor_title">Ekte fargegjengivelse</string>
   <string name="pref_screen_transformation_type_title">Velg skjermens overgangseffekt</string>
   <string name="pref_wallpaper_scroll_type_title">Typer av bakgrunnsrulling</string>
-  <string name="preferences_general_title">Yteevne &amp; utseende</string>
+  <string name="preferences_general_title">Generelle innstillinger</string>
   <string name="preferences_title">Launcher innstillinger</string>
   <string name="process"/>
   <string name="reset_scene_prompt">Layout vil bli nullstilt</string>
@@ -273,4 +273,10 @@ Vennligst åpne programmet på nytt for å oppdatere ressurser."</string>
   <string name="apply_as_lock_wallpaper_message">Bruk denne bakgrunnen på låseskjermen også?</string>
   <string name="lock_screen_failed_message">Kunne ikke bruke</string>
   <string name="lock_screen_success_message">Brukt</string>
+  <string name="bad_wallpaper_source_prompt">Kunne ikke bruke bakgrunn</string>
+  <string name="status_pending">venter</string>
+  <string name="status_downloading">laster ned</string>
+  <string name="status_paused">pauset</string>
+  <string name="status_downloaded">nedlastet</string>
+  <string name="status_installing">installerer</string>
 </resources>

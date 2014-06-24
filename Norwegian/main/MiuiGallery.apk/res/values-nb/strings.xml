@@ -262,6 +262,9 @@ venner."</string>
   <string name="invalid_invition_url">Ugyldig invitasjons-URL.</string>
   <string name="invalid_recipient_message">"Korriger feil med mottakere eller så vil de ikke motta meldingen."</string>
   <string name="iso">ISO</string>
+  <string name="item_not_sync_for_origin_video">Denne videoen har ikke blitt synkronisert til skyen og kan ikke lastes ned.</string>
+  <string name="item_not_sync_for_origin_image">Dette bildet har ikke blitt synkronisert til skyen og orginalbildet kan ikke lastes ned</string>
+  <string name="item_not_sync_for_refocus_data">Dette bildet har ikke blitt synkronisert til skyen og refokus-data kan ikke lastes ned</string>
   <string name="item_not_sync">Dette elementet har ikke blitt synkronisert til skyen og kan ikke lastes ned</string>
   <string name="kick_owner_user_positive_button_text">Fjern</string>
   <string name="kick_owner_user_title">Fjern dette medlemmet?</string>
@@ -524,4 +527,7 @@ venner."</string>
   <string name="yellow_page">Katalog</string>
   <string name="yes">Ja</string>
   <string name="share_album_space_full">Det er ikke mer plass i dette albumet</string>
+  <string name="download_refocus_data">Last ned refokus data</string>
+  <string name="refocus_data_downloading">Laster ned refocus data…</string>
+  <string name="ubifocus_guide_text">Langt-trykk for å refokusere</string>
 </resources>
