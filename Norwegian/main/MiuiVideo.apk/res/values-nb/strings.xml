@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_app_name">MiPlayer</string>
+  <string name="about_app_name">MIUIVideo</string>
   <string name="about_developer_label">Utvikler</string>
   <string name="about_developer_name">MIUI</string>
   <string name="about_title">Om</string>
-  <string name="about_version">V4.0</string>
+  <string name="about_version">1.0.1</string>
   <string name="about_version_label">Versjon:</string>
   <string name="actors_colon">"Roller: "</string>
   <string name="add_review">Legg til kommentar</string>
@@ -345,5 +345,15 @@
   <string name="yestorday">I går</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
-  <string name="addon_category">Tilegg</string>
+  <string name="addon_category">Populære kategorier</string>
+  <string name="add_more_addons">Legg til flere tillegg</string>
+  <string name="pick_addon_to_delete">Velg element(er)</string>
+  <string name="no_hot_special">Ingen populære tillegg</string>
+  <string name="delete_addon">Slett</string>
+  <string name="delete_addon_content">Slett dette tillegget?</string>
+  <string name="install_comfirm">Installer</string>
+  <string name="start_addon">Åpne tilegg</string>
+  <string name="addon_install_complete_disc">%s ble installert.</string>
+  <string name="addon_update_desc">Ny versjon funnet, oppdater nå?</string>
+  <string name="upgrade">Oppgrader</string>
 </resources>
