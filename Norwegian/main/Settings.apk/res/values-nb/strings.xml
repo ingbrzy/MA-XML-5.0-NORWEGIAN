@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="bluetooth_device_address">Enhetsadresse:</string>
   <string name="Settings_title_anti_spam">Antispam-innstillinger</string>
   <string name="Settings_title_anti_virus">Antivirus-innstillinger</string>
   <string name="Settings_title_garbage_cleanup">Innstilllinger for søppeltømming</string>
@@ -1450,7 +1451,7 @@ prøv følgende:
   <string name="msd_install_status_undo">Installer driver</string>
   <string name="msd_install_succeed">Driver installert</string>
   <string name="msd_install_windows_xp_step_2_1">Følg stegene i installasjonsguiden for å fullføre installasjonen.</string>
-  
+
   <string name="multi_sim_settings_summary">Sett opp Multi-SIM-innstillinger for tale, data og SMS</string>
   <string name="multi_sim_settings_title">Multi-SIM-innstillinger</string>
   <string name="multi_touch_points_category_title">Multi-touch punkter</string>

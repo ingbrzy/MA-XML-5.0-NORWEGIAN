@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="webapp_settings_title">Innstillinger</string>
+  <string name="webapp_webapp_favortes_title">Mine favoritter</string>
+  <string name="webapp_dialog_title">Legg app på hjemskjerm</string>
+  <string name="webapp_menu_already_addtodesk">Allerede lagt på hjemkskjerm</string>
+  <string name="webapp_menu_exit">Avslutt</string>
+  <string name="webapp_menu_favorites">Mine favoritter</string>
+  <string name="webapp_menu_nightmode">Nattmodus</string>
+  <string name="webapp_menu_settings">Innstillinger</string>
+  <string name="webapp_menu_share">Del</string>
+  <string name="webapp_app_name">Appbutikk</string>
+  <string name="webapp_add_to_desktop">Legg på hjemskjerm</string>
+  <string name="webapp_add_to_favorite_toast">Lagt til i favorittliste</string>
+  <string name="webapp_addtodeskpop_append">Lagt til</string>
+  <string name="cloud_up_to_loading_tips">Slipp for å synke</string>
+  <string name="sub_sync_item_browser_title_webapp">Synk web app</string>
+  <string name="sub_sync_item_browser_title_webapp_summary">Sync web apper lagt til og mine favoritter</string>
+  <string name="pref_webapp_settings_savewidth">"2G/3G vil ikke laste ned bilder"</string>
+  <string name="pref_webapp_settings_hidebottombar">Alltid skjul bunnlinjen</string>
+  <string name="pref_webapp_settings_fontsize">Skriftstørrelse</string>
+  <string name="up_to_loading_tips">Slipp for å laste på nytt</string>
+  <string name="dialog_geolocation_reject">Avslå</string>
+  <string name="dialog_geolocation_share">Aksepter</string>
+  <string name="cloud_time_tips">Sist synkronisert</string>
+  <string name="cloud_up_to_loading_tips">Trykk for å synke</string>
+  <string name="cloud_loading_tips">Trykk for å synke</string>
+  <string name="cloud_no_new_data_toast">Ingen ny data, vennligst prøv igjen senere.</string>
   <string name="MIUI_startpage">Startside</string>
   <string name="account">konto</string>
   <string name="action">Logg inn</string>
