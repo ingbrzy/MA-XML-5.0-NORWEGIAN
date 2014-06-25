@@ -23,7 +23,6 @@
   <string name="dialog_geolocation_reject">Avslå</string>
   <string name="dialog_geolocation_share">Aksepter</string>
   <string name="cloud_time_tips">Sist synkronisert</string>
-  <string name="cloud_up_to_loading_tips">Trykk for å synke</string>
   <string name="cloud_loading_tips">Trykk for å synke</string>
   <string name="cloud_no_new_data_toast">Ingen ny data, vennligst prøv igjen senere.</string>
   <string name="MIUI_startpage">Startside</string>
@@ -508,8 +507,6 @@
   <string name="view_certificate">Vis sertifikat</string>
   <string name="warning">Advarsel</string>
   <string name="share_page">del side</string>
-  <string name="webapp_add_to_desktop">Legg til hjemskjerm</string>
-  <string name="webapp_addtodeskpop_append">Program lagt på hjemskjermen</string>
   <string name="website_settings_clear_all">Rydd alle</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Avbryt</string>
   <string name="website_settings_clear_all_dialog_message">slett alle hjemmeside og lokaliseringsdata tillatelser?</string>
