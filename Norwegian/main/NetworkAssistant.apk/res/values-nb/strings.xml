@@ -20,7 +20,7 @@
   <string name="adjust_traffic_title">Juster trafikkdata</string>
   <string name="adjust_traffic_update">Oppdatering</string>
   <string name="app_detail_internet_background">Koble til internettet når programmet kjører i bakgrunnen</string>
-  <string name="app_detail_internet_background_traffic">"Forgrunn:%1$s     Bakgrunn:%2$s"</string>
+  <string name="app_detail_internet_background_traffic">"Forgrunn: %1$s     Bakgrunn: %2$s"</string>
   <string name="app_detail_internet_control_category">Nettverkstilgang</string>
   <string name="app_detail_title">Programdetaljer</string>
   <string name="app_detail_version">Versjon: %s</string>

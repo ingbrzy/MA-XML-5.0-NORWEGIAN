@@ -137,14 +137,14 @@ Vent fem minutte og prøv igjen."</string>
   <string name="hfb_complete">Kjøpt vellykket</string>
   <string name="hfb_complete_hint">(Informasjonen under vil hjelpe deg å fullføre kjøpet)</string>
   <string name="hfb_confirm">Bekreft</string>
-  <string name="hfb_customer_service_phone">Kundeservice:</string>
+  <string name="hfb_customer_service_phone">"Kundeservice: "</string>
   <string name="hfb_customer_service_phone_number">4006125880</string>
   <string name="hfb_dialog_exit_content">Transaksjonen er ikke fullført, er du sikker på at du vil avslutte</string>
   <string name="hfb_fail_hint">"Feil ved mottak av SMS-aktivering, vennligst kontakt China Mobile betalingskundesenter: 400 612 5880 (direkte telefon, gratis langdistansesamtatler) 0.3 yuan per minutt. "</string>
   <string name="hfb_fail_label">Betaling feilet!</string>
   <string name="hfb_fail_pad_result">Du svarte ikke på meldingene, vennligst svar til %1$s fra din SMS-innboks.</string>
   <string name="hfb_fail_result">"Kunne ikke fullføre betaling, vennligst prøv igjen eller prøv en annen betalingsmetode.
-Hvis du trenger videre support vennligst ring kundeservice:4006125880"</string>
+Hvis du trenger videre support vennligst ring kundeservice: 4006125880"</string>
   <string name="hfb_goods_name">Navn:</string>
   <string name="hfb_goods_price_value_format">%1$s(Ikke inkludert nettverkskostnader)</string>
   <string name="hfb_hint">"1. China Mobile, China Mobile e-markedsføring betalingskonto.
@@ -290,7 +290,7 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="progress_warning_check">"Betalingen har ikke nådd kontoen din enda.
 Vi vil sjekke igjen innen to arbeidsdager."</string>
   <string name="progress_warning_contact_server">"Betalingen har fortsatt ikke nådd kontoen din.
-1. Vennligst kontakter vårt Shenzhou kundeservicesenter:%1$s
+1. Vennligst kontakter vårt Shenzhou kundeservicesenter: %1$s
 2. Når spurt, gi serienummeret: %2$s."</string>
   <string name="progress_warning_waiting">"Betalingen har ikke nådd kontoen din enda."</string>
   <string name="recharge_alipay_title">Alipay</string>

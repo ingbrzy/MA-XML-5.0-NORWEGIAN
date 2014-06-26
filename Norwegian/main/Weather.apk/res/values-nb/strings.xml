@@ -88,7 +88,7 @@
   <string name="selected_format">Valgte %d element(er)</string>
   <string name="send_sms_notification">Videresend værvarsel</string>
   <string name="send_sms_notification_summary">"Send dagens værdata til dine kontakter via tekstmelding"</string>
-  <string name="send_weather_sms_cycle">%1$s værmelding:%2$s</string>
+  <string name="send_weather_sms_cycle">%1$s værmelding: %2$s</string>
   <string name="send_weather_sms_error">Ingen værdata</string>
   <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
   <string name="settings_weather_about">Om</string>
