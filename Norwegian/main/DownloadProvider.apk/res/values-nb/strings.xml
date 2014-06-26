@@ -45,7 +45,7 @@
   <string name="notification_download_failed">Nedlasting feilet.</string>
   <string name="notification_need_wifi_for_size">Nedlastningsstørrelse krever WLAN.</string>
   <string name="notification_paused_in_background">Pauset i bakgrunnen.</string>
-  <string name="wifi_recommended_body" formatted="false">"I ferd med å laste ned via operatøren sitt nettverk：
+  <string name="wifi_recommended_body" formatted="false">"I ferd med å laste ned via operatøren sitt nettverk:
 
  %s（%s）
 

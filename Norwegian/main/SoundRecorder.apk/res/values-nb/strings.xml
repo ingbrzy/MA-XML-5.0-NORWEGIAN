@@ -112,7 +112,7 @@
   <string name="view_list_of_recordings">Vis opptak</string>
   <string name="toast_file_is_downloading">Denne filen er under nedlastning, vennligst vent</string>
   <string name="wifi_recommended_title">Trafikk påminnelser</string>
-  <string name="wifi_recommended_body">"I ferd med å laste ned via operatøren sitt nettverk：
+  <string name="wifi_recommended_body">"I ferd med å laste ned via operatøren sitt nettverk:
  Nedlasting av denne filen kan resultere i høyere trafikkkostnader."</string>
   <string name="button_queue_for_wifi">Kø</string>
   <string name="button_start_now">Last ned</string>

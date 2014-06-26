@@ -392,7 +392,7 @@
   <string name="accessibility_more_ptions_opened">More options enabled</string>
   <string name="accessibility_more_ptions_closed">More options disabled</string>
   <string name="accessibility_skin_beautify_opened">Skin tone enhancer enabled</string>
-  <string name="accessibility_skin_beautify_closed">Skin tone enhancer disabled</string> 
+  <string name="accessibility_skin_beautify_closed">Skin tone enhancer disabled</string>
   <string name="pref_video_focusmode_title">Focus mode</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_entry_auto">Tap</string>

@@ -423,7 +423,7 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi.”</string>
   <string name="stick_conversation">Marker nåværende samtale</string>
   <string name="sticked_conversation">Allerede markeret</string>
   <string name="storage_limits_activity">Plassgrenser</string>
-  <string name="storage_limits_message">Vil du begrense antallet meldinger du lagrer per samtale? </string>
+  <string name="storage_limits_message">Vil du begrense antallet meldinger du lagrer per samtale?</string>
   <string name="storage_limits_setting">Sett begrensning</string>
   <string name="storage_limits_setting_dismiss">Ingen begrensning</string>
   <string name="subject_hint">Emne</string>

@@ -8,7 +8,7 @@
   <string name="Dashboard_Log_Clear_Title">Rydd logger</string>
   <string name="Dashboard_Perm">Tillatelser</string>
   <string name="Dashboard_Perm_AutoStart">Håndter App Autostart</string>
-  <string name="Dashboard_Perm_AutoStart_Desc">Aktiver eller deaktiver autostart </string>
+  <string name="Dashboard_Perm_AutoStart_Desc">Aktiver eller deaktiver autostart</string>
   <string name="Dashboard_Perm_AutoStart_Switch">Autostart Håndtering</string>
   <string name="Dashboard_Perm_HIPS">Administrer App Tillatelser</string>
   <string name="Dashboard_Perm_HIPS_Desc">Overvåker %1$d apps for sikkerhet og personvern</string>

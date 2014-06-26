@@ -105,7 +105,7 @@ Vennligst sjekk ditt sproingsnummer"</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="provider">Identifisert av %s</string>
   <string name="provider_tag">Datakilde</string>
-  <string name="recharge_actual_price">Pris：</string>
+  <string name="recharge_actual_price">Pris:</string>
   <string name="recharge_charge_range">Pris: ¥%1$s-%2$s</string>
   <string name="recharge_charge_value">Pris: ¥%s</string>
   <string name="recharge_history">Oppfyllingshistorikk</string>

@@ -36,7 +36,7 @@
     <string name="lockscreen_glogin_instructions">For å låse opp, logg inn på din Xiaomi-konto</string>
     <string name="lockscreen_glogin_password_hint">Passord</string>
     <string name="lockscreen_glogin_checking_password">Sjekker…</string>
-    <string name="login_website_in_case_forget_password">For å tilbakestille ditt passord, gå til i.xiaomi.com.</string>
+    <string name="login_website_in_case_forget_password">For å tilbakestille ditt passord, gå til i.mi.com.</string>
     <string name="screen_on_proximity_sensor_title">Forhindre lommeringing</string>
     <string name="screen_on_proximity_sensor_summary">"Ikke dekk til toppen av skjermen"</string>
     <string name="screen_on_proximity_sensor_hint">To disable this feature, press the Back and Volume up buttons simultaneously.</string>

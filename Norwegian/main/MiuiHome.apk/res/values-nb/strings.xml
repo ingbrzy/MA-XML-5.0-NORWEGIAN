@@ -127,7 +127,7 @@
   <string name="out_of_space">Ikke mer plass på dette skrivebordet</string>
   <string name="permdesc_install_shortcut">Tillater et program å legge til snarveier uten brukerens innvending.</string>
   <string name="permdesc_install_widget">Tillater et program å legge til widgets uten brukerens innvending.</string>
-  <string name="permdesc_read_settings">Tillater et program å lese innstillingene og snarveiene på startskjermen. </string>
+  <string name="permdesc_read_settings">Tillater et program å lese innstillingene og snarveiene på startskjermen.</string>
   <string name="permdesc_uninstall_shortcut">Tillater et program å fjerne snarveier uten brukerens innvending.</string>
   <string name="permdesc_write_settings">Tillater et program å endre på innstillingene og snarveiene på startskjermen.</string>
   <string name="permlab_install_shortcut">Installer snarivei</string>
@@ -264,7 +264,7 @@ Vennligst åpne programmet på nytt for å oppdatere ressurser."</string>
   <string name="unknown_artist_name">Ukjendt kunstner</string>
   <string name="unnamed_folder_name">Navnløs</string>
   <string name="wallpaper_scrolling">Alle</string>
-  <string name="widget_favorite_contacts_edit">administrer grupper </string>
+  <string name="widget_favorite_contacts_edit">administrer grupper</string>
   <string name="widget_favorite_contacts_label">Felles Kontakter</string>
   <string name="widget_favorite_contacts_style">Skift</string>
   <string name="widget_gadget_player">Musikk</string>

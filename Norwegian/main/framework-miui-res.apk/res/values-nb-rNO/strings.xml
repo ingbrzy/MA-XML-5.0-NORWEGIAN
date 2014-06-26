@@ -104,7 +104,7 @@
   <string name="lockscreen_transport_play_description">Avspillknappen</string>
   <string name="lockscreen_transport_prev_description">Forrige nummer</string>
   <string name="lockscreen_unlock_sim_via_puk">Tast inn PUK-kode for å låse SIM-kortet</string>
-  <string name="login_website_in_case_forget_password">Vennligst besøk http://i.xiaomi.com for å resette passordet</string>
+  <string name="login_website_in_case_forget_password">Vennligst besøk https://i.mi.com for å resette passordet</string>
   <string name="lunar_ba" />
   <string name="lunar_calendar" />
   <string name="lunar_chu" />
@@ -266,7 +266,7 @@
   <string name="volume_icon_description_notification">Notifikasjon</string>
   <string name="volume_icon_description_ringer">Ringetone</string>
   <string name="volume_ring_description">Ringetone og varsel-volum</string>
-  <string name="wake_alarm_message">Utsett alarm. Påminn om %s </string>
+  <string name="wake_alarm_message">Utsett alarm. Påminn om %s</string>
   <string name="white_dews" />
   <string name="winter_begins">Vinteren begynner</string>
   <string name="winter_solstice" />

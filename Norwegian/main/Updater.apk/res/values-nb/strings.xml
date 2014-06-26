@@ -35,7 +35,7 @@
   <string name="comment_upload_success">Sendt</string>
   <string name="confirm_download_cancelation_dialog_message">Er du sikker på at du vil avbryte nedlastingen?</string>
   <string name="copy_install_log">Kopier</string>
-  <string name="current_version_text">Versjon i bruk： </string>
+  <string name="current_version_text">"Versjon i bruk "</string>
   <string name="current_version_update_monthly_build">Versjon. (oppdater til månedlig build)</string>
   <string name="daily_build">Daglig Build</string>
   <string name="dialog_no">Nei</string>

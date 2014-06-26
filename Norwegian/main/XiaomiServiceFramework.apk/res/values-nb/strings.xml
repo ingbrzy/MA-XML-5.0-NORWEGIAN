@@ -171,7 +171,7 @@
   <string name="find_device_error_network">Nettverk utilgjengeligt</string>
   <string name="find_device_error_server">Serverfeil</string>
   <string name="find_device_notice_p1">Hvis du mister din telefon, besøk</string>
-  <string name="find_device_notice_p2">i.xiaomi.com</string>
+  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">for å lokalisere den, låse den, eller slette data</string>
   <string name="find_device_success_title">Finn enhet aktivert</string>
   <string name="find_password_on_web_msg">Vennligst besøk account.xiaomi.com for å få ditt passord</string>
@@ -246,7 +246,7 @@ For å løse dette, kan du enten fjerne gamle filer, eller kjøpe mer lagringspl
   <string name="micloud_intro_02_part_01">Du trenger ikke å gjøre noe</string>
   <string name="micloud_intro_02_part_02">Skytjenester lar deg synke kontakter, meldinger, bilder og annen data til forskjellige mobilenheter.</string>
   <string name="micloud_intro_03_part_01">Never lose your data again and ensure that contents are secure</string>
-  <string name="micloud_intro_03_part_02">Administrer dine data og i tillegg finn, lås eller slett enhetsinnhold på i.xiaomi.com</string>
+  <string name="micloud_intro_03_part_02">Administrer dine data og i tillegg finn, lås eller slett enhetsinnhold på i.mi.com</string>
   <string name="micloud_is_what">Hva er MiCloud?</string>
   <string name="micloud_more">Lær mer</string>
   <string name="micloud_none">Ingen</string>
@@ -276,7 +276,7 @@ brukt %s | gjenværende %s"</string>
   <string name="micloud_warn_full_title">MiCloud-lagring full!</string>
   <string name="micloud_warn_low_sum">Lagringsplass er 90% brukt.</string>
   <string name="micloud_warn_low_title">Lav lagringsplass!</string>
-  <string name="micloud_web_discription_01">Logg in på http://i.xiaomi.com</string>
+  <string name="micloud_web_discription_01">Logg in på https://i.mi.com</string>
   <string name="micloud_web_discription_02">for å lagre og få tilgang til dine filer fra overalt</string>
   <string name="micloud_welcome_skip_login">Hopp over registrering</string>
   <string name="mili_center">Mi Credit</string>

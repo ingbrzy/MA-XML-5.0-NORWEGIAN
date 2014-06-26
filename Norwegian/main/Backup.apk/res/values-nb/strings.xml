@@ -246,8 +246,8 @@ for å avbryte gjenoppretting"</string>
   <string name="task_service_not_launched">Backup-tjeneste ikke startet, vennligst vent!</string>
   <string name="task_stopped_exception">Gjenoppretting avbrutt</string>
   <string name="total_num">%d totalt</string>
-  <string name="unit_byte"> Bytes</string>
-  <string name="unit_piece"> Element(er)</string>
+  <string name="unit_byte">" Bytes"</string>
+  <string name="unit_piece">" Element(er)"</string>
   <string name="unknown_hint">Ukjent</string>
   <string name="wifi_title">WiFi-innstillinger</string>
 </resources>

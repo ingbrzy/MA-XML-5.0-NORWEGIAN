@@ -93,7 +93,9 @@
   <string name="dlg_retore">Gjenopprett til meldingsapp?</string>
   <string name="dlg_retore_ok">Gjenopprett</string>
   <string name="fw_blocked">Blokkering er PÅ</string>
-  <string name="fw_blocked_count" formatted="false">Mottatt: %d anrop og %d meldinger</string>
+  <string name="fw_blocked_count">"Mottatt: "</string>
+  <string name="fw_blocked_count_call">%d anrop</string>
+  <string name="fw_blocked_count_sms">" og %d meldinger"</string>
   <string name="log_count">(%d)</string>
   <string name="tab_block_log_unKnowNumber">Ukjent nummer</string>
   <string name="user_define_title">Egendefinert</string>

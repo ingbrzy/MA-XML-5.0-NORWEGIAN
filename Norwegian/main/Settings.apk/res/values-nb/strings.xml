@@ -766,7 +766,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">2-kjerner</string>
   <string name="device_cpu4_info">4-kjerner</string>
-  <string name="device_cpu8_info">"8-kjerner"</string>
+  <string name="device_cpu8_info">8-kjerner</string>
   <string name="device_edit_title">Endre enhetensnavn</string>
   <string name="device_info_default">Ukjent</string>
   <string name="device_info_label">Enhetsinfo</string>
@@ -1191,7 +1191,7 @@ For å velge hvilken informasjon som skal synkroniseres innenfor hver konto, gå
   <string name="pref_summary_expand_cache_group">Grupper i hurtigcachen listen vil utvides som standard</string>
   <string name="pref_category_title_auto_update_cleanup_db">Database-oppryddning oppdateringsinnstillinger</string>
   <string name="pref_title_auto_update_cleanup_db">Auto-oppdater</string>
-  <string name="pref_summary_auto_update_cleanup_db">Oppdater：%s</string>
+  <string name="pref_summary_auto_update_cleanup_db">Oppdater:%s</string>
   <string name="pref_title_manual_check_cleanup_db_update">Oppdater nå</string>
   <string name="pref_category_title_garbage_cleanup_check">Oppryddningsinnstilinger</string>
   <string name="pref_title_garbage_cleanup_check_time">Forkast alarm</string>

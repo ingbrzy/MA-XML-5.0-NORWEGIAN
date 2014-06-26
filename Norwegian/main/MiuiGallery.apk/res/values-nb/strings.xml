@@ -94,7 +94,7 @@
   <string name="cloud_camera_display_name">Usortert</string>
   <string name="cloud_gallery_no_pictures">Ingen bilder på MiCloud</string>
   <string name="click_to_add_picture">Trykk for å legge til bilder</string>
-  <string name="cloud_gallery_recyclebin_full">Papirkurv er fyllt, vennligst tøm den på i.xiaomi.com.</string>
+  <string name="cloud_gallery_recyclebin_full">Papirkurv er fyllt, vennligst tøm den på i.mi.com.</string>
   <string name="cloud_gallery_space_full">Opplastning mislyktes, cloud-galleri plass fyllt</string>
   <string name="cloud_media_set_set">Cloud-album</string>
   <string name="cloud_owner_album_share_guide">Du kan dele dette albumet med venner</string>
@@ -440,7 +440,7 @@ venner."</string>
   <string name="set_screensaver_path_title">Skjermsparer-lysbildeshow</string>
   <string name="set_wallpaper">Sett som bakgrunn på skrivebordet</string>
   <string name="settings">Innstillinger</string>
-  <string name="settings_i_xiaomi_com">Logg inn på i.xiaomi.com for å håndtere dit Cloud lager</string>
+  <string name="settings_i_xiaomi_com">Logg inn på i.mi.com for å håndtere dit Cloud lager</string>
   <string name="shadow">Skygger</string>
   <string name="share_album">Del album</string>
   <string name="share_album_owner">Eier</string>
@@ -485,7 +485,7 @@ venner."</string>
   <string name="sync_only_in_wifi_summary">Anbefalt å aktivere, da det bruker datatrafikk.</string>
   <string name="system_album">System-album</string>
   <string name="tab_all_text">Satt på alle</string>
-  <string name="tab_lockscreen_text">Låseskjerm </string>
+  <string name="tab_lockscreen_text">Låseskjerm</string>
   <string name="tab_wallpaper_text">Skrivebord</string>
   <string name="tags">Tagger</string>
   <string name="taken_time">Tid tatt</string>
