@@ -78,9 +78,9 @@
   <string name="manual_input_used_traffic_hint">Tast inn brukt trafikk</string>
   <string name="manual_input_used_traffic_title">Tast inn brukt trafikkk manuellt</string>
   <string name="menu_display_system_app">Vis systemprogrammer</string>
-  <string name="menu_display_wifi">Vis Wi-Fi trafikk</string>
+  <string name="menu_display_wifi">Vis WiFi trafikk</string>
   <string name="menu_hide_system_app">Skjul systemprogrammer</string>
-  <string name="menu_hide_wifi">Skjul Wi-Fi trafik</string>
+  <string name="menu_hide_wifi">Skjul WiFi trafik</string>
   <string name="menu_new_install_app_settings">Standard innstillinger for nyinstallerede programmer</string>
   <string name="menu_refresh">Oppdater</string>
   <string name="menu_settings">Innstillinger</string>
@@ -97,7 +97,7 @@
   <string name="network_control_service_notification_text">Åpne nettverkskontroll</string>
   <string name="network_control_service_notification_title_mutiple">%1$d programmer har blitt nektet tilgang for %2$s tilkobling</string>
   <string name="network_control_service_notification_title_nettype_mobile">mobil</string>
-  <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+  <string name="network_control_service_notification_title_nettype_wifi">WiFi</string>
   <string name="network_control_service_notification_title_single">%1$s har blitt nektet for %2$s tilkobling</string>
   <string name="notify_carrier_settings_title">Du har ikke konfigurert din leverandør. Konfigurer nå?</string>
   <string name="notify_traffic_settings_cancel_hint">Notifikasjoner og trafikkovervåkning vil bli deaktivert. Avslutt nå?</string>
@@ -178,6 +178,6 @@
   <string name="widget_color_exceed_warn">\#F9882C</string>
   <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
   <string name="widget_color_used_all">\#C00203</string>
-  <string name="wifi_traffic">Wi-Fi: %s</string>
-  <string name="wifi_type">Wi-Fi</string>
+  <string name="wifi_traffic">WiFi: %s</string>
+  <string name="wifi_type">WiFi</string>
 </resources>

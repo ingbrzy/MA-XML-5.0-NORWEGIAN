@@ -68,12 +68,12 @@
         <item quantity="one">i morgen</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">Wi-Fi-nettverk tilgjengelige</item>
-        <item quantity="one">Wi-Fi-nettverk tilgjengelige</item>
+        <item quantity="other">WiFi-nettverk tilgjengelige</item>
+        <item quantity="one">WiFi-nettverk tilgjengelige</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Tilgjengelige åpne Wi-Fi-nettverk</item>
-        <item quantity="one">Tilgjengelige åpne Wi-Fi-nettverk</item>
+        <item quantity="other">Tilgjengelige åpne WiFi-nettverk</item>
+        <item quantity="one">Tilgjengelige åpne WiFi-nettverk</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d av %2$d</item>

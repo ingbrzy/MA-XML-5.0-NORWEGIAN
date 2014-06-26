@@ -230,13 +230,13 @@
   <string name="pref_content_homepage">Endre startside</string>
   <string name="move_to_up_folder">Gå et nivå opp</string>
   <string name="name">Navn</string>
-  <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi-tilkobling funnet, vil du koble til??</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">WiFi-tilkobling funnet, vil du koble til??</string>
   <string name="dont_remind_again">Husk mitt valg</string>
   <string name="use_cellular_network_alert_title">Nettverksvarsel</string>
-  <string name="use_cellular_network_alert_message">Wi-Fi ikke tilgjengelig, bruk mobilnettverk?</string>
-  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi-nettverk tilgjengelig</string>
-  <string name="network_show_wifi_setting_tip_dialog_setting_title">"Hvis du bruker mobildata for å få tilgang til internettet, vil MIUI varsle deg hvis et tilgjengelig Wi-Fi-nettverk er i nærheten"</string>
-  <string name="network_show_wifi_setting_tip_dialog_title">Lokal Wi-Fi-tilkobling tilgjengelig</string>
+  <string name="use_cellular_network_alert_message">WiFi ikke tilgjengelig, bruk mobilnettverk?</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">WiFi-nettverk tilgjengelig</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_title">"Hvis du bruker mobildata for å få tilgang til internettet, vil MIUI varsle deg hvis et tilgjengelig WiFi-nettverk er i nærheten"</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Lokal WiFi-tilkobling tilgjengelig</string>
   <string name="not_remind_again">Husk mitt valg</string>
   <string name="notif_install_successful">Nedlasting fullført</string>
   <string name="ok">OK</string>
@@ -325,7 +325,7 @@
   <string name="pref_images_preload_title">Forhåndslast bilder</string>
   <string name="pref_images_preload_value_always_summary">Alltid tillat nettleseren å forhåndslaste bilder når dette støttes av serveren</string>
   <string name="pref_images_preload_value_never_summary">Aldri tillat nettleseren å forhåndslaste bilder når dette støttes av serveren</string>
-  <string name="pref_images_preload_value_wifi_only_summary">Forhåndslast bilder kun ved bruk av Wi-Fi</string>
+  <string name="pref_images_preload_value_wifi_only_summary">Forhåndslast bilder kun ved bruk av WiFi</string>
   <string name="pref_inverted">Omvendt skjermvisning</string>
   <string name="pref_inverted_category">Omvend skjermvisning</string>
   <string name="pref_inverted_contrast">Kontrast</string>
@@ -621,7 +621,7 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
   <string name="miuichromium_error_page_title">"Kunne ikke finne denne siden"</string>
   <string name="miuichromium_error_page_reason_network">Vis lenke-URL</string>
   <string name="miuichromium_error_page_mobile">Mobilt nettverk</string>
-  <string name="miuichromium_error_page_wlan">WLAN-innstillinger</string>
+  <string name="miuichromium_error_page_wlan">WiFi-innstillinger</string>
   <string name="miuichromium_error_page_reason_server">"Denne nettleseren kan ikke laste denne siden"</string>
   <string name="miuichromium_error_page_reload">Last på nytt</string>
   <string name="miuichromium_error_page_url">Vis side-URL</string>

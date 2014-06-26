@@ -105,7 +105,7 @@
   <string name="record_downloading_notification_count">%d laster ned</string>
   <string name="record_downloading_notification_complete">Nedlasting ferdig</string>
   <string name="sync_records">Synk med Mi Cloud</string>
-  <string name="sync_only_in_wifi">Bruk bare Wi-Fi for å synke</string>
+  <string name="sync_only_in_wifi">Bruk bare WiFi for å synke</string>
   <string name="sync_only_in_wifi_summary">Opptaker vil bruke din mobildata-tilkobling for å laste ned eller laste opp opptak når dette valget er skrudd av</string>
   <string name="sync_only_in_wifi_alert">Å skru av dette valget kan øke ditt mobildata-bruk (dette kan koste deg penger).</string>
   <string name="unknown_caller">Ukjent</string>

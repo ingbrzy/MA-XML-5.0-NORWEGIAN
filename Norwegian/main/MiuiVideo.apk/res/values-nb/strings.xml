@@ -229,14 +229,14 @@
   <string name="nowifi_alert_dialog_message">Spiller av video på mobilnettverk, fortsett?</string>
   <string name="nowifi_alert_dialog_title">Varsel</string>
   <string name="offline_alert_title">Cacher varsler</string>
-  <string name="offline_alert_wifi">Du bruker et cellulært nettverk, for å spare databruk, vil all caching bli pauset og vil fortsette etter at du har byttet til et Wi-Fi-nettverk.</string>
+  <string name="offline_alert_wifi">Du bruker et cellulært nettverk, for å spare databruk, vil all caching bli pauset og vil fortsette etter at du har byttet til et WiFi-nettverk.</string>
   <string name="offline_continue">Fortsett</string>
   <string name="offline_episode">%d</string>
   <string name="offline_max_promote">Venter på cache, det kan kjøres bare 2 cacheoppgaver samtidig.</string>
   <string name="offline_media">Tilgjengelig offline</string>
   <string name="offline_media_more">Cache mer</string>
   <string name="offline_no_source">Det er ingen tilgjengelig cache-kilder</string>
-  <string name="offline_no_wifi">Du bruker ikke Wi-Fi, vennligst velg cellulær-valget i innstillinger hvis du vil cache nå.</string>
+  <string name="offline_no_wifi">Du bruker ikke WiFi, vennligst velg cellulær-valget i innstillinger hvis du vil cache nå.</string>
   <string name="offline_select_better_source">Har blitt endret til tilgjengelige cache-kilde</string>
   <string name="offline_setting">Offline media</string>
   <string name="ok">OK</string>

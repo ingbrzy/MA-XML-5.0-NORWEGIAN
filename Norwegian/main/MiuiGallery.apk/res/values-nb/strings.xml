@@ -122,7 +122,7 @@ venner."</string>
   <string name="confirm_delete_this_video">Vil du slette den valgte videoen?</string>
   <string name="confirm_delete_videos">%s videoer</string>
   <string name="confirm_download">"Du må laste ned %s. Dette tipset vil ikke bli vist igjen."</string>
-  <string name="confirm_download_video_message">Video kreves nedlastning! Nedlastning vil fortsette når en Wi-Fi-tilkobling er tilgjengelig.</string>
+  <string name="confirm_download_video_message">Video kreves nedlastning! Nedlastning vil fortsette når en WiFi-tilkobling er tilgjengelig.</string>
   <string name="confirm_download_video_title">Last ned video</string>
   <string name="contact_photo">Kontaktbilde</string>
   <string name="context_menu_add_contact">Legg til i kontakter</string>
@@ -275,7 +275,7 @@ venner."</string>
   <string name="loading_failure">Foto kan ikke lastes</string>
   <string name="loading_image">Laster ned bilde…</string>
   <string name="loading_members">Laster medlemmer...</string>
-  <string name="loading_suspend">Nedlastning pauset: Vil fortsette når Wi-Fi-tilkobling er tilgjengelig</string>
+  <string name="loading_suspend">Nedlastning pauset: Vil fortsette når WiFi-tilkobling er tilgjengelig</string>
   <string name="loading_thumbnail">Laster miniatyrer...</string>
   <string name="loading_video">Laster ned video…</string>
   <string name="local_albums">Lokale bilder</string>
@@ -480,8 +480,8 @@ venner."</string>
   <string name="sync_album_set_error">Kunne ikke laste ned listen over album. Prøv igjen senere.</string>
   <string name="sync_album_summary">Last opp bilder og skjermbilder til din MiCloud</string>
   <string name="sync_history_power_on">Synk kun bilder lastes opp</string>
-  <string name="sync_only_in_wifi">Kun Wi-Fi</string>
-  <string name="sync_only_in_wifi_alert">Slå av bare laste opp i Wi-Fi kan konsumere mer nettverkstrafikk, er du sikker på at du vil slå den av?</string>
+  <string name="sync_only_in_wifi">Kun WiFi</string>
+  <string name="sync_only_in_wifi_alert">Slå av bare laste opp i WiFi kan konsumere mer nettverkstrafikk, er du sikker på at du vil slå den av?</string>
   <string name="sync_only_in_wifi_summary">Anbefalt å aktivere, da det bruker datatrafikk.</string>
   <string name="system_album">System-album</string>
   <string name="tab_all_text">Satt på alle</string>

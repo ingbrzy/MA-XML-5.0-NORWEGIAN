@@ -59,7 +59,7 @@ OJ for å avbryte backup"</string>
   <string name="cloud_app_backup_date">"Tatt backup den "</string>
   <string name="cloud_app_backup_pending">Ventende...</string>
   <string name="cloud_app_backup_progress">Tar backup...</string>
-  <string name="cloud_app_backup_summary">Automatisk backup av programmer og brukerdata når telefonen lades og koblet til Wi-Fi</string>
+  <string name="cloud_app_backup_summary">Automatisk backup av programmer og brukerdata når telefonen lades og koblet til WiFi</string>
   <string name="cloud_app_backup_title">Ta backup i Mi Cloud</string>
   <string name="cloud_app_check_data">Spørr etter data fra Mi Cloud...</string>
   <string name="cloud_app_check_data_fail">"Kunne ikke hente data fra Mi Cloud"</string>
@@ -82,8 +82,8 @@ OJ for å avbryte backup"</string>
   <string name="cloud_app_name">Mi Cloud Backup</string>
   <string name="cloud_app_no_data">Ingen data her.</string>
   <string name="cloud_app_no_network">"Kunne ikke koble til nettverk"</string>
-  <string name="cloud_app_no_wifi">"Kunne ikke koble til Wi-Fi-nettverk"</string>
-  <string name="cloud_app_no_wifi_connect">"Kunne ikke koble til Wi-Fi-nettverk"</string>
+  <string name="cloud_app_no_wifi">"Kunne ikke koble til WiFi-nettverk"</string>
+  <string name="cloud_app_no_wifi_connect">"Kunne ikke koble til WiFi-nettverk"</string>
   <string name="cloud_app_other_devices">Andre enheter</string>
   <string name="cloud_app_remove_cancel">Avbryter…</string>
   <string name="cloud_app_remove_cancel_prompt_message">"Slett uferdig backup, trykk OK
@@ -108,10 +108,10 @@ for å avbryte gjenoppretting"</string>
   <string name="cloud_app_restore_query_error_prompt">"Klarte ikke å få data fra MiCloud. Programmer og brukerdata vil bli gjenopprettet automatisk når enheten er i stand til å koble til."</string>
   <string name="cloud_app_restore_success">Programmer gjenopprettet!</string>
   <string name="cloud_app_restore_summary">Gjenopprette tidligere installerte programmer og tilhørende brukerdata</string>
-  <string name="cloud_app_restore_wifi_prompt">Du må koble til internett ved hjelp av WLAN for å gjenopprette dine data</string>
+  <string name="cloud_app_restore_wifi_prompt">Du må koble til internett ved hjelp av WiFi for å gjenopprette dine data</string>
   <string name="cloud_app_total_size">Total MiCloud backupstørrelse: %1$s</string>
   <string name="cloud_app_version_size">Versjon: %1$s, Størrelse: %2$s</string>
-  <string name="cloud_app_wait_wifi">Venter på Wi-FI-tilkobling</string>
+  <string name="cloud_app_wait_wifi">Venter på WiFi-tilkobling</string>
   <string name="cloud_backup_hint">For å få tilgang til dine backups, logg in nå</string>
   <string name="cloud_backup_login">Logg inn med din Xiaomi-konto</string>
   <string name="cloud_backup_window_title">Mi Cloud backup</string>
@@ -129,7 +129,7 @@ for å avbryte gjenoppretting"</string>
   <string name="current_account">Nåværende konto: %s</string>
   <string name="current_sim">Nåværende SIM</string>
   <string name="customization">&lt;u&gt;Personligjør&lt;/u&gt;</string>
-  <string name="customization_under_wifi_prompt">Bare støttet ved bruk av Wi-Fi</string>
+  <string name="customization_under_wifi_prompt">Bare støttet ved bruk av WiFi</string>
   <string name="data_no_enough_space">Ikke nok intern plass</string>
   <string name="data_no_enough_space_message">gjenoppretting vil muligens mislykkes, vennligst frigjør mer plass og prøv igjen</string>
   <string name="date_format">dd/MM/yyyy - HH:mm</string>
@@ -155,7 +155,7 @@ for å avbryte gjenoppretting"</string>
   <string name="import_from_xiaomi_account_hint1">1. Start en telefon med kontakter\n\n2. Installer MiTalk og logg inn.\n http://www.miliao.com\n\n3. Gå til MiTalk innstillinger og velg ”Backup Kontakter til Xiaomi-konto”</string>
   <string name="import_from_xiaomi_account_hint2">Hvis du allerede har en backup, trykk Neste.</string>
   <string name="import_from_xiaomi_account_hint_title">Bruk MiTalk for å å ta backup av dine kontakter mellom enheter.</string>
-  <string name="just_support_op_with_wifi_connected">Bare støttet ved bruk av Wi-Fi</string>
+  <string name="just_support_op_with_wifi_connected">Bare støttet ved bruk av WiFi</string>
   <string name="local_app_name">Backup</string>
   <string name="local_backup_window_title">Lokal Data Backup</string>
   <string name="local_home_title">Lokal Backup</string>

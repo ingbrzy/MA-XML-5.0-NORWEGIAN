@@ -185,7 +185,7 @@
   <string name="cit_tool_log_ril">RIL log</string>
   <string name="cit_tool_log_toast">Log fil gemt til %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Fejlrapport kan tage op til 10 sek at oprette</string>
-  <string name="cit_tool_wifi">Wi-Fi test værktøjer</string>
+  <string name="cit_tool_wifi">WiFi test værktøjer</string>
   <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
   <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
   <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
@@ -259,14 +259,14 @@
   <string name="cit_vibrator_play_touch_pattern">Vibrationsmønster</string>
   <string name="cit_vibrator_short">Kort vibration</string>
   <string name="cit_vibrator_show_advanced">Vis avancerede muligheder</string>
-  <string name="cit_wifi_address_check_summary">Test vil vise aktuelle Wi-Fi status</string>
-  <string name="cit_wifi_address_check_title">Test Wi-Fi IP</string>
-  <string name="cit_wifi_address_error">Kunne ikke opnå Wi-Fi adresse, kontroller Wi-Fi er aktiveret og prøv igen</string>
-  <string name="cit_wifi_ap_scan_check_summary">Test vil vise en liste med tilgængelige Wi-Fi adgangspunkter</string>
-  <string name="cit_wifi_ap_scan_check_title">Test Wi-Fi adgangspunkt skanning</string>
+  <string name="cit_wifi_address_check_summary">Test vil vise aktuelle WiFi status</string>
+  <string name="cit_wifi_address_check_title">Test WiFi IP</string>
+  <string name="cit_wifi_address_error">Kunne ikke opnå WiFi adresse, kontroller WiFi er aktiveret og prøv igen</string>
+  <string name="cit_wifi_ap_scan_check_summary">Test vil vise en liste med tilgængelige WiFi adgangspunkter</string>
+  <string name="cit_wifi_ap_scan_check_title">Test WiFi adgangspunkt skanning</string>
   <string name="cit_wifi_ap_scan_retry">Skan igen</string>
   <string name="cit_wifi_ap_scanning">Søger efter adgangspunkter...</string>
-  <string name="cit_wifi_fail_to_scan">Kunne ikke finde nogen Wi-Fi netværk</string>
+  <string name="cit_wifi_fail_to_scan">Kunne ikke finde nogen WiFi netværk</string>
   <string name="cit_wifi_state_refresh">Opdater</string>
  <!-- to be transalted :
   <string name="cit_tool_log_no_sdcard">Insert SD card now</string>

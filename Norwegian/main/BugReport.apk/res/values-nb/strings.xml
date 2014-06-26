@@ -33,7 +33,7 @@
   <string name="status_msg_collecting_log">Samler inn logg...</string>
   <string name="status_msg_pending_upload">%d Tilbakemelding lastes opp...</string>
   <string name="toast_description_required">Beskrivelse er påkrevd før innsendelse</string>
-  <string name="toast_feedback_pending_wlan">Tilbakemelding vil bli sendt når Wi-Fi er tilgjengelig</string>
+  <string name="toast_feedback_pending_wlan">Tilbakemelding vil bli sendt når WiFi er tilgjengelig</string>
   <string name="toast_feedback_submitted">Tilbakemelding sendt</string>
   <string name="toast_pending_log_collection">Samler inn logger, vennligst vent...</string>
   <string name="toast_report_copied_to_clipboard">Rapport kopiert til utklippstavle</string>
@@ -42,6 +42,6 @@
   <string name="user_feedback">Tilbakemelding fra bruker</string>
   <string name="wlan_unavailable_dialog_button_ok">OK</string>
   <string name="wlan_unavailable_dialog_button_sent">Send nå</string>
-  <string name="wlan_unavailable_dialog_content">%s er påkrevd for 2G/3G data, tryk OK for å sende kun med Wi-Fi</string>
-  <string name="wlan_unavailable_dialog_title">Wi-Fi er ikke tilgjengelig</string>
+  <string name="wlan_unavailable_dialog_content">%s er påkrevd for 2G/3G data, tryk OK for å sende kun med WiFi</string>
+  <string name="wlan_unavailable_dialog_title">WiFi er ikke tilgjengelig</string>
 </resources>

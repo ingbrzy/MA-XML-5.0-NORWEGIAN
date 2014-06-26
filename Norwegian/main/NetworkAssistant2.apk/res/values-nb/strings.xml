@@ -25,7 +25,7 @@ en mobildataforbindelse"</string>
     <string name="firewall_activity_lable">Begrens databruk etter app</string>
     <string name="firewall_applist">Apper</string>
     <string name="firewall_rule_group_title_mobile">Data</string>
-    <string name="firewall_rule_group_title_wifi">WLAN</string>
+    <string name="firewall_rule_group_title_wifi">WiFi</string>
     <string name="firewall_fragment_tab_title_nonsys">Nedlastede</string>
     <string name="firewall_fragment_tab_title_sys">Apper</string>
     <string name="firewall_fragment_sys_listempty">Tom</string>
@@ -41,7 +41,7 @@ en mobildataforbindelse"</string>
     <string name="app_detail">Detalker</string>
     <string name="app_version">Versjon</string>
     <string name="app_mobile">Mobildata</string>
-    <string name="app_wifi">WLAN</string>
+    <string name="app_wifi">WiFi</string>
     <string name="traffic_none">Ingen</string>
     <string name="sorted_dialog_title">Sorter etter</string>
     <string name="cancel_button">Avbryt</string>
@@ -53,7 +53,7 @@ en mobildataforbindelse"</string>
     <string name="stop_app_button">Stopp</string>
     <string name="detail_app_button">Detaljer</string>
     <string name="force_stop_dlg_title">Begrens bakgrunnsdata</string>
-    <string name="force_stop_dlg_text">"Hvis du begrenser bakgrunnsdata, vil noen apper og tjenester slutte å fungere med mindre du er tilkoblet et WLAN-nettverk."</string>
+    <string name="force_stop_dlg_text">"Hvis du begrenser bakgrunnsdata, vil noen apper og tjenester slutte å fungere med mindre du er tilkoblet et WiFi-nettverk."</string>
     <string name="pref_about_traffic_title">Innstillinger for databruk</string>
     <string name="pref_package_traffic_normal">Maksimum: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Ekstra: %2$s</string>

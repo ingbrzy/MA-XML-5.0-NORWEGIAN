@@ -211,9 +211,9 @@ på : %1$s"</string>
   <string name="wait_login">Venter på innlogging</string>
   <string name="wait_net">Venter på nettverk</string>
   <string name="wait_sdcard">Venter på SD-kort</string>
-  <string name="wait_wifi">Venter på Wi-Fi</string>
-  <string name="wait_wifi_to_download">Venter på at Wi-Fi automatisk laster opp filer</string>
-  <string name="wait_wifi_to_upload">Venter på Wi-Fi automatisk laster opp og deler filer</string>
+  <string name="wait_wifi">Venter på WiFi</string>
+  <string name="wait_wifi_to_download">Venter på at WiFi automatisk laster opp filer</string>
+  <string name="wait_wifi_to_upload">Venter på WiFi automatisk laster opp og deler filer</string>
   <string name="waiting_receive">Venter på sender</string>
   <string name="waitting">Venter...</string>
   <string name="wanna_receive">Motta</string>

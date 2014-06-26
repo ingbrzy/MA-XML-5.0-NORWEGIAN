@@ -57,7 +57,7 @@
   <string name="paused_waiting_for_network">Venter på data-forbindelse</string>
   <string name="paused_waiting_to_retry">Venter på å prøve igjen</string>
   <string name="pref_download_settings_title">Beskjed om dataforburk</string>
-  <string name="pref_summary_any_bytes_popup">Alltid sett i kø når du bruker Wi-Fi-nettverk</string>
+  <string name="pref_summary_any_bytes_popup">Alltid sett i kø når du bruker WiFi-nettverk</string>
   <string name="pref_summary_enable_max_bytes_popup">"Vis pop-up hvis filstørrelse overskrider fastsatt grense"</string>
   <string name="pref_summary_max_bytes_limit_format">Vis pop-up hvis filstørrelse overskrider %s</string>
   <string name="pref_summary_no_limit_popup">Nedlastningstørrelse er ubegrenset</string>

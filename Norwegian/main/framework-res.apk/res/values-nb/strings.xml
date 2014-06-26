@@ -141,8 +141,8 @@ med nummeret %s"</string>
   <string name="data_usage_restricted_title">Bakgrunnsdata er begrenset</string>
   <string name="data_usage_warning_body">Trykk for å se bruk og innst.</string>
   <string name="data_usage_warning_title">Advarsel for høyt dataforbruk</string>
-  <string name="data_usage_wifi_limit_snoozed_title">Wi-Fi-datagrense overskredet</string>
-  <string name="data_usage_wifi_limit_title">Wi-Fi-data deaktivert</string>
+  <string name="data_usage_wifi_limit_snoozed_title">WiFi-datagrense overskredet</string>
+  <string name="data_usage_wifi_limit_title">WiFi-data deaktivert</string>
   <string name="date1_date2">%2$s–%5$s</string>
   <string name="date1_time1_date2_time2">%3$s %2$s–%6$s %5$s</string>
   <string name="date_and_time" formatted="false">%H:%M:%S %-e. %b %Y</string>
@@ -564,7 +564,7 @@ Prøv på nytt om %d sekunder."</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="paste">Lim inn</string>
-  <string name="permdesc_accessCoarseLocation">Få omtrentlig posisjon fra posisjonsangivere ved bruk av nettverkskilder, slik som telefonmaster og Wi-Fi. Når disse posisjonstjenestene er tilgjengelige og aktiverte, gjør denne tillatelsen at appen kan finne den omtrentlige posisjonen din.</string>
+  <string name="permdesc_accessCoarseLocation">Få omtrentlig posisjon fra posisjonsangivere ved bruk av nettverkskilder, slik som telefonmaster og WiFi. Når disse posisjonstjenestene er tilgjengelige og aktiverte, gjør denne tillatelsen at appen kan finne den omtrentlige posisjonen din.</string>
   <string name="permdesc_accessContentProvidersExternally">Lar innehaveren gå til innholdsleverandører fra kommandovinduet. Skal aldri være nødvendig for vanlige apper.</string>
   <string name="permdesc_accessFineLocation">Bruke kilder for nøyaktig posisjon på telefonen din, slik som Global Positioning System (GPS). Når posisjonstjenester er tilgjengelige og aktiverte, gjør denne tillatelsen at appen kan finne den nøyaktige posisjonen din.</string>
   <string name="permdesc_accessLocationExtraCommands">Lar appen få tilgang til flere kommandoer fra posisjonsangivere. Dette kan gjøre at appen forstyrrer GPS-funksjonen eller andre posisjonskilder.</string>
@@ -572,7 +572,7 @@ Prøv på nytt om %d sekunder."</string>
   <string name="permdesc_accessMtp">Tillater tilgang til kjerne-MTP-driver for implementering av MTP USB-protokollen.</string>
   <string name="permdesc_accessNetworkState">Lar appen se informasjon om nettverkstilkoblinger, slik som hvilke nettverk som finnes og er tilkoblet.</string>
   <string name="permdesc_accessSurfaceFlinger">Lar appen bruke grunnleggende SurfaceFlinger-funksjoner.</string>
-  <string name="permdesc_accessWifiState">Lar appen se informasjon om Wi-Fi-nettverk, f.eks. hvorvidt Wi-Fi er aktivert og navn på tilkoblede Wi-Fi-enheter.</string>
+  <string name="permdesc_accessWifiState">Lar appen se informasjon om WiFi-nettverk, f.eks. hvorvidt WiFi er aktivert og navn på tilkoblede WiFi-enheter.</string>
   <string name="permdesc_accessWimaxState">Lar appen avgjøre hvorvidt WiMAX er aktivert og finne informasjon om eventuelle tilkoblede WiMAX-nettverk.</string>
   <string name="permdesc_accountManagerService">Lar appen foreta anrop til kontoautentiseringstjenester.</string>
   <string name="permdesc_addVoicemail">Lar appen legge til meldinger i talepostkassen din.</string>
@@ -610,8 +610,8 @@ Prøv på nytt om %d sekunder."</string>
   <string name="permdesc_changeConfiguration">Lar appen endre den nåværende konfigurasjonen, som for eksempel språk eller generell skriftstørrelse.</string>
   <string name="permdesc_changeNetworkState">Lar appen endre innstillingene for nettverkstilknytning.</string>
   <string name="permdesc_changeTetherState">Lar appen endre innstillingene for nettverkstilknytning via tethering.</string>
-  <string name="permdesc_changeWifiMulticastState">"Lar appen motta pakker som sendes til alle enhetene på et Wi-Fi-nettverk ved hjelp av multikastingsadresser,  Dette bruker mer strøm enn modusen uten multikasting."</string>
-  <string name="permdesc_changeWifiState">Lar appen koble til og fra Wi-Fi-tilgangspunkter, og å gjøre endringer i enhetens konfigurasjon for Wi-Fi-nettverk.</string>
+  <string name="permdesc_changeWifiMulticastState">"Lar appen motta pakker som sendes til alle enhetene på et WiFi-nettverk ved hjelp av multikastingsadresser,  Dette bruker mer strøm enn modusen uten multikasting."</string>
+  <string name="permdesc_changeWifiState">Lar appen koble til og fra WiFi-tilgangspunkter, og å gjøre endringer i enhetens konfigurasjon for WiFi-nettverk.</string>
   <string name="permdesc_changeWimaxState">Lar appen koble telefonen til og fra WiMAX-nettverk.</string>
   <string name="permdesc_checkinProperties">Gir appen lese- og skrivetilgang til egenskaper som er lastet opp av innsjekkingstjenesten. Ikke beregnet på vanlige apper.</string>
   <string name="permdesc_clearAppCache">Lar appen frigjøre lagringsplass på telefonen ved å slette filer i katalogen for appbuffere. Tilgangen er veldig begrenset, vanligvis til systemprosesser.</string>
@@ -769,7 +769,7 @@ for kontoen %s."</string>
   <string name="permlab_accessMtp">implementer MTP-protokoll</string>
   <string name="permlab_accessNetworkState">ser nettverkstilkoblinger</string>
   <string name="permlab_accessSurfaceFlinger">få tilgang til SurfaceFlinger</string>
-  <string name="permlab_accessWifiState">ser Wi-Fi-tilkoblinger</string>
+  <string name="permlab_accessWifiState">ser WiFi-tilkoblinger</string>
   <string name="permlab_accessWimaxState">ser WiMAX-tilkoblinger</string>
   <string name="permlab_accountManagerService">fungere som kontoadministrasjonstjenesten</string>
   <string name="permlab_addVoicemail">legg til talepost</string>
@@ -808,7 +808,7 @@ for kontoen %s."</string>
   <string name="permlab_changeNetworkState">endre nettverkskonnektivitet</string>
   <string name="permlab_changeTetherState">endre tilknytningsoppsett</string>
   <string name="permlab_changeWifiMulticastState">tillat multicast for trådløse nettverk</string>
-  <string name="permlab_changeWifiState">kobler til og fra Wi-Fi</string>
+  <string name="permlab_changeWifiState">kobler til og fra WiFi</string>
   <string name="permlab_changeWimaxState">Endre WiMAX-status</string>
   <string name="permlab_checkinProperties">få tilgang til egenskaper for innsjekking</string>
   <string name="permlab_clearAppCache">slette alle bufferdata for apper</string>
@@ -1215,19 +1215,19 @@ Vil du lukke den?"</string>
   <string name="week">uke</string>
   <string name="weeks">uker</string>
   <string name="whichApplication">Fullfør med</string>
-  <string name="wifi_available_sign_in">Pålogging til Wi-Fi-nettverk</string>
-  <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
+  <string name="wifi_available_sign_in">Pålogging til WiFi-nettverk</string>
+  <string name="wifi_p2p_dialog_title">WiFi Direct</string>
   <string name="wifi_p2p_enabled_notification_message">Berør for å se innstillinger</string>
-  <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct er slått på</string>
+  <string name="wifi_p2p_enabled_notification_title">WiFi Direct er slått på</string>
   <string name="wifi_p2p_enter_pin_message">Skriv inn påkrevd PIN-kode:</string>
-  <string name="wifi_p2p_failed_message">Kunne ikke starte Wi-Fi Direct.</string>
+  <string name="wifi_p2p_failed_message">Kunne ikke starte WiFi Direct.</string>
   <string name="wifi_p2p_from_message">Fra:</string>
   <string name="wifi_p2p_invitation_sent_title">Invitasjonen er sendt</string>
   <string name="wifi_p2p_invitation_to_connect_title">Invitasjon for tilkobling</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Til:</string>
-  <string name="wifi_p2p_turnon_message">Start Wi-Fi Direct. Dette deaktiverer Wi-Fi-klienten/-sonen.</string>
-  <string name="wifi_watchdog_network_disabled">Kan ikke koble til Wi-Fi</string>
+  <string name="wifi_p2p_turnon_message">Start WiFi Direct. Dette deaktiverer WiFi-klienten/-sonen.</string>
+  <string name="wifi_watchdog_network_disabled">Kan ikke koble til WiFi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" har en dårlig Internett-tilkobling."</string>
   <string name="year">år</string>
   <string name="years">år</string>

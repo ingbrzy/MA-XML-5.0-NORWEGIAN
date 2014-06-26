@@ -442,7 +442,7 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi.”</string>
   <string name="to_label">"Til "</string>
   <string name="to_send_wrapper">Sendes: %s</string>
   <string name="toast_description_required">Tilbakemelding kreves for å sende</string>
-  <string name="toast_feedback_finish">Din rapport vil bli sendt automatisk når du kobler til et Wi-Fi-nettverk</string>
+  <string name="toast_feedback_finish">Din rapport vil bli sendt automatisk når du kobler til et WiFi-nettverk</string>
   <string name="toast_feedback_max">"Du kan ikke sende mer en 3 rapporter om dagen"</string>
   <string name="toast_feedback_start">Sender tilbakemeldingdata…</string>
   <string name="too_many_attachments">Max %1$s vedlegg. Kun de første %2$s vil bli lagt til.</string>

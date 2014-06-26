@@ -15,9 +15,9 @@
         <item>I går (Data)</item>
         <item>I dag (Data)</item>
         <item>Denne måneden (Data)</item>
-        <item>I går WLAN</item>
-        <item>I dag WLAN</item>
-        <item>Denne måneden WLAN</item>
+        <item>I går WiFi</item>
+        <item>I dag WiFi</item>
+        <item>Denne måneden WiFi</item>
     </string-array>
     <string-array name="date_of_app">
         <item>I går (Data)</item>
@@ -35,7 +35,7 @@
     </string-array>
     <string-array name="traffic_sort_type">
         <item>Databruk</item>
-        <item>WLAN-bruk</item>
+        <item>WiFi-bruk</item>
         <item>Total bruk</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">

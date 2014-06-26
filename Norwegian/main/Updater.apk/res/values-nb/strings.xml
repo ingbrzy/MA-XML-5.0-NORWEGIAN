@@ -170,8 +170,8 @@ Over %2$s brukere har oppdatert til MIUI %3$s"</string>
   <string name="view_install_log">Se Logg</string>
   <string name="view_upgrade_tutorial">Vis</string>
   <string name="weekly_build">Ukentlig Build</string>
-  <string name="wifi_not_available_body">"Det er best å laste ned MIUI-oppdateringer over en Wi-Fi-tilkobling, siden disse filene pleier å være store og bruker mye mobildata."</string>
-  <string name="wifi_not_available_title">"Du er ikke tilkoblet Wi-Fi"</string>
+  <string name="wifi_not_available_body">"Det er best å laste ned MIUI-oppdateringer over en WiFi-tilkobling, siden disse filene pleier å være store og bruker mye mobildata."</string>
+  <string name="wifi_not_available_title">"Du er ikke tilkoblet WiFi"</string>
   <string name="worst_update">Verste update</string>
   <string name="share_update_content_unsign">"Jeg har oppdatert MIUI til %1$s! For en detaljert endringslogg, gå til %2$s"</string>
 </resources>

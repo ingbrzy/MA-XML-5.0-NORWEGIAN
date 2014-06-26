@@ -630,8 +630,8 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="no_vm_number">Manglende mobilsvarnummer</string>
   <string name="no_vm_number_msg">Det er ikke lagret noe mobilsvarnummer på SIM-kortet.</string>
   <string name="no_voip">Internettanrop støttes ikke</string>
-  <string name="no_wifi_available">Du må ha forbindelse til et Wi-Fi-nettverk for internettanrop (bruk innstillinger for trådløs og nettverk)</string>
-  <string name="no_wifi_available_title">Ingen Wi-FI-forbindelse</string>
+  <string name="no_wifi_available">Du må ha forbindelse til et WiFi-nettverk for internettanrop (bruk innstillinger for trådløs og nettverk)</string>
+  <string name="no_wifi_available_title">Ingen WiFi-forbindelse</string>
   <string name="not_a_valid_port">Portnummeret må være mellom 1000 og 65534</string>
   <string name="not_allowed">SIM-kortet ditt tillater ikke tilkobling til dette nettverket.</string>
   <string name="not_connected_miui">"Koblet ikke til"</string>
@@ -705,7 +705,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="ota_listen">Følg taleveiledningen, inntil du hører, at aktiveringen er gjennomført.</string>
   <string name="ota_next">Neste</string>
   <string name="ota_progress">Vent, mens din telefon blir programmert.</string>
-  <string name="ota_skip_activation_dialog_message">Hvis du hopper over aktiveringen, kan du ikke foreta anrop eller opprette forbindelse til mobildatanettverk (du kan dog godt opprette forbindelse til Wi-Fi-nettverk). Du vil bli bedt om å aktivere din telefon, hver gang du slår den på, inntil du gjør det.</string>
+  <string name="ota_skip_activation_dialog_message">Hvis du hopper over aktiveringen, kan du ikke foreta anrop eller opprette forbindelse til mobildatanettverk (du kan dog godt opprette forbindelse til WiFi-nettverk). Du vil bli bedt om å aktivere din telefon, hver gang du slår den på, inntil du gjør det.</string>
   <string name="ota_skip_activation_dialog_skip_label">Hopp over</string>
   <string name="ota_skip_activation_dialog_title">Hopp over aktivering?</string>
   <string name="ota_spc_failure">FOR MANGE SPC-FEIL</string>
@@ -823,7 +823,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="registration_status_failed_try_later">Registreringen av konto mislyktes: (%s). Vi prøver igjen senere.</string>
   <string name="registration_status_invalid_credentials">Registreringen av konto mislyktes: feil brukernavn eller adgangskode</string>
   <string name="registration_status_no_data">Kontoregistreringen ble avbrutt, fordi det ikke er noen internettforbindelse</string>
-  <string name="registration_status_no_wifi_data">Kontoregistreringen ble avbrutt, fordi det ikke er noen Wi-Fi-forbindelse</string>
+  <string name="registration_status_no_wifi_data">Kontoregistreringen ble avbrutt, fordi det ikke er noen WiFi-forbindelse</string>
   <string name="registration_status_not_receiving">Mottar ikke anrop</string>
   <string name="registration_status_not_running">Registreringen av konto mislyktes</string>
   <string name="registration_status_registering">Registrerer...</string>
@@ -949,7 +949,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="sip_call_options_entry_3">Spør ved hvert anrop</string>
   <string name="sip_call_options_title">Benytt internettanrop</string>
   <string name="sip_call_options_wifi_only_entry_1">Gjelder alle anrop</string>
-  <string name="sip_call_options_wifi_only_title">Benytt internettanrop (kun Wi-Fi)</string>
+  <string name="sip_call_options_wifi_only_title">Benytt internettanrop (kun WiFi)</string>
   <string name="sip_edit_new_title">Opplysninger om SIP-konto</string>
   <string name="sip_edit_title">Opplysninger om SIP-konto</string>
   <string name="sip_menu_add">Legg til</string>

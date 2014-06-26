@@ -89,7 +89,7 @@
   <string name="HIPS_Perm_Network_Recv">Motta data</string>
   <string name="HIPS_Perm_Network_Send">Send data</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Ukjent adresse</string>
-  <string name="HIPS_Perm_Network_WIFIEvent">Anventer Wi-Fi nettverk</string>
+  <string name="HIPS_Perm_Network_WIFIEvent">Anventer WiFi nettverk</string>
   <string name="HIPS_Perm_PhoneID">Telefon ID</string>
   <string name="HIPS_Perm_PhoneID_Desc">Få din telefon-id, inkludert IMEI, IMSI, osv</string>
   <string name="HIPS_Perm_PhoneID_Hint">%1$s programmer får lov til å få din telefon-id</string>

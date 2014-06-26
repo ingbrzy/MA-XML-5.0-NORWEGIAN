@@ -24,7 +24,7 @@
   <string name="accessibility_menu">Meny</string>
   <string name="accessibility_no_data">Ingen data.</string>
   <string name="accessibility_no_phone">Ingen telefon.</string>
-  <string name="accessibility_no_wifi">Ingen Wi-Fi.</string>
+  <string name="accessibility_no_wifi">Ingen WiFi.</string>
   <string name="accessibility_no_wimax">Ingen WiMAX.</string>
   <string name="accessibility_notifications_button">Varsler.</string>
   <string name="accessibility_phone_four_bars">Telefon fire stolper.</string>
@@ -40,10 +40,10 @@
   <string name="accessibility_rotation_lock_off">Skjerm vil rotere automatisk.</string>
   <string name="accessibility_settings_button">Systeminnstillinger.</string>
   <string name="accessibility_tty_enabled">TeleTypewriter aktivert.</string>
-  <string name="accessibility_wifi_one_bar">Wi-Fi en stolpe.</string>
+  <string name="accessibility_wifi_one_bar">WiFi en stolpe.</string>
   <string name="accessibility_wifi_signal_full">WiFi signal full.</string>
-  <string name="accessibility_wifi_three_bars">Wi-Fi tre stolper.</string>
-  <string name="accessibility_wifi_two_bars">Wi-Fi to stolper.</string>
+  <string name="accessibility_wifi_three_bars">WiFi tre stolper.</string>
+  <string name="accessibility_wifi_two_bars">WiFi to stolper.</string>
   <string name="accessibility_wimax_one_bar">WiMAX en stolpe.</string>
   <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
   <string name="accessibility_wimax_three_bars">WiMAX tre stolper.</string>
@@ -231,8 +231,8 @@
   <string name="status_bar_settings_notifications">Varsler</string>
   <string name="status_bar_settings_settings_button">Inbstillinger</string>
   <string name="status_bar_settings_signal_meter_disconnected">Ingen Internett-forbindelse</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi tilkoblet</string>
-  <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">WiFi tilkoblet</string>
+  <string name="status_bar_settings_wifi_button">WiFi</string>
   <string name="status_bar_style_settings">Statuslinje innnstillinger</string>
   <string name="status_bar_and_notification_bar">Varselskygge og statuslinjen</string>
   <string name="status_bar_toggle_ac">Adgang</string>
@@ -261,7 +261,7 @@
   <string name="status_bar_toggle_syncing">Synkroniserer</string>
   <string name="status_bar_toggle_torch">Lykt</string>
   <string name="status_bar_toggle_vibrate">Vibrer</string>
-  <string name="status_bar_toggle_wifi">Wi-Fi</string>
+  <string name="status_bar_toggle_wifi">WiFi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_use_physical_keyboard">Bruk fysisk tastatur</string>
   <string name="tab_notifications_lable">Varsler</string>
