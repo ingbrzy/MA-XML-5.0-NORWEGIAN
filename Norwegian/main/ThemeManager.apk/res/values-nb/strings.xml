@@ -62,6 +62,7 @@
   <string name="resource_account_login_title">Logg inn</string>
   <string name="resource_account_switch">Bytt konto</string>
   <string name="resource_alarm_default">Alarm</string>
+  <string name="resource_allow">Tillat</string>
   <string name="resource_app_name">Elementleser</string>
   <string name="resource_apply">Bruk</string>
   <string name="resource_apply_trial">Prøv nå</string>
@@ -101,6 +102,8 @@
   <string name="resource_comment_upload_hint">Kommentarer vil bli vist etter at de er godkjent.</string>
   <string name="resource_comment_upload_not_bought">Du skal ha brukt temaet først, før du kan kommentere det.</string>
   <string name="resource_comment_upload_not_logined">Vennligst logg inn først</string>
+  <string name="resource_connect_network_message">Tillater du denne appen å koble til nettverket?</string>
+  <string name="resource_connect_network_settings">Varsel hver gang når nettverk brukes</string>
   <string name="resource_comment_upload_success">Kommentar innsendt! Den vil bli vist etter godkjennelse</string>
   <string name="resource_default">Standard ringetone</string>
   <string name="resource_default_name">Element</string>
@@ -174,6 +177,7 @@
   <string name="resource_ranking">Populær</string>
   <string name="resource_ranking_free">Gratis</string>
   <string name="resource_ranking_purchase">Betalt</string>
+  <string name="resource_remind_another_time">"Ikke påminn meg"</string>
   <string name="resource_ringtone_default">Ringetoner</string>
   <string name="resource_ringtone_playing_error">avspillingsfeil</string>
   <string name="resource_ringtone_volume_mute">Ringetonevolum dempet</string>

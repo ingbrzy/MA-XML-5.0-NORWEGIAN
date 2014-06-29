@@ -21,8 +21,11 @@
   <string name="add_video">Legg til video</string>
   <string name="adding_attachments">Vennligst vent mens filene legges til lydbildeshowet...</string>
   <string name="adding_attachments_title">Legg til vedlagte filer...</string>
-  <string name="adding_recipients">Legg til mottakere…</string>
+  <string name="adding_recipients">Legger til mottakere…</string>
+  <string name="alert_dlg_cancel_button">Avbryt</string>
+  <string name="alert_dlg_ok_button">OK</string>
   <string name="app_label">Meldinger</string>
+  <string name="app_name">Enhetshåndtering</string>
   <string name="attach_image">Bilder</string>
   <string name="attach_record_sound">Spill inn lyd</string>
   <string name="attach_record_video">Spill inn video</string>
@@ -64,6 +67,8 @@
   <string name="confirm_delete_message">Meldingen vil bli slettet.</string>
   <string name="confirm_dialog_locked_title">Slett låst melding?</string>
   <string name="confirm_dialog_title">Slett</string>
+  <string name="confirm_dlg__msg">CMCC varsel: CMCC gratis post-tjeneste vil ikke bli gitt hvis du avbryter tjenesten. Er du sikker på at du vil avbryte?</string>
+  <string name="confirm_dlg_title">Enhetshåndtering</string>
   <string name="confirm_export_dialog_description">Fjern valgte private kontakt, tråden vil bli flyttet til de normale meldingene. Vil du fortsette?</string>
   <string name="confirm_export_dialog_title">Fjern privat kontakt</string>
   <string name="confirm_no_block_positive">"Ikke blokker og gjenopprett"</string>
@@ -172,6 +177,7 @@
   <string name="loading_all_messages">Laster inn alle meldinger...</string>
   <string name="loading_conversations">Laster inn samtaler...</string>
   <string name="loading_mms">Laster inn MMS…</string>
+  <string name="manage_permission_app_label">Enhethåndtering tillatelse</string>
   <string name="me">Meg</string>
   <string name="menu_compose_new">Ny</string>
   <string name="menu_delete_messages">Slett meldinger</string>
@@ -377,6 +383,12 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi.”</string>
   <string name="select_recipient">Velg mottaker</string>
   <string name="select_top_text">Tekst på toppen</string>
   <string name="send">Send</string>
+  <string name="send_message_dlg_check_hint">Husk mitt valg</string>
+  <string name="send_message_dlg_mgs">CMCC varsel: Vi må registere enheten din til enhetshåndteringsplatformen for å tilby gratis post-tjeneste (Post-tjeneste er en platform av CMCC, som kan håndtere terminalenheter. Den tilbyr deg en tjeneste for å fjernhåndtere innstillinger og appoppdateringer.). En gratis melding med enhetsinformasjon vil bli sendt for registering. Denne meldingen vil bare bli sendt en gang og inneholder ingen personlig informasjon (Ikke send i Hong Kong, Macao, Taiwin og ived nternasjonal roaming. Velg "OK" for å akseptere registrering og bruk av tjenesten. Velg "Avbryt" for å gi opp og ingen tjeneste vil bli tilbudt fra CMCC.</string>
+  <string name="send_message_dlg_title">Enhetshåndtering</string>
+  <string name="send_message_notification_msg">Forspørsel om tillatelse for sending av meldingen for enhetshåndtering</string>
+  <string name="send_message_notification_tickerText">Tillatelsesforespørsel for enhetshåndtering</string>
+  <string name="send_message_notification_title">Enhetshåndtering</string>
   <string name="send_signature_confirm_dialog_message">Ikke noe innhold i meldingen, er du sikker på at du vil sende?</string>
   <string name="send_signature_confirm_dialog_title">Bekreft sending</string>
   <string name="send_sms">Send melding</string>

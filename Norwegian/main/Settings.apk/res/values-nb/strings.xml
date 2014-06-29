@@ -2444,6 +2444,8 @@ Forsøk gjenstående :"</string>
   <string name="title_data_flow_no">Databrukmonitor av</string>
   <string name="title_data_flow_yes">Databrukmonitor på</string>
   <string name="title_dolby_control">Dolby mobilkontroll</string>
+  <string name="title_font">Skrift</string>
+  <string name="title_font_current">Bruker</string>
   <string name="title_font_size">Skriftstørrelse</string>
   <string name="title_install_virus_no">Installeringsmonitor av</string>
   <string name="title_install_virus_yes">Installeringsmonitor på</string>
