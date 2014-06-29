@@ -212,8 +212,11 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Glemt mønsterpassord&lt;/u&gt;</string>
   <string name="login">Logg inn</string>
   <string name="memu_refresh">Last på nytt</string>
+  <string name="mibi_license_checkbox_prompt">"Ikke påminn meg igjen"</string>
   <string name="mibi_license_message">"Du er i ferd med å bruke Mi Credit, som er en tjeneste tilbudt av Xiaomi Inc. Før du bruker denne tjenesten, må du godkjenne vilkår for bruk oppgitt i %1$s.</string>
   <string name="mibi_license_message_span">MiCredit-betingelser</string>
+  <string name="mibi_license_net_prompt_message">Bruk av MiCredit-appen kan øke ditt dataforbuk.</string>
+  <string name="mibi_license_net_prompt_title">Internett-tilkobling kreves</string>
   <string name="btn_agree">Godkjenn</string>
   <string name="mibi_license_title">Betingelser og vilkår</string>
   <string name="mili_center">MiCredit</string>
@@ -328,13 +331,15 @@ Vi vil sjekke igjen innen to arbeidsdager."</string>
   <string name="title_giftcard">Promoteringer</string>
   <string name="title_lockpattern">Mønsterlås kreves</string>
   <string name="title_mili_center">MiCredits</string>
-  <string name="title_myaccount">Mi-konto: %s</string>
+  <string name="title_myaccount">Min konto: %s</string>
+  <string name="title_need_prompt">Varsle meg når appen åpnes, og dermed kobler til internett</string>
   <string name="title_nopassword">"Ikke krev for små betalinger"</string>
   <string name="title_nopassword_dialog">Daglig grense</string>
   <string name="title_password">Passord</string>
   <string name="title_password_threshold">Daglig grense = %1$s yuan</string>
   <string name="title_pay">Betal med MiCredits</string>
   <string name="title_pay_record">Betalingshistorikk</string>
+  <string name="title_prompt">Varsler</string>
   <string name="title_recharge">Fyll opp MiCredit</string>
   <string name="title_recharge_record">Oppfyllingshistorikk</string>
   <string name="title_transaction">Transaksjoner</string>

@@ -85,6 +85,7 @@
   <string name="day">Dag</string>
   <string name="declaration">Vilkår for bruk</string>
   <string name="declaration_content">Aksepterer du vilkårene for bruk fastsatt av Sohu Video, iQiyi, og andre leverandører av videoinnhold?</string>
+  <string name="declaration_content_short">Aksepterer du vilkårene for bruk fastsatt av Sohu Video, iQiyi og andre leverandører av videotjenester?</string>
   <string name="delete">Slett</string>
   <string name="delete_media">Slett</string>
   <string name="delete_media_content">Slett dette elementet?</string>
@@ -109,6 +110,14 @@
   <string name="end_live_status">Kringkastingen er avsluttet</string>
   <string name="episode_prefix">"episode "</string>
   <string name="episode_suffix">Sett</string>
+  <string name="failed_text">kan ikke hente sertifikat, prøv på nytt!</string>
+  <string name="failed_text_11">verifisering feilet! prøv på nytt!</string>
+  <string name="failed_text_21">filmen du prøver å spille er ikke online, vennligst prøv igjen senere!</string>
+  <string name="failed_text_49">kontoen kan ikke kjøpe denne filmen, kan ikke spille, du kan kjøpe den i torden kino</string>
+  <string name="failed_text_502">ønskede film er ikke lenger tilgjengelig</string>
+  <string name="failed_text_708">the number of terminal is too many, please play it on the terminal you play ever</string>
+  <string name="failed_text_parse_file">error! wrong file format</string>
+  <string name="failed_title">OBS</string>
   <string name="favorite">Merk med stjerne</string>
   <string name="favorited_cannot_hide">"Kan ikke skjule stjernemerkede elementer"</string>
   <string name="fenghuang">iFeng</string>
@@ -128,6 +137,7 @@
   <string name="fullscreen_to_play">Fullskjerm</string>
   <string name="funshion">Funshion</string>
   <string name="gong_count_dlna">%d DLNA</string>
+  <string name="gong_count_netdevice">%d nettenheter</string>
   <string name="visit_postfix">| nylig besøkende</string>
   <string name="gong_count_xiang">%d videoer</string>
   <string name="good">OK</string>
@@ -206,6 +216,7 @@
   <string name="myfavorite">Stjernemerkede</string>
   <string name="myfavorite_onlylocal">Stjernemerkede</string>
   <string name="netease">NetEase</string>
+  <string name="net_device_name">nettenhet</string>
   <string name="network_setting">Nettverk</string>
   <string name="no_comment_tip">"Kan ikke sende en tom kommentar"</string>
   <string name="no_favorite">Ingen favoritter</string>
@@ -240,6 +251,7 @@
   <string name="offline_select_better_source">Har blitt endret til tilgjengelige cache-kilde</string>
   <string name="offline_setting">Offline media</string>
   <string name="ok">OK</string>
+  <string name="ok_no_more">OK og ingen flere spørsmål</string>
   <string name="online_video">Online</string>
   <string name="open_camera">Kamera</string>
   <string name="other_setting">Andre</string>
@@ -282,6 +294,8 @@
   <string name="select_media_source">Velg videokilde</string>
   <string name="series_colon">"Episoder: "</string>
   <string name="setting">Innstillinger</string>
+  <string name="setting_use_network">Bruk nettverk</string>
+  <string name="setting_use_network_summery">Videoprogrammet vil bruke datatrafikk</string>
   <string name="show_hidemedia">Vis skjulte filer</string>
   <string name="sina">Sina</string>
   <string name="souhu">Souhu</string>
@@ -294,6 +308,7 @@
   <string name="success_cancel_myfavorite">Ikke stjernemerkede</string>
   <string name="success_cancel_waitfornewset">Følging avsluttet</string>
   <string name="success_to_cancel_myfavorite">Avbrutt</string>
+  <string name="sure">OK</string>
   <string name="tags_colon">"Sjanger: "</string>
   <string name="temp_play_history_button_label">Vis historikk over avspilling</string>
   <string name="tencent">Tencent</string>

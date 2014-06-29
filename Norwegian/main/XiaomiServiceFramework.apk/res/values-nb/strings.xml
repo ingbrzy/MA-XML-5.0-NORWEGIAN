@@ -152,11 +152,12 @@
   <string name="sync_sub_2_intl_sms">2 tekstmeldinger vil bli sendt for å aktivere dine SIM-kort (internasjonale priser gjelder)</string>
   <string name="sync_sub_1_sms_1_intl_sms">2 tekstmeldinger vil bli sendt for å aktivere dine SIM-kort (innenriks og internasjonale operatørpriser gjelder)</string>
   <string name="enable_sync_dspt">Synk er av</string>
-  <string name="error_dup_phone">Telefon registrert</string>
+  <string name="error_device_id">"Kan ikke hente IMEI"</string>
+  <string name="error_dup_phone">Dette telefonnummeret er allerede assosiert med en annen konto</string>
   <string name="error_invalid_dev_id">Enhets-ID er ugyldig</string>
   <string name="error_network">Nettverksfeil</string>
   <string name="error_no_sms_service">SMS tjeneste ikke tilgjengelig</string>
-  <string name="error_phone_error">Ugyldig telefonnummerr</string>
+  <string name="error_phone_error">Ugyldig telefonnummer</string>
   <string name="error_server">Serverfeil</string>
   <string name="error_sim_not_ready">SIM ikke klar</string>
   <string name="error_unknown">Ukjent feil: %1$s</string>

@@ -170,6 +170,7 @@
   <string name="st_message_SMSpass">Tilatt meldinger</string>
   <string name="st_message_phonepass">Tillat anrop</string>
   <string name="SMSpass">Tilatt meldinger</string>
+  <string name="ad_block_hint">%d blokkert</string>
   <string name="Phonepass">Tillat anrop</string>
   <string name="st_message_SMS_AntiSpam">Blokker meldinger</string>
   <string name="st_message_phone_AntiSpam">Blokker anrop</string>
@@ -233,8 +234,10 @@
   <string name="AD_Info">Adware plug-in</string>
   <string name="AD_Info_Hint">Adware brukes av tredjepartsselskaper for å sende reklame til enheten din.</string>
   <string name="ad_relative_setting">Flere innstillinger</string>
+  <string name="ad_single_block_hint">Blokkert</string>
   <string name="ad_install_monitor">Installasjonsovervåking</string>
   <string name="ad_install_monitor_hint">Sjekk etter adware under installering av apper</string>
+  <string name="ad_permission_hint">"Bruk av reklameblokkering kan påvirke ytelsen til appene dine eller forhindre dem fra å virke korrekt."</string>
   <string name="ad_update_setting">Oppdater innstillinger for reklameblokkering</string>
   <string name="ad_update_title">Auto-oppdatering</string>
   <string name="ad_update_time">Sist oppdatert: %s</string>

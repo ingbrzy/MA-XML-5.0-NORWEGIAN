@@ -54,10 +54,15 @@
   <string name="copy_number">Kopier telefonnummer</string>
   <string name="create_an_account_desc">"Kalender fungerer bedre med en Google-konto.
 
-• Få adgang til den fra enhver webbrowser
+• Få adgang til den fra enhver nettleser
 • Sikkerhetskopier dine hendelser på sikkert vis"</string>
   <string name="creating_event">Hendelsen er opprettet.</string>
   <string name="creating_event_with_guest">Invitasjonene er sendt.</string>
+  <string name="cta_notice_checkbox">"Ikke vis meg dette igjen"</string>
+  <string name="cta_notice_message">\"Bursdagspåminnelse\" i Kalender vil påminne deg om bursdagene til kontaktene dine på forhind, men vil få tilgang til kontaktene dine. Tillat?</string>
+  <string name="cta_notice_ok">OK</string>
+  <string name="cta_notice_title">Påminn</string>
+  <string name="cta_notify_settings">Påminn meg når jeg åpner kontakter</string>
   <string name="custom">Tilpasset (kan ikke tilpasses på telefon)</string>
   <string name="daily">Daglig</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>

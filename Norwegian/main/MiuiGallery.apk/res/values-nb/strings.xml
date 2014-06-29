@@ -59,7 +59,8 @@
   <string name="big_screen_alertdialog_title">Projekteringsenhet</string>
   <string name="bigscreen_slide_exit">Avbryt presentasjon</string>
   <string name="bigscreen_slide_fail_cause_loading">Vennligst start presentasjon etter bildet er lastet.</string>
-  <string name="bigscreen_video_quit">Trykk for å avbryte avspilling av video</string>
+  <string name="bigscreen_slide_playing">Lysbildevisning spiller på enheten: %s</string>
+  <string name="bigscreen_video_quit">Trykk for å avslutte</string>
   <string name="browse_category">Bla gjennom bilder</string>
   <string name="by_email">E-post</string>
   <string name="by_others">Av andre</string>
@@ -110,14 +111,22 @@ venner."</string>
   <string name="cloudfolder_contain_invalidate_char">"Mappenavn kan ikke inneholde '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Vennligst skriv ett mappenavn.</string>
   <string name="cloudfolder_name_reserved">Mappenavn er reservert.</string>
-  <string name="comfirm_delete_current_album">Slett gjeldende album?</string>
+  <string name="comfirm_delete_current_album">Slett dette albumet?</string>
   <string name="confirm">OK</string>
-  <string name="confirm_delete">Er du sikker på at du vil slette %s valgte filer?</string>
-  <string name="confirm_delete_album" formatted="false">Er du sikker på du vil slette %s albumer (inklusiv %s elementer)?</string>
-  <string name="confirm_delete_home_merge_item">Slett %s bilde(r) i lokalt og i skyen?</string>
+  <string name="confirm_delete">Slett %s bilder?</string>
+  <string name="confirm_delete_album" formatted="false">Slett %s album (%s elementer) totalt?</string>
+  <string name="confirm_delete_has_cloud_image">Slett %s bilder i &lt;b&gt;skyen&lt;/b&gt;?</string>
+  <string name="confirm_delete_has_cloud_image_video">Slett %s elementer i &lt;b&gt;skyen&lt;/b&gt;?</string>
+  <string name="confirm_delete_has_cloud_local_image">Slett %s bilder &lt;b&gt;lokalt og i skyen&lt;/b&gt;?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">Delete %s items in &lt;b&gt;local and cloud&lt;/b&gt;?</string>
+  <string name="confirm_delete_has_cloud_local_video">Slett %s videoer &lt;b&gt;lokalt og i skyen&lt;/b&gt;?</string>
+  <string name="confirm_delete_has_cloud_video">Slett %s videoer i &lt;b&gt;skyen&lt;/b&gt;?</string>
+  <string name="confirm_delete_home_merge_item">Slett %s bilde(r) lokalt og i skyen?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s bilder fra %s album, bekreft sletting?</string>
-  <string name="confirm_delete_pictures">%s bilder</string>
-  <string name="confirm_delete_system_album">%s er et system album, er du sikker på at du vil slette?</string>
+  <string name="confirm_delete_init_message">Bildet vil bli slettet fra denne enheten og fra MiCloud i tilegg. Hvis du bare vil slette lokalt, vennligst gå til mappen Lokal.</string>
+  <string name="confirm_delete_init_title">Hint</string>
+  <string name="confirm_delete_pictures">Slett %s bilder</string>
+  <string name="confirm_delete_system_album">%s er et systemalbum.</string>
   <string name="confirm_delete_this_picture">Vil du slette det valgte bildet?</string>
   <string name="confirm_delete_this_video">Vil du slette den valgte videoen?</string>
   <string name="confirm_delete_videos">%s videoer</string>
@@ -182,7 +191,10 @@ venner."</string>
   <string name="long_press_to_refocus">Fortsett å trykke for å fokusere på nytt</string>
   <string name="ubifocus_data_missing">Noe data er tapt</string>
   <string name="ubifocus_map_error">Noe data er feil</string>
-  <string name="ubifocus_refocus_fail_tip">Kan ikke foksuere på nytt på grunn av tapt eller feil data</string>
+  <string name="ubifocus_refocus_fail_tip">Kan ikke fokusere på nytt på grunn av tapt eller feil data</string>
+  <string name="ubifocus_refocus_data_missing">Kan ikke fokusere på nytt på grunn av tapt data</string>
+  <string name="ubifocus_refocus_download_tip">Vennligst last ned refokus data før du fokuserer på nytt</string>
+  <string name="ubifocus_refocus_map_error">Kan ikke fokusere på nytt på grunn av feil data</string>
   <string name="error_repeat_apply">Dette albumet er allerede delt med deg</string>
   <string name="error_share_with_creator">Du er allerede et medlem av dette albumet</string>
   <string name="error_should_not_select_image">Advarsel: velg ikke en bildefil.</string>
@@ -431,14 +443,14 @@ venner."</string>
   <string name="set_label_all_albums">Alle album</string>
   <string name="set_label_local_albums">Lokale albums</string>
   <string name="set_label_mtp_devices">MTP enheter</string>
-  <string name="set_lock_and_wallpaper">Endrer bakgrunn...</string>
+  <string name="set_lock_and_wallpaper">Endrer bakgrunn…</string>
   <string name="set_lock_or_wallpaper">Sett som bakgrunn</string>
-  <string name="set_lockscreen">Sett som bakgrunnpå låseskjerm</string>
+  <string name="set_lockscreen">Endrer bakgrunn…</string>
   <string name="set_recent_album">Sett som favoritt-album</string>
   <string name="set_screensaver_path_message">Dette albumet vil bli vist 5 sekunder etter skjermen skrus av.</string>
   <string name="set_screensaver_path_message_if_only_charging">Bildene i dette albumet vises i skjermsparer når telefonen lades.</string>
   <string name="set_screensaver_path_title">Skjermsparer-lysbildeshow</string>
-  <string name="set_wallpaper">Sett som bakgrunn på skrivebordet</string>
+  <string name="set_wallpaper">Endrer bakgrunn…</string>
   <string name="settings">Innstillinger</string>
   <string name="settings_i_xiaomi_com">Logg inn på i.mi.com for å håndtere dit Cloud lager</string>
   <string name="shadow">Skygger</string>
@@ -461,6 +473,7 @@ venner."</string>
   <string name="size_above">%1$s eller over</string>
   <string name="size_below">%1$s eller under</string>
   <string name="size_between">%1$s til %2$s</string>
+  <string name="skip_hide_special_album">"Kan ikke skjule systemalbum (f.eks Kamera, skjermbilder)."</string>
   <string name="slideshow">Lysbilde</string>
   <string name="slideshow_category">Lysbilde</string>
   <string name="slideshow_dream_name">Lysbilde</string>

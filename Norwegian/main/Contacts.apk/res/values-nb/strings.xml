@@ -204,6 +204,12 @@ Hvis du bruker synk-tjenester til kontakter, vil informasjonen også slettes fra
   <string name="createContactShortcutSuccessful">Kontakt widget lagt til på skrivebordet.</string>
   <string name="create_group_dialog_title">Opprett ny gruppe</string>
   <string name="create_group_item_label">[Opprett ny gruppe]</string>
+  <string name="cta_notice_checkbox">"Ikke vis meg dette igjen"</string>
+  <string name="cta_notice_new_contact_message">Lagring av kontakter under kontoen \"%s\" vil bruke nettverket. Samtykker du?</string>
+  <string name="cta_notice_ok">OK</string>
+  <string name="cta_notice_photo_message">Endring av kontaktens bilde vil bruke nettverket. Samtykker du?</string>
+  <string name="cta_notice_settings">Påminn meg ved bruk av nettverk</string>
+  <string name="cta_notice_title">Påminn</string>
   <string name="customLabelPickerTitle">Brukerdefinert etikettnavn</string>
   <string name="custom_list_filter">Definer brukerdefinert visning</string>
   <string name="custom_nickname_hint">Skriv kallenavn</string>
@@ -1108,6 +1114,7 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="yellowPageNavigationLabel">Katalog</string>
   <string name="yellowpage_navigation_menu_order">Min ordre</string>
   <string name="yellowpage_navigation_network_location_enable">Aktiver nå</string>
+  <string name="yellowpage_navigation_network_location_enabled">Tjensten er aktiver, du kan skru den av i plasseringsinnstillinger</string>
   <string name="yellowpage_navigation_network_location_enable_later">Aktiver senere</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Katalogen tilbyr tjenester i henhold til din by og aktivering av WiFi &amp; mobilnettverk lokasjonstjenester kan forbedre kvaliteten til tjenestene.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Aktiver nettverkslokasjon tjeneste.</string>

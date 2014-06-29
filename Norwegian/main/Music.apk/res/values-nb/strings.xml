@@ -149,6 +149,9 @@
   <string name="id3_modify_confirm_check">Bekreft ID3-endringer?</string>
   <string name="id3_modify_confirm_text">Lagre</string>
   <string name="impunity_declaration">Onlinemusikken du skal til å bruke er fra Baidu Online Music Service. Tryk \"OK\" for å akseptere og bruke, trykk \"Avbryt\" for å avslutte.</string>
+  <string name="impunity_declaration_ignore">Ignorer</string>
+  <string name="impunity_declaration_settings">Varsle hver gang når nettverk brukes</string>
+  <string name="impunity_declaration_summary">Hver gang du legger inn musikken, vil en pop-up vises for å påminne deg</string>
   <string name="impunity_declaration_title">Deklarasjon</string>
   <string name="keep_quit_position_settings">Lagre siste posisjon</string>
   <string name="keep_quit_position_summary">Lagrer avspillingens posisjon til neste gang programmet startes</string>
@@ -315,6 +318,7 @@
   <string name="synchronize_playlist_setting">Synkroniser spillelister</string>
   <string name="synchronize_playlist_summary">Synkroniser spillelister til MiCloud.</string>
   <string name="synchronize_to_baidu_cloud">Sikkerhetskopier online sanger i din spilleliste ved bruk av Baidu Cloud</string>
+  <string name="take_effect_afater_restart">Musikk må startes på nytt for at den nye innstillingen skal tre i kraft</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_bit_rate_hd">Høy</string>
   <string name="track_bit_rate_standard">Normal</string>

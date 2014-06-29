@@ -53,6 +53,7 @@
   <string name="compress_title">Komprimer</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
+  <string name="connect_network_setting_des">Påminn meg ved bruk av nettverk</string>
   <string name="copy_failed">Kopiering mislykkes</string>
   <string name="count_down_time">Start etter %d sekunder</string>
   <string name="create_kuaipan_shortcut_pref">Legg en snarvei på skrivebordet</string>
@@ -154,6 +155,8 @@ Søppelelementer"</string>
   <string name="name_illegal">Filnavn kan ikke være blankt</string>
   <string name="net_lose_connected">Nettverk ikke tilgjengelig, kan ikke få størrelse</string>
   <string name="networkView_notConnected">Ingen nettverk tilgjengelig</string>
+  <string name="network_connect_confirm_des">Bruk av kuaipan vil kontakte nettverket. Samtykker du?</string>
+  <string name="never_notify_network_connect">"Ikke vis meg dette igjen"</string>
   <string name="new_folder_name">Ny Mappe</string>
   <string name="no">Nei</string>
   <string name="no_app_cache_indication">Ingen programcache</string>
@@ -175,7 +178,8 @@ Søppelelementer"</string>
 1. Laste ned (oppdatere den lokale filen)
 2. Laste opp (oppdatere den eksterne filen)"</string>
   <string name="open_changed_file_title">Fil modifisert</string>
-  <string name="operating">Behandler...</string>
+  <string name="operating">Behandler…</string>
+  <string name="operation_agree">OK</string>
   <string name="operation_cancel">Avbryt</string>
   <string name="operation_compress">Komprimer</string>
   <string name="operation_compressing">Komprimerer...</string>

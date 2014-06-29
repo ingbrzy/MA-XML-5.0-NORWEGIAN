@@ -2,6 +2,11 @@
 <resources>
   <string name="Parse_error_dlg_text">Det er problemer med å lese pakken.</string>
   <string name="Parse_error_dlg_title">Lesefeil</string>
+  <string name="ad_block_button_title">Blokker reklamevare</string>
+  <string name="ad_relative">Reklamevare</string>
+  <string name="adware_count">Inneholder %d tilegg</string>
+  <string name="adware_hint">Disse tilleggene brukes av tredjeparts utviklere for å vise annonser på enheten</string>
+  <string name="adware_title">Reklamevare</string>
   <string name="allow_source_dlg_text">"%1$s ønsker å installere andre apps. Vil du tillate dette nå og i fremtiden?"</string>
   <string name="allow_source_dlg_title">Vil du tillate en ny kilde til apps?</string>
   <string name="app_name">Pakkeinstallationsprogram</string>

@@ -185,7 +185,7 @@
   <string name="settings_show_carrier">Vis tjenesteleverandør</string>
   <string name="settings_custom_carrier">Endre tjenesteleverandørnavn</string>
   <string name="settings_no_carrier">Ingen</string>
-  <string name="settings_show_carrier_summary">Vis bare på låseskjerm</string>
+  <string name="settings_show_carrier_summary">Når dette valget er av, vil navnet på tjenestetilbyderen din bare bli vist på låsskjermen og i varselskyggen</string>
   <string name="settings_basic_settings">Enkle innstilliger</string>
   <string name="settings_advanced">Flere innstillinger</string>
   <string name="settings_show_flow_info">Vis databruksinformasjon</string>
@@ -234,7 +234,7 @@
   <string name="status_bar_settings_signal_meter_wifi_nossid">WiFi tilkoblet</string>
   <string name="status_bar_settings_wifi_button">WiFi</string>
   <string name="status_bar_style_settings">Statuslinje innnstillinger</string>
-  <string name="status_bar_and_notification_bar">Varselskygge og statuslinjen</string>
+  <string name="status_bar_and_notification_bar">Varsler</string>
   <string name="status_bar_toggle_ac">Adgang</string>
   <string name="status_bar_toggle_auto_brightness">Auto-lysstyrke</string>
   <string name="status_bar_toggle_bluetooth">BT</string>
