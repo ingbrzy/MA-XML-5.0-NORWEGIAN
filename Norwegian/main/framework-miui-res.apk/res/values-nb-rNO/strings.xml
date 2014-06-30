@@ -28,7 +28,7 @@
   <string name="cold_dews">kalde dugg</string>
   <string name="contact_carrier_message">Vennligst kontakt operatøren ved spørsmål</string>
   <string name="day_of_month">" %d"</string>
-  <string name="days">dager</string>
+  <string name="days">%d dager</string>
   <string name="delete">Slett</string>
   <string name="device_hongmi">Hongmi-telefon</string>
   <string name="device_xiaomi">Xiaomi-telefon</string>
