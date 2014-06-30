@@ -115,7 +115,7 @@
   <string name="HIPS_Perm_SystemAlert_Desc">Kan vise pop-ups</string>
   <string name="HIPS_Perm_SystemAlert_Hint">%1$s programmer har tilgang til å vise pop-ups</string>
   <string name="HIPS_Perm_AudioRecorder">Bruke mikrofon</string>
-  <string name="HIPS_Perm_AudioRecorder_Desc">Bruke mikrofon<string>
+  <string name="HIPS_Perm_AudioRecorder_Desc">Bruke mikrofon</string>
   <string name="HIPS_Perm_AudioRecorder_Hint">%1$s programmer har tilgang til å bruke mikrofonen</string>
   <string name="HIPS_Perm_AutoStart">Automatisk oppstart</string>
   <string name="HIPS_Perm_AutoStart_Desc">Kjør automatisk ved oppstart</string>
