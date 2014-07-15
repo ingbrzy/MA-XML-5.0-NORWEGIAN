@@ -266,4 +266,8 @@
   <string name="pref_title_alert_remind">Pop-up påminnelse</string>
   <string name="pref_title_alarm_remind">Alarm påminnelse</string>
   <string name="pref_error_no_ringtone_select">Ingen valgt</string>
+  <string name="alarm_label">OK</string>
+  <string name="button_week">U</string>
+  <string name="text_year">År</string>
+  <string name="week_view_today_toast">Allerede denne uken</string>
 </resources>

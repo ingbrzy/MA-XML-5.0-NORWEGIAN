@@ -42,4 +42,14 @@
         <item>Hent meldingsmal automatisk</item>
         <item>Sett meldingsmal automatisk</item>
     </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobilbruk "</item>
+        <item>"WiFi bruk"</item>
+        <item>"Data spart"</item>
+      </string-array>
+      <string-array name="date_of_traffic_prefix">
+        <item>"I går:"</item>
+        <item>"I dag: "</item>
+        <item>"Denne måneden: "</item>
+      </string-array>
 </resources>

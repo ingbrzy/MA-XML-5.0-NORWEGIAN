@@ -63,7 +63,7 @@
   <string name="HIPS_Perm_Call_Number">Ring opp %1$s</string>
   <string name="HIPS_Perm_CancelMissedCalls">rydde listen med ubesvarede anrop</string>
   <string name="HIPS_Perm_Contact">Kontaktpersoner</string>
-  <string name="HIPS_Perm_Contact_Access">lee din kontaktliste</string>
+  <string name="HIPS_Perm_Contact_Access">lees din kontaktliste</string>
   <string name="HIPS_Perm_Contact_Desc">Få tilgang til din kontaktliste</string>
   <string name="HIPS_Perm_Contact_Hint">%1$s programmer får lov til at få tilgang til din kontaktliste</string>
   <string name="HIPS_Perm_EndCall">legge aktuelle anrop på</string>
@@ -76,9 +76,9 @@
   <string name="HIPS_Perm_Location_Desc">Lokaliser telefonen via netverk eller GPS</string>
   <string name="HIPS_Perm_Location_Hint">%1$s programmer har love til å finne din telefon</string>
   <string name="HIPS_Perm_Location_Monitor">spore din posisjon</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Kilde: Mobilnettverk</string>
-  <string name="HIPS_Perm_Location_Source_GPS">Kilde: GPS</string>
-  <string name="HIPS_Perm_Location_Source_Network">Kilde: Mobilnettverk</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">finn edin posisjon via mobilt nettverk</string>
+  <string name="HIPS_Perm_Location_Source_GPS">finne din posisjon via GPS</string>
+  <string name="HIPS_Perm_Location_Source_Network">finne din posisjon via nettverk</string>
   <string name="HIPS_Perm_MobileNetwork">Mobilnettverk</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Tilgang til Internett via mobilnettet</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s har tilgang til Internett</string>

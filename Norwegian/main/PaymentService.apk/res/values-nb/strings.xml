@@ -290,11 +290,10 @@ SMS-bekreftelse og klikk 'fullfør kjøp', takk!"</string>
   <string name="progress_success_recharge_summary">Kontobalanse: %1$s MiCredits.</string>
   <string name="progress_success_recharge_title">%1$s MiCredit oppfylling fullført</string>
   <string name="progress_voucher_creating">Legger til MiCredit til din konto, vennligst vent...</string>
-  <string name="progress_warning_check">"Betalingen har ikke nådd kontoen din enda.
-Vi vil sjekke igjen innen to arbeidsdager."</string>
-  <string name="progress_warning_contact_server">"Betalingen har fortsatt ikke nådd kontoen din.
-1. Vennligst kontakter vårt Shenzhou kundeservicesenter: %1$s
-2. Når spurt, gi serienummeret: %2$s."</string>
+  <string name="progress_warning_check_with_contact">"Betalingen har ikke nådd kontoen din enda.
+Vi vil sjekke igjen innen to arbeidsdager."
+Kundesupportsenter: 400-100-5678
+"</string>
   <string name="progress_warning_waiting">"Betalingen har ikke nådd kontoen din enda."</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_bankcall_title">Bankkort</string>
@@ -321,7 +320,7 @@ Vi vil sjekke igjen innen to arbeidsdager."</string>
   <string name="recharge_voucher_title">MiCredit-kort</string>
   <string name="scan_prompt_number">Skann %1$s forhåndsbetaltkort-nummer</string>
   <string name="scan_prompt_password">Skann %1$s forhåndsbetaltkort-passord</string>
- <string name="scan_prompt_retry">Oppbevar kortet i posisjon for ikke-reflekterende, forblir stabil etter nytt forsøk</string>
+  <string name="scan_prompt_retry">Oppbevar kortet i posisjon for ikke-reflekterende, forblir stabil etter nytt forsøk</string>
   <string name="scan_prompt_voucher">Skann MiCredit-passord</string>
   <string name="security_setting">Sikkerhetsinnstillinger</string>
   <string name="summary_lockpattern">Krev unik mønsterlås for MiCredit</string>
@@ -353,4 +352,7 @@ Vi vil sjekke igjen innen to arbeidsdager."</string>
   <string name="partner_giftcard_payment">%1$sMiCredits（Bare for %2$s）</string>
   <string name="prepaid_error_not_choose_carrier">Ingen operatør valgt.</string>
   <string name="prepaid_card_order_info">%1$s oppfyllingskort: RMB %2$s</string>
+  s<tring name="progress_mipay_creating">Genererer ordre…</string>
+  <string name="mipay_error">Mipay filet</string>
+
 </resources>

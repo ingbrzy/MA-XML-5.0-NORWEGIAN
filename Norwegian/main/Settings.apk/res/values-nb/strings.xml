@@ -3179,4 +3179,5 @@ vil musikkspilleren %1$s automatisk dukke på din datamaskin"</string>
   <string name="system_backup_section_title">Sikkerhetskopi</string>
   <string name="local_backup_section_title">Lokale sikkerhetskopier</string>
   <string name="local_backup_section_summary">Ta sikkerhetskopi av systeminnstillinger, kontoer og apper</string>
+  <string name="bluetooth_preference_connected_devices">Tilkoblede enheter</string>
 </resources>

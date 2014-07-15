@@ -420,7 +420,7 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi.”</string>
   <string name="sms_full_title">SMS-minnet fullt!</string>
   <string name="sms_rejected_body">Inngående melding avvist av ukjent grunn.</string>
   <string name="sms_rejected_title">SMS avvist</string>
-  <string name="sp_conversation_title">Notifikasjonsmeldinger</string>
+  <string name="sp_conversation_title">Varsler</string>
   <string name="sp_mark_as_read">Merk alle meldinger som leste?</string>
   <string name="sp_mark_as_read_progress">Merker alle meldinger som leste...</string>
   <string name="sp_mark_as_read_title">Maerk alle melding som leste</string>
@@ -487,4 +487,9 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi.”</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_category_all">Alle tjenestemeldinger</string>
   <string name="sp_category_bank">Banktjeneste-meldinger</string>
+  <string name="view_hms_details">Detaljer</string>
+  <string name="xiaomi_service_number">Servicenummer</string>
+  <string name="retrive_hms_tips">Henter...</string>
+  <string name="hms_first_use_tips">For å motta servicemeldinger må du være tilkoblet et WiFi-nettverk</string>
+  <string name="send_hms_editor_hints">Skymelding</string>
 </resources>

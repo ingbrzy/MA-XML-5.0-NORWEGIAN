@@ -625,4 +625,14 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
   <string name="miuichromium_error_page_reason_server">"Denne nettleseren kan ikke laste denne siden"</string>
   <string name="miuichromium_error_page_reload">Last på nytt</string>
   <string name="miuichromium_error_page_url">Vis side-URL</string>
+  <string name="enter_developer_mode">Aktiver utviklermodus</string>
+  <string name="miui_autologin_bar_title">Bruk systemkonto for å logge inn</string>
+  <string name="account_prifix">Konto:</string>
+  <string name="miui_autologin_bar_error">"Kunne ikke logge inn, prøv igjen"</string>
+  <string name="pref_adblock_title">Adblock</string>
+  <string name="pref_enable_adblock_notification">Adblock tips</string>
+  <string name="pref_clear_adblock_statistics">tøm Adblock statistikk</string>
+  <string name="pref_adblock_counts">totalt %d annonser blokkert</string>
+  <string name="pref_clear_adblock_statistics_dlg">Vil tømme alle adblock statistikk?</string>
+  <string name="adblock_notification">blokker %d annonser</string>
 </resources>

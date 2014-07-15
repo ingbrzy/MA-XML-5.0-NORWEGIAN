@@ -363,4 +363,6 @@
   <string name="sync_enable_toast">Du kan endre denne innstillingen i Innstillinger > Kontoer > Mi Cloud</string>
   <string name="volume_alert_playback_alert_title">Volume-varsel</string>
   <string name="volume_alert_playback_message">For å forhindre mulig hørselskade, ikke hør på musikk med høyt volum i lengre perioder.</string>
+  <string name="priority_storage">Prioriter nedlasting til eksternt SD-kort</string>
+  <string name="priority_storage_summary">Når du bruker et eksternt SD-kort, vil denne funksjonen bli tatt i bruk</string>
 </resources>
