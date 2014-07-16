@@ -352,7 +352,6 @@ Kundesupportsenter: 400-100-5678
   <string name="partner_giftcard_payment">%1$sMiCredits（Bare for %2$s）</string>
   <string name="prepaid_error_not_choose_carrier">Ingen operatør valgt.</string>
   <string name="prepaid_card_order_info">%1$s oppfyllingskort: RMB %2$s</string>
-  s<tring name="progress_mipay_creating">Genererer ordre…</string>
+  <string name="progress_mipay_creating">Genererer ordre…</string>
   <string name="mipay_error">Mipay filet</string>
-
 </resources>
