@@ -132,7 +132,6 @@
   <string name="toast_added_to_list">Lagt til i stasjonsliste</string>
   <string name="toast_added_to_presets">Lagt til i forhåndsinnstillinger</string>
   <string name="toast_channel_searched">Skannet %1$d stasjoner.</string>
-  <string name="toast_delete_station">%sMHz er slettet.</string>
   <string name="toast_edit_station">Endringer lagret</string>
   <string name="toast_fm_error_startfailed">Opptak feilet, et annet program bruker kanskje opptaksfunksjonen. Vennligst sjekk og prøv igjen.</string>
   <string name="toast_fm_not_stated">FM ikke oppgitt</string>
@@ -156,5 +155,4 @@
   <string name="reduce_af">Reduser frekvens</string>
   <string name="toast_fm_recorder_access_error">"Kan ikke ta opp mens du er i gjestemodus"</string>
   <string name="msg_fm_starting">Starter</string>
-  <string name="toast_delete_station">%sMHz has been deleted</string>
 </resources>
