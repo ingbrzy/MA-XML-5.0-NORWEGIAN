@@ -254,7 +254,6 @@ For å løse dette, kan du enten fjerne gamle filer, eller kjøpe mer lagringspl
   <string name="micloud_password_confirm_hint">Bekreft passord</string>
   <string name="micloud_password_error_inconsistent">Passordene stemmer ikke overens</string>
   <string name="micloud_password_req_notice">8~16 sifre, inneholder tall, bokstaver, store og små bokstaver</string>
-  <string name="micloud_proceed">Fortsett</string>
   <string name="micloud_reg_new">Lag ny</string>
   <string name="micloud_resend_active_email">Send aktiveringsepost på nytt</string>
   <string name="micloud_space_full_influence">Hva skjer hvis jeg går tom for plass?</string>

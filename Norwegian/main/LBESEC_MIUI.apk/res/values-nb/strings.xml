@@ -200,8 +200,8 @@
   <string name="HIPS_Action_Reject_Count">Nektet: %1$d</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Utilgjengelig i den stabile MIUI</string>
   <string name="HIPS_Perm_Recorder">Kamera og mikrofon</string>
-  <string name="HIPS_Perm_Recorder_Desc">Take picture and record video</string>
-  <string name="HIPS_Perm_Recorder_Hint">%1$s apps are allowed to take picture and record video</string>
+  <string name="HIPS_Perm_Recorder_Desc">Ta bilder og ta opp video</string>
+  <string name="HIPS_Perm_Recorder_Hint">%1$s apper har lov til å ta bilder og ta opp video</string>
   <string name="HIPS_Perm_RecordAudio">ta opp lyd</string>
   <string name="HIPS_Perm_RecordVideo">ta opp video</string>
   <string name="HIPS_Perm_Picture">ta bilde</string>
@@ -230,7 +230,7 @@
   <string name="Privacy_App_Trust_Summary_Off">MIUI vil overvåke denne appen</string>
   <string name="Privacy_App_Trust_Summary_On">MIUI vil stole på denne appen</string>
   <string name="Privacy_App_Uninstall">Avinstaller</string>
-  <string name="Privacy_Perm_Count">Tillat: %1$d Avist: %2$d</string>
+  <string name="Privacy_Perm_Count">Tillat: %1$d Avvist: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s forsøker å få system ROOT Tillatelse, som er deaktivert som standard for at sikre systemets sikkerhet. Hvis du har bruk for å aktivere det, kan du gå til innstillingene i Tillatelseshåndtering.</string>
   <string name="Su_Unavailable">ROOT Tillatelse er deaktivert i MIUI stable versjoner. Vennligst installer en utvikler versjon for at aktivere ROOT Tillatelser.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart Tillatelse</string>

@@ -44,7 +44,6 @@
   <string name="download_title_sorted_by_date">nedlastinger - Sortert via tid</string>
   <string name="download_title_sorted_by_size">nedlastinger - Sortert via størrelse</string>
   <string name="download_when_network_connected">Last ned når netverksforbindelse er tilgjengelig</string>
-  <string name="downloads_operating">Arbeieder...</string>
   <string name="editmode_menu_delete">Slett</string>
   <string name="editmode_menu_share">Del</string>
   <string name="keep_queued_download">Behold</string>
@@ -87,7 +86,7 @@
   <string name="determine">Avbryt</string>
   <string name="disable">Deaktiver</string>
   <string name="download_list_get_free_vip">Xunlei prøveversjon</string>
-  <string name="download_list_get_hightspeed_flow_auto_open">Xunlei nedlastingsakselerasjon er på/<string>
+  <string name="download_list_get_hightspeed_flow_auto_open">Xunlei nedlastingsakselerasjon er på<string>
   <string name="download_list_get_hightspeed_flow_pay_ok">Betaling fullført.</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei prøveversjon startet</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Nyt raskere nedlastingshastigheter drevet av Xunlei</string>
@@ -98,7 +97,7 @@
   <string name="download_list_open_xl_ok">OK</string>
   <string name="download_list_open_xl_title">Få tilgang til Xunlei nedlastingsmotor</string>
   <string name="downloads_operating">Arbeider</string>
-  <string name="dredge_xunlei_account">Opprettelse av Xunlei-konto<string>
+  <string name="dredge_xunlei_account">Opprettelse av Xunlei-konto</string>
   <string name="experience_xunlei_account_speed">Xunlei-medlemmer får akselerert tjenesteopplevelse</string>
   <string name="free_high_speed_channelG">ratis høyhastighets kanal data</string>
   <string name="get_account_dialog_msg">Henter kontoinfo</string>

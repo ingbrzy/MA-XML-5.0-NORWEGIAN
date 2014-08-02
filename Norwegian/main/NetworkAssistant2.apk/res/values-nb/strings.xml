@@ -203,11 +203,8 @@ Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for ove
     <string name="traffic_saving_button_stop">Deaktiver</string>
     <string name="traffic_saving_button_sorted">Detaljer</string>
     <string name="traffic_saving_msg_today">Data spart i dag:</string>
-    <string name="traffic_saving_msg_month">%1$s per måned | %2$s i dag</string>
     <string name="traffic_saving_history_title">Historikk</string>
     <string name="traffic_saving_history_total_traffic">Data spart</string>
-    <string name="traffic_saving_history_total_money">Penger spart</string>
-    <string name="traffic_saving_history_total_money_unit" />
     <string name="pref_traffic_saving_title">Innstillinger for datasparing</string>
     <string name="pref_traffic_saving_switch">Datasparing</string>
     <string name="pref_traffic_saving_switch_hint">Bruk proxy for å komprimere data</string>
