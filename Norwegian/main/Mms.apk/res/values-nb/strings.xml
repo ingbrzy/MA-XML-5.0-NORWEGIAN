@@ -492,4 +492,9 @@ Rapporter feil og send tilbakemelding direkte til Xiaomi.”</string>
   <string name="retrive_hms_tips">Henter...</string>
   <string name="hms_first_use_tips">For å motta servicemeldinger må du være tilkoblet et WiFi-nettverk</string>
   <string name="send_hms_editor_hints">Skymelding</string>
+  <string name="file_create_time">Tid opprettet:</string>
+  <string name="file_size">Størrelse:</string>
+  <string name="file_title">Navn:</string>
+  <string name="file_width_height">Størrelse:</string>
+  <string name="share_img">Del</string>
 </resources>

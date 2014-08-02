@@ -1108,4 +1108,10 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="xdivert_summary">Innstillinger for CFNRc</string>
   <string name="xdivert_title">X-Avledning</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_miui">4G foretrukket</string>
+  <string name="ivr_menu_dialing_msg">Videresender…</string>
+  <string name="ivr_menu_list_title">Talemeny</string>
+  <string name="non_ivr_menu_collapse_menu">Kollaps meny</string>
+  <string name="non_ivr_menu_view_menu">Vis meny</string>
+  <string name="ivr_menu_list_sub_menu_count_format">Trykk %s</string>
+  <string name="fdn_contacts_empty_miui">Ingen kontakter i FDN liste.</string>
 </resources>

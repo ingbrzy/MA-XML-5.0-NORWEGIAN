@@ -338,4 +338,5 @@ Søppelelementer"</string>
   <string name="share_box">Delt</string>
   <string name="share_box_send">Sendt</string>
   <string name="share_box_receive">Mottatt</string>
+  <string name="folder_name_illegal">Ugyldig mappenavn</string>
 </resources>

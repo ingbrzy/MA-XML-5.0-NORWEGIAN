@@ -356,4 +356,10 @@ Hvis din telefonen blir borte eller slettet, vil denne dataen bli permanent bort
   <string name="micloud_upgrade_space">Oppgrader lagringsplass</string>
   <string name="find_device_notice_p4">Hver gang SIM-kortet endres, kan en registrerings-SMS bli sendt for å holde styr på telefonen</string>
   <string name="bank_cards">Bankkort</string>
+  <string name="error_login">"Kunne ikke logge inn"</string>
+  <string name="relogin_notice">Du må logge inn igjen</string>
+  <string name="micloud_proceed">Fortsett</string>
+  <string name="barcode_add_account_prompt">For å legge til en konto, skann QR-koden igjen etter at du har logget inn.</string>
+  <string name="softap_notifif_summary">%d tilkoblet</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" aktivert</string>
 </resources>

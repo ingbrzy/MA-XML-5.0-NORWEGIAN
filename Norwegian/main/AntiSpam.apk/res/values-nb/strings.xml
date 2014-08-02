@@ -40,7 +40,7 @@
   <string name="st_antispam_des_smart_anti">Smart blokkeringsliste</string>
   <string name="st_antispam_des_permit">Tillat</string>
   <string name="st_antispam_des_uesless">Deaktivert</string>
-  <string name="st_antispam_des_permit_nokeyword">Tillat (unntatt nøkkelord)</string>
+  <string name="st_antispam_des_permit_nokeyword">Tillat (unntatt søkeord)</string>
   <string name="info_antispam_sms">Blokker meldinger</string>
   <string name="info_antispam_phone">Blokker anrop</string>
   <string name="info_antispam_phone_sms">Blokker meldinger og anrop</string>
@@ -254,4 +254,9 @@
   <string name="sms_delete_hint">Slett alle blokkerte meldinger som sendes fra valgte nummeret??</string>
   <string name="call_delete_hint">Slett alle blokkerte anrop fra valgte nummeret??</string>
   <string name="backsound_set_hint">Sett baklyden til %s?</string>
+  <string name="report">Rapporter</string>
+  <string name="report_error">Rapportinformasjon blir automatisk lastet opp når tilkoblet Wi-Fi</string>
+  <string name="report_only">Vennligst velg minst én melding</string>
+  <string name="report_sms">Rapportmelding</string>
+  <string name="report_success">Rapportering vellykket</string>
 </resources>

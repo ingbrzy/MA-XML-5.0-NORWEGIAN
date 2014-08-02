@@ -18,7 +18,7 @@
   <string name="other_service_user_experience_summary1">Takk, MIUI-teamet</string>
   <string name="setup_complete_info">Oppsettsguiden vil bli aktivert første gang telefonen tas i bruk</string>
   <string name="setup_complete_label">Oppsett fullført</string>
-  <string name="setup_complete_start">Begynn å bruke telefonen</string>
+  <string name="setup_complete_start">OK</string>
   <string name="setup_complete_summary">Oppsett fullført! Nyt MIUI!</string>
   <string name="shutdown">Slå av</string>
   <string name="sim_card_detection_dialog_message">Leser SIM-kort, vennligst vent...</string>

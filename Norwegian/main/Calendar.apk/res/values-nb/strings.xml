@@ -269,5 +269,6 @@
   <string name="alarm_label">OK</string>
   <string name="button_week">U</string>
   <string name="text_year">År</string>
-  <string name="week_view_today_toast">Allerede denne uken</string>
+  <string name="week_view_today_toast">Du ser for øyeblikket på denne uken</string>
+  <string name="edit_event_confirm_message">Forkast endringene til dette arrengementet?</string>
 </resources>

@@ -210,4 +210,6 @@ Vennligst sjekk ditt sproingsnummer"</string>
   <string name="recharge_unknown_number">Ukjent</string>
   <string name="recharge_my_phone_number">Mitt nummer</string>
   <string name="locating_fail">Kunne ikke finne plassering, vennligst sjekk plasseringstjeneste eller prøv igjen</string>
+  <string name="nearby_average_price">Gjennomsnittlig %d RMB</string>
+  <string name="express_send_notice">Om forbudte ting</string>
 </resources>

@@ -3180,4 +3180,17 @@ vil musikkspilleren %1$s automatisk dukke på din datamaskin"</string>
   <string name="local_backup_section_title">Lokale sikkerhetskopier</string>
   <string name="local_backup_section_summary">Ta sikkerhetskopi av systeminnstillinger, kontoer og apper</string>
   <string name="bluetooth_preference_connected_devices">Tilkoblede enheter</string>
+  <string name="priority_storage_app_settings">Brukerdata vil bli lagret på %1$s</string>
+  <string name="priority_storage_settings_summary">"Hvis det ikke detekteres et SD-kort, vil brukerdata automatisk bli lagret på enheten din sitt interne lager"</string>
+  <string name="priority_storage_summary">Velg standard plassering for lagring av brukerdata</string>
+  <string name="priority_storage_title">Lagringsinnstillinger</string>
+  <string name="high_performance_notif_summary">Ytelsesmodus er på.</string>
+  <string name="high_performance_notif_title">Advarsel om batteribruk</string>
+  <string name="high_performance_title">"Det ser ut til at du kjører en benchmark. Sett strømmodus til \"Ytelse\" for de beste resultatene."</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Aktiver mobildata-tilkobling også?</string>
+  <string name="manage_xiaomi_router">Innstillinger for Mi Router</string>
+  <string name="xiaomi_router_available_notif_summary">Trykk for å vise mer info.</string>
+  <string name="xiaomi_router_available_notif_title">Mi Router tilgjengelig</string>
+  <string name="xiaomi_router_notif_summary">Varsle meg når en Mi Router er tilgjengelig</string>
+  <string name="xiaomi_router_notif_title">Mi Router varsel</string>
 </resources>

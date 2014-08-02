@@ -629,10 +629,15 @@ Er du sikker på at du vil navigere vekk fra denne siden?"</string>
   <string name="miui_autologin_bar_title">Bruk systemkonto for å logge inn</string>
   <string name="account_prifix">Konto:</string>
   <string name="miui_autologin_bar_error">"Kunne ikke logge inn, prøv igjen"</string>
-  <string name="pref_adblock_title">Adblock</string>
-  <string name="pref_enable_adblock_notification">Adblock tips</string>
-  <string name="pref_clear_adblock_statistics">tøm Adblock statistikk</string>
+  <string name="pref_adblock_title">Blokker annonser</string>
+  <string name="pref_enable_adblock_notification">Blokker annonser</string>
+  <string name="pref_clear_adblock_statistics">Tøm Adblock statistikk</string>
   <string name="pref_adblock_counts">totalt %d annonser blokkert</string>
-  <string name="pref_clear_adblock_statistics_dlg">Vil tømme alle adblock statistikk?</string>
+  <string name="pref_clear_adblock_statistics_dlg">Vil du tømme adblock statistikken?</string>
   <string name="adblock_notification">blokker %d annonser</string>
+  <string name="close_cloud_tab_tip">Lukk alle skyfaner på %s ?</string>
+  <string name="cloud_sync_closed_toast">Skysynkroinsering er skrudd av, kan ikke oppdatere</string>
+  <string name="cloud_sync_failed_toast">Oppdatering feilet, vennligst prøv igjen senere</string>
+  <string name="bookmarks_history">Bokmerker/Historikk</string>
+  <string name="delete_homepage">Slett startsideen</string>
 </resources>

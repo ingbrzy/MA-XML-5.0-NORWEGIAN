@@ -76,7 +76,7 @@
   <string name="HIPS_Perm_Location_Desc">Lokaliser telefonen via netverk eller GPS</string>
   <string name="HIPS_Perm_Location_Hint">%1$s programmer har love til å finne din telefon</string>
   <string name="HIPS_Perm_Location_Monitor">spore din posisjon</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">finn edin posisjon via mobilt nettverk</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">finn din posisjon via mobilt nettverk</string>
   <string name="HIPS_Perm_Location_Source_GPS">finne din posisjon via GPS</string>
   <string name="HIPS_Perm_Location_Source_Network">finne din posisjon via nettverk</string>
   <string name="HIPS_Perm_MobileNetwork">Mobilnettverk</string>

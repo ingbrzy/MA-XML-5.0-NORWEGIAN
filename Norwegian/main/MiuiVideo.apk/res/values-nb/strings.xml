@@ -371,4 +371,6 @@
   <string name="addon_install_complete_disc">%s ble installert.</string>
   <string name="addon_update_desc">Ny versjon funnet, oppdater nå?</string>
   <string name="upgrade">Oppgrader</string>
+  <string name="priority_storage">Lagre til SD-kort</string>
+  <string name="priority_storage_summary">Når SD-kort er satt inn, last ned filer til SD-kortet automatisk.</string>
 </resources>

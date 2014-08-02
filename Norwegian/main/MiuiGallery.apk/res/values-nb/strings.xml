@@ -543,4 +543,9 @@ venner."</string>
   <string name="download_refocus_data">Last ned refokus data</string>
   <string name="refocus_data_downloading">Laster ned refocus data…</string>
   <string name="ubifocus_guide_text">Langt-trykk for å refokusere</string>
+  <string name="priority_storage">Lagre til SD-kort</string>
+  <string name="priority_storage_summary">Når SD-kort er satt inn, last ned filer til SD-kortet automatisk.</string>
+  <string name="crop_recognize_text">Gjenkjenn</string>
+  <string name="crop_save_text_setas">Bruk</string>
+  <string name="recognizing_image">Gjenkjenner bilde…</string>
 </resources>

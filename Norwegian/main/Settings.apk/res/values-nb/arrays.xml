@@ -427,8 +427,7 @@
     </string-array>
     <string-array name="power_mode_entries">
         <item>Ytelsesmodus</item>
-        <item>Normalmodus</item>
-        <item>Strømsparermodus</item>
+        <item>Balansert modus (Standard)</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP eller eldre</item>
@@ -492,5 +491,9 @@ vil datamaskinen åpne og lese telefondata automatisk"</item>
     <string-array name="perm_disable_keyguard_action">
          <item>Tillat</item>
          <item>Avvis</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Intern lagring</item>
+        <item>Ekstern lagring</item>
     </string-array>
 </resources>

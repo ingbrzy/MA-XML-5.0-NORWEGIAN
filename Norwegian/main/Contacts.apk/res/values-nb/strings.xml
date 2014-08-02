@@ -1133,5 +1133,5 @@ innholdet du leter etter er for øyeblikket ikke tilgjengelig i din region.”</
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Laster ned icon...</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Feilet, vennligst sjekk dine nettverksinnstillinger.</string>
-
+  <string name="yellowpage_navigation_search_result_average_price">Gjennomsnittlig %d RMB</string>
 </resources>

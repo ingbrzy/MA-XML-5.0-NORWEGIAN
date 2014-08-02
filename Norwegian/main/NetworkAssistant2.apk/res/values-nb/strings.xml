@@ -215,4 +215,27 @@ Bruk utover operatøren din sin dataplan kan resultere i høye kostnader for ove
     <string name="pref_traffic_saving_notify_switch_hint">Vis datasparingsinfo i varslingsskyggen</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
     <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Vil aktivering av datasparing påvirke mitt personvern? &lt;/b>&lt;br />&lt;br />Nei. Dine data forblir private og vil ikke bli delt med tredjeparter. &lt;br />&lt;br />&lt;br />&lt;b> Hvorfor fungerer ikke datasparing? &lt;/b>&lt;br />&lt;br /> Datasparing brukes bare når du bruker operatøren din sitt nettverk for å sende eller laste ned innhold"</string>
+    <string name="traffic_saving_button_sorted_chose_simcard">Sorter etter</string>
+    <string name="mi_service_app_detail">Data usage details</string>
+    <string name="mi_service_framework">Mi tjenesterammeverk</string>
+    <string name="mi_service_traffic_detail">Rammeverkdetaljer</string>
+    <string name="none_mi_service_app_detail">Tom</string>
+    <string name="pref_traffic_saving_whitelist">Unntak</string>
+    <string name="pref_traffic_saving_whitelist_hint">"Disse appene sitt databruk vil ikke bli begrenset"</string>
+    <string name="traffic_saving_history_total_money">Totalt spart</string>
+    <string name="traffic_saving_history_total_money_unit">¥</string>
+    <string name="traffic_saving_history_total_month">"Spart denne måneden: "</string>
+    <string name="traffic_saving_history_total_month_default">"Gjennomsnittlig spart denne måneden:"</string>
+    <string name="traffic_saving_history_total_month_value">"Hør på &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; sanger / Chat i &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; timer / Les &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artikler"</string>
+    <string name="traffic_saving_history_total_month_value_default">"Hør på &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; sanger / Chat i &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; timer / Les &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; artikler"</string>
+    <string name="traffic_saving_history_total_rate">Sats</string>
+    <string name="traffic_saving_msg_month">Spart denne måneden:</string>
+    <string name="traffic_saving_msg_not_started">Datasparing er av</string>
+    <string name="traffic_saving_whitelist_btn_add">Legg til</string>
+    <string name="traffic_saving_whitelist_btn_add_app">Legg til</string>
+    <string name="traffic_saving_whitelist_btn_added">Lagt til</string>
+    <string name="traffic_saving_whitelist_btn_remove">Fjern</string>
+    <string name="traffic_saving_whitelist_btn_removed">App fjernet fra liste</string>
+    <string name="traffic_saving_whitelist_count">"%d apper sitt databruk blir ikke begrenset"</string>
+    <string name="traffic_saving_whitelist_no_app">Ingen apper</string>
 </resources>

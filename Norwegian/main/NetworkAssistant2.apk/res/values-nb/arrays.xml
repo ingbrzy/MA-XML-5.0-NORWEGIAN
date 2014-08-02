@@ -52,4 +52,9 @@
         <item>"I dag: "</item>
         <item>"Denne måneden: "</item>
       </string-array>
+
+     <string-array name="mi_service_traffic_type">
+         <item>"Mobildata "</item>
+         <item>"Wi-Fi "</item>
+     </string-array>
 </resources>
