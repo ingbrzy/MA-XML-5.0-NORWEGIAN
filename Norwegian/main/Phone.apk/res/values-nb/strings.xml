@@ -17,7 +17,6 @@
   <string name="administrative_disable">Administrasjon er deaktivert</string>
   <string name="administrative_enable">Administrasjon er aktivert</string>
   <string name="advanced_settings">Valgfri innstillinger</string>
-  <string name="advanced_settings_container">Holder for avanserte innstillinger</string>
   <string name="advanced_settings_hide">▽ Trykk for å skjule alle</string>
   <string name="advanced_settings_show">▷ Trykk for å vise alle</string>
   <string name="advertisements_disable">Annonser deaktivert</string>
@@ -56,7 +55,6 @@
   <string name="audio_mode_earpiece">Ørestykke til håndsett</string>
   <string name="audio_mode_speaker">Høyttaler</string>
   <string name="audio_mode_wired_headset">Headset med ledning</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Brukernavn brukes til godkjennelse</string>
   <string name="auth_username_title">Brukernavn til godkjennelse</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -310,9 +308,7 @@
   <string name="default_contacts_countrycode_hint_miui">Eksempel: 45</string>
   <string name="default_contacts_countrycode_miui">Standard landskode for kontakter</string>
   <string name="default_contacts_countrycode_sum_miui">Innstill standard landskode for dine kontakter</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Ikke angitt&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Slett</string>
   <string name="deleteAllSimEntries">Slett alle SIM-kort kontakter</string>
   <string name="deleteSimContacts">Sletter SIM-kort kontakter...</string>
@@ -367,10 +363,8 @@
   <string name="disable_pin_ok">PIN-koden til SIM-kortet er deaktivert</string>
   <string name="disable_sim_pin">Deaktiver PIN-kode til SIM-kort</string>
   <string name="disable_sim_pin_miui">Deaktiver SIM PIN</string>
-  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Samme som brukernavn&gt;</string>
   <string name="display_name_title">Visningsnavn</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Utfør</string>
   <string name="dtmf_tone_enable_title">Tastetone</string>
@@ -719,7 +713,6 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="ota_unsuccessful">"Din telefon blev ikke aktivert. Du må muligvis finne et område med bedre dekning (ved et vindu eller utenfor). Prøv igjen, eller ring til kundeservice for å få flere opplysninger om andre muligheter."</string>
   <string name="other_settings">Andre innstillinger for anrop</string>
   <string name="other_settings_miui">Andre innstillinger</string>
-  <string name="password">Adganskode</string>
   <string name="password_title">Adgangskode</string>
   <string name="pause_prompt_no">Nei</string>
   <string name="pause_prompt_str">"Sender toner"</string>
@@ -755,7 +748,6 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="pin_progress_unlock_icc_miui">Låser opp SIM kort…</string>
   <string name="place_a_call1">Abonnement 1</string>
   <string name="place_a_call2">Abonnement 2</string>
-  <string name="port">Port</string>
   <string name="port_title">Portnummer</string>
   <string name="pref_custom_location_summary_miui">Rediger region og områdenummer</string>
   <string name="pref_custom_location_title_miui">Rediger områdenummer</string>
@@ -796,7 +788,6 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="progress_dialog_exiting_ecm">Eksisterende nødtilbakeringingsmodus</string>
   <string name="prompt">Spørr</string>
   <string name="prompt_user">Spørr bruker</string>
-  <string name="proxy_address">Proxy Adresse</string>
   <string name="proxy_address_title">Utgående proxyadresse</string>
   <string name="pstn_phone">Mobiltelefonanrop</string>
   <string name="puk2_blocked">PUK2 er permanent blokkert.</string>
@@ -893,11 +884,10 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="select_automatically">Velg automatisk</string>
   <string name="sendSms">Send SMS</string>
   <string name="send_button">Send</string>
-  <string name="send_keepalive">SendKeepAlive</string>
-  <string name="send_keepalive_title">Send keepalive</string>
+  <string name="">SendKeepAlive</string>
+  <string name="_title">Send keepalive</string>
   <string name="separate_from_conference_miui">Enkelt anrop</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Foretrukken nettverkstype kun tilgjengelig når data er deaktivert</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Brukes til utgående anrop</string>
   <string name="set_primary_title">Angi som primær konto</string>
   <string name="set_smsc_address_error_miui">Feil med innstilling av SMS senter nummer, prøv igjen senere.</string>
@@ -940,10 +930,7 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="sip_accounts">Konto til internettanrop (SIP)</string>
   <string name="sip_accounts_title">Konto</string>
   <string name="sip_add_account_tip_text">Vennligst legg til en konto for internett anrop for å bruke det</string>
-  <string name="sip_address_only">Kun adresse</string>
-  <string name="sip_always">Alltid</string>
-  <string name="sip_always_send_keepalive">Send alltid</string>
-  <string name="sip_ask_me_each_time">Spør meg hver gang</string>
+  <string name="sip_always_">Send alltid</string>
   <string name="sip_call_options_entry_1">Konfigurer anropsinnstillinger</string>
   <string name="sip_call_options_entry_2">Kun til internettanrop</string>
   <string name="sip_call_options_entry_3">Spør ved hvert anrop</string>
@@ -1037,7 +1024,6 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="throttle_time_frame">Periode for databruk</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ av syklus forløpt. Neste periode starter om %2$d dager (%3$s)"</string>
   <string name="title_data_settings">Data-innstillinger</string>
-  <string name="transport">Protokoll</string>
   <string name="transport_title">Transporttype</string>
   <string name="tty_mode_entries_full_miui">TTY Full</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1061,7 +1047,6 @@ Bytt til den nye leverandøren alikevel?"</string>
   <string name="updating_fdn_contact">Oppdaterer fast anropsnummer...</string>
   <string name="updating_settings">Oppdaterer innstillinger ...</string>
   <string name="updating_title">Innstillinger for anrop</string>
-  <string name="username">Brukernavn</string>
   <string name="username_title">Brukernavn</string>
   <string name="ussdRunning">USSD-kode kjører ...</string>
   <string name="vibrate_on_ring_title">Vibrer ved anrop</string>
