@@ -80,7 +80,6 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>Høy ytelse</item>
         <item>Balanse</item>
-        <item>Batteri-sparende</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15 sekunder</item>
