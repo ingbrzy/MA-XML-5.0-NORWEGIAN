@@ -83,7 +83,7 @@
   <string name="resource_comment_edit_comment_waiting">Sjekker om brukt før</string>
   <string name="resource_comment_edit_text_default">Skriv kommentar</string>
   <string name="resource_comment_edit_title">Rediger kommentar: %1$s</string>
-  <string name="resource_comment_entry_tips">%1$s anmeldelser，trykk for å vise</string>
+  <string name="resource_comment_entry_tips">Vis anmeldelser</string>
   <string name="resource_comment_expand_full_text">Utvid</string>
   <string name="resource_comment_footer">Tomme kommentarer vises ikke.</string>
   <string name="resource_comment_good_comments">Positive kommentarer</string>
